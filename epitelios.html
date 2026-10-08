@@ -1,0 +1,1928 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<title>Epitelios de revestimiento</title>
+<meta name="description" content="Atlas tridimensional de los epitelios de revestimiento: clasificación, estructuras rotuladas y ubicación en el cuerpo humano.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&family=IBM+Plex+Sans:wght@400;500;600&display=swap">
+<style>
+/* Layout: columna de lectura académica + banda ancha del atlas (visor 3D a la izquierda, ficha a la derecha) */
+:root{
+  --bg:#f4f5f8;
+  --surface:#ffffff;
+  --ink:#1b2030;
+  --ink-2:#545b6f;
+  --rule:#d7dae3;
+  --line:#9aa0b2;
+  --accent:#53398a;      /* hematoxilina */
+  --accent-soft:#ece7f6;
+  --eosin:#a8436d;       /* eosina */
+  --stage:#eceef3;
+  --label-bg:rgba(255,255,255,.93);
+  --leader:#2a2f40;
+  --focus:#7a5cc4;
+  --font-display:"Newsreader","Iowan Old Style","Palatino Linotype",Georgia,serif;
+  --font-ui:"IBM Plex Sans","Segoe UI",system-ui,-apple-system,sans-serif;
+  color-scheme:light;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#111319; --surface:#181b23; --ink:#e6e4ec; --ink-2:#a4a8b7; --rule:#2c3040; --line:#5d6275;
+    --accent:#b9a6ea; --accent-soft:#2a2442; --eosin:#e48bb0; --stage:#1d2029;
+    --label-bg:rgba(24,27,35,.92); --leader:#d9d6e4; --focus:#c9b8f5;
+    color-scheme:dark;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#111319; --surface:#181b23; --ink:#e6e4ec; --ink-2:#a4a8b7; --rule:#2c3040; --line:#5d6275;
+  --accent:#b9a6ea; --accent-soft:#2a2442; --eosin:#e48bb0; --stage:#1d2029;
+  --label-bg:rgba(24,27,35,.92); --leader:#d9d6e4; --focus:#c9b8f5;
+  color-scheme:dark;
+}
+
+*,*::before,*::after{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--font-display);font-size:1.0625rem;line-height:1.62;font-optical-sizing:auto}
+[hidden]{display:none!important}
+a{color:var(--accent)}
+:focus-visible{outline:2px solid var(--focus);outline-offset:2px}
+.wrap{max-width:1240px;margin:0 auto;padding-inline:clamp(16px,4vw,40px)}
+
+/* ---------- cabecera ---------- */
+.topbar{border-bottom:1px solid var(--rule);font-family:var(--font-ui);font-size:.8rem;color:var(--ink-2)}
+.topbar .wrap{display:flex;justify-content:space-between;gap:1rem;padding-block:.7rem;flex-wrap:wrap}
+.topbar strong{color:var(--ink);font-weight:600;letter-spacing:.02em}
+.masthead{padding-block:clamp(2rem,6vw,3.6rem) clamp(1.5rem,4vw,2.4rem);border-bottom:1px solid var(--rule)}
+.eyebrow{font-family:var(--font-ui);font-size:.74rem;font-weight:600;letter-spacing:.14em;text-transform:uppercase;color:var(--accent);margin:0 0 .6rem}
+h1{font-weight:500;font-size:clamp(2.3rem,5.6vw,3.7rem);line-height:1.04;letter-spacing:-.015em;margin:0 0 1rem;text-wrap:balance}
+.lede{max-width:64ch;font-size:1.2rem;color:var(--ink-2);margin:0}
+.lede em{color:var(--ink)}
+
+/* ---------- secciones ---------- */
+section{padding-block:clamp(2rem,5vw,3.2rem);border-bottom:1px solid var(--rule)}
+h2{font-weight:500;font-size:clamp(1.6rem,3vw,2.05rem);line-height:1.15;margin:0 0 1rem;text-wrap:balance}
+h3{font-weight:500;font-size:1.6rem;line-height:1.15;margin:0 0 .6rem;text-wrap:balance}
+h4{font-family:var(--font-ui);font-size:.74rem;font-weight:600;letter-spacing:.12em;text-transform:uppercase;color:var(--ink-2);margin:1.6rem 0 .6rem}
+p{margin:0 0 1rem}
+.cols{display:grid;grid-template-columns:minmax(0,1.1fr) minmax(0,1fr);gap:clamp(1.5rem,4vw,3.5rem)}
+.cols > *{min-width:0}
+.prose{max-width:66ch}
+.features{margin:0;padding-left:1.1rem}
+.features li{margin-bottom:.45rem}
+.features li::marker{color:var(--eosin)}
+dl.criteria{margin:0;display:grid;gap:1rem}
+dl.criteria div{border-top:1px solid var(--rule);padding-top:.8rem}
+dl.criteria dt{font-family:var(--font-ui);font-weight:600;font-size:.92rem;margin-bottom:.25rem}
+dl.criteria dd{margin:0;color:var(--ink-2)}
+dl.criteria b{color:var(--ink);font-weight:600}
+
+/* ---------- árbol de clasificación ---------- */
+.tree{font-family:var(--font-ui);margin-top:1.4rem;overflow-x:auto;padding-bottom:.4rem}
+.tree-inner{min-width:0}
+.t-node{display:inline-block;padding:.38rem .85rem;border:1px solid var(--line);background:var(--surface);font-weight:600;font-size:.76rem;letter-spacing:.1em;text-transform:uppercase;color:var(--ink)}
+.t-node.root{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.t-center{text-align:center}
+.t-level{display:grid;position:relative;padding-top:28px}
+.t-level.two{grid-template-columns:3fr 1fr;--l:37.5%;--r:12.5%}
+.t-level.three{grid-template-columns:1fr 1fr 1fr;--l:16.667%;--r:16.667%}
+.t-level::before{content:"";position:absolute;top:14px;left:var(--l);right:var(--r);border-top:1px solid var(--line)}
+.t-level::after{content:"";position:absolute;top:0;left:50%;height:14px;border-left:1px solid var(--line)}
+.t-branch{position:relative;padding-inline:.4rem;min-width:0}
+.t-branch > .t-head{text-align:center;position:relative}
+.t-branch > .t-head::before{content:"";position:absolute;top:-14px;left:50%;height:14px;border-left:1px solid var(--line)}
+.t-branch.muted .t-node{color:var(--ink-2);border-style:dashed;background:transparent}
+.t-note{font-size:.8rem;color:var(--ink-2);text-align:center;margin:.5rem auto 0;max-width:22ch}
+.leaves{list-style:none;margin:.55rem 0 0 calc(50% - 4.2rem);padding:0}
+.leaves .leaves{margin:.1rem 0 0 .9rem}
+.leaves li{position:relative;padding:.12rem 0 .12rem 1.1rem}
+.leaves li::before{content:"";position:absolute;left:0;top:0;bottom:0;border-left:1px solid var(--line)}
+.leaves li:last-child::before{bottom:auto;height:1.08rem}
+.leaves li::after{content:"";position:absolute;left:0;top:1.08rem;width:.8rem;border-top:1px solid var(--line)}
+.leaf-group{display:inline-block;padding:.22rem .1rem;font-size:.92rem;color:var(--ink-2)}
+.leaf{font:inherit;font-size:.92rem;background:none;border:1px solid transparent;color:var(--ink);padding:.22rem .5rem;cursor:pointer;text-align:left;text-decoration:underline;text-decoration-color:var(--line);text-underline-offset:3px}
+.leaf:hover{text-decoration-color:var(--accent);color:var(--accent)}
+.leaf[aria-current="true"]{background:var(--accent-soft);border-color:var(--accent);color:var(--accent);text-decoration:none}
+.t-head .leaf{font-weight:600;font-size:.76rem;letter-spacing:.1em;text-transform:uppercase;border:1px solid var(--line);background:var(--surface);text-decoration:none;padding:.38rem .85rem}
+.t-head .leaf[aria-current="true"]{background:var(--accent-soft);border-color:var(--accent)}
+
+/* ---------- atlas ---------- */
+.atlas-head{display:flex;justify-content:space-between;align-items:end;gap:1rem;flex-wrap:wrap;margin-bottom:1rem}
+.atlas-head p{margin:0;color:var(--ink-2);max-width:60ch}
+.picker{display:flex;flex-wrap:wrap;gap:.6rem 1.4rem;font-family:var(--font-ui);margin-bottom:1rem}
+.pk-group{display:flex;flex-direction:column;gap:.3rem;min-width:0}
+.pk-label{font-size:.68rem;font-weight:600;letter-spacing:.12em;text-transform:uppercase;color:var(--ink-2)}
+.pk-btns{display:flex;flex-wrap:wrap;gap:.3rem}
+.pk{font:inherit;font-size:.85rem;padding:.38rem .7rem;border:1px solid var(--rule);background:var(--surface);color:var(--ink);cursor:pointer;border-radius:2px}
+.pk:hover{border-color:var(--accent)}
+.pk[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:var(--surface)}
+
+.atlas-grid{display:grid;grid-template-columns:minmax(0,1.9fr) minmax(0,1fr);gap:clamp(1.2rem,3vw,2.2rem);align-items:start}
+.atlas-grid > *{min-width:0}
+.viewer{margin:0;border:1px solid var(--rule);background:var(--surface);position:sticky;top:max(12px,env(safe-area-inset-top,0px))}
+.toolbar{display:flex;align-items:center;justify-content:space-between;gap:.6rem 1rem;flex-wrap:wrap;padding:.6rem .8rem;border-bottom:1px solid var(--rule);font-family:var(--font-ui);font-size:.85rem}
+.tb-title{font-family:var(--font-display);font-size:1.08rem;font-weight:500;margin:0;min-width:0}
+.tb-controls{display:flex;align-items:center;gap:.6rem 1rem;flex-wrap:wrap}
+.seg{display:inline-flex;border:1px solid var(--rule);border-radius:2px;overflow:hidden}
+.seg button{font:inherit;font-size:.8rem;border:0;background:var(--surface);color:var(--ink);padding:.32rem .65rem;cursor:pointer}
+.seg button + button{border-left:1px solid var(--rule)}
+.seg button[aria-pressed="true"]{background:var(--accent-soft);color:var(--accent);font-weight:600}
+.switch{display:inline-flex;align-items:center;gap:.5rem;font:inherit;font-size:.85rem;background:none;border:0;color:var(--ink);cursor:pointer;padding:.2rem 0}
+.switch .track{width:36px;height:20px;border-radius:10px;background:var(--rule);position:relative;transition:background .18s}
+.switch .track::after{content:"";position:absolute;top:2px;left:2px;width:16px;height:16px;border-radius:50%;background:var(--surface);box-shadow:0 1px 2px rgba(0,0,0,.25);transition:transform .18s}
+.switch[aria-checked="true"] .track{background:var(--accent)}
+.switch[aria-checked="true"] .track::after{transform:translateX(16px)}
+.btn-ghost{font:inherit;font-size:.82rem;background:none;border:1px solid var(--rule);color:var(--ink);padding:.3rem .65rem;cursor:pointer;border-radius:2px}
+.btn-ghost:hover{border-color:var(--accent)}
+
+.stage{position:relative;height:clamp(380px,58vh,580px);background:var(--stage);overflow:hidden;touch-action:none}
+.stage canvas{position:absolute;inset:0;width:100%;height:100%;display:block;cursor:grab}
+.stage canvas:active{cursor:grabbing}
+.leaders,.labels{position:absolute;inset:0;pointer-events:none}
+.leaders{width:100%;height:100%;overflow:visible}
+.leaders path{fill:none;stroke:var(--leader);stroke-width:1;opacity:.75}
+.leaders circle{fill:var(--surface);stroke:var(--leader);stroke-width:1.4}
+.leaders .hot{stroke:var(--eosin);opacity:1;stroke-width:1.6}
+.callout{position:absolute;left:0;top:0;font-family:var(--font-ui);font-size:.76rem;line-height:1.25;color:var(--ink);background:var(--label-bg);border:1px solid var(--rule);padding:.28rem .45rem;border-radius:2px;display:flex;gap:.4rem;align-items:baseline;will-change:transform}
+.callout.left{flex-direction:row-reverse;text-align:right}
+.callout .cn{flex:none;font-weight:600;color:var(--accent);font-variant-numeric:tabular-nums}
+.callout.hot{border-color:var(--eosin);box-shadow:0 0 0 1px var(--eosin)}
+.labels.narrow .callout{padding:0;width:20px!important;height:20px;border-radius:50%;justify-content:center;align-items:center;background:var(--accent);border-color:var(--surface)}
+.labels.narrow .callout .cn{color:var(--surface);font-size:.7rem}
+.labels.narrow .callout .ct{display:none}
+.labels.narrow .callout.hot{background:var(--eosin)}
+.stage-msg{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;text-align:center;padding:2rem;font-family:var(--font-ui);font-size:.9rem;color:var(--ink-2)}
+.figcap{font-family:var(--font-ui);font-size:.76rem;color:var(--ink-2);padding:.55rem .8rem;border-top:1px solid var(--rule);display:flex;justify-content:space-between;gap:.4rem 1rem;flex-wrap:wrap}
+
+.info{font-size:1rem}
+.crumbs{font-family:var(--font-ui);font-size:.74rem;letter-spacing:.06em;color:var(--ink-2);margin:0 0 .4rem;text-transform:uppercase}
+.crumbs span + span::before{content:"›";margin:0 .4rem;color:var(--line)}
+.summary{color:var(--ink)}
+ol.structs{list-style:none;margin:0;padding:0;display:grid;gap:.15rem}
+ol.structs li{display:grid;grid-template-columns:1.6rem minmax(0,1fr);gap:.3rem;padding:.35rem .35rem;border-radius:2px;cursor:default}
+ol.structs li:hover,ol.structs li.hot{background:var(--accent-soft)}
+ol.structs .n{font-family:var(--font-ui);font-weight:600;font-size:.8rem;color:var(--accent);font-variant-numeric:tabular-nums;padding-top:.15rem}
+ol.structs strong{display:block;font-weight:600;font-size:1rem;line-height:1.3}
+ol.structs span.d{display:block;color:var(--ink-2);font-size:.92rem;line-height:1.45}
+table.loc{width:100%;border-collapse:collapse;font-size:.95rem}
+table.loc th{font-family:var(--font-ui);font-size:.76rem;font-weight:600;text-align:left;vertical-align:top;padding:.5rem .8rem .5rem 0;color:var(--ink-2);width:34%;letter-spacing:.02em}
+table.loc td{padding:.45rem 0;vertical-align:top;line-height:1.45}
+table.loc tr + tr > *{border-top:1px solid var(--rule)}
+.tag{display:inline-block;font-family:var(--font-ui);font-size:.68rem;letter-spacing:.04em;padding:.05rem .35rem;border:1px solid var(--rule);border-radius:2px;color:var(--ink-2);margin-left:.35rem;vertical-align:1px;white-space:nowrap}
+tr.match .tag{border-color:var(--accent);color:var(--accent);background:var(--accent-soft)}
+
+/* ---------- cuadro comparativo ---------- */
+.table-scroll{overflow-x:auto;border:1px solid var(--rule);background:var(--surface)}
+table.cmp{border-collapse:collapse;width:100%;min-width:860px;font-size:.93rem}
+table.cmp th,table.cmp td{padding:.65rem .8rem;text-align:left;vertical-align:top;border-bottom:1px solid var(--rule)}
+table.cmp thead th{font-family:var(--font-ui);font-size:.7rem;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-2);font-weight:600;background:var(--bg)}
+table.cmp tbody tr:last-child > *{border-bottom:0}
+table.cmp .grp td{font-family:var(--font-ui);font-size:.72rem;letter-spacing:.12em;text-transform:uppercase;font-weight:600;color:var(--accent);background:var(--accent-soft);padding:.35rem .8rem}
+.cmp-name{font:inherit;font-weight:600;background:none;border:0;padding:0;color:var(--ink);cursor:pointer;text-align:left;text-decoration:underline;text-decoration-color:var(--line);text-underline-offset:3px}
+.cmp-name:hover{color:var(--accent);text-decoration-color:var(--accent)}
+
+/* ---------- pie ---------- */
+footer{padding-block:2.2rem 3rem;font-size:.95rem;color:var(--ink-2)}
+footer h2{font-size:1.2rem;color:var(--ink)}
+footer ol{padding-left:1.2rem;margin:0 0 1.2rem}
+footer li{margin-bottom:.35rem}
+.note{font-family:var(--font-ui);font-size:.82rem}
+
+@media (max-width:1000px){
+  .atlas-grid{grid-template-columns:minmax(0,1fr)}
+  .viewer{position:relative;top:auto}
+}
+@media (max-width:760px){
+  .cols{grid-template-columns:minmax(0,1fr)}
+  .t-level,.t-level.two,.t-level.three{grid-template-columns:minmax(0,1fr);padding-top:.6rem;padding-left:1rem;margin-left:.6rem;border-left:1px solid var(--line);gap:.8rem}
+  .t-level::before,.t-level::after,.t-branch > .t-head::before{display:none}
+  .t-center,.t-branch > .t-head{text-align:left}
+  .t-note{text-align:left;margin-left:0}
+  .leaves{margin-left:.6rem}
+  .stage{height:clamp(300px,92vw,460px)}
+}
+@media (prefers-reduced-motion:reduce){
+  *{transition:none!important;scroll-behavior:auto!important}
+}
+</style>
+</head>
+<body>
+
+<div class="topbar">
+  <div class="wrap">
+    <span><strong>HistoShare</strong> · Atlas de histología</span>
+    <span>Tejidos básicos · Tejido epitelial</span>
+  </div>
+</div>
+
+<header class="masthead">
+  <div class="wrap">
+    <p class="eyebrow">Histología · Tejido epitelial</p>
+    <h1>Epitelios de revestimiento</h1>
+    <p class="lede">Modelos tridimensionales de los nueve tipos de epitelio de revestimiento, con sus estructuras características rotuladas y su <em>ubicación en el cuerpo humano</em>. Los colores imitan la tinción hematoxilina-eosina (H-E): núcleos violáceos y citoplasma rosado.</p>
+  </div>
+</header>
+
+<main>
+  <section id="generalidades">
+    <div class="wrap cols">
+      <div class="prose">
+        <p class="eyebrow">Generalidades</p>
+        <h2>Características del tejido epitelial</h2>
+        <p>El epitelio de revestimiento está formado por células estrechamente unidas entre sí, con escasa matriz extracelular, que cubren las superficies del cuerpo y revisten cavidades, conductos y vasos. Según su ubicación cumple funciones de protección, absorción, secreción, transporte e intercambio.</p>
+        <ul class="features">
+          <li>Células yuxtapuestas, unidas por complejos de unión (uniones estrechas, adherentes y desmosomas).</li>
+          <li>Polaridad celular: dominio <b>apical</b> (hacia la luz o superficie libre), <b>lateral</b> (contacto con células vecinas) y <b>basal</b> (apoyado en la membrana basal).</li>
+          <li>Se apoya sobre una <b>membrana basal</b> que lo separa del tejido conectivo subyacente.</li>
+          <li>Es <b>avascular</b>: se nutre por difusión desde los capilares del tejido conectivo (lámina propia o dermis).</li>
+          <li>Se renueva continuamente a partir de células progenitoras.</li>
+        </ul>
+      </div>
+      <div>
+        <p class="eyebrow">Criterios de clasificación</p>
+        <dl class="criteria">
+          <div>
+            <dt>1. Número de capas</dt>
+            <dd><b>Simple:</b> una sola capa; todas las células tocan la membrana basal. <b>Estratificado:</b> dos o más capas; solo la capa basal toca la membrana basal. <b>Pseudoestratificado:</b> una sola capa en la que todas las células tocan la membrana basal, pero no todas llegan a la superficie; sus núcleos, a distintas alturas, simulan estratos.</dd>
+          </div>
+          <div>
+            <dt>2. Forma de las células superficiales</dt>
+            <dd><b>Plana</b> (escamosa), <b>cúbica</b> o <b>cilíndrica</b> (columnar). En los epitelios estratificados el nombre lo da la capa más superficial.</dd>
+          </div>
+          <div>
+            <dt>3. Especializaciones y rasgos adicionales</dt>
+            <dd>Microvellosidades, cilios, estereocilios, células caliciformes y queratinización. El epitelio <b>de transición</b> (urotelio) es un estratificado especial cuya capa superficial cambia de forma con la distensión.</dd>
+          </div>
+        </dl>
+      </div>
+    </div>
+  </section>
+
+  <section id="clasificacion">
+    <div class="wrap">
+      <p class="eyebrow">Clasificación</p>
+      <h2>Tipos de epitelio de revestimiento</h2>
+      <p class="prose">Seleccione un tipo en el esquema para abrir su modelo tridimensional.</p>
+      <div class="tree" aria-label="Esquema de clasificación de los epitelios">
+        <div class="tree-inner">
+          <div class="t-center"><span class="t-node root">Epitelios</span></div>
+          <div class="t-level two">
+            <div class="t-branch">
+              <div class="t-head"><span class="t-node">De revestimiento</span></div>
+              <div class="t-level three">
+                <div class="t-branch">
+                  <div class="t-head"><span class="t-node">Simple</span></div>
+                  <ul class="leaves">
+                    <li><button class="leaf" data-go="simple-plano">Plano</button></li>
+                    <li><button class="leaf" data-go="simple-cubico">Cúbico</button></li>
+                    <li><button class="leaf" data-go="simple-cilindrico">Cilíndrico</button></li>
+                  </ul>
+                </div>
+                <div class="t-branch">
+                  <div class="t-head"><button class="leaf" data-go="pseudo">Pseudoestratificado</button></div>
+                  <p class="t-note">Cilíndrico, ciliado o con estereocilios</p>
+                </div>
+                <div class="t-branch">
+                  <div class="t-head"><span class="t-node">Estratificado</span></div>
+                  <ul class="leaves">
+                    <li><span class="leaf-group">Plano</span>
+                      <ul class="leaves">
+                        <li><button class="leaf" data-go="estr-plano-q">Queratinizado</button></li>
+                        <li><button class="leaf" data-go="estr-plano-nq">No queratinizado</button></li>
+                      </ul>
+                    </li>
+                    <li><button class="leaf" data-go="estr-cubico">Cúbico</button></li>
+                    <li><button class="leaf" data-go="estr-cilindrico">Cilíndrico</button></li>
+                    <li><button class="leaf" data-go="transicional">Transicional</button></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+            <div class="t-branch muted">
+              <div class="t-head"><span class="t-node">Glandular</span></div>
+              <p class="t-note">Exocrino y endocrino; no se incluye en este atlas.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="atlas">
+    <div class="wrap">
+      <div class="atlas-head">
+        <div>
+          <p class="eyebrow">Atlas 3D</p>
+          <h2>Modelos tridimensionales</h2>
+        </div>
+        <p>Cada modelo es un bloque de tejido cortado: la cara frontal muestra el epitelio en corte y la superior, la superficie libre.</p>
+      </div>
+
+      <nav class="picker" id="picker" aria-label="Seleccionar epitelio"></nav>
+
+      <div class="atlas-grid">
+        <figure class="viewer" id="viewer">
+          <div class="toolbar">
+            <p class="tb-title" id="tb-title">Epitelio plano simple</p>
+            <div class="tb-controls">
+              <div class="seg" id="variants" role="group" aria-label="Variante" hidden></div>
+              <button class="switch" id="sw-labels" role="switch" aria-checked="true" type="button">
+                <span class="track" aria-hidden="true"></span><span>Rótulos</span>
+              </button>
+              <button class="btn-ghost" id="btn-reset" type="button">Restablecer vista</button>
+            </div>
+          </div>
+          <div class="stage" id="stage">
+            <svg class="leaders" id="leaders" aria-hidden="true"></svg>
+            <div class="labels" id="labels"></div>
+            <div class="stage-msg" id="stage-msg">Cargando modelo 3D…</div>
+          </div>
+          <figcaption class="figcap">
+            <span>Arrastre para rotar · rueda o pellizco para acercar · clic derecho o dos dedos para desplazar</span>
+            <span>Modelo esquemático, no a escala</span>
+          </figcaption>
+        </figure>
+
+        <aside class="info" id="info" aria-live="polite"></aside>
+      </div>
+    </div>
+  </section>
+
+  <section id="cuadro">
+    <div class="wrap">
+      <p class="eyebrow">Síntesis</p>
+      <h2>Cuadro comparativo</h2>
+      <div class="table-scroll">
+        <table class="cmp" id="cmp">
+          <thead>
+            <tr><th scope="col">Epitelio</th><th scope="col">Capas</th><th scope="col">Células superficiales</th><th scope="col">Rasgos distintivos</th><th scope="col">Ubicación representativa</th><th scope="col">Función principal</th></tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <div class="wrap">
+    <h2>Referencias</h2>
+    <ol>
+      <li>Ross MH, Pawlina W. <i>Histología. Texto y atlas</i>. Wolters Kluwer.</li>
+      <li>Mescher AL. <i>Junqueira. Histología básica. Texto y atlas</i>. McGraw-Hill.</li>
+      <li>Gartner LP. <i>Texto de histología. Atlas a color</i>. Elsevier.</li>
+      <li>Brüel A, Christensen EI, Tranum-Jensen J, Qvortrup K, Geneser F. <i>Geneser. Histología</i>. Editorial Médica Panamericana.</li>
+    </ol>
+    <p class="note">Los modelos son representaciones esquemáticas con fines docentes: las proporciones, el número de capas y el tamaño de las estructuras se simplificaron para facilitar su identificación.</p>
+  </div>
+</footer>
+
+<!-- Contenido, ficha descriptiva y controles (funciona aunque el visor 3D no cargue) -->
+<script>
+(function () {
+  var DATA = [
+    {
+      id: 'simple-plano', grupo: 'Simple', corto: 'Plano',
+      nombre: 'Epitelio plano simple', ruta: ['Revestimiento', 'Simple', 'Plano'],
+      resumen: 'Una sola capa de células aplanadas, mucho más anchas que altas, cuyo núcleo ovalado y aplanado sobresale hacia la luz. En vista superficial las células tienen contornos poligonales, como un mosaico. Su escaso espesor facilita la difusión y la filtración.',
+      variantes: [{ id: 'base', nombre: null, estructuras: [
+        { k: 'celula', t: 'Célula plana (escamosa)', d: 'En vista superficial cada célula muestra un contorno poligonal irregular.' },
+        { k: 'nucleo', t: 'Núcleo aplanado', d: 'Ovalado y aplanado; hace que la célula protruya hacia la luz.' },
+        { k: 'citoplasma', t: 'Citoplasma atenuado', d: 'Lámina citoplasmática muy delgada, difícil de distinguir al microscopio óptico fuera de la zona nuclear.' },
+        { k: 'limite', t: 'Límite intercelular', d: 'Borde entre células vecinas, sellado por uniones estrechas y adherentes.' },
+        { k: 'mb', t: 'Membrana basal', d: 'Lámina de matriz extracelular que separa el epitelio del tejido conectivo.' },
+        { k: 'tc', t: 'Tejido conectivo', d: 'Tejido subyacente que da soporte y nutrición al epitelio.' },
+        { k: 'capilar', t: 'Capilar', d: 'Los vasos están en el tejido conectivo: el epitelio es avascular.' }
+      ] }],
+      ubicacion: [
+        { s: 'Cardiovascular', t: 'Endotelio de vasos sanguíneos y linfáticos; endocardio.' },
+        { s: 'Cavidades serosas', t: 'Mesotelio de la pleura, el pericardio y el peritoneo.' },
+        { s: 'Respiratorio', t: 'Alvéolos pulmonares (neumocitos tipo I).' },
+        { s: 'Urinario', t: 'Hoja parietal de la cápsula de Bowman; segmento delgado del asa de Henle.' },
+        { s: 'Ojo y oído', t: 'Epitelio posterior de la córnea (endotelio corneal); revestimiento de la cavidad timpánica.' }
+      ],
+      funcion: 'Intercambio de gases y sustancias por difusión, filtración (corpúsculo renal), transporte por transcitosis (endotelio) y formación de superficies lisas que reducen la fricción (mesotelio).',
+      tabla: { capas: 'Una', forma: 'Plana', rasgos: 'Núcleo aplanado que protruye hacia la luz', ubic: 'Endotelio, mesotelio, alvéolos', fn: 'Difusión y filtración' }
+    },
+    {
+      id: 'simple-cubico', grupo: 'Simple', corto: 'Cúbico',
+      nombre: 'Epitelio cúbico simple', ruta: ['Revestimiento', 'Simple', 'Cúbico'],
+      resumen: 'Una sola capa de células cuya altura es aproximadamente igual a su ancho. En corte se ven como cuadrados con un núcleo esférico central; en vista superficial, como polígonos. Es frecuente en conductos y túbulos con funciones de secreción y absorción.',
+      variantes: [{ id: 'base', nombre: null, estructuras: [
+        { k: 'celula', t: 'Célula cúbica', d: 'Altura y ancho similares; en vista superficial es poligonal.' },
+        { k: 'nucleo', t: 'Núcleo esférico central', d: 'Redondo y ubicado en el centro de la célula.' },
+        { k: 'apical', t: 'Superficie apical', d: 'Dominio orientado hacia la luz; en el túbulo contorneado proximal presenta ribete en cepillo (microvellosidades).' },
+        { k: 'lateral', t: 'Superficie lateral', d: 'Zona de contacto con las células vecinas mediante complejos de unión.' },
+        { k: 'mb', t: 'Membrana basal', d: 'Separa el epitelio del tejido conectivo subyacente.' },
+        { k: 'tc', t: 'Tejido conectivo', d: 'Contiene los vasos que nutren al epitelio.' },
+        { k: 'capilar', t: 'Capilar', d: 'Ubicado en el tejido conectivo, nunca entre las células epiteliales.' }
+      ] }],
+      ubicacion: [
+        { s: 'Urinario', t: 'Túbulos renales (contorneados proximal y distal) y túbulos colectores.' },
+        { s: 'Endocrino', t: 'Folículos de la glándula tiroides (su altura varía con la actividad).' },
+        { s: 'Glándulas exocrinas', t: 'Conductos excretores pequeños (intercalares).' },
+        { s: 'Respiratorio', t: 'Bronquiolos terminales y respiratorios.' },
+        { s: 'Hígado', t: 'Conductillos y conductos biliares pequeños.' },
+        { s: 'Ojo', t: 'Epitelio pigmentario de la retina; epitelio anterior del cristalino.' },
+        { s: 'Reproductor femenino', t: 'Superficie del ovario (epitelio superficial).' },
+        { s: 'Sistema nervioso', t: 'Plexos coroideos.' }
+      ],
+      funcion: 'Secreción, absorción y transporte de iones y agua; revestimiento de conductos y túbulos.',
+      tabla: { capas: 'Una', forma: 'Cúbica', rasgos: 'Núcleo esférico central', ubic: 'Túbulos renales, folículos tiroideos', fn: 'Secreción y absorción' }
+    },
+    {
+      id: 'simple-cilindrico', grupo: 'Simple', corto: 'Cilíndrico',
+      nombre: 'Epitelio cilíndrico simple', ruta: ['Revestimiento', 'Simple', 'Cilíndrico'],
+      resumen: 'Una sola capa de células más altas que anchas, con núcleos ovoides alineados cerca de la base. Puede presentar microvellosidades (chapa estriada) para la absorción o cilios para desplazar el contenido de la luz, y a menudo se acompaña de células caliciformes secretoras de moco.',
+      variantes: [
+        { id: 'microvellosidades', nombre: 'Con microvellosidades', estructuras: [
+          { k: 'chapa', t: 'Chapa estriada (microvellosidades)', d: 'Proyecciones apicales densas que amplían la superficie de absorción.' },
+          { k: 'enterocito', t: 'Enterocito (célula absortiva)', d: 'Célula cilíndrica principal del epitelio intestinal.' },
+          { k: 'nucleo', t: 'Núcleo ovoide basal', d: 'Alargado según el eje mayor de la célula, en su tercio basal.' },
+          { k: 'caliciforme', t: 'Célula caliciforme', d: 'Glándula unicelular con forma de copa que secreta moco.' },
+          { k: 'mucinogeno', t: 'Gránulos de mucinógeno (teca)', d: 'Porción apical expandida de la célula caliciforme; se tiñe pálida con H-E.' },
+          { k: 'union', t: 'Complejo de unión (barra terminal)', d: 'Uniones estrechas, adherentes y desmosomas en la parte apical de las caras laterales.' },
+          { k: 'mb', t: 'Membrana basal', d: 'Base de apoyo de todas las células.' },
+          { k: 'lp', t: 'Lámina propia', d: 'Tejido conectivo laxo de la mucosa, rico en capilares.' }
+        ] },
+        { id: 'ciliado', nombre: 'Ciliado', estructuras: [
+          { k: 'cilios', t: 'Cilios', d: 'Prolongaciones móviles (axonema 9+2) que baten de forma coordinada.' },
+          { k: 'cuerpos', t: 'Cuerpos basales', d: 'Centríolos modificados en la base de cada cilio; forman una línea oscura bajo la superficie.' },
+          { k: 'ciliada', t: 'Célula ciliada', d: 'Desplaza el contenido de la luz, por ejemplo el ovocito en la trompa uterina.' },
+          { k: 'clavija', t: 'Célula secretora (en clavija)', d: 'Célula no ciliada, de ápice abombado, que aporta una secreción nutritiva.' },
+          { k: 'nucleo', t: 'Núcleo ovoide', d: 'Alargado y ubicado en la mitad basal de la célula ciliada.' },
+          { k: 'mb', t: 'Membrana basal', d: 'Base de apoyo de todas las células.' },
+          { k: 'lp', t: 'Lámina propia', d: 'Tejido conectivo de la mucosa.' }
+        ] }
+      ],
+      ubicacion: [
+        { s: 'Digestivo', t: 'Intestino delgado y grueso (chapa estriada y células caliciformes).', v: 'microvellosidades' },
+        { s: 'Digestivo', t: 'Vesícula biliar (microvellosidades, sin células caliciformes).', v: 'microvellosidades' },
+        { s: 'Digestivo', t: 'Estómago (células mucosas superficiales, sin células caliciformes).', v: 'secretor' },
+        { s: 'Reproductor femenino', t: 'Trompas uterinas y endometrio (células ciliadas y secretoras).', v: 'ciliado' },
+        { s: 'Reproductor femenino', t: 'Endocérvix (células mucosecretoras).', v: 'secretor' },
+        { s: 'Reproductor masculino', t: 'Conductillos eferentes del testículo (alterna con células cúbicas).', v: 'ciliado' },
+        { s: 'Respiratorio', t: 'Bronquiolos de pequeño calibre.', v: 'ciliado' },
+        { s: 'Sistema nervioso', t: 'Epéndimo de los ventrículos y del conducto central de la médula (cúbico a cilíndrico).', v: 'ciliado' }
+      ],
+      funcion: 'Absorción (enterocitos), secreción de moco, protección y transporte de partículas o células mediante el batido ciliar.',
+      tabla: { capas: 'Una', forma: 'Cilíndrica', rasgos: 'Microvellosidades o cilios; células caliciformes', ubic: 'Intestino, estómago, trompa uterina', fn: 'Absorción y secreción' }
+    },
+    {
+      id: 'pseudo', grupo: 'Pseudoestratificado', corto: 'Cilíndrico pseudoestratificado',
+      nombre: 'Epitelio cilíndrico pseudoestratificado', ruta: ['Revestimiento', 'Pseudoestratificado'],
+      resumen: 'Parece estratificado porque sus núcleos se ubican a distintas alturas, pero es un epitelio de una sola capa: todas las células se apoyan en la membrana basal, aunque no todas alcanzan la superficie libre. Las células basales, bajas, son las progenitoras de las demás.',
+      variantes: [
+        { id: 'ciliado', nombre: 'Ciliado (respiratorio)', estructuras: [
+          { k: 'cilios', t: 'Cilios', d: 'Baten de forma coordinada y desplazan el moco hacia la faringe.' },
+          { k: 'ciliada', t: 'Célula cilíndrica ciliada', d: 'Alcanza la luz; su núcleo está en la parte media o alta del epitelio.' },
+          { k: 'caliciforme', t: 'Célula caliciforme', d: 'Secreta el moco que atrapa partículas inhaladas.' },
+          { k: 'basal', t: 'Célula basal', d: 'Célula baja, sin contacto con la luz; actúa como célula madre.' },
+          { k: 'alturas', t: 'Núcleos a distintas alturas', d: 'Dan la falsa apariencia de varios estratos.' },
+          { k: 'mb', t: 'Membrana basal engrosada', d: 'En la tráquea es particularmente gruesa y visible con H-E.' },
+          { k: 'lp', t: 'Lámina propia', d: 'Tejido conectivo con glándulas seromucosas y vasos.' }
+        ] },
+        { id: 'estereocilios', nombre: 'Con estereocilios (epidídimo)', estructuras: [
+          { k: 'estereocilios', t: 'Estereocilios', d: 'Microvellosidades muy largas e inmóviles que aumentan la superficie de absorción.' },
+          { k: 'principal', t: 'Célula principal', d: 'Célula cilíndrica alta que absorbe líquido y secreta glucoproteínas.' },
+          { k: 'basal', t: 'Célula basal', d: 'Célula baja apoyada en la membrana basal; es progenitora.' },
+          { k: 'alturas', t: 'Núcleos a distintas alturas', d: 'Núcleos basales redondos y núcleos alargados de células principales.' },
+          { k: 'mb', t: 'Membrana basal', d: 'Todas las células se apoyan en ella.' },
+          { k: 'tc', t: 'Tejido conectivo', d: 'Rodeado por células musculares lisas en el órgano.' }
+        ] }
+      ],
+      ubicacion: [
+        { s: 'Respiratorio', t: 'Cavidad nasal (región respiratoria) y senos paranasales.', v: 'ciliado' },
+        { s: 'Respiratorio', t: 'Nasofaringe, laringe (excepto pliegues vocales), tráquea y bronquios.', v: 'ciliado' },
+        { s: 'Oído', t: 'Trompa auditiva (de Eustaquio).', v: 'ciliado' },
+        { s: 'Vías lagrimales', t: 'Saco lagrimal y conducto nasolagrimal.', v: 'ciliado' },
+        { s: 'Reproductor masculino', t: 'Epidídimo y conducto deferente.', v: 'estereocilios' },
+        { s: 'Urinario', t: 'Uretra masculina, porciones membranosa y esponjosa (transición a cilíndrico estratificado).' }
+      ],
+      funcion: 'En la vía aérea forma el aparato mucociliar: las células caliciformes secretan moco que atrapa partículas y los cilios lo desplazan hacia la faringe. En el epidídimo, los estereocilios participan en la absorción de líquido.',
+      tabla: { capas: 'Una (aparenta varias)', forma: 'Cilíndrica', rasgos: 'Núcleos a distintas alturas; cilios o estereocilios', ubic: 'Tráquea, bronquios, epidídimo', fn: 'Transporte mucociliar' }
+    },
+    {
+      id: 'estr-plano-q', grupo: 'Estratificado', corto: 'Plano queratinizado',
+      nombre: 'Epitelio plano estratificado queratinizado', ruta: ['Revestimiento', 'Estratificado', 'Plano', 'Queratinizado'],
+      resumen: 'Varias capas de células: las basales son cúbicas o cilíndricas y se aplanan progresivamente hacia la superficie. Las células superficiales pierden el núcleo y los organelos y se transforman en escamas llenas de queratina (estrato córneo), una capa resistente e impermeable. Es el epitelio de la epidermis.',
+      variantes: [{ id: 'base', nombre: null, estructuras: [
+        { k: 'descamacion', t: 'Escamas en descamación', d: 'Las células córneas más superficiales se desprenden continuamente.' },
+        { k: 'corneo', t: 'Estrato córneo', d: 'Capas de células planas, anucleadas, llenas de queratina.' },
+        { k: 'lucido', t: 'Estrato lúcido', d: 'Banda delgada, clara y homogénea; solo en piel gruesa (palmas y plantas).' },
+        { k: 'granuloso', t: 'Estrato granuloso', d: 'Células aplanadas con gránulos basófilos de queratohialina.' },
+        { k: 'espinoso', t: 'Estrato espinoso', d: 'Varias capas de células poliédricas unidas por numerosos desmosomas.' },
+        { k: 'basal', t: 'Estrato basal (germinativo)', d: 'Una capa de células cúbicas a cilíndricas con actividad mitótica.' },
+        { k: 'melanocito', t: 'Melanocito', d: 'Célula dendrítica del estrato basal que transfiere melanina a los queratinocitos.' },
+        { k: 'mb', t: 'Membrana basal', d: 'Une la epidermis a la dermis.' },
+        { k: 'papila', t: 'Papila dérmica', d: 'Proyección del tejido conectivo que amplía la superficie de unión con el epitelio.' },
+        { k: 'dermis', t: 'Dermis', d: 'Tejido conectivo que sostiene y nutre la epidermis.' }
+      ] }],
+      ubicacion: [
+        { s: 'Tegumentario', t: 'Epidermis de la piel delgada y de la piel gruesa (palmas y plantas, con estrato lúcido).' },
+        { s: 'Cavidad oral', t: 'Encía y paladar duro (mucosa masticatoria; orto- o paraqueratinizado).' },
+        { s: 'Cavidad oral', t: 'Dorso de la lengua, en las papilas filiformes.' },
+        { s: 'Labios', t: 'Borde rojo (bermellón), con una capa córnea delgada.' },
+        { s: 'Digestivo', t: 'Porción distal del conducto anal (zona cutánea) y piel perianal.' }
+      ],
+      funcion: 'Protección contra la abrasión, la deshidratación y la invasión de microorganismos; los melanocitos aportan protección frente a la radiación ultravioleta.',
+      tabla: { capas: 'Varias', forma: 'Plana, sin núcleo', rasgos: 'Estrato córneo de queratina', ubic: 'Epidermis', fn: 'Protección e impermeabilidad' }
+    },
+    {
+      id: 'estr-plano-nq', grupo: 'Estratificado', corto: 'Plano no queratinizado',
+      nombre: 'Epitelio plano estratificado no queratinizado', ruta: ['Revestimiento', 'Estratificado', 'Plano', 'No queratinizado'],
+      resumen: 'Tiene la misma organización estratificada que el queratinizado, pero sus células superficiales conservan el núcleo y no forman un estrato córneo. Reviste superficies húmedas sometidas a roce, mantenidas así por secreciones glandulares.',
+      variantes: [{ id: 'base', nombre: null, estructuras: [
+        { k: 'descamacion', t: 'Célula superficial en descamación', d: 'Las células superficiales se desprenden y se reponen desde la capa basal.' },
+        { k: 'superficial', t: 'Células superficiales planas', d: 'Aplanadas y con núcleo picnótico; se mantienen húmedas.' },
+        { k: 'intermedio', t: 'Estrato intermedio (espinoso)', d: 'Células poliédricas, más grandes, unidas por desmosomas.' },
+        { k: 'basal', t: 'Estrato basal', d: 'Células cúbicas o cilíndricas bajas con actividad mitótica.' },
+        { k: 'mb', t: 'Membrana basal', d: 'Sigue el contorno ondulado de las papilas.' },
+        { k: 'papila', t: 'Papila de tejido conectivo', d: 'Aumenta la superficie de anclaje y de nutrición del epitelio.' },
+        { k: 'lp', t: 'Lámina propia', d: 'Tejido conectivo de la mucosa.' }
+      ] }],
+      ubicacion: [
+        { s: 'Cavidad oral', t: 'Mucosa de revestimiento: mejillas, cara interna de los labios, piso de la boca, cara ventral de la lengua y paladar blando.' },
+        { s: 'Digestivo', t: 'Orofaringe, laringofaringe y esófago.' },
+        { s: 'Digestivo', t: 'Conducto anal, entre la línea pectínea y la línea anocutánea.' },
+        { s: 'Respiratorio', t: 'Pliegues vocales verdaderos; cara lingual de la epiglotis.' },
+        { s: 'Reproductor femenino', t: 'Vagina y exocérvix.' },
+        { s: 'Ojo', t: 'Epitelio anterior de la córnea.' },
+        { s: 'Urinario', t: 'Porción distal de la uretra (fosa navicular en el hombre).' }
+      ],
+      funcion: 'Protección contra la abrasión en superficies húmedas y barrera frente a microorganismos.',
+      tabla: { capas: 'Varias', forma: 'Plana, con núcleo', rasgos: 'Sin estrato córneo; superficie húmeda', ubic: 'Boca, esófago, vagina, córnea', fn: 'Protección contra la abrasión' }
+    },
+    {
+      id: 'estr-cubico', grupo: 'Estratificado', corto: 'Cúbico',
+      nombre: 'Epitelio cúbico estratificado', ruta: ['Revestimiento', 'Estratificado', 'Cúbico'],
+      resumen: 'Formado generalmente por dos capas de células cúbicas. Es poco abundante y se encuentra sobre todo en conductos excretores de glándulas, donde forma una pared más resistente que la de un epitelio simple.',
+      variantes: [{ id: 'base', nombre: null, estructuras: [
+        { k: 'superficial', t: 'Capa superficial de células cúbicas', d: 'Delimita la luz del conducto y da nombre al epitelio.' },
+        { k: 'basal', t: 'Capa basal de células cúbicas', d: 'Apoyada sobre la membrana basal.' },
+        { k: 'nucleo', t: 'Núcleo esférico', d: 'Redondo y central en las células de ambas capas.' },
+        { k: 'luz', t: 'Superficie libre (luz)', d: 'Corresponde a la luz del conducto glandular.' },
+        { k: 'mb', t: 'Membrana basal', d: 'Solo la capa basal está en contacto con ella.' },
+        { k: 'tc', t: 'Tejido conectivo', d: 'Rodea el conducto y aporta vasos.' }
+      ] }],
+      ubicacion: [
+        { s: 'Tegumentario', t: 'Conductos de las glándulas sudoríparas.' },
+        { s: 'Glándulas exocrinas', t: 'Conductos excretores de mayor calibre (por ejemplo, de las glándulas salivales).' },
+        { s: 'Reproductor femenino', t: 'Capa granulosa de los folículos ováricos en crecimiento.' },
+        { s: 'Digestivo', t: 'Unión anorrectal (zona de transición).' }
+      ],
+      funcion: 'Protección y conducción de secreciones; en los conductos sudoríparos participa en la reabsorción de iones.',
+      tabla: { capas: 'Dos (o más)', forma: 'Cúbica', rasgos: 'Dos capas de células cúbicas', ubic: 'Conductos de glándulas sudoríparas', fn: 'Protección y conducción' }
+    },
+    {
+      id: 'estr-cilindrico', grupo: 'Estratificado', corto: 'Cilíndrico',
+      nombre: 'Epitelio cilíndrico estratificado', ruta: ['Revestimiento', 'Estratificado', 'Cilíndrico'],
+      resumen: 'Su capa superficial está formada por células cilíndricas, mientras que las capas profundas son de células bajas, poliédricas o cúbicas. Es escaso y suele ubicarse en zonas de transición entre otros tipos de epitelio.',
+      variantes: [{ id: 'base', nombre: null, estructuras: [
+        { k: 'superficial', t: 'Células cilíndricas superficiales', d: 'Alcanzan la luz y dan nombre al epitelio.' },
+        { k: 'nucleo', t: 'Núcleo ovoide', d: 'Alargado, en la mitad basal de la célula superficial.' },
+        { k: 'basales', t: 'Células basales poliédricas', d: 'Una o más capas de células bajas en contacto con la membrana basal.' },
+        { k: 'mb', t: 'Membrana basal', d: 'Solo las células basales se apoyan en ella.' },
+        { k: 'tc', t: 'Tejido conectivo', d: 'Lámina propia subyacente.' }
+      ] }],
+      ubicacion: [
+        { s: 'Ojo', t: 'Conjuntiva (palpebral y del fondo de saco).' },
+        { s: 'Glándulas exocrinas', t: 'Conductos excretores principales, de mayor calibre (por ejemplo, de las glándulas salivales).' },
+        { s: 'Urinario', t: 'Uretra masculina, porciones membranosa y esponjosa.' },
+        { s: 'Digestivo', t: 'Unión anorrectal (zona de transición).' }
+      ],
+      funcion: 'Protección y secreción; reviste conductos de gran calibre y zonas de transición epitelial.',
+      tabla: { capas: 'Varias', forma: 'Cilíndrica', rasgos: 'Capas profundas de células bajas', ubic: 'Conjuntiva, uretra masculina', fn: 'Protección y secreción' }
+    },
+    {
+      id: 'transicional', grupo: 'Estratificado', corto: 'Transicional',
+      nombre: 'Epitelio de transición (urotelio)', ruta: ['Revestimiento', 'Estratificado', 'Transicional'],
+      resumen: 'Epitelio estratificado exclusivo de las vías urinarias. Su aspecto cambia con el grado de distensión: relajado presenta varias capas y células superficiales grandes en forma de cúpula (células en paraguas); distendido se adelgaza a pocas capas y sus células superficiales se aplanan.',
+      variantes: [
+        { id: 'relajado', nombre: 'Relajado', estructuras: null },
+        { id: 'distendido', nombre: 'Distendido', estructuras: null }
+      ],
+      estructurasComunes: [
+        { k: 'paraguas', t: 'Célula en paraguas (superficial)', d: 'Grande, con superficie apical en cúpula; cubre varias células subyacentes.' },
+        { k: 'placas', t: 'Membrana apical con placas de uroplaquina', d: 'Membrana engrosada y rígida que forma una barrera impermeable a la orina.' },
+        { k: 'binucleada', t: 'Célula binucleada', d: 'Algunas células en paraguas presentan dos núcleos.' },
+        { k: 'intermedias', t: 'Células intermedias', d: 'Capas de células piriformes o poliédricas.' },
+        { k: 'basales', t: 'Células basales', d: 'Células pequeñas y cúbicas, progenitoras, apoyadas en la membrana basal.' },
+        { k: 'mb', t: 'Membrana basal', d: 'Delgada; el urotelio carece de papilas marcadas.' },
+        { k: 'lp', t: 'Lámina propia', d: 'Tejido conectivo de la mucosa urinaria.' }
+      ],
+      ubicacion: [
+        { s: 'Urinario', t: 'Cálices renales menores y mayores, y pelvis renal.' },
+        { s: 'Urinario', t: 'Uréteres.' },
+        { s: 'Urinario', t: 'Vejiga urinaria.' },
+        { s: 'Urinario', t: 'Porción proximal de la uretra (uretra prostática en el hombre).' }
+      ],
+      funcion: 'Barrera osmótica entre la orina y los tejidos, y adaptación a los cambios de volumen sin perder su integridad.',
+      tabla: { capas: 'Varias (menos al distenderse)', forma: 'Cúpula o plana, según distensión', rasgos: 'Células en paraguas, a veces binucleadas', ubic: 'Vías urinarias', fn: 'Barrera impermeable y distensible' }
+    }
+  ];
+
+  DATA.forEach(function (m) {
+    if (m.estructurasComunes) m.variantes.forEach(function (v) { v.estructuras = m.estructurasComunes; });
+  });
+
+  var TAGS = { microvellosidades: 'con microvellosidades', ciliado: 'ciliado', secretor: 'secretor mucoso', estereocilios: 'con estereocilios' };
+  var GROUPS = ['Simple', 'Pseudoestratificado', 'Estratificado'];
+  var state = { id: DATA[0].id, variant: DATA[0].variantes[0].id, labels: true, hot: null };
+
+  function $(id) { return document.getElementById(id); }
+  function el(tag, attrs, text) {
+    var e = document.createElement(tag);
+    if (attrs) Object.keys(attrs).forEach(function (k) { e.setAttribute(k, attrs[k]); });
+    if (text != null) e.textContent = text;
+    return e;
+  }
+  function getModel(id) { for (var i = 0; i < DATA.length; i++) if (DATA[i].id === id) return DATA[i]; return null; }
+  function getVariant(m) { for (var i = 0; i < m.variantes.length; i++) if (m.variantes[i].id === state.variant) return m.variantes[i]; return m.variantes[0]; }
+  var reduced = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+  // ---- selector junto al visor
+  var picker = $('picker');
+  GROUPS.forEach(function (g) {
+    var grp = el('div', { 'class': 'pk-group' });
+    grp.appendChild(el('span', { 'class': 'pk-label' }, g));
+    var btns = el('div', { 'class': 'pk-btns' });
+    DATA.filter(function (m) { return m.grupo === g; }).forEach(function (m) {
+      var b = el('button', { 'class': 'pk', type: 'button', 'data-id': m.id, 'aria-pressed': 'false' }, m.corto);
+      b.addEventListener('click', function () { select(m.id); });
+      btns.appendChild(b);
+    });
+    grp.appendChild(btns);
+    picker.appendChild(grp);
+  });
+
+  // ---- árbol
+  Array.prototype.forEach.call(document.querySelectorAll('[data-go]'), function (b) {
+    b.addEventListener('click', function () { select(b.getAttribute('data-go'), true); });
+  });
+
+  // ---- cuadro comparativo
+  var tbody = document.querySelector('#cmp tbody');
+  GROUPS.forEach(function (g) {
+    var gr = el('tr', { 'class': 'grp' }); gr.appendChild(el('td', { colspan: '6' }, g)); tbody.appendChild(gr);
+    DATA.filter(function (m) { return m.grupo === g; }).forEach(function (m) {
+      var tr = el('tr');
+      var th = el('th', { scope: 'row' });
+      var b = el('button', { 'class': 'cmp-name', type: 'button' }, m.nombre);
+      b.addEventListener('click', function () { select(m.id, true); });
+      th.appendChild(b); tr.appendChild(th);
+      [m.tabla.capas, m.tabla.forma, m.tabla.rasgos, m.tabla.ubic, m.tabla.fn].forEach(function (t) { tr.appendChild(el('td', null, t)); });
+      tbody.appendChild(tr);
+    });
+  });
+
+  // ---- controles del visor
+  var sw = $('sw-labels');
+  sw.addEventListener('click', function () {
+    state.labels = !state.labels;
+    sw.setAttribute('aria-checked', String(state.labels));
+    sync();
+  });
+  $('btn-reset').addEventListener('click', function () { if (window.EPI3D) window.EPI3D.reset(); });
+
+  function select(id, scroll) {
+    var m = getModel(id); if (!m) return;
+    if (state.id !== id) { state.id = id; state.variant = m.variantes[0].id; }
+    state.hot = null;
+    render(); sync();
+    try { history.replaceState(null, '', '#' + id); } catch (e) {}
+    if (scroll) {
+      var target = window.innerWidth <= 1000 ? $('viewer') : $('atlas');
+      target.scrollIntoView({ behavior: reduced ? 'auto' : 'smooth', block: 'start' });
+    }
+  }
+
+  function setVariant(v) { state.variant = v; state.hot = null; render(); sync(); }
+
+  function hot(k) {
+    state.hot = k;
+    Array.prototype.forEach.call(document.querySelectorAll('ol.structs li'), function (li) {
+      li.classList.toggle('hot', li.getAttribute('data-k') === k);
+    });
+    if (window.EPI3D) window.EPI3D.highlight(k);
+  }
+
+  function render() {
+    var m = getModel(state.id), v = getVariant(m);
+    Array.prototype.forEach.call(document.querySelectorAll('.pk'), function (b) {
+      b.setAttribute('aria-pressed', String(b.getAttribute('data-id') === m.id));
+    });
+    Array.prototype.forEach.call(document.querySelectorAll('[data-go]'), function (b) {
+      b.setAttribute('aria-current', String(b.getAttribute('data-go') === m.id));
+    });
+    $('tb-title').textContent = m.nombre;
+
+    var seg = $('variants');
+    seg.innerHTML = '';
+    if (m.variantes.length > 1) {
+      seg.hidden = false;
+      m.variantes.forEach(function (vv) {
+        var b = el('button', { type: 'button', 'aria-pressed': String(vv.id === v.id) }, vv.nombre);
+        b.addEventListener('click', function () { setVariant(vv.id); });
+        seg.appendChild(b);
+      });
+    } else seg.hidden = true;
+
+    var info = $('info');
+    info.innerHTML = '';
+    var crumbs = el('p', { 'class': 'crumbs' });
+    m.ruta.forEach(function (r) { crumbs.appendChild(el('span', null, r)); });
+    info.appendChild(crumbs);
+    info.appendChild(el('h3', null, m.nombre + (v.nombre ? ' · ' + v.nombre.toLowerCase() : '')));
+    info.appendChild(el('p', { 'class': 'summary' }, m.resumen));
+
+    info.appendChild(el('h4', null, 'Estructuras rotuladas'));
+    var ol = el('ol', { 'class': 'structs' });
+    v.estructuras.forEach(function (s, i) {
+      var li = el('li', { 'data-k': s.k });
+      li.appendChild(el('span', { 'class': 'n' }, String(i + 1)));
+      var d = el('div');
+      d.appendChild(el('strong', null, s.t));
+      d.appendChild(el('span', { 'class': 'd' }, s.d));
+      li.appendChild(d);
+      li.addEventListener('mouseenter', function () { hot(s.k); });
+      li.addEventListener('mouseleave', function () { hot(null); });
+      ol.appendChild(li);
+    });
+    info.appendChild(ol);
+
+    info.appendChild(el('h4', null, 'Ubicación en el cuerpo humano'));
+    var tbl = el('table', { 'class': 'loc' });
+    var tb = el('tbody');
+    m.ubicacion.forEach(function (u) {
+      var tr = el('tr', u.v && u.v === v.id ? { 'class': 'match' } : null);
+      tr.appendChild(el('th', { scope: 'row' }, u.s));
+      var td = el('td', null, u.t);
+      if (u.v) td.appendChild(el('span', { 'class': 'tag' }, TAGS[u.v] || u.v));
+      tr.appendChild(td);
+      tb.appendChild(tr);
+    });
+    tbl.appendChild(tb);
+    info.appendChild(tbl);
+
+    info.appendChild(el('h4', null, 'Función'));
+    info.appendChild(el('p', null, m.funcion));
+  }
+
+  function sync() {
+    var m = getModel(state.id), v = getVariant(m);
+    window.EPI_STATE = {
+      id: state.id, variant: v.id, labels: state.labels,
+      estructuras: v.estructuras.map(function (s) { return { k: s.k, t: s.t }; })
+    };
+    if (window.EPI3D) window.EPI3D.update(window.EPI_STATE);
+  }
+
+  var initial = (location.hash || '').replace('#', '');
+  if (getModel(initial)) { state.id = initial; state.variant = getModel(initial).variantes[0].id; }
+  render(); sync();
+})();
+</script>
+
+<script type="importmap">
+{ "imports": {
+  "three": "https://cdn.jsdelivr.net/npm/three@0.160.0/build/three.module.js",
+  "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.160.0/examples/jsm/"
+} }
+</script>
+
+<!-- Visor 3D: modelos procedurales de cada epitelio -->
+<script type="module">
+(async function () {
+  const stage = document.getElementById('stage');
+  const msg = document.getElementById('stage-msg');
+  const fail = (t) => { msg.textContent = t; msg.hidden = false; };
+
+  let THREE, OrbitControls;
+  try {
+    THREE = await import('three');
+    ({ OrbitControls } = await import('three/addons/controls/OrbitControls.js'));
+  } catch (e) {
+    fail('No se pudo cargar el visor 3D. Revise su conexión a internet y vuelva a cargar la página.');
+    return;
+  }
+
+  let renderer;
+  try {
+    renderer = new THREE.WebGLRenderer({ antialias: true, alpha: true });
+  } catch (e) {
+    fail('Su navegador no admite WebGL, necesario para mostrar los modelos 3D.');
+    return;
+  }
+  msg.hidden = true;
+
+  const reduced = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  renderer.setPixelRatio(Math.min(window.devicePixelRatio || 1, 2));
+  renderer.setClearColor(0x000000, 0);
+  stage.prepend(renderer.domElement);
+  renderer.domElement.setAttribute('aria-label', 'Modelo tridimensional del epitelio seleccionado');
+  renderer.domElement.setAttribute('role', 'img');
+
+  const scene = new THREE.Scene();
+  const camera = new THREE.PerspectiveCamera(30, 1, 0.1, 400);
+  const controls = new OrbitControls(camera, renderer.domElement);
+  controls.enableDamping = !reduced;
+  controls.dampingFactor = 0.09;
+  controls.maxPolarAngle = Math.PI * 0.64;
+  controls.minDistance = 2.5;
+  controls.maxDistance = 60;
+
+  scene.add(new THREE.HemisphereLight(0xffffff, 0xcdb8c3, 1.7));
+  const key = new THREE.DirectionalLight(0xffffff, 1.7); key.position.set(4, 9, 7); scene.add(key);
+  const fill = new THREE.DirectionalLight(0xffffff, 0.55); fill.position.set(-6, 3, 2); scene.add(fill);
+
+  // ---------- dimensiones del bloque ----------
+  const W = 6.4, D = 3.2, CT_H = 1.3, TEX_H = CT_H + 1.0;
+  const CAP = { x: -1.95, y: -0.72, r: 0.2 };
+  const FZ = D / 2;
+  const V = (x, y, z) => new THREE.Vector3(x, y, z);
+  const Q0 = new THREE.Quaternion();
+  const UPV = V(0, 1, 0);
+  const qYaw = (a) => new THREE.Quaternion().setFromAxisAngle(UPV, a);
+  const mtx = (p, q, s) => new THREE.Matrix4().compose(p, q || Q0, s);
+  const ZERO = () => 0;
+
+  // ---------- materiales (colores tipo H-E) ----------
+  const std = (color, extra) => new THREE.MeshStandardMaterial(Object.assign({ color, roughness: 0.78, metalness: 0, side: THREE.DoubleSide }, extra || {}));
+  const glass = (color, opacity) => std(color, { transparent: true, opacity, depthWrite: false });
+  const solid = (color) => std(color, { polygonOffset: true, polygonOffsetFactor: 1, polygonOffsetUnits: 1 });
+  // Planos de corte: el contenido celular (núcleos, gránulos, moco) se ve seccionado en las caras del bloque
+  const CLIP = [
+    new THREE.Plane(new THREE.Vector3(0, 0, -1), 1.6), new THREE.Plane(new THREE.Vector3(0, 0, 1), 1.6),
+    new THREE.Plane(new THREE.Vector3(-1, 0, 0), 3.2), new THREE.Plane(new THREE.Vector3(1, 0, 0), 3.2)
+  ];
+  renderer.localClippingEnabled = true;
+  const M = {
+    cyto: glass(0xe9a5bf, 0.36),
+    cytoBasal: glass(0xd197c0, 0.42),
+    cytoDark: glass(0xd98cae, 0.46),
+    cytoGran: glass(0xd9a2c2, 0.40),
+    cytoSup: glass(0xefb7ca, 0.40),
+    cytoUmb: glass(0xeaaec5, 0.40),
+    melano: glass(0xf3e7ee, 0.40),
+    keratin: glass(0xf1b292, 0.55),
+    lucid: glass(0xf7dcd6, 0.70),
+    cap: glass(0xb64f7e, 0.60),
+    oBasal: solid(0xd5a1c6),
+    oSpin: solid(0xecb8cc),
+    oGran: solid(0xdcaac7),
+    oSup: solid(0xf2c4d3),
+    oKer: solid(0xf2bd9f),
+    oLucid: solid(0xf8e6de),
+    oUmb: solid(0xefbccf),
+    oCap: solid(0xd68aad),
+    oCol: solid(0xebb6ca),
+    oColDark: solid(0xdc9dbb),
+    oColBack: std(0xebb6ca, { polygonOffset: true, polygonOffsetFactor: 2, polygonOffsetUnits: 2 }),
+    oFill: solid(0xdba3bb),
+    oMelano: solid(0xf7eef3),
+    nucleus: std(0x4c2e82, { roughness: 0.55 }),
+    nucleusDense: std(0x2e1a57, { roughness: 0.5 }),
+    mucin: std(0xd5dff0, { roughness: 0.9 }),
+    brush: std(0xc46a93),
+    cilia: std(0xb0628c),
+    basalBody: std(0x34195a),
+    granule: std(0x26143f),
+    melanin: std(0x5e3b1f),
+    junction: std(0x6f1f49),
+    bm: std(0x8a2c5e, { roughness: 0.6 }),
+    ctTop: std(0xf0cad6),
+    ctSide: std(0xffffff),
+    edge: new THREE.LineBasicMaterial({ color: 0x6a2b4d, transparent: true, opacity: 0.5 }),
+    edgeFaint: new THREE.LineBasicMaterial({ color: 0x8a4a3c, transparent: true, opacity: 0.3 })
+  };
+  ['nucleus', 'nucleusDense', 'mucin', 'granule', 'melanin', 'basalBody', 'junction'].forEach((k) => { M[k].clippingPlanes = CLIP; });
+  const DECAL = {
+    nuc: std(0x4c2e82, { roughness: 0.6 }),
+    nucDense: std(0x2e1a57, { roughness: 0.6 }),
+    mucin: std(0xdfe6f3, { roughness: 0.95 }),
+    granule: std(0x26143f),
+    melanin: std(0x5e3b1f),
+    junction: std(0x4a1533),
+    body: std(0x34195a)
+  };
+  M.melaninFree = std(0x5e3b1f);
+
+  // Textura de la cara de corte del tejido conectivo (fibras colágenas, fibroblastos y capilares)
+  (function makeCTTexture() {
+    const PX = 300;
+    const c = document.createElement('canvas');
+    c.width = Math.round(W * PX); c.height = Math.round(TEX_H * PX);
+    const g = c.getContext('2d');
+    const R = rng(7);
+    const toC = (x, y) => [(x + W / 2) * PX, (TEX_H - (y + CT_H)) * PX];
+    g.fillStyle = '#f3d7e0'; g.fillRect(0, 0, c.width, c.height);
+    for (let i = 0; i < 260; i++) {
+      const [x0, y0] = toC(-W / 2 - 0.5 + R() * (W + 1), -CT_H + R() * TEX_H);
+      const len = (0.5 + R() * 1.3) * PX, ang = (R() - 0.5) * 0.7, amp = 6 + R() * 10, waves = 2 + Math.floor(R() * 3);
+      g.beginPath();
+      for (let s = 0; s <= 30; s++) {
+        const t = s / 30, along = t * len, off = Math.sin(t * Math.PI * waves) * amp;
+        g.lineTo(x0 + Math.cos(ang) * along - Math.sin(ang) * off, y0 + Math.sin(ang) * along + Math.cos(ang) * off);
+      }
+      g.strokeStyle = R() < 0.5 ? 'rgba(214,128,160,0.55)' : 'rgba(226,155,182,0.6)';
+      g.lineWidth = 2 + R() * 5; g.lineCap = 'round'; g.stroke();
+    }
+    for (let i = 0; i < 26; i++) {
+      const [x, y] = toC(-W / 2 + R() * W, -CT_H + 0.1 + R() * (TEX_H - 0.2));
+      g.save(); g.translate(x, y); g.rotate((R() - 0.5) * 0.6);
+      g.fillStyle = '#5b3d88'; g.beginPath(); g.ellipse(0, 0, 0.085 * PX, 0.022 * PX, 0, 0, Math.PI * 2); g.fill(); g.restore();
+    }
+    const vessel = (vx, vy, r) => {
+      const [x, y] = toC(vx, vy), rp = r * PX;
+      g.fillStyle = '#f6dfe6'; g.beginPath(); g.arc(x, y, rp * 1.35, 0, Math.PI * 2); g.fill();
+      g.fillStyle = '#c47f9b'; g.beginPath(); g.arc(x, y, rp, 0, Math.PI * 2); g.fill();
+      g.fillStyle = '#fbf0f3'; g.beginPath(); g.arc(x, y, rp * 0.8, 0, Math.PI * 2); g.fill();
+      [[-0.32, -0.18], [0.28, 0.12], [-0.05, 0.35]].forEach(([dx, dy]) => {
+        g.fillStyle = '#b8323f'; g.beginPath(); g.arc(x + dx * rp, y + dy * rp, rp * 0.28, 0, Math.PI * 2); g.fill();
+        g.fillStyle = '#d4606b'; g.beginPath(); g.arc(x + dx * rp, y + dy * rp, rp * 0.12, 0, Math.PI * 2); g.fill();
+      });
+      g.fillStyle = '#4c3080'; g.beginPath(); g.ellipse(x + rp * 0.86, y - rp * 0.25, rp * 0.13, rp * 0.36, 0.3, 0, Math.PI * 2); g.fill();
+    };
+    vessel(CAP.x, CAP.y, CAP.r);
+    vessel(2.35, -0.42, 0.13);
+    const tex = new THREE.CanvasTexture(c);
+    tex.colorSpace = THREE.SRGBColorSpace;
+    tex.anisotropy = renderer.capabilities.getMaxAnisotropy();
+    tex.wrapS = THREE.RepeatWrapping;
+    M.ctSide.map = tex; M.ctSide.needsUpdate = true;
+  })();
+
+  // ---------- geometrías compartidas ----------
+  const shared = (g) => { g.userData.shared = true; return g; };
+  const G = {
+    sphere: shared(new THREE.SphereGeometry(1, 22, 16)),
+    small: shared(new THREE.SphereGeometry(1, 8, 6)),
+    hemi: shared(new THREE.SphereGeometry(1, 28, 10, 0, Math.PI * 2, 0, Math.PI / 2)),
+    cyl: shared((() => { const g = new THREE.CylinderGeometry(1, 1, 1, 6, 1); g.translate(0, 0.5, 0); return g; })()),
+    disc: shared(new THREE.CircleGeometry(1, 28)),
+    cilium: shared(new THREE.TubeGeometry(new THREE.QuadraticBezierCurve3(V(0, 0, 0), V(0, 0.55, 0), V(0.17, 1, 0)), 8, 0.011, 4, false))
+  };
+
+  // ---------- utilidades geométricas ----------
+  function rng(seed) {
+    let s = seed >>> 0;
+    return function () {
+      s = (s + 0x6D2B79F5) >>> 0;
+      let t = s;
+      t = Math.imul(t ^ (t >>> 15), t | 1);
+      t ^= t + Math.imul(t ^ (t >>> 7), t | 61);
+      return ((t ^ (t >>> 14)) >>> 0) / 4294967296;
+    };
+  }
+  function hexSeeds(sp, R, jit) {
+    jit = jit == null ? 0.3 : jit;
+    const out = [], dz = sp * 0.866;
+    let row = 0;
+    for (let z = -D / 2 + dz * 0.45; z < D / 2; z += dz, row++) {
+      for (let x = -W / 2 + sp * (row % 2 ? 0.75 : 0.25); x < W / 2; x += sp) {
+        const px = x + (R() - 0.5) * jit * sp, pz = z + (R() - 0.5) * jit * sp;
+        out.push([Math.max(-W / 2 + 0.01, Math.min(W / 2 - 0.01, px)), Math.max(-D / 2 + 0.01, Math.min(D / 2 - 0.01, pz))]);
+      }
+    }
+    return out;
+  }
+  function clip(poly, nx, nz, c) {
+    const out = [];
+    for (let i = 0; i < poly.length; i++) {
+      const a = poly[i], b = poly[(i + 1) % poly.length];
+      const da = nx * a[0] + nz * a[1] - c, db = nx * b[0] + nz * b[1] - c;
+      if (da <= 0) out.push(a);
+      if ((da < 0 && db > 0) || (da > 0 && db < 0)) {
+        const t = da / (da - db);
+        out.push([a[0] + (b[0] - a[0]) * t, a[1] + (b[1] - a[1]) * t]);
+      }
+    }
+    return out;
+  }
+  const RECT = [[-W / 2, -D / 2], [W / 2, -D / 2], [W / 2, D / 2], [-W / 2, D / 2]];
+  function clipRect(poly) {
+    let p = clip(poly, 1, 0, W / 2); p = clip(p, -1, 0, W / 2);
+    p = clip(p, 0, 1, D / 2); p = clip(p, 0, -1, D / 2);
+    return p;
+  }
+  function area(p) { let a = 0; for (let i = 0; i < p.length; i++) { const q = p[(i + 1) % p.length]; a += p[i][0] * q[1] - q[0] * p[i][1]; } return a / 2; }
+  function voronoi(seeds) {
+    const polys = [];
+    for (let i = 0; i < seeds.length; i++) {
+      const s = seeds[i];
+      let poly = RECT;
+      for (let j = 0; j < seeds.length && poly.length >= 3; j++) {
+        if (i === j) continue;
+        const t = seeds[j], dx = t[0] - s[0], dz = t[1] - s[1];
+        if (dx * dx + dz * dz < 1e-9) continue;
+        poly = clip(poly, dx, dz, dx * (s[0] + t[0]) / 2 + dz * (s[1] + t[1]) / 2);
+      }
+      if (poly.length >= 3 && Math.abs(area(poly)) > 1e-4) polys.push(poly);
+    }
+    return polys;
+  }
+  function centroid(p) {
+    let a = 0, cx = 0, cz = 0;
+    for (let i = 0; i < p.length; i++) {
+      const q = p[(i + 1) % p.length], cr = p[i][0] * q[1] - q[0] * p[i][1];
+      a += cr; cx += (p[i][0] + q[0]) * cr; cz += (p[i][1] + q[1]) * cr;
+    }
+    a *= 0.5;
+    return [cx / (6 * a), cz / (6 * a)];
+  }
+  function inPoly(pt, p) {
+    let inside = false;
+    for (let i = 0, j = p.length - 1; i < p.length; j = i++) {
+      const xi = p[i][0], zi = p[i][1], xj = p[j][0], zj = p[j][1];
+      if ((zi > pt[1]) !== (zj > pt[1]) && pt[0] < (xj - xi) * (pt[1] - zi) / (zj - zi) + xi) inside = !inside;
+    }
+    return inside;
+  }
+  function inradius(p, c) {
+    let m = Infinity;
+    for (let i = 0; i < p.length; i++) {
+      const a = p[i], b = p[(i + 1) % p.length];
+      const ex = b[0] - a[0], ez = b[1] - a[1], L = Math.hypot(ex, ez) || 1;
+      m = Math.min(m, Math.abs((c[0] - a[0]) * ez - (c[1] - a[1]) * ex) / L);
+    }
+    return m;
+  }
+  const scaleAbout = (p, c, s) => [c[0] + (p[0] - c[0]) * s, c[1] + (p[1] - c[1]) * s];
+  function subdivide(poly, seg) {
+    const pts = [], corners = [];
+    for (let i = 0; i < poly.length; i++) {
+      const a = poly[i], b = poly[(i + 1) % poly.length];
+      const k = Math.max(1, Math.ceil(Math.hypot(b[0] - a[0], b[1] - a[1]) / seg));
+      corners.push(pts.length);
+      for (let j = 0; j < k; j++) pts.push([a[0] + (b[0] - a[0]) * j / k, a[1] + (b[1] - a[1]) * j / k]);
+    }
+    return { pts, corners };
+  }
+  function samplePoly(poly, c, n, R, s) {
+    const inner = poly.map((p) => scaleAbout(p, c, s));
+    let minx = Infinity, maxx = -Infinity, minz = Infinity, maxz = -Infinity;
+    inner.forEach((p) => { minx = Math.min(minx, p[0]); maxx = Math.max(maxx, p[0]); minz = Math.min(minz, p[1]); maxz = Math.max(maxz, p[1]); });
+    const out = [];
+    for (let tries = 0; out.length < n && tries < n * 30; tries++) {
+      const p = [minx + R() * (maxx - minx), minz + R() * (maxz - minz)];
+      if (inPoly(p, inner)) out.push(p);
+    }
+    return out;
+  }
+  function gridPoly(poly, c, step, s, R) {
+    const inner = poly.map((p) => scaleAbout(p, c, s));
+    let minx = Infinity, maxx = -Infinity, minz = Infinity, maxz = -Infinity;
+    inner.forEach((p) => { minx = Math.min(minx, p[0]); maxx = Math.max(maxx, p[0]); minz = Math.min(minz, p[1]); maxz = Math.max(maxz, p[1]); });
+    const out = [];
+    for (let x = minx; x <= maxx; x += step) for (let z = minz; z <= maxz; z += step) {
+      const p = [x + (R() - 0.5) * step * 0.5, z + (R() - 0.5) * step * 0.5];
+      if (inPoly(p, inner)) out.push(p);
+    }
+    return out;
+  }
+  const findCell = (recs, x, z) => recs.find((r) => inPoly([x, z], r.poly)) || nearest(recs, x, z);
+  const nearest = (recs, x, z) => recs.reduce((b, r) => (Math.hypot(r.c[0] - x, r.c[1] - z) < Math.hypot(b.c[0] - x, b.c[1] - z) ? r : b), recs[0]);
+  const fn = (v) => (typeof v === 'function' ? v : () => v);
+
+  // ---------- constructor de un modelo ----------
+  class Builder {
+    constructor() {
+      this.group = new THREE.Group();
+      this.tris = new Map();
+      this.lines = { main: [], faint: [] };
+      this.inst = new Map();
+      this.anchors = {};
+    }
+    addTris(mat, arr) { if (!this.tris.has(mat)) this.tris.set(mat, []); const t = this.tris.get(mat); for (let i = 0; i < arr.length; i++) t.push(arr[i]); }
+    addLines(kind, arr) { const t = this.lines[kind]; for (let i = 0; i < arr.length; i++) t.push(arr[i]); }
+    addInst(geo, mat, m) { const k = geo.uuid + mat.uuid; if (!this.inst.has(k)) this.inst.set(k, { geo, mat, list: [] }); this.inst.get(k).list.push(m); }
+    finish() {
+      for (const [mat, arr] of this.tris) {
+        const g = new THREE.BufferGeometry();
+        g.setAttribute('position', new THREE.Float32BufferAttribute(arr, 3));
+        g.computeVertexNormals();
+        this.group.add(new THREE.Mesh(g, mat));
+      }
+      for (const kind of ['main', 'faint']) {
+        if (!this.lines[kind].length) continue;
+        const g = new THREE.BufferGeometry();
+        g.setAttribute('position', new THREE.Float32BufferAttribute(this.lines[kind], 3));
+        const ls = new THREE.LineSegments(g, kind === 'main' ? M.edge : M.edgeFaint);
+        ls.renderOrder = 2;
+        this.group.add(ls);
+      }
+      for (const { geo, mat, list } of this.inst.values()) {
+        const im = new THREE.InstancedMesh(geo, mat, list.length);
+        list.forEach((m, i) => im.setMatrixAt(i, m));
+        im.instanceMatrix.needsUpdate = true;
+        im.frustumCulled = false;
+        this.group.add(im);
+      }
+      return this.group;
+    }
+  }
+
+  function transformArr(arr, m) {
+    const v = new THREE.Vector3();
+    for (let i = 0; i < arr.length; i += 3) { v.set(arr[i], arr[i + 1], arr[i + 2]).applyMatrix4(m); arr[i] = v.x; arr[i + 1] = v.y; arr[i + 2] = v.z; }
+  }
+
+  // Prisma celular: polígono (x,z) extruido entre las superficies yb(x,z) e yt(x,z), con ápice o base en cúpula opcional
+  function cell(b, poly, o) {
+    const YB = fn(o.yb), YT = fn(o.yt);
+    const c = centroid(poly);
+    const { pts, corners } = subdivide(poly, o.seg || 99);
+    const n = pts.length;
+    const inset = o.inset == null ? 0.985 : o.inset;
+    const st = (o.shrinkTop || 1) * inset, sb = (o.shrinkBot || 1) * inset;
+    const sc = o.about || c;
+    const dT = o.domeTop || 0, dB = o.domeBot || 0;
+    const R = dT || dB ? (o.rings || 6) : 1;
+    const rings = (s, Y, dome) => {
+      const rs = [];
+      for (let k = 0; k < R; k++) {
+        const f = 1 - k / R;
+        rs.push(pts.map((p) => { const q = scaleAbout(p, sc, s * f); return [q[0], Y(q[0], q[1]) + dome * (1 - f * f), q[1]]; }));
+      }
+      return rs;
+    };
+    const T = rings(st, YT, dT), B = rings(sb, YB, dB);
+    const at = [sc[0], YT(sc[0], sc[1]) + dT, sc[1]], ab = [sc[0], YB(sc[0], sc[1]) + dB, sc[1]];
+    const P = [];
+    const tri = (a, bb, d) => { P.push(a[0], a[1], a[2], bb[0], bb[1], bb[2], d[0], d[1], d[2]); };
+    const onEdge = (p, q) => (Math.abs(p[0] - q[0]) < 1e-6 && Math.abs(Math.abs(p[0]) - W / 2) < 1e-3) || (Math.abs(p[2] - q[2]) < 1e-6 && Math.abs(Math.abs(p[2]) - D / 2) < 1e-3);
+    if (!o.sidesOnly) {
+      for (let k = 0; k < R - 1; k++) for (let i = 0; i < n; i++) { const j = (i + 1) % n; tri(T[k][i], T[k][j], T[k + 1][j]); tri(T[k][i], T[k + 1][j], T[k + 1][i]); }
+      for (let i = 0; i < n; i++) tri(T[R - 1][i], T[R - 1][(i + 1) % n], at);
+      for (let k = 0; k < R - 1; k++) for (let i = 0; i < n; i++) { const j = (i + 1) % n; tri(B[k][j], B[k][i], B[k + 1][i]); tri(B[k][j], B[k + 1][i], B[k + 1][j]); }
+      for (let i = 0; i < n; i++) tri(B[R - 1][(i + 1) % n], B[R - 1][i], ab);
+    }
+    for (let i = 0; i < n; i++) {
+      const j = (i + 1) % n;
+      if (o.sidesOnly && onEdge(T[0][i], T[0][j])) continue;
+      tri(B[0][i], B[0][j], T[0][j]); tri(B[0][i], T[0][j], T[0][i]);
+    }
+    const L = [];
+    if (o.lines !== false) {
+      for (let i = 0; i < n; i++) { const j = (i + 1) % n; L.push(...T[0][i], ...T[0][j], ...B[0][i], ...B[0][j]); }
+      corners.forEach((ci) => L.push(...B[0][ci], ...T[0][ci]));
+    }
+    if (o.matrix) { transformArr(P, o.matrix); transformArr(L, o.matrix); }
+    b.addTris(o.mat, P);
+    if (L.length) b.addLines(o.lineKind || 'main', L);
+    const yb0 = YB(c[0], c[1]), yt0 = YT(c[0], c[1]);
+    return { poly, c, yb: yb0, yt: yt0, top: yt0 + dT, area: Math.abs(area(poly)) };
+  }
+
+  function nucleus(b, x, y, z, rx, ry, rz, mat, yaw) {
+    const p = V(x, y, z);
+    b.addInst(G.sphere, mat || M.nucleus, mtx(p, qYaw(yaw || 0), V(rx, ry, rz)));
+    return p;
+  }
+
+  // Bloque de tejido (tejido conectivo o membrana basal) entre dos superficies
+  function slab(b, ybf, ytf, topMat, sideMat, withBottom) {
+    const nx = 96, nz = 32;
+    const pos = [], idx = [];
+    for (let j = 0; j <= nz; j++) for (let i = 0; i <= nx; i++) {
+      const x = -W / 2 + W * i / nx, z = -D / 2 + D * j / nz;
+      pos.push(x, ytf(x, z), z);
+    }
+    for (let j = 0; j < nz; j++) for (let i = 0; i < nx; i++) {
+      const a = j * (nx + 1) + i, bb = a + 1, c = a + nx + 1, d = c + 1;
+      idx.push(a, c, bb, bb, c, d);
+    }
+    const top = new THREE.BufferGeometry();
+    top.setAttribute('position', new THREE.Float32BufferAttribute(pos, 3));
+    top.setIndex(idx); top.computeVertexNormals();
+    b.group.add(new THREE.Mesh(top, topMat));
+    const side = (pts) => {
+      const p = [], uv = [], ix = [];
+      pts.forEach(([x, z, u]) => {
+        const y0 = ybf(x, z), y1 = ytf(x, z);
+        p.push(x, y0, z, x, y1, z);
+        uv.push(u / W, (y0 + CT_H) / TEX_H, u / W, (y1 + CT_H) / TEX_H);
+      });
+      for (let k = 0; k < pts.length - 1; k++) { const a = k * 2; ix.push(a, a + 2, a + 1, a + 1, a + 2, a + 3); }
+      const g = new THREE.BufferGeometry();
+      g.setAttribute('position', new THREE.Float32BufferAttribute(p, 3));
+      g.setAttribute('uv', new THREE.Float32BufferAttribute(uv, 2));
+      g.setIndex(ix); g.computeVertexNormals();
+      b.group.add(new THREE.Mesh(g, sideMat));
+    };
+    const along = (n, f) => Array.from({ length: n + 1 }, (_, k) => f(k / n));
+    side(along(nx, (t) => [-W / 2 + W * t, D / 2, W * t]));
+    side(along(nx, (t) => [W / 2 - W * t, -D / 2, W * t]));
+    side(along(nz, (t) => [-W / 2, -D / 2 + D * t, D * t]));
+    side(along(nz, (t) => [W / 2, D / 2 - D * t, D * t]));
+    if (withBottom) {
+      const g = new THREE.PlaneGeometry(W, D); g.rotateX(Math.PI / 2); g.translate(0, ybf(0, 0), 0);
+      b.group.add(new THREE.Mesh(g, topMat));
+    }
+  }
+
+  function base(b, g, bmT, o) {
+    o = o || {};
+    slab(b, () => -CT_H, g, M.ctTop, M.ctSide, true);
+    slab(b, g, (x, z) => g(x, z) + bmT, M.bm, M.bm, false);
+    const tx = o.tcX == null ? 1.25 : o.tcX;
+    const ct = V(tx, -CT_H * 0.6, FZ + 0.003);
+    b.anchors.tc = ct; b.anchors.lp = ct; b.anchors.dermis = ct;
+    b.anchors.capilar = V(CAP.x, CAP.y, FZ + 0.003);
+    const bx = o.bmX == null ? -2.45 : o.bmX;
+    b.anchors.mb = V(bx, g(bx, FZ) + bmT * 0.5, FZ + 0.005);
+    return (x, z) => g(x, z) + bmT;
+  }
+
+  // Microvellosidades, cilios y estereocilios
+  function microvilli(b, rec, R) {
+    gridPoly(rec.poly, rec.c, 0.046, 0.9, R).forEach(([x, z]) => {
+      b.addInst(G.cyl, M.brush, mtx(V(x, rec.top, z), Q0, V(0.011, 0.09, 0.011)));
+    });
+  }
+  function cilia(b, rec, R, len, withBodies) {
+    const n = Math.max(5, Math.round(rec.area * 55));
+    const beat = 0.35 + 0.5 * Math.sin(rec.c[0] * 1.4 + rec.c[1] * 0.6);
+    samplePoly(rec.poly, rec.c, n, R, 0.82).forEach(([x, z]) => {
+      b.addInst(G.cilium, M.cilia, mtx(V(x, rec.top - 0.01, z), qYaw(beat + (R() - 0.5) * 0.7), V(1, len * (0.85 + R() * 0.3), 1)));
+      if (withBodies) b.addInst(G.small, M.basalBody, mtx(V(x, rec.top - 0.035, z), Q0, V(0.017, 0.017, 0.017)));
+    });
+  }
+  function stereocilia(b, rec, R) {
+    const n = Math.max(8, Math.round(rec.area * 110));
+    samplePoly(rec.poly, rec.c, n, R, 0.8).forEach(([x, z]) => {
+      const tip = V(rec.c[0] + (x - rec.c[0]) * 0.25 + (R() - 0.5) * 0.06, rec.top + 0.65 + R() * 0.2, rec.c[1] + (z - rec.c[1]) * 0.25 + (R() - 0.5) * 0.06);
+      const base0 = V(x, rec.top - 0.01, z);
+      const dir = tip.clone().sub(base0);
+      const L = dir.length();
+      b.addInst(G.cyl, M.cilia, mtx(base0, new THREE.Quaternion().setFromUnitVectors(UPV, dir.normalize()), V(0.008, L, 0.008)));
+    });
+  }
+
+  // Capas de un epitelio estratificado; cada capa: {h, sp, amp, mat, nuc:[rx,ry,rz], ...}
+  function strata(b, layers, g, bmT, R) {
+    let bot = (x, z) => g(x, z) + bmT;
+    let cum = bmT;
+    const out = [];
+    layers.forEach((L) => {
+      cum += L.h;
+      const c0 = cum, amp = L.amp || 0;
+      const top = (x, z) => c0 + g(x, z) * amp;
+      const lbot = bot;
+      const polys = voronoi(hexSeeds(L.sp, R, L.jit));
+      const expected = L.sp * L.sp * 0.866;
+      const specialPt = L.special ? L.special.at : null;
+      const recs = polys.map((poly) => {
+        const isSpecial = specialPt && inPoly(specialPt, poly);
+        let matrix = null;
+        const c = centroid(poly);
+        if (L.lift && !isSpecial && L.lift(c, R)) {
+          const yMid = (lbot(c[0], c[1]) + top(c[0], c[1])) / 2;
+          matrix = new THREE.Matrix4().makeTranslation(c[0], yMid + 0.05 + R() * 0.1, c[1])
+            .multiply(new THREE.Matrix4().makeRotationFromEuler(new THREE.Euler((R() - 0.5) * 0.35, 0, (R() - 0.5) * 0.35)))
+            .multiply(new THREE.Matrix4().makeTranslation(-c[0], -yMid, -c[1]));
+        }
+        if (isSpecial && L.special.lift) matrix = L.special.lift(c, lbot, top);
+        const rec = cell(b, poly, {
+          yb: lbot, yt: top, mat: isSpecial && L.special.mat ? L.special.mat : L.mat,
+          inset: L.inset, seg: L.flat ? 99 : 0.1, domeTop: L.dome, rings: 5,
+          lineKind: L.lineKind, lines: L.lines, matrix
+        });
+        rec.matrix = matrix;
+        const cellMat = isSpecial && L.special.mat ? L.special.mat : L.mat;
+        const opaque = !cellMat.transparent;
+        rec.fs = opaque && !matrix ? faceSpot(poly, 0.05) : null;
+        const nm = isSpecial && L.special.nucMat ? L.special.nucMat : (L.nucMat || M.nucleus);
+        if (L.nuc && rec.area > expected * 0.35) {
+          const [rx, ry, rz] = L.nuc;
+          if (opaque) {
+            // Bloque opaco: el núcleo se dibuja seccionado sobre la cara de corte
+            const fs = rec.fs, a = fs && (fs.face === 'front' || fs.face === 'back') ? rx : rz;
+            if (fs && fs.hi - fs.lo > a * 1.7) {
+              const y = lbot(fs.pt[0], fs.pt[1]) + (top(fs.pt[0], fs.pt[1]) - lbot(fs.pt[0], fs.pt[1])) * (L.nucAt || 0.5);
+              const dm = DECAL[nm === M.nucleusDense ? 'nucDense' : 'nuc'];
+              if (L.binuc && (isSpecial || R() < L.binuc) && fs.hi - fs.lo > a * 4.6) {
+                rec.nuc2 = decal(b, fs, fs.u + a * 1.12, y, a * 0.95, ry, dm);
+                rec.nuc = decal(b, fs, fs.u - a * 1.12, y, a * 0.95, ry, dm);
+              } else rec.nuc = decal(b, fs, fs.u, y, a * 0.95, ry, dm);
+            }
+          } else {
+            const [cx, cz] = rec.c;
+            const yb = lbot(cx, cz), yt = top(cx, cz);
+            const p = V(cx, yb + (yt - yb) * (L.nucAt || 0.5), cz);
+            if (matrix) p.applyMatrix4(matrix);
+            rec.nuc = nucleus(b, p.x, p.y, p.z, rx, ry, rz, nm, R() * Math.PI);
+          }
+        }
+        if (L.extra) L.extra(rec, lbot, top, isSpecial);
+        if (isSpecial) out.special = rec;
+        return rec;
+      });
+      out.push({ bot: lbot, top, recs, L });
+      bot = top;
+    });
+    return out;
+  }
+  // Cara de corte del bloque que atraviesa la célula (prioridad: frontal, derecha, izquierda, posterior)
+  const FACES = [['front', 1, D / 2, 0], ['right', 0, W / 2, 1], ['left', 0, -W / 2, 1], ['back', 1, -D / 2, 0]];
+  function faceSpot(poly, minLen) {
+    for (const [face, fixedIdx, val, axis] of FACES) {
+      const on = poly.filter((p) => Math.abs(p[fixedIdx] - val) < 1e-3);
+      if (on.length < 2) continue;
+      const vals = on.map((p) => p[axis]), lo = Math.min(...vals), hi = Math.max(...vals);
+      if (hi - lo < minLen) continue;
+      const u = (lo + hi) / 2;
+      return { face, lo, hi, u, pt: fixedIdx === 1 ? [u, val] : [val, u] };
+    }
+    return null;
+  }
+  const FACE_Q = {
+    front: new THREE.Quaternion(),
+    back: new THREE.Quaternion().setFromAxisAngle(UPV, Math.PI),
+    right: new THREE.Quaternion().setFromAxisAngle(UPV, Math.PI / 2),
+    left: new THREE.Quaternion().setFromAxisAngle(UPV, -Math.PI / 2)
+  };
+  // Elipse plana sobre una cara de corte (núcleo, teca de mucinógeno, gránulos seccionados)
+  function decal(b, fs, u, y, a, h, mat) {
+    const e = 0.004, f = fs.face || fs;
+    const p = f === 'front' ? V(u, y, D / 2 + e) : f === 'back' ? V(u, y, -D / 2 - e) : f === 'right' ? V(W / 2 + e, y, u) : V(-W / 2 - e, y, u);
+    b.addInst(G.disc, mat, mtx(p, FACE_Q[f], V(a, h, 1)));
+    return p;
+  }
+  // Vértices de la cara frontal donde se encuentran dos células (límites laterales en el corte)
+  function frontJunctions(polys) {
+    const xs = [];
+    polys.forEach((p) => p.forEach((v) => {
+      if (Math.abs(v[1] - D / 2) < 1e-3 && Math.abs(v[0]) < W / 2 - 0.02 && !xs.some((x) => Math.abs(x - v[0]) < 1e-3)) xs.push(v[0]);
+    }));
+    return xs.sort((a, c) => a - c);
+  }
+  const faceAt = (layerBot, layerTop, x, f) => V(x, layerBot(x, FZ) + (layerTop(x, FZ) - layerBot(x, FZ)) * (f == null ? 0.5 : f), FZ + 0.004);
+
+  // ---------- modelos ----------
+  const MODELS = {};
+
+  MODELS['simple-plano'] = (b) => {
+    const R = rng(11), bmT = 0.05, H = 0.06, y0 = bmT;
+    base(b, ZERO, bmT, { bmX: -2.5, tcX: 1.1 });
+    const recs = voronoi(hexSeeds(1.45, R, 0.32)).map((poly) => {
+      const rec = cell(b, poly, { yb: y0, yt: y0 + H, mat: M.cyto, inset: 0.996 });
+      if (rec.area > 0.6) {
+        const yaw = R() * Math.PI;
+        rec.nuc = nucleus(b, rec.c[0], y0 + H * 0.5 + 0.03, rec.c[1], 0.3, 0.07, 0.2, M.nucleus, yaw);
+        b.addInst(G.hemi, M.cyto, mtx(V(rec.nuc.x, y0 + H, rec.nuc.z), qYaw(yaw), V(0.42, 0.11, 0.3)));
+      }
+      return rec;
+    });
+    const withN = recs.filter((r) => r.nuc);
+    const nr = nearest(withN, 1.3, FZ - 0.6);
+    b.anchors.nucleo = V(nr.nuc.x, y0 + H + 0.1, nr.nuc.z);
+    const cr = nearest(withN.filter((r) => r !== nr), -0.9, FZ - 0.9);
+    const far = cr.poly.reduce((a, p) => (Math.hypot(p[0] - cr.c[0], p[1] - cr.c[1]) > Math.hypot(a[0] - cr.c[0], a[1] - cr.c[1]) ? p : a), cr.poly[0]);
+    b.anchors.celula = V(cr.c[0] + (far[0] - cr.c[0]) * 0.55, y0 + H, cr.c[1] + (far[1] - cr.c[1]) * 0.55);
+    b.anchors.citoplasma = V(0.35, y0 + H * 0.5, FZ + 0.004);
+    let best = null, bd = Infinity;
+    const lr = nearest(recs, 2.2, 0);
+    lr.poly.forEach((p, i) => {
+      const q = lr.poly[(i + 1) % lr.poly.length], m = [(p[0] + q[0]) / 2, (p[1] + q[1]) / 2];
+      if (Math.abs(m[0]) > W / 2 - 0.05 || Math.abs(m[1]) > D / 2 - 0.05) return;
+      const d = Math.hypot(m[0] - 2.6, m[1] - FZ);
+      if (d < bd) { bd = d; best = m; }
+    });
+    b.anchors.limite = V(best[0], y0 + H, best[1]);
+  };
+
+  MODELS['simple-cubico'] = (b) => {
+    const R = rng(17), bmT = 0.05, H = 0.7, y0 = bmT;
+    base(b, ZERO, bmT, { bmX: -2.4, tcX: 1.2 });
+    const S = strata(b, [{ h: H, sp: 0.74, jit: 0.26, mat: M.oSpin, nuc: [0.155, 0.15, 0.155], flat: true }], ZERO, bmT, R);
+    const recs = S[0].recs;
+    b.anchors.celula = V(0.95, y0 + H * 0.82, FZ + 0.004);
+    b.anchors.nucleo = nearest(recs.filter((r) => r.nuc && r.fs && r.fs.face === 'front'), -0.3, FZ).nuc.clone();
+    const ap = nearest(recs, -1.3, -0.1);
+    b.anchors.apical = V(ap.c[0], y0 + H, ap.c[1]);
+    const xs = frontJunctions(recs.map((r) => r.poly));
+    const vx = xs.reduce((a, x) => (Math.abs(x - 2.1) < Math.abs(a - 2.1) ? x : a), xs[0]);
+    b.anchors.lateral = V(vx, y0 + H * 0.3, FZ + 0.004);
+  };
+
+  MODELS['simple-cilindrico'] = (b, variant) => {
+    const R = rng(23), bmT = 0.06, H = 2.0, y0 = bmT, yt = y0 + H, cil = variant === 'ciliado';
+    base(b, ZERO, bmT, { bmX: -2.5, tcX: 1.3 });
+    const polys = voronoi(hexSeeds(0.5, R, 0.3));
+    const forcedPt = [0.45, FZ - 0.02];
+    const recs = polys.map((poly) => {
+      const forced = inPoly(forcedPt, poly);
+      const special = forced || R() < (cil ? 0.28 : 0.17);
+      const fs = faceSpot(poly, 0.12);
+      const w = fs ? (fs.hi - fs.lo) * 0.985 : 0;
+      let rec;
+      if (cil && special) {
+        rec = cell(b, poly, { yb: y0, yt, mat: M.oColDark, domeTop: 0.17, rings: 5, seg: 0.07 });
+        rec.kind = 'peg';
+        if (fs) rec.nuc = decal(b, fs, fs.u, y0 + H * 0.58, Math.min(0.085, w * 0.32), 0.25, DECAL.nucDense);
+      } else if (cil) {
+        rec = cell(b, poly, { yb: y0, yt, mat: M.oCol });
+        rec.kind = 'ciliada';
+        cilia(b, rec, R, 0.42, false);
+        if (fs) {
+          rec.nuc = decal(b, fs, fs.u, y0 + H * 0.4 + (R() - 0.5) * 0.12, Math.min(0.1, w * 0.32), 0.22, DECAL.nuc);
+          for (let u = fs.lo + 0.035; u < fs.hi - 0.03; u += 0.034) decal(b, fs, u, yt - 0.04, 0.012, 0.012, DECAL.body);
+        }
+      } else {
+        rec = cell(b, poly, { yb: y0, yt, mat: M.oCol });
+        if (special) {
+          rec.kind = 'goblet';
+          b.addInst(G.sphere, M.mucin, mtx(V(rec.c[0], yt + 0.02, rec.c[1]), Q0, V(0.1, 0.07, 0.1)));
+          if (fs) {
+            rec.mucin = decal(b, fs, fs.u, yt - 0.5, w * 0.4, 0.43, DECAL.mucin);
+            rec.nuc = decal(b, fs, fs.u, y0 + H * 0.3, w * 0.32, 0.07, DECAL.nucDense);
+          }
+        } else {
+          rec.kind = 'enterocito';
+          microvilli(b, rec, R);
+          if (fs) rec.nuc = decal(b, fs, fs.u, y0 + H * 0.3 + (R() - 0.5) * 0.1, Math.min(0.095, w * 0.3), 0.24, DECAL.nuc);
+        }
+      }
+      rec.fs = fs; rec.forced = forced;
+      return rec;
+    });
+    const frontOf = (kinds) => recs.filter((r) => kinds.includes(r.kind) && r.fs && r.fs.face === 'front' && r.nuc);
+    const spec = recs.find((r) => r.forced);
+    if (cil) {
+      const cc = nearest(frontOf(['ciliada']), -0.6, FZ);
+      b.anchors.cilios = V(cc.fs.u + 0.12, yt + 0.33, FZ - 0.08);
+      b.anchors.cuerpos = V(cc.fs.u, yt - 0.04, FZ + 0.006);
+      b.anchors.ciliada = V(nearest(frontOf(['ciliada']), -1.8, FZ).fs.u, y0 + H * 0.75, FZ + 0.004);
+      b.anchors.clavija = V(spec.c[0], spec.top - 0.01, spec.c[1]);
+      b.anchors.nucleo = nearest(frontOf(['ciliada']), 1.6, FZ).nuc.clone();
+    } else {
+      const mv = nearest(frontOf(['enterocito']), -0.6, FZ);
+      b.anchors.chapa = V(mv.fs.u, yt + 0.07, FZ - 0.06);
+      b.anchors.enterocito = V(nearest(frontOf(['enterocito']), -1.8, FZ).fs.u, y0 + H * 0.68, FZ + 0.004);
+      b.anchors.nucleo = nearest(frontOf(['enterocito']), 1.6, FZ).nuc.clone();
+      b.anchors.caliciforme = V(spec.fs.u, y0 + H * 0.12, FZ + 0.004);
+      b.anchors.mucinogeno = spec.mucin.clone();
+      // Complejo de unión: marca oscura en el extremo apical de cada límite lateral
+      const xs = frontJunctions(polys);
+      xs.forEach((x) => decal(b, 'front', x, yt - 0.06, 0.02, 0.035, DECAL.junction));
+      const jx = xs.reduce((a, x) => (Math.abs(x + 1.25) < Math.abs(a + 1.25) ? x : a), xs[0]);
+      b.anchors.union = V(jx, yt - 0.06, FZ + 0.006);
+    }
+  };
+
+  MODELS['pseudo'] = (b, variant) => {
+    const cil = variant !== 'estereocilios';
+    const R = rng(37), bmT = cil ? 0.14 : 0.06, H = 2.6, y0 = bmT, yt = y0 + H;
+    base(b, ZERO, bmT, { bmX: -2.5, tcX: 1.3 });
+    const polys = voronoi(hexSeeds(0.52, R, 0.3));
+    const forcedPt = [0.55, FZ - 0.02];
+    const recs = polys.map((poly) => {
+      const forced = inPoly(forcedPt, poly);
+      const goblet = cil && (forced || R() < 0.17);
+      const fs = faceSpot(poly, 0.12);
+      const sb = goblet ? 0.32 : 0.42;
+      // Las células altas se estrechan hacia la base; en la cara de corte el estrechamiento ocurre en el plano del corte
+      const rec = cell(b, poly, { yb: y0, yt, mat: M.oColBack, shrinkBot: sb, about: fs ? fs.pt : null });
+      const width = (t) => (fs ? (fs.hi - fs.lo) * 0.985 * (sb + (1 - sb) * t) : 0);
+      rec.fs = fs; rec.forced = forced;
+      if (goblet) {
+        rec.kind = 'goblet';
+        b.addInst(G.sphere, M.mucin, mtx(V(rec.c[0], yt + 0.02, rec.c[1]), Q0, V(0.1, 0.07, 0.1)));
+        if (fs) {
+          const tm = (yt - 0.6 - y0) / H;
+          rec.mucin = decal(b, fs, fs.u, yt - 0.6, width(tm) * 0.4, 0.48, DECAL.mucin);
+          rec.nuc = decal(b, fs, fs.u, y0 + H * 0.36, width(0.36) * 0.36, 0.075, DECAL.nucDense);
+        }
+      } else {
+        rec.kind = 'tall';
+        const t = cil ? 0.42 + R() * 0.22 : 0.3 + R() * 0.14;
+        if (fs) rec.nuc = decal(b, fs, fs.u, y0 + H * t, Math.min(0.09, width(t) * 0.36), 0.22, DECAL.nuc);
+        if (cil) cilia(b, rec, R, 0.44, false); else stereocilia(b, rec, R);
+      }
+      return rec;
+    });
+    // Relleno apenas por detrás de cada cara: representa las porciones de células vecinas vistas entre las bases estrechas
+    [[0, FZ - 0.012, 0, W], [0, -FZ + 0.012, Math.PI, W], [W / 2 - 0.012, 0, Math.PI / 2, D], [-W / 2 + 0.012, 0, -Math.PI / 2, D]].forEach(([x, z, ry, len]) => {
+      const pl = new THREE.PlaneGeometry(len - 0.024, H);
+      pl.rotateY(ry); pl.translate(x, y0 + H / 2, z);
+      b.group.add(new THREE.Mesh(pl, M.oFill));
+    });
+    // Células basales: ocupan los espacios entre las bases estrechas de las células altas
+    const verts = [];
+    polys.forEach((p) => p.forEach((v) => {
+      const onF = Math.abs(v[1] - D / 2) < 1e-3 || Math.abs(Math.abs(v[0]) - W / 2) < 1e-3 || Math.abs(v[1] + D / 2) < 1e-3;
+      const corner = Math.abs(Math.abs(v[0]) - W / 2) < 0.15 && Math.abs(Math.abs(v[1]) - D / 2) < 0.15;
+      if (!onF || corner) return;
+      if (!verts.some((u) => Math.hypot(u[0] - v[0], u[1] - v[1]) < 0.05)) verts.push(v);
+    }));
+    const basals = [];
+    verts.forEach((v) => {
+      const a0 = R() * Math.PI;
+      const poly = clipRect(Array.from({ length: 6 }, (_, k) => [v[0] + Math.cos(a0 + k * Math.PI / 3) * 0.17, v[1] + Math.sin(a0 + k * Math.PI / 3) * 0.17]));
+      if (poly.length < 3) return;
+      const fs = faceSpot(poly, 0.05);
+      if (!fs) return;
+      cell(b, poly, { yb: y0, yt: y0 + 0.56, mat: M.oBasal, shrinkTop: 0.45, about: fs.pt });
+      basals.push({ fs, nuc: decal(b, fs, fs.u, y0 + 0.2, 0.085, 0.08, DECAL.nuc) });
+    });
+    const front = recs.filter((r) => r.kind === 'tall' && r.fs && r.fs.face === 'front' && r.nuc);
+    const fc = nearest(front, -1.0, FZ);
+    b.anchors.basal = nearest(basals.filter((q) => q.fs.face === 'front').map((q) => Object.assign(q, { c: [q.nuc.x, FZ] })), 1.5, FZ).nuc.clone();
+    b.anchors.alturas = nearest(front, 2.0, FZ).nuc.clone();
+    if (cil) {
+      b.anchors.cilios = V(fc.fs.u + 0.12, yt + 0.38, FZ - 0.1);
+      b.anchors.ciliada = V(nearest(front, -1.9, FZ).fs.u, y0 + H * 0.82, FZ + 0.004);
+      b.anchors.caliciforme = recs.find((r) => r.forced).mucin.clone();
+    } else {
+      b.anchors.estereocilios = V(fc.fs.u, yt + 0.55, FZ - 0.12);
+      b.anchors.principal = V(nearest(front, -1.9, FZ).fs.u, y0 + H * 0.78, FZ + 0.004);
+    }
+  };
+
+  const papillae = (A, lam, ph) => (x, z) => {
+    const s = 0.5 + 0.5 * Math.cos(2 * Math.PI * (x - ph) / lam);
+    return A * Math.pow(s, 3) * (0.78 + 0.22 * Math.cos(2 * Math.PI * z / 2.6 + x * 0.7));
+  };
+
+  MODELS['estr-plano-q'] = (b) => {
+    const R = rng(41), bmT = 0.05, PH = 0.3, LAM = 2.6;
+    const g = papillae(0.75, LAM, PH);
+    base(b, g, bmT, { bmX: 1.6, tcX: -0.7 });
+    const melPt = [-0.55, FZ - 0.01];
+    const capsOn = (rec) => {
+      if (!rec.nuc || !rec.fs || R() > 0.45) return;
+      const u0 = rec.fs.face === 'front' || rec.fs.face === 'back' ? rec.nuc.x : rec.nuc.z;
+      for (let k = 0; k < 6; k++) decal(b, rec.fs, u0 + (R() - 0.5) * 0.14, rec.nuc.y + 0.17 + R() * 0.05, 0.016, 0.016, DECAL.melanin);
+    };
+    const granules = (rec, bot, top) => {
+      const fs = rec.fs;
+      if (!fs) return;
+      const n = Math.round((fs.hi - fs.lo) * 22);
+      for (let k = 0; k < n; k++) {
+        const u = fs.lo + 0.03 + R() * (fs.hi - fs.lo - 0.06);
+        const xz = fs.face === 'front' || fs.face === 'back' ? [u, fs.pt[1]] : [fs.pt[0], u];
+        const yb = bot(xz[0], xz[1]), yt = top(xz[0], xz[1]);
+        decal(b, fs, u, yb + 0.03 + R() * Math.max(0.01, yt - yb - 0.06), 0.018, 0.018, DECAL.granule);
+      }
+    };
+    const layers = [
+      { h: 0.42, sp: 0.38, amp: 0.92, mat: M.oBasal, nuc: [0.1, 0.15, 0.1], extra: (rec, bot, top, sp) => { if (!sp) capsOn(rec); },
+        special: { at: melPt, mat: M.oMelano, nucMat: M.nucleusDense } },
+      { h: 0.4, sp: 0.55, amp: 0.75, mat: M.oSpin, nuc: [0.13, 0.12, 0.13] },
+      { h: 0.4, sp: 0.58, amp: 0.55, mat: M.oSpin, nuc: [0.13, 0.12, 0.13] },
+      { h: 0.4, sp: 0.62, amp: 0.38, mat: M.oSpin, nuc: [0.13, 0.11, 0.13] },
+      { h: 0.2, sp: 0.85, amp: 0.22, mat: M.oGran, nuc: [0.12, 0.045, 0.1], nucMat: M.nucleusDense, extra: granules },
+      { h: 0.2, sp: 0.95, amp: 0.12, mat: M.oGran, nuc: [0.11, 0.04, 0.09], nucMat: M.nucleusDense, extra: granules },
+      { h: 0.1, sp: 3.0, amp: 0.05, mat: M.oLucid, inset: 1, lines: false }
+    ];
+    for (let k = 0; k < 7; k++) {
+      layers.push({ h: 0.065, sp: 1.2 + (k % 2) * 0.15, amp: 0, mat: M.oKer, flat: true, lineKind: 'faint', inset: 0.99,
+        lift: k >= 5 ? (c) => c[1] > -0.4 && R() < 0.35 : null,
+        special: k === 6 ? { at: [1.5, FZ - 0.35], lift: (c, bot, top) => {
+          const yMid = (bot(c[0], c[1]) + top(c[0], c[1])) / 2;
+          return new THREE.Matrix4().makeTranslation(c[0], yMid + 0.2, c[1])
+            .multiply(new THREE.Matrix4().makeRotationFromEuler(new THREE.Euler(0.22, 0, -0.18)))
+            .multiply(new THREE.Matrix4().makeTranslation(-c[0], -yMid, -c[1]));
+        } } : null });
+    }
+    const S = strata(b, layers, g, bmT, R);
+    // Melanocito: prolongaciones dendríticas con melanina
+    const mel = S[0].recs.find((r) => inPoly(melPt, r.poly));
+    if (mel && mel.nuc) {
+      const st = mel.nuc.clone();
+      st.z = FZ - 0.006;
+      [[0.42, 0.8, 0], [-0.38, 0.9, 0], [0.08, 1.05, -0.02], [0.3, 0.55, -0.3]].forEach(([dx, dy, dz]) => {
+        const mid = st.clone().add(V(dx * 0.4, dy * 0.5, dz * 0.4));
+        const end = st.clone().add(V(dx, dy, dz));
+        const curve = new THREE.CatmullRomCurve3([st, mid, end]);
+        b.group.add(new THREE.Mesh(new THREE.TubeGeometry(curve, 14, 0.026, 6, false), M.melaninFree));
+        for (let t = 0.3; t <= 1; t += 0.12) {
+          const p = curve.getPoint(t);
+          b.addInst(G.small, M.melaninFree, mtx(p.add(V((R() - 0.5) * 0.05, 0, 0)), Q0, V(0.034, 0.034, 0.034)));
+        }
+      });
+      b.anchors.melanocito = mel.nuc.clone();
+    }
+    const cornBot = S[7].bot, cornTop = S[13].top;
+    b.anchors.corneo = faceAt(cornBot, cornTop, -2.0, 0.45);
+    b.anchors.lucido = faceAt(S[6].bot, S[6].top, 2.25, 0.5);
+    b.anchors.granuloso = faceAt(S[4].bot, S[5].top, -2.15, 0.5);
+    b.anchors.espinoso = faceAt(S[1].bot, S[3].top, 2.3, 0.5);
+    b.anchors.basal = faceAt(S[0].bot, S[0].top, -1.0, 0.5);
+    const sq = S.special;
+    if (sq) {
+      const p = V(sq.c[0], (sq.yb + sq.yt) / 2, sq.c[1]).applyMatrix4(sq.matrix);
+      b.anchors.descamacion = p;
+    }
+    b.anchors.papila = V(PH, g(PH, FZ) * 0.45, FZ + 0.004);
+  };
+
+  MODELS['estr-plano-nq'] = (b) => {
+    const R = rng(53), bmT = 0.05, PH = 0.2, LAM = 2.5;
+    const g = papillae(0.7, LAM, PH);
+    base(b, g, bmT, { bmX: -1.05, tcX: -0.6 });
+    const layers = [
+      { h: 0.4, sp: 0.38, amp: 0.92, mat: M.oBasal, nuc: [0.1, 0.14, 0.1] },
+      { h: 0.42, sp: 0.55, amp: 0.72, mat: M.oSpin, nuc: [0.13, 0.12, 0.13] },
+      { h: 0.42, sp: 0.6, amp: 0.52, mat: M.oSpin, nuc: [0.13, 0.12, 0.13] },
+      { h: 0.4, sp: 0.66, amp: 0.34, mat: M.oSpin, nuc: [0.13, 0.11, 0.13] },
+      { h: 0.36, sp: 0.72, amp: 0.18, mat: M.oSpin, nuc: [0.13, 0.1, 0.13] },
+      { h: 0.2, sp: 0.88, amp: 0.08, mat: M.oSup, nuc: [0.13, 0.045, 0.1], nucMat: M.nucleusDense },
+      { h: 0.15, sp: 1.02, amp: 0.03, mat: M.oSup, nuc: [0.13, 0.04, 0.1], nucMat: M.nucleusDense },
+      { h: 0.12, sp: 1.15, amp: 0, mat: M.oSup, nuc: [0.1, 0.03, 0.09], nucMat: M.nucleusDense, flat: true,
+        special: { at: [-1.3, FZ - 0.45], lift: (c, bot, top) => {
+          const yMid = (bot(c[0], c[1]) + top(c[0], c[1])) / 2;
+          return new THREE.Matrix4().makeTranslation(c[0], yMid + 0.22, c[1])
+            .multiply(new THREE.Matrix4().makeRotationFromEuler(new THREE.Euler(0.25, 0, 0.2)))
+            .multiply(new THREE.Matrix4().makeTranslation(-c[0], -yMid, -c[1]));
+        } } }
+    ];
+    const S = strata(b, layers, g, bmT, R);
+    b.anchors.basal = faceAt(S[0].bot, S[0].top, 1.45, 0.5);
+    b.anchors.intermedio = faceAt(S[1].bot, S[4].top, -2.15, 0.5);
+    b.anchors.superficial = faceAt(S[5].bot, S[7].top, 2.3, 0.55);
+    const sq = S.special;
+    if (sq) b.anchors.descamacion = (sq.nuc ? sq.nuc.clone() : V(sq.c[0], (sq.yb + sq.yt) / 2, sq.c[1]).applyMatrix4(sq.matrix));
+    b.anchors.papila = V(PH, g(PH, FZ) * 0.45, FZ + 0.004);
+  };
+
+  MODELS['estr-cubico'] = (b) => {
+    const R = rng(61), bmT = 0.05;
+    base(b, ZERO, bmT, { bmX: -0.6, tcX: 1.3 });
+    const S = strata(b, [
+      { h: 0.56, sp: 0.6, mat: M.oBasal, nuc: [0.13, 0.125, 0.13], flat: true },
+      { h: 0.6, sp: 0.64, mat: M.oSpin, nuc: [0.14, 0.13, 0.14], flat: true }
+    ], ZERO, bmT, R);
+    b.anchors.superficial = faceAt(S[1].bot, S[1].top, -1.85, 0.75);
+    b.anchors.basal = faceAt(S[0].bot, S[0].top, 1.95, 0.3);
+    const nr = nearest(S[1].recs.filter((r) => r.nuc), 0.4, FZ - 0.25);
+    b.anchors.nucleo = nr.nuc.clone();
+    const tp = nearest(S[1].recs, -0.4, -0.2);
+    b.anchors.luz = V(tp.c[0], tp.yt, tp.c[1]);
+  };
+
+  MODELS['estr-cilindrico'] = (b) => {
+    const R = rng(67), bmT = 0.05;
+    base(b, ZERO, bmT, { bmX: -0.5, tcX: 1.3 });
+    const S = strata(b, [
+      { h: 0.4, sp: 0.42, mat: M.oBasal, nuc: [0.1, 0.1, 0.1], flat: true },
+      { h: 0.38, sp: 0.5, mat: M.oBasal, nuc: [0.11, 0.1, 0.11], flat: true },
+      { h: 1.5, sp: 0.5, mat: M.oCol, nuc: [0.1, 0.24, 0.1], nucAt: 0.33, flat: true }
+    ], ZERO, bmT, R);
+    b.anchors.superficial = faceAt(S[2].bot, S[2].top, -1.6, 0.72);
+    const nr = nearest(S[2].recs.filter((r) => r.nuc), 0.8, FZ - 0.2);
+    b.anchors.nucleo = nr.nuc.clone();
+    b.anchors.basales = faceAt(S[0].bot, S[1].top, 2.0, 0.5);
+  };
+
+  MODELS['transicional'] = (b, variant) => {
+    const R = rng(71), bmT = 0.05, dist = variant === 'distendido';
+    base(b, ZERO, bmT, { bmX: 0.55, tcX: 1.6 });
+    const binPt = [1.0, FZ - 0.01];
+    const umb = dist
+      ? { h: 0.2, sp: 1.9, mat: M.oUmb, nuc: [0.22, 0.055, 0.18], dome: 0.06, flat: true, binuc: 0.3, special: { at: binPt } }
+      : { h: 0.55, sp: 1.25, mat: M.oUmb, nuc: [0.17, 0.15, 0.17], nucAt: 0.45, dome: 0.32, flat: true, binuc: 0.3, special: { at: binPt } };
+    const layers = dist
+      ? [
+          { h: 0.22, sp: 0.55, mat: M.oBasal, nuc: [0.11, 0.075, 0.11], flat: true },
+          { h: 0.24, sp: 0.95, mat: M.oSpin, nuc: [0.15, 0.075, 0.14], flat: true },
+          umb
+        ]
+      : [
+          { h: 0.36, sp: 0.42, mat: M.oBasal, nuc: [0.1, 0.12, 0.1], flat: true },
+          { h: 0.42, sp: 0.55, mat: M.oSpin, nuc: [0.12, 0.14, 0.12], flat: true },
+          { h: 0.42, sp: 0.62, mat: M.oSpin, nuc: [0.13, 0.14, 0.13], flat: true },
+          { h: 0.42, sp: 0.7, mat: M.oSpin, nuc: [0.13, 0.14, 0.13], flat: true },
+          umb
+        ];
+    const S = strata(b, layers, ZERO, bmT, R);
+    const U = S[S.length - 1];
+    // Placas de uroplaquina: casquete apical engrosado de cada célula en paraguas
+    U.recs.forEach((rec) => {
+      cell(b, rec.poly, { yb: (x, z) => U.top(x, z) - 0.04, yt: (x, z) => U.top(x, z) + 0.004, domeTop: umb.dome, domeBot: umb.dome, rings: 5, mat: M.oCap, lines: false, inset: 0.986 });
+    });
+    b.anchors.paraguas = faceAt(U.bot, U.top, -1.3, 0.5);
+    const pl = nearest(U.recs, -0.2, 0.1);
+    b.anchors.placas = V(pl.c[0], pl.top + 0.01, pl.c[1]);
+    const bn = S.special;
+    if (bn && bn.nuc) b.anchors.binucleada = bn.nuc.clone();
+    b.anchors.intermedias = faceAt(S[1].bot, S[S.length - 2].top, 2.25, 0.5);
+    b.anchors.basales = faceAt(S[0].bot, S[0].top, -2.25, 0.5);
+  };
+
+  // ---------- escena, cámara y rótulos ----------
+  let current = { id: null, variant: null, labels: true };
+  let model = null, labelItems = [], hotKey = null, dirty = true;
+  const DEFAULT_DIR = V(0.45, 0.46, 1).normalize();
+  const svg = document.getElementById('leaders');
+  const labelsEl = document.getElementById('labels');
+  const NS = 'http://www.w3.org/2000/svg';
+  let fitInfo = null, tween = null;
+
+  function disposeModel() {
+    if (!model) return;
+    model.traverse((o) => { if (o.geometry && !o.geometry.userData.shared) o.geometry.dispose(); if (o.isInstancedMesh) o.dispose(); });
+    scene.remove(model);
+    model = null;
+  }
+
+  function buildModel(id, variant) {
+    disposeModel();
+    const b = new Builder();
+    MODELS[id](b, variant);
+    model = b.finish();
+    scene.add(model);
+    model.updateMatrixWorld(true);
+    const box = new THREE.Box3();
+    model.traverse((o) => {
+      if (o.isMesh && !o.isInstancedMesh) {
+        o.geometry.computeBoundingBox();
+        box.union(o.geometry.boundingBox.clone().applyMatrix4(o.matrixWorld));
+      }
+    });
+    Object.values(b.anchors).forEach((a) => box.expandByPoint(a));
+    fitInfo = { box, center: box.getCenter(new THREE.Vector3()) };
+    return b.anchors;
+  }
+
+  const colW = (w) => Math.round(Math.min(215, Math.max(140, w * 0.21)));
+  const isNarrow = () => stage.clientWidth < 640;
+
+  // Distancia que encuadra las 8 esquinas del bloque, dejando espacio lateral para los rótulos
+  function fitDistance(dir, target) {
+    const w = stage.clientWidth || 600, h = stage.clientHeight || 400;
+    const wide = current.labels && !isNarrow();
+    const ax = wide ? Math.max(0.36, (w - 2 * (colW(w) + 18)) / w) : (current.labels ? 0.84 : 0.9);
+    const ay = current.labels ? 0.8 : 0.86;
+    const bx = fitInfo.box, pts = [];
+    [bx.min.x, bx.max.x].forEach((x) => [bx.min.y, bx.max.y].forEach((y) => [bx.min.z, bx.max.z].forEach((z) => pts.push(V(x, y, z)))));
+    const cam = camera.clone();
+    let d = bx.getSize(new THREE.Vector3()).length() * 2;
+    for (let i = 0; i < 8; i++) {
+      cam.position.copy(target).addScaledVector(dir, d);
+      cam.lookAt(target);
+      cam.updateMatrixWorld();
+      let m = 0;
+      pts.forEach((p) => { const q = p.clone().project(cam); m = Math.max(m, Math.abs(q.x) / ax, Math.abs(q.y) / ay); });
+      d *= 0.35 + 0.65 * m;
+    }
+    return d;
+  }
+
+  function frame(resetDir, animate) {
+    if (!fitInfo) return;
+    const target = fitInfo.center.clone();
+    const dir = resetDir ? DEFAULT_DIR.clone() : camera.position.clone().sub(controls.target).normalize();
+    const to = target.clone().addScaledVector(dir, fitDistance(dir, target));
+    if (animate && !reduced) {
+      tween = { t0: performance.now(), fromP: camera.position.clone(), fromT: controls.target.clone(), toP: to, toT: target };
+    } else {
+      controls.target.copy(target); camera.position.copy(to); controls.update(); dirty = true;
+    }
+  }
+
+  function buildLabels(structs, anchors) {
+    labelsEl.textContent = '';
+    while (svg.firstChild) svg.removeChild(svg.firstChild);
+    labelItems = [];
+    structs.forEach((s, i) => {
+      const a = anchors[s.k];
+      if (!a) return;
+      const el = document.createElement('div');
+      el.className = 'callout';
+      const n = document.createElement('span'); n.className = 'cn'; n.textContent = String(i + 1);
+      const t = document.createElement('span'); t.className = 'ct'; t.textContent = s.t;
+      el.append(n, t);
+      labelsEl.appendChild(el);
+      const path = document.createElementNS(NS, 'path');
+      const dot = document.createElementNS(NS, 'circle'); dot.setAttribute('r', '3.4');
+      svg.append(path, dot);
+      labelItems.push({ k: s.k, el, path, dot, anchor: a, h: 0 });
+    });
+    measure();
+    applyHot();
+  }
+
+  function measure() {
+    const narrow = isNarrow();
+    labelsEl.classList.toggle('narrow', narrow);
+    const cw = colW(stage.clientWidth);
+    labelItems.forEach((L) => { L.el.style.width = narrow ? '' : cw + 'px'; });
+    labelItems.forEach((L) => { L.h = L.el.offsetHeight; });
+    dirty = true;
+  }
+
+  function applyHot() {
+    labelItems.forEach((L) => {
+      const on = L.k === hotKey;
+      L.el.classList.toggle('hot', on);
+      L.path.classList.toggle('hot', on);
+      L.dot.classList.toggle('hot', on);
+    });
+  }
+
+  const tmp = new THREE.Vector3();
+  function layoutLabels() {
+    if (!current.labels || !labelItems.length) return;
+    const w = stage.clientWidth, h = stage.clientHeight;
+    const narrow = isNarrow();
+    const proj = labelItems.map((L) => {
+      tmp.copy(L.anchor).project(camera);
+      return { L, x: (tmp.x * 0.5 + 0.5) * w, y: (-tmp.y * 0.5 + 0.5) * h };
+    });
+    if (narrow) {
+      proj.forEach(({ L, x, y }) => {
+        L.el.style.transform = `translate(${(x - 10).toFixed(1)}px, ${(y - 10).toFixed(1)}px)`;
+        L.path.setAttribute('d', '');
+        L.dot.setAttribute('cx', '-20'); L.dot.setAttribute('cy', '-20');
+      });
+      return;
+    }
+    tmp.copy(controls.target).project(camera);
+    const cx = (tmp.x * 0.5 + 0.5) * w;
+    const pad = 10, gap = 5, cw = colW(w);
+    const place = (list, left) => {
+      list.sort((a, b) => a.y - b.y);
+      let prev = pad - gap;
+      list.forEach((p) => { p.top = Math.max(p.y - p.L.h / 2, prev + gap); prev = p.top + p.L.h; });
+      let limit = h - pad;
+      for (let i = list.length - 1; i >= 0; i--) { const p = list[i]; if (p.top + p.L.h > limit) p.top = limit - p.L.h; limit = p.top - gap; }
+      list.forEach((p) => {
+        const lx = left ? pad : w - pad - cw;
+        p.L.el.classList.toggle('left', left);
+        p.L.el.style.transform = `translate(${lx}px, ${p.top.toFixed(1)}px)`;
+        const ex = left ? pad + cw : w - pad - cw, ey = p.top + p.L.h / 2;
+        const elbow = left ? ex + 12 : ex - 12;
+        p.L.path.setAttribute('d', `M${ex},${ey.toFixed(1)} L${elbow},${ey.toFixed(1)} L${p.x.toFixed(1)},${p.y.toFixed(1)}`);
+        p.L.dot.setAttribute('cx', p.x.toFixed(1)); p.L.dot.setAttribute('cy', p.y.toFixed(1));
+      });
+    };
+    place(proj.filter((p) => p.x < cx), true);
+    place(proj.filter((p) => p.x >= cx), false);
+  }
+
+  function setLabelsVisible(on) {
+    labelsEl.hidden = !on; svg.style.display = on ? '' : 'none';
+  }
+
+  function resize() {
+    const w = stage.clientWidth, h = stage.clientHeight;
+    if (!w || !h) return;
+    renderer.setSize(w, h, false);
+    camera.aspect = w / h;
+    camera.updateProjectionMatrix();
+    measure();
+    dirty = true;
+  }
+  new ResizeObserver(() => { const wasNarrow = labelsEl.classList.contains('narrow'); resize(); if (wasNarrow !== isNarrow()) frame(false, false); }).observe(stage);
+
+  function update(st) {
+    if (!st) return;
+    const modelChanged = st.id !== current.id;
+    const variantChanged = st.variant !== current.variant;
+    const labelsChanged = st.labels !== current.labels;
+    current = { id: st.id, variant: st.variant, labels: st.labels };
+    if (modelChanged || variantChanged) {
+      const anchors = buildModel(st.id, st.variant);
+      buildLabels(st.estructuras, anchors);
+      frame(modelChanged, false);
+    } else if (labelsChanged) {
+      frame(false, true);
+    }
+    setLabelsVisible(st.labels);
+    dirty = true;
+  }
+
+  function highlight(k) { hotKey = k; applyHot(); dirty = true; }
+
+  window.EPI3D = { update, highlight, reset: () => frame(true, true) };
+  resize();
+  update(window.EPI_STATE);
+  if (document.fonts && document.fonts.ready) document.fonts.ready.then(() => { measure(); });
+
+  controls.addEventListener('change', () => { dirty = true; });
+  const ease = (t) => 1 - Math.pow(1 - t, 3);
+  (function loop() {
+    requestAnimationFrame(loop);
+    if (tween) {
+      const t = Math.min(1, (performance.now() - tween.t0) / 450), e = ease(t);
+      camera.position.lerpVectors(tween.fromP, tween.toP, e);
+      controls.target.lerpVectors(tween.fromT, tween.toT, e);
+      if (t >= 1) tween = null;
+      dirty = true;
+    }
+    controls.update();
+    if (dirty) {
+      dirty = false;
+      renderer.render(scene, camera);
+      layoutLabels();
+    }
+  })();
+})();
+</script>
+</body>
+</html>
