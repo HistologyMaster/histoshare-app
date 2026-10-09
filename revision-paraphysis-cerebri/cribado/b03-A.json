@@ -1,0 +1,508 @@
+{
+ "batch": "b03",
+ "reviewer": "A",
+ "decisions": [
+  {
+   "rid": "R095",
+   "decision": "exclude",
+   "reason_code": "general_clinical",
+   "reason": "Italian surgical/radiological survey of anterior third-ventricle tumours (PubMed MeSH: diagnosis, radiography); title does not name paraphysis or histogenesis; no abstract.",
+   "dims": [
+    "pathology"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R096",
+   "decision": "include_B",
+   "reason_code": "context_clinical_histogenesis",
+   "reason": "First EM study of a third-ventricle colloid cyst (ependymal/epithelial origin per citing literature); histogenesis evidence needed to weigh the paraphyseal-origin hypothesis (clinical question); paraphysis not named, content unverified.",
+   "dims": [
+    "histology",
+    "pathology"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R097",
+   "decision": "include_A",
+   "reason_code": "paraphysis_principal",
+   "reason": "Title: ultrastructural analysis of the paraphysis cerebri in newts; paraphysis is the principal subject (histology/ultrastructure, urodele); content unverified, no abstract.",
+   "dims": [
+    "anatomy",
+    "histology",
+    "phylogeny"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R098",
+   "decision": "include_A",
+   "reason_code": "clinical_origin",
+   "reason": "Title names 'paraphysial cyst of third ventricle' (case report adopting paraphyseal-origin label); content unverified, no abstract.",
+   "dims": [
+    "pathology",
+    "terminology_history"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R099",
+   "decision": "include_A",
+   "reason_code": "paraphysis_data",
+   "reason": "Title (as recorded from a catalogue summary, not verbatim) names vascular supply of epiphysis and paraphysis in reptiles; probably the same chapter as R103 (Lierse, PBR 10); content and exact title unverified.",
+   "dims": [
+    "anatomy",
+    "phylogeny"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R100",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Volume-level record of a pineal (epiphysis cerebri) proceedings book; not paraphysis-specific; any paraphysis chapter is captured by chapter-level records (R099/R103).",
+   "dims": [
+    "terminology_history"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R101",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Volume-level record (PBR vol 10, pineal); only one chapter touches the paraphysis and that chapter is screened separately (R099/R103); volume itself is generic pineal literature.",
+   "dims": [
+    "phylogeny"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R102",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Comparative EM of the teleost saccus dorsalis; no indication it compares itself with the paraphysis; title/MeSH give no paraphysis link.",
+   "dims": [
+    "histology",
+    "phylogeny"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R103",
+   "decision": "uncertain",
+   "reason_code": "insufficient_info",
+   "reason": "Lierse 1965 blood supply of epiphysis and 'para-epiphysis' in reptiles; para-epiphysis may mean parapineal or paraphysis (R099 summary wording suggests paraphysis). Resolve by opening the chapter (PBR 10:183-92) to see what 'Paraepiphyse' denotes.",
+   "dims": [
+    "anatomy",
+    "terminology_history"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R104",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Generic EM development of chick telencephalic choroid plexus; no paraphysis link in title/MeSH; no abstract.",
+   "dims": [
+    "histology",
+    "ontogeny"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R105",
+   "decision": "uncertain",
+   "reason_code": "insufficient_info",
+   "reason": "Nieuwenhuys 1965 forebrain of Latimeria: a whole-forebrain description that may report presence/absence of a paraphysis or roof structures (phylogeny), but title is ambiguous and no abstract. Resolve by checking the text for paraphysis/tela choroidea.",
+   "dims": [
+    "anatomy",
+    "phylogeny"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R106",
+   "decision": "include_B",
+   "reason_code": "context_clinical_histogenesis",
+   "reason": "Colloid (neuroepithelial) cyst pathogenesis and relation to choroid plexus/ependyma by the group that classed paraphysis as extraventricular choroid plexus; histogenesis paper needed to weigh paraphyseal hypothesis (clinical); paraphysis content unverified, no abstract.",
+   "dims": [
+    "ontogeny",
+    "pathology",
+    "terminology_history"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R107",
+   "decision": "include_A",
+   "reason_code": "paraphysis_principal",
+   "reason": "Title: ontogenesis and function of the amphibian paraphysis (MeSH: glycogen, CSF, metamorphosis, thyroid); principal subject; content unverified, no abstract.",
+   "dims": [
+    "ontogeny",
+    "physiology",
+    "phylogeny"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R108",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Generic comparative pineal-complex histology review; title does not name paraphysis/dorsal sac; any paraphysis link is speculative.",
+   "dims": [
+    "histology",
+    "phylogeny"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R109",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Generic EM of Necturus choroid plexuses; no paraphysis comparison indicated in title/MeSH.",
+   "dims": [
+    "histology"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R110",
+   "decision": "include_A",
+   "reason_code": "paraphysis_principal",
+   "reason": "Comparative histology of paraphysis and choroid plexus in amphibians, reptiles and sharks; concludes paraphysis is a modified (extraventricular) choroid plexus and that the velum transversum is an arbitrary boundary; principal homology/terminology paper.",
+   "dims": [
+    "anatomy",
+    "histology",
+    "phylogeny",
+    "terminology_history"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R111",
+   "decision": "include_A",
+   "reason_code": "paraphysis_data",
+   "reason": "Histogenesis of human choroid plexus; explicitly reanalyses the paraphysis as extraventricular choroid plexus (common neuroepithelial origin), rudimentary and inconstant in man; explicit analysis of the human paraphysis.",
+   "dims": [
+    "histology",
+    "ontogeny",
+    "phylogeny",
+    "terminology_history"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R112",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Generic chick choroid plexus morphological development; no paraphysis link.",
+   "dims": [
+    "histology",
+    "ontogeny"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R113",
+   "decision": "include_A",
+   "reason_code": "paraphysis_principal",
+   "reason": "Title: comparative embryology of the paraphysis in birds (canary, duck, chick per MeSH); principal ontogeny/phylogeny paper; content unverified, no abstract.",
+   "dims": [
+    "ontogeny",
+    "phylogeny"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R114",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Histology of the epiphysis cerebri (and associated choroid plexus) in Bufo arenarum; title names pineal only, no paraphysis link.",
+   "dims": [
+    "anatomy",
+    "histology"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R115",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Necrosis in the rat telencephalic roof plate; generic roof-plate development in a species without a paraphysis; no link to the paraphysis region indicated; no abstract.",
+   "dims": [
+    "histology",
+    "ontogeny"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R116",
+   "decision": "include_A",
+   "reason_code": "paraphysis_principal",
+   "reason": "Title: frog subfornical organ and regulation of the secretory activity of the paraphysis; paraphysis physiology/function; content unverified, no abstract.",
+   "dims": [
+    "anatomy",
+    "physiology"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R117",
+   "decision": "uncertain",
+   "reason_code": "insufficient_info",
+   "reason": "Dempsey 1968 EM of rat intercolumnar tubercle (reported by secondary source as a structure Kappers related to the paraphysis region); title silent and no abstract. Resolve by checking whether Dempsey identifies the tubercle as paraphyseal/homologous.",
+   "dims": [
+    "anatomy",
+    "histology"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R118",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "EM of lizard parietal-eye vs pineal sensory cells; epithalamic photoreceptor structures, not paraphysis.",
+   "dims": [
+    "histology",
+    "phylogeny"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R119",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Glycogen storage in frog choroid plexus (title/MeSH: choroid plexus only); same author as paraphysis histochemistry but no paraphysis named; no abstract.",
+   "dims": [
+    "histology"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R120",
+   "decision": "include_A",
+   "reason_code": "paraphysis_principal",
+   "reason": "Title: histochemistry of choroid plexuses, paraphysis cerebri and ependyma of Rana temporaria (enzymes, glycogen, epinephrine per MeSH); histochemical data on the paraphysis; no abstract.",
+   "dims": [
+    "histology",
+    "physiology"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R121",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Classic human callosum/cavum septi development (commissural plate); no paraphysis link found or indicated, so not demonstrably necessary context; would become include_B only if the text locates the paraphysis relative to the lamina reuniens.",
+   "dims": [
+    "anatomy",
+    "ontogeny"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R122",
+   "decision": "include_B",
+   "reason_code": "context_anatomy",
+   "reason": "Yakovlev's definitions of telencephalon impar/semipar/totopar (midline unpaired telencephalon where the paraphysis arises); terminology source for locating the paraphysis (anatomy/terminology); paraphysis not verified in text, no abstract.",
+   "dims": [
+    "anatomy",
+    "phylogeny",
+    "terminology_history"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R123",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Xenopus tail-regeneration dependence on a diencephalic central-canal factor (SCO region); telencephalic ablation only as a control; no paraphysis.",
+   "dims": [
+    "physiology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R124",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Frog brain atlas; bibliographic entry only, no paraphysis content found.",
+   "dims": [
+    "anatomy"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R125",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Embryogenesis of epiphysis and subcommissural organ in a snake; no paraphysis named; speculative link only; no abstract.",
+   "dims": [
+    "histology",
+    "ontogeny"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R126",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Pineal sensory-cell ultrastructure in Protopterus; pineal only, no paraphysis/dorsal sac comparison indicated.",
+   "dims": [
+    "histology",
+    "phylogeny"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R127",
+   "decision": "include_A",
+   "reason_code": "clinical_origin",
+   "reason": "Title names 'paraphyseal cyst (autopsy report)'; colloid cyst labelled paraphyseal; content unverified, no abstract.",
+   "dims": [
+    "pathology",
+    "terminology_history"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R128",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Monoamines in the embryonic lizard pineal organ; pineal only.",
+   "dims": [
+    "ontogeny",
+    "physiology"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R129",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Comparative EM of inclusions in anuran choroid plexus epithelium; no paraphysis named; no abstract.",
+   "dims": [
+    "histology"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R130",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Lipid globules in frog choroid plexus epithelium; no paraphysis named.",
+   "dims": [
+    "histology"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R131",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Orangutan pineal structure; mammalian dorsal sac (suprapineal recess) of the pineal, not the paraphysis/telencephalic roof.",
+   "dims": [
+    "anatomy"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R132",
+   "decision": "include_A",
+   "reason_code": "paraphysis_data",
+   "reason": "Lizard (Liolaemus) epiphyseal-complex morphogenesis; authors label a structure PAR as 'paraepifisis' and 'parafisis' (paraphysis) alongside pineal and parietal organ; data on authors' own paraphysis but terminology (parietal vs paraphysis) and depth unverified (snippet only).",
+   "dims": [
+    "anatomy",
+    "ontogeny",
+    "terminology_history"
+   ],
+   "data_depth": "web_snippet"
+  },
+  {
+   "rid": "R133",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Pineal body ultrastructure and monoamine cytochemistry in a tortoise; no paraphysis.",
+   "dims": [
+    "histology",
+    "physiology"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R134",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Teleost pineal light microscopy; notes pineal-dorsal sac proximity only; no paraphysis comparison.",
+   "dims": [
+    "anatomy",
+    "phylogeny"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R135",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Glycogen body of lumbar cord and 'other glycogen-containing circumventricular organs'; MeSH lists choroid plexus and spinal cord only, paraphysis not indicated.",
+   "dims": [
+    "histology"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R136",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Hyrax pineal region and mammalian dorsal sac/pineal recess; no paraphysis link.",
+   "dims": [
+    "anatomy"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R137",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "LM/EM of tortoise pineal organ; no paraphysis.",
+   "dims": [
+    "histology"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R138",
+   "decision": "include_A",
+   "reason_code": "paraphysis_principal",
+   "reason": "Title: enzyme histochemical and fluorescence studies of choroid plexus and paraphysus of Rana temporaria (monoamine fluorescence, enzymes); histochemical data on the paraphysis; no abstract.",
+   "dims": [
+    "histology",
+    "physiology"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R139",
+   "decision": "include_A",
+   "reason_code": "clinical_origin",
+   "reason": "Abstract fragment states the neuroepithelial (colloid) cyst arises from the anlage of the paraphysis (case report, 21-year-old man); author-endorsed paraphyseal origin, no histogenetic data seen; title/authors unverified, open the DOI to confirm.",
+   "dims": [
+    "pathology",
+    "terminology_history"
+   ],
+   "data_depth": "web_snippet"
+  },
+  {
+   "rid": "R140",
+   "decision": "include_B",
+   "reason_code": "context_clinical_histogenesis",
+   "reason": "EM of a third-ventricle colloid cyst (ciliated epithelium, mucin per MeSH): ultrastructural histogenesis evidence needed to weigh paraphyseal vs endodermal origin (clinical); paraphysis not named, no abstract.",
+   "dims": [
+    "histology",
+    "pathology"
+   ],
+   "data_depth": "metadata_only"
+  }
+ ]
+}

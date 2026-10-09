@@ -1,0 +1,535 @@
+{
+ "batch": "b01",
+ "reviewer": "B",
+ "decisions": [
+  {
+   "rid": "R001",
+   "decision": "include_B",
+   "reason_code": "historical",
+   "reason": "Untitled stub duplicating R002 (Wallman 1858); only a 1956 secondary statement that this was the first 'colloid or paraphyseal cyst'; 1858 case predates the paraphyseal hypothesis, kept only as historical anchor of the clinical entity (clinical/terminology history).",
+   "dims": [
+    "pathology",
+    "terminology_history"
+   ],
+   "data_depth": "web_snippet"
+  },
+  {
+   "rid": "R002",
+   "decision": "include_B",
+   "reason_code": "historical",
+   "reason": "Wallmann 1858 autopsy report of the first colloid cyst of the third ventricle; no paraphysis data itself (concept arrives 1909), needed only as the historiographic starting point for the clinical question; duplicate of R001.",
+   "dims": [
+    "pathology",
+    "terminology_history"
+   ],
+   "data_depth": "web_snippet"
+  },
+  {
+   "rid": "R003",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "1886 amphibian/reptile epiphysis (pineal) paper, metadata only; title is pineal-specific and predates the paraphysis concept; nothing indicates paraphysis content.",
+   "dims": [
+    "anatomy",
+    "ontogeny"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R004",
+   "decision": "include_A",
+   "reason_code": "historical",
+   "reason": "Selenka 1891, credited by Dexter 1902 as first to identify the paraphysis in the chick; historiographic attribution is second-hand and the match to Dexter's ref (12) is unconfirmed (terminology/ontogeny).",
+   "dims": [
+    "ontogeny",
+    "phylogeny",
+    "terminology_history"
+   ],
+   "data_depth": "web_snippet"
+  },
+  {
+   "rid": "R005",
+   "decision": "include_A",
+   "reason_code": "historical",
+   "reason": "Burckhardt 1892 Protopterus CNS: origin of 'coronarium', the lungfish structure later equated with the paraphysis (Studnicka) or a dorsal sac; essential for phylogeny/terminology; monograph itself not seen.",
+   "dims": [
+    "anatomy",
+    "phylogeny",
+    "terminology_history"
+   ],
+   "data_depth": "web_snippet"
+  },
+  {
+   "rid": "R006",
+   "decision": "include_B",
+   "reason_code": "context_anatomy",
+   "reason": "Burckhardt 1894 on homologies of the diencephalic roof in lower vertebrates (epiphysis, dorsal sac, paraphysis): needed for homology/terminology of the paraphysis, but title does not name it and content is unverified (metadata only).",
+   "dims": [
+    "anatomy",
+    "phylogeny",
+    "terminology_history"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R007",
+   "decision": "include_A",
+   "reason_code": "historical",
+   "reason": "Burckhardt 1894 reptile/bird roof homologies; quoted (via Dexter) as showing the paraphysis in the crow embryo as a small diverticulum like that of Petromyzon; attribution of quote to this exact paper not confirmed.",
+   "dims": [
+    "anatomy",
+    "ontogeny",
+    "phylogeny"
+   ],
+   "data_depth": "web_snippet"
+  },
+  {
+   "rid": "R008",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Hill 1894 epiphysis of teleosts and Amia: pineal paper, metadata only, no indication of paraphysis content.",
+   "dims": [
+    "anatomy"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R009",
+   "decision": "include_A",
+   "reason_code": "historical",
+   "reason": "Sorensen 1894 comparative study of epiphysis and diencephalic roof, cited by Gladstone & Wakeley 1940 for the dorsal sac and paraphysis of the alligator; content not seen (metadata only), title does not name the paraphysis.",
+   "dims": [
+    "anatomy",
+    "phylogeny"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R010",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Leydig 1895 pineal/parietal organ paper (Stirnorgan terminology); metadata only, title pineal-specific, no sign it treats the paraphysis.",
+   "dims": [
+    "anatomy",
+    "terminology_history"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R011",
+   "decision": "include_A",
+   "reason_code": "paraphysis_principal",
+   "reason": "Studnicka 1895 'Zur Anatomie der sog. Paraphyse des Wirbelthiergehirns': title names the paraphysis; earliest dedicated anatomical treatment, content unverified (metadata only).",
+   "dims": [
+    "anatomy",
+    "phylogeny",
+    "terminology_history"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R012",
+   "decision": "include_A",
+   "reason_code": "paraphysis_data",
+   "reason": "Melchers 1899 gecko rudiments (Epi-, Para- und Hypophyse): title names the paraphysis ('Para-') alongside epi- and hypophysis; cited in 2025 gecko paraphysis paper; content unverified.",
+   "dims": [
+    "anatomy",
+    "ontogeny",
+    "phylogeny"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R013",
+   "decision": "include_A",
+   "reason_code": "historical",
+   "reason": "Stemmler 1900 dissertation on development of diencephalic-roof appendages (epiphysis, parietal organ, paraphysis) in the gecko; cited in the 2025 gecko paraphysis paper; title does not name paraphysis, subtitle wording unverified.",
+   "dims": [
+    "anatomy",
+    "ontogeny"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R014",
+   "decision": "include_A",
+   "reason_code": "paraphysis_principal",
+   "reason": "Dexter 1902 development of the paraphysis in the fowl: title names the paraphysis; excerpt reviews earlier observations (D'Erchia, Selenka); duplicate of R015.",
+   "dims": [
+    "anatomy",
+    "ontogeny",
+    "phylogeny",
+    "terminology_history"
+   ],
+   "data_depth": "web_snippet"
+  },
+  {
+   "rid": "R015",
+   "decision": "include_A",
+   "reason_code": "paraphysis_principal",
+   "reason": "Dexter 1903 (same paper as R014, UNSW transcription): chick paraphysis ontogeny; excerpt notes cavity communicates with forebrain and wall thickens in older embryos.",
+   "dims": [
+    "anatomy",
+    "ontogeny",
+    "phylogeny"
+   ],
+   "data_depth": "web_snippet"
+  },
+  {
+   "rid": "R016",
+   "decision": "include_A",
+   "reason_code": "historical",
+   "reason": "Studnicka 1905 handbook chapter on parietal organs: argued the lungfish 'coronarium' should be called paraphysis (homology/terminology); excerpt is second-hand.",
+   "dims": [
+    "anatomy",
+    "histology",
+    "phylogeny",
+    "terminology_history"
+   ],
+   "data_depth": "web_snippet"
+  },
+  {
+   "rid": "R017",
+   "decision": "include_A",
+   "reason_code": "paraphysis_principal",
+   "reason": "Warren 1905 development of the paraphysis and pineal region in Necturus: title names the paraphysis; classical urodele ontogeny.",
+   "dims": [
+    "anatomy",
+    "ontogeny",
+    "phylogeny"
+   ],
+   "data_depth": "web_snippet"
+  },
+  {
+   "rid": "R018",
+   "decision": "include_A",
+   "reason_code": "paraphysis_principal",
+   "reason": "Chiarugi 1906 on the 'regione parafisaria' (paraphyseal region) of the telencephalon in Torpedo embryos: title names the paraphyseal region; selachian ontogeny; content unverified.",
+   "dims": [
+    "anatomy",
+    "ontogeny",
+    "phylogeny"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R019",
+   "decision": "include_B",
+   "reason_code": "context_anatomy",
+   "reason": "Johnston 1909 forebrain vesicle morphology: framework of roof plate, lamina terminalis and tela chorioidea terminology within which the paraphysis is located; no paraphysis passage retrieved, so contextual only (anatomy/ontogeny).",
+   "dims": [
+    "anatomy",
+    "ontogeny",
+    "phylogeny",
+    "terminology_history"
+   ],
+   "data_depth": "web_snippet"
+  },
+  {
+   "rid": "R020",
+   "decision": "include_A",
+   "reason_code": "clinical_origin",
+   "reason": "Untitled stub duplicating R021: attributes the first proposal of a paraphysial origin of third-ventricle colloid cysts to Sjovall 1909.",
+   "dims": [
+    "pathology",
+    "terminology_history"
+   ],
+   "data_depth": "web_snippet"
+  },
+  {
+   "rid": "R021",
+   "decision": "include_A",
+   "reason_code": "clinical_origin",
+   "reason": "Sjovall 1909 ependymal cyst of embryonal character '(Paraphyse?)' of the third ventricle: origin of the paraphyseal-cyst hypothesis; title names the paraphysis; duplicate of R020.",
+   "dims": [
+    "pathology",
+    "terminology_history"
+   ],
+   "data_depth": "web_snippet"
+  },
+  {
+   "rid": "R022",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Whole Manual of Human Embryology (1910-12), metadata only; no paraphysis passage located; the relevant chapter is captured separately as R027 (Streeter).",
+   "dims": [
+    "ontogeny"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R023",
+   "decision": "include_A",
+   "reason_code": "paraphysis_principal",
+   "reason": "Reese 1910 alligator brain development: the paraphysis and hypophysis; title names the paraphysis; crocodilian ontogeny, content unverified.",
+   "dims": [
+    "anatomy",
+    "ontogeny",
+    "phylogeny"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R024",
+   "decision": "uncertain",
+   "reason_code": "insufficient_info",
+   "reason": "Dendy 1911 tuatara pineal organs 'and adjacent parts of the brain': title ambiguous, metadata only, no snippet on the paraphysis. Resolved by checking the monograph for paraphysis/dorsal sac sections.",
+   "dims": [
+    "anatomy",
+    "ontogeny",
+    "phylogeny"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R025",
+   "decision": "include_A",
+   "reason_code": "paraphysis_principal",
+   "reason": "Warren 1911 'Paraphysis and Pineal Region in Reptilia': title names the paraphysis; duplicate of R026; metadata only.",
+   "dims": [
+    "anatomy",
+    "ontogeny",
+    "phylogeny"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R026",
+   "decision": "include_A",
+   "reason_code": "paraphysis_principal",
+   "reason": "Warren 1911 development of the paraphysis and pineal region in Reptilia: title names the paraphysis; paraphysis as telencephalic, in front of the velum; duplicate of R025; seen only as citation.",
+   "dims": [
+    "anatomy",
+    "ontogeny",
+    "phylogeny"
+   ],
+   "data_depth": "web_snippet"
+  },
+  {
+   "rid": "R027",
+   "decision": "include_B",
+   "reason_code": "context_embryology",
+   "reason": "Streeter 1912 human embryo nervous system chapter: states the anterior choroidal pouch was homologized with the paraphysis of lower vertebrates; helps locate and homologize the paraphysis in human ontogeny, but second-hand quote only.",
+   "dims": [
+    "anatomy",
+    "ontogeny",
+    "phylogeny"
+   ],
+   "data_depth": "web_snippet"
+  },
+  {
+   "rid": "R028",
+   "decision": "include_B",
+   "reason_code": "context_embryology",
+   "reason": "Bailey 1916 human forebrain roof plate and lateral choroid plexuses: defines roof/plexus region bordering the paraphysis territory and disputes paraphysis homologies in human embryo; no paraphysis excerpt seen.",
+   "dims": [
+    "anatomy",
+    "ontogeny"
+   ],
+   "data_depth": "web_snippet"
+  },
+  {
+   "rid": "R029",
+   "decision": "uncertain",
+   "reason_code": "insufficient_info",
+   "reason": "Bailey 1916 telencephalic choroid plexus in turtle: metadata only, generic plexus title; cites Warren's paraphysis work. Resolved by whether the text relates the plexus to the velum/paraphysis region.",
+   "dims": [
+    "anatomy",
+    "histology",
+    "ontogeny"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R030",
+   "decision": "uncertain",
+   "reason_code": "insufficient_info",
+   "reason": "Warren 1917 'On the pineal region in human embryos': metadata only; title pineal-specific but Warren's 'pineal region' papers pair it with the paraphysis. Resolved by reading the abstract/text for human paraphysis staging.",
+   "dims": [
+    "anatomy",
+    "ontogeny"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R031",
+   "decision": "include_A",
+   "reason_code": "paraphysis_principal",
+   "reason": "Warren 1917 development of the paraphysis and pineal region in mammalia: distinct paraphysis in sheep embryos 21-48 mm, inconstant/rudimentary in human embryos; arises from roof plate in front of the velum.",
+   "dims": [
+    "anatomy",
+    "ontogeny",
+    "phylogeny",
+    "terminology_history"
+   ],
+   "data_depth": "web_snippet"
+  },
+  {
+   "rid": "R032",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Tilney & Warren 1919 pineal body monograph: title pineal-specific, metadata only, nothing indicates paraphysis content in the record.",
+   "dims": [
+    "phylogeny"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R033",
+   "decision": "exclude",
+   "reason_code": "insufficient_info",
+   "reason": "Kappers 1920 general comparative anatomy treatise: metadata only, no statement on the paraphysis; generic textbook, superseded by 1936 rewrite (R041/R042).",
+   "dims": [
+    "anatomy",
+    "phylogeny"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R034",
+   "decision": "include_B",
+   "reason_code": "context_embryology",
+   "reason": "Hines 1921 one-page note on the human embryonic hemisphere: per secondary transcription defines the telencephalon medium, terminal plate and roof (angulus terminalis), the terminology locating the human paraphysis region; unverified, metadata only.",
+   "dims": [
+    "ontogeny",
+    "terminology_history"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R035",
+   "decision": "uncertain",
+   "reason_code": "insufficient_info",
+   "reason": "1922 'Die epithelialen Gebilde am Gehirn der Wirbeltiere. I': epithelial brain formations could include paraphysis, dorsal sac and plexus, but no author, abstract or excerpt. Resolved by the contents of part I.",
+   "dims": [
+    "anatomy",
+    "histology"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R036",
+   "decision": "uncertain",
+   "reason_code": "insufficient_info",
+   "reason": "Hines 1923 telencephalon development in Sphenodon: finder summaries conflict on whether a midline outpocketing is called the paraphysis; metadata only. Resolved by checking the transcription for 'paraphysis'.",
+   "dims": [
+    "anatomy",
+    "ontogeny",
+    "phylogeny"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R037",
+   "decision": "uncertain",
+   "reason_code": "insufficient_info",
+   "reason": "Holmgren & van der Horst 1925 Ceratodus brain morphology: lungfish roof/paraphysis (coronarium, dorsal sac) issue could be treated; metadata only, general title. Resolved by checking for the dorsal sac/paraphysis description.",
+   "dims": [
+    "anatomy",
+    "phylogeny"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R038",
+   "decision": "exclude",
+   "reason_code": "insufficient_info",
+   "reason": "Kappers 1929 broad evolution-of-nervous-system book: library record only, finder found no source covering the paraphysis in it; generic.",
+   "dims": [
+    "phylogeny"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R039",
+   "decision": "include_A",
+   "reason_code": "clinical_origin",
+   "reason": "Fulton & Bailey 1929 (title inferred): introduced 'neuroepithelial cyst' and an early argument against the paraphyseal origin of third-ventricle cysts, per Niknejad 2015; title identification is an inference.",
+   "dims": [
+    "pathology",
+    "terminology_history"
+   ],
+   "data_depth": "web_snippet"
+  },
+  {
+   "rid": "R040",
+   "decision": "include_B",
+   "reason_code": "context_clinical_histogenesis",
+   "reason": "Byrom & Russell 1932 ependymal cyst of third ventricle: ependymal-origin interpretation offered as alternative to the paraphysial theory, needed to weigh the paraphyseal hypothesis; case report, metadata only.",
+   "dims": [
+    "pathology"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R041",
+   "decision": "exclude",
+   "reason_code": "insufficient_info",
+   "reason": "Kappers, Huber & Crosby 1936 general comparative treatise: metadata only, no paraphysis passage identified; generic textbook, not rewarded for prestige (duplicate of R042).",
+   "dims": [
+    "anatomy",
+    "phylogeny"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R042",
+   "decision": "exclude",
+   "reason_code": "insufficient_info",
+   "reason": "Kappers, Huber & Crosby 1936 (duplicate of R041): general treatise, catalogue record only, paraphysis chapter location not identified.",
+   "dims": [
+    "anatomy",
+    "phylogeny"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R043",
+   "decision": "include_A",
+   "reason_code": "paraphysis_data",
+   "reason": "Gladstone & Wakeley 1940 The Pineal Organ: substantive comparative passages on paraphysis and dorsal sac in urodeles, reptiles, crocodilians and mammals; duplicate of R044.",
+   "dims": [
+    "anatomy",
+    "ontogeny",
+    "phylogeny",
+    "terminology_history"
+   ],
+   "data_depth": "web_snippet"
+  },
+  {
+   "rid": "R044",
+   "decision": "include_A",
+   "reason_code": "paraphysis_data",
+   "reason": "Gladstone & Wakeley 1940 (same book as R043): paraphysis and dorsal sac present in alligator, positions at 25 mm stage; comparative anatomy.",
+   "dims": [
+    "anatomy",
+    "ontogeny",
+    "phylogeny"
+   ],
+   "data_depth": "web_snippet"
+  },
+  {
+   "rid": "R045",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Bargmann et al. 1943 Handbuch vol 6/4 (thymus, paraganglia, Epiphysis cerebri chapter): human pineal-focused, no paraphysis content.",
+   "dims": [
+    "anatomy",
+    "histology"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R046",
+   "decision": "uncertain",
+   "reason_code": "insufficient_info",
+   "reason": "Rudebeck 1945 forebrain morphology in Dipnoi (Protopterus telencephalon development): lungfish roof/paraphysis could be covered; metadata only. Resolved by checking for roof/paraphysis (dorsal sac) description.",
+   "dims": [
+    "anatomy",
+    "ontogeny",
+    "phylogeny"
+   ],
+   "data_depth": "metadata_only"
+  }
+ ]
+}

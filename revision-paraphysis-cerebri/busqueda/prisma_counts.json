@@ -1,0 +1,27 @@
+{
+ "files": 17,
+ "raw_records": 816,
+ "unique_records": 663,
+ "duplicates_removed": 153,
+ "relevance_max": {
+  "peripheral": 510,
+  "relevant": 74,
+  "core": 49,
+  "irrelevant": 30
+ },
+ "raw_by_source_db": {
+  "pubmed": 644,
+  "web": 116,
+  "pmc": 9,
+  "wiley": 47
+ },
+ "n_queries_logged": 789,
+ "verified": 559,
+ "access": {
+  "web_snippet": 46,
+  "metadata_only": 159,
+  "pmc_fulltext": 17,
+  "wiley_passage": 47,
+  "pubmed_abstract": 394
+ }
+}

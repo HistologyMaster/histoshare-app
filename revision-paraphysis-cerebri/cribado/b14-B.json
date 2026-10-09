@@ -1,0 +1,398 @@
+{
+ "batch": "b14",
+ "reviewer": "B",
+ "decisions": [
+  {
+   "rid": "R626",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Chick forebrain fate-map/prosomere critique; abstract never mentions roof, midline or paraphysis; boundary relevance is speculative.",
+   "dims": [
+    "ontogeny",
+    "molecular"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R627",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Mllt11 mutant lateral-ventricle choroid plexus epithelium; generic ChP/cortical hem, no link to paraphysis territory.",
+   "dims": [
+    "histology",
+    "molecular"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R628",
+   "decision": "include_B",
+   "reason_code": "context_clinical_histogenesis",
+   "reason": "PAX8/TTF1/SOX17/CDH17 immunohistochemistry of 15 colloid cysts vs neurenteric/Rathke cysts to assess origin (not endodermal); no paraphysis tested but needed to weigh paraphyseal vs endodermal hypothesis (clinical/histology).",
+   "dims": [
+    "pathology",
+    "histology",
+    "molecular"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R629",
+   "decision": "include_A",
+   "reason_code": "paraphysis_principal",
+   "reason": "Paraphysis and epiphysis primordia in gecko embryos; places paraphysis on diencephalic roof (anterior border), bearing directly on contested origin/terminology (full abstract only via web snippet).",
+   "dims": [
+    "ontogeny",
+    "anatomy",
+    "phylogeny",
+    "terminology_history"
+   ],
+   "data_depth": "web_snippet"
+  },
+  {
+   "rid": "R631",
+   "decision": "exclude",
+   "reason_code": "general_clinical",
+   "reason": "Pediatric colloid cyst case in a syndromic patient with gene mutation; no histogenesis or paraphysis data.",
+   "dims": [
+    "pathology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R632",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Pinopsin knockout and melatonin in Xenopus tadpoles; pineal photoreception only, no paraphysis.",
+   "dims": [
+    "physiology",
+    "molecular"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R633",
+   "decision": "exclude",
+   "reason_code": "general_clinical",
+   "reason": "Ectopic pituitary-stalk colloid cyst case report; only asserts endodermal derivation, no histogenesis data or paraphyseal link.",
+   "dims": [
+    "pathology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R634",
+   "decision": "exclude",
+   "reason_code": "general_clinical",
+   "reason": "Canine cerebellopontine-angle colloid cyst case; routine histology, extraventricular, no paraphyseal or histogenesis analysis.",
+   "dims": [
+    "pathology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R636",
+   "decision": "exclude",
+   "reason_code": "general_clinical",
+   "reason": "Radiological case of lateral-ventricle cyst regression; abstract only calls for reconsidering embryological origin without discussing paraphysis or data on origin (checked full PubMed abstract).",
+   "dims": [
+    "pathology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R637",
+   "decision": "exclude",
+   "reason_code": "general_clinical",
+   "reason": "Forensic colloid cyst case; standard histology (ciliated cuboidal lining), no origin analysis (full abstract checked).",
+   "dims": [
+    "pathology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R638",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Cortical hem-like progenitor lineage tracing to neocortex/hippocampus; hem derivatives, no relation to paraphysis region.",
+   "dims": [
+    "molecular",
+    "ontogeny"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R639",
+   "decision": "exclude",
+   "reason_code": "general_clinical",
+   "reason": "Neurosurgical management review of anterior third ventricular tumours; clinical series, no histogenesis or paraphysis content (full abstract checked).",
+   "dims": [
+    "pathology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R640",
+   "decision": "exclude",
+   "reason_code": "general_clinical",
+   "reason": "Infant haemorrhagic colloid cyst case; calls cysts 'neuroepithelial' in passing, no histogenesis data (full abstract checked).",
+   "dims": [
+    "pathology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R641",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Beta-catenin activation in hem progenitors and Cajal-Retzius fate; hem signalling, no paraphysis link.",
+   "dims": [
+    "molecular",
+    "ontogeny"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R642",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Skink staging table; only notes pineal timing, no paraphysis data.",
+   "dims": [
+    "ontogeny"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R644",
+   "decision": "include_A",
+   "reason_code": "paraphysis_data",
+   "reason": "Adult rainbow-trout paraphysis: part of pars impar telencephali, single-layered epithelium with zonulae occludentes, fenestrated sinusoids, proposed CSF role; title/authors unresolved (DOI only), abstract-level snippet.",
+   "dims": [
+    "anatomy",
+    "histology",
+    "phylogeny",
+    "physiology"
+   ],
+   "data_depth": "web_snippet"
+  },
+  {
+   "rid": "R645",
+   "decision": "uncertain",
+   "reason_code": "insufficient_info",
+   "reason": "Japanese report of one operated third-ventricle ependymal cyst with literature review; metadata only and title does not name paraphysis; abstract or full text would show whether paraphyseal origin is discussed.",
+   "dims": [
+    "pathology"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R646",
+   "decision": "exclude",
+   "reason_code": "insufficient_info",
+   "reason": "Study-aid web page of unknown provenance; one-line statement that paraphysis is transient in humans, no data or source; trace the underlying textbook instead.",
+   "dims": [
+    "anatomy",
+    "ontogeny"
+   ],
+   "data_depth": "web_snippet"
+  },
+  {
+   "rid": "R647",
+   "decision": "include_A",
+   "reason_code": "paraphysis_principal",
+   "reason": "Book chapter titled 'Ependymal and Paraphyseal Cysts'; title names paraphyseal cysts (content unverified, metadata only).",
+   "dims": [
+    "pathology",
+    "terminology_history"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R648",
+   "decision": "include_A",
+   "reason_code": "paraphysis_principal",
+   "reason": "Classical German paper 'Epiphyse und Paraphyse im Lebenscyclus der Anuren'; title names paraphysis as principal subject (content unverified, metadata only; year/authors unknown).",
+   "dims": [
+    "histology",
+    "ontogeny",
+    "physiology",
+    "phylogeny"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R649",
+   "decision": "include_A",
+   "reason_code": "clinical_origin",
+   "reason": "Radiology review explicitly asserts colloid cysts arise from abnormal folding of the neuroepithelial paraphysis; secondary source asserting rather than testing the origin (web snippet only).",
+   "dims": [
+    "pathology",
+    "ontogeny"
+   ],
+   "data_depth": "web_snippet"
+  },
+  {
+   "rid": "R650",
+   "decision": "include_B",
+   "reason_code": "context_embryology",
+   "reason": "Human embryology course module: paraphysis diverticulum sometimes arises above the foramina of Monro in humans vs constant in lower vertebrates, within roof plate/third-ventricle choroid plexus ontogeny (ontogeny/phylogeny); secondary teaching source.",
+   "dims": [
+    "ontogeny",
+    "anatomy",
+    "phylogeny"
+   ],
+   "data_depth": "web_snippet"
+  },
+  {
+   "rid": "R651",
+   "decision": "include_B",
+   "reason_code": "context_embryology",
+   "reason": "Lexicon definition of telencephalon impar as median telencephalon around the foramen interventriculare in former roof/floor plate territory, i.e. the region where the paraphysis arises (anatomy/terminology); paraphysis not named.",
+   "dims": [
+    "anatomy",
+    "ontogeny",
+    "terminology_history"
+   ],
+   "data_depth": "web_snippet"
+  },
+  {
+   "rid": "R652",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "General telencephalon lexicon entry; impar defined as non-evaginating part but no roof/midline or paraphysis statement; redundant with R651.",
+   "dims": [
+    "anatomy",
+    "terminology_history"
+   ],
+   "data_depth": "web_snippet"
+  },
+  {
+   "rid": "R653",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Cameron on pineal origin as median structure in Amphibia; pineal-only by title, no paraphysis link shown (metadata only; revisit if full text discusses paraphysis).",
+   "dims": [
+    "ontogeny",
+    "terminology_history"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R654",
+   "decision": "uncertain",
+   "reason_code": "insufficient_info",
+   "reason": "Francotte's classical epiphysis development paper; Dexter 1902 credits Francotte with paraphysis in a 12-week human embryo but the carrying paper is unidentified; check Dexter/Warren citation or full text.",
+   "dims": [
+    "ontogeny",
+    "terminology_history"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R655",
+   "decision": "include_A",
+   "reason_code": "paraphysis_data",
+   "reason": "Gross brain of needlefish Xenentodon: 'some indication of the paraphysis' on diencephalic roof, parapineal absent; original comparative presence/absence datum for teleosts (brief, snippet only).",
+   "dims": [
+    "anatomy",
+    "phylogeny"
+   ],
+   "data_depth": "web_snippet"
+  },
+  {
+   "rid": "R656",
+   "decision": "include_B",
+   "reason_code": "context_anatomy",
+   "reason": "Herring pineal region morphology/histology: states paraphysis (probably glandular) is not represented in placental mammal brain and that velum transversum and dorsal sac give rise to choroid plexuses; locates paraphysis relative to dorsal sac/velum (anatomy, phylogeny); year unconfirmed.",
+   "dims": [
+    "anatomy",
+    "phylogeny",
+    "histology",
+    "terminology_history"
+   ],
+   "data_depth": "fulltext"
+  },
+  {
+   "rid": "R657",
+   "decision": "uncertain",
+   "reason_code": "insufficient_info",
+   "reason": "Kuhlenbeck vol 5 pt 1 (diencephalon/telencephalon) likely treats telencephalon impar and paraphysis but catalogue record confirms nothing; index or table of contents for paraphysis/dorsal sac would resolve.",
+   "dims": [
+    "anatomy",
+    "phylogeny"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R658",
+   "decision": "include_A",
+   "reason_code": "historical",
+   "reason": "Minot 1901 on pineal region morphology in Acanthias; cited by Warren 1905 and Dexter 1902 as an early record of the paraphysis (metadata only; content via finder notes).",
+   "dims": [
+    "anatomy",
+    "ontogeny",
+    "phylogeny",
+    "terminology_history"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R659",
+   "decision": "include_A",
+   "reason_code": "paraphysis_principal",
+   "reason": "Roofe, histology of the Amblystoma paraphysis: ependymal tubules with common mouth to third ventricle, venous sinusoid rete, mitochondria; principal histology paper.",
+   "dims": [
+    "histology",
+    "anatomy"
+   ],
+   "data_depth": "fulltext"
+  },
+  {
+   "rid": "R660",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Spanish Rouviere-Delmas human anatomy textbook, catalogue record only; no paraphysis passage identified.",
+   "dims": [
+    "anatomy"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R661",
+   "decision": "uncertain",
+   "reason_code": "insufficient_info",
+   "reason": "Studnicka 'Beitraege zur Anatomie und Entwicklungsgeschichte des Vorderhirns der Cranioten' listed in Warren 1905 bibliography; may bear on telencephalon medium/paraphysis but year/content unknown; check what Warren cites it for.",
+   "dims": [
+    "anatomy",
+    "ontogeny",
+    "terminology_history"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R662",
+   "decision": "include_A",
+   "reason_code": "paraphysis_principal",
+   "reason": "Duplicate listing of the gecko Correlophus ciliatus paraphysis/epiphysis primordia paper (see R629); places paraphysis on diencephalic roof.",
+   "dims": [
+    "ontogeny",
+    "anatomy",
+    "phylogeny",
+    "terminology_history"
+   ],
+   "data_depth": "web_snippet"
+  },
+  {
+   "rid": "R663",
+   "decision": "include_B",
+   "reason_code": "context_anatomy",
+   "reason": "Wilder defines the dorsal sack as a diatela pouch between epiphysis and paraphysis, large in Ceratodus and Polyodon, with comparative notes; locates paraphysis and bears on dorsal sac terminology/homology (anatomy, phylogeny, terminology); year unconfirmed.",
+   "dims": [
+    "anatomy",
+    "phylogeny",
+    "terminology_history"
+   ],
+   "data_depth": "fulltext"
+  }
+ ]
+}

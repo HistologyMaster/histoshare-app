@@ -1,0 +1,870 @@
+{
+ "label": "wb-recent-evodevo",
+ "channel": "web",
+ "queries": [
+  {
+   "db": "pubmed",
+   "query": "paraphysis AND 2020:2026[dp]",
+   "n_hits": 8,
+   "note": "all 8 already held (Rivas-Manzano 2022 + 7 non-neural/irrelevant)"
+  },
+  {
+   "db": "pubmed",
+   "query": "paraphysis [pdat 2015-2026]",
+   "n_hits": 9,
+   "note": "all already held"
+  },
+  {
+   "db": "pubmed",
+   "query": "paraphyseal OR paraphysial NOT growth plate [pdat 2010-2026]",
+   "n_hits": 6,
+   "note": "non-neural senses, all already held"
+  },
+  {
+   "db": "pubmed",
+   "query": "\"dorsal sac\" telencephalon [pdat 2010-2026]",
+   "n_hits": 1,
+   "note": "already held"
+  },
+  {
+   "db": "pubmed",
+   "query": "\"velum transversum\" [pdat 2010-2026]",
+   "n_hits": 0,
+   "note": ""
+  },
+  {
+   "db": "pubmed",
+   "query": "axolotl brain development Pax6 Pax7 telencephalon roof [pdat 2010-2026]",
+   "n_hits": 0,
+   "note": "natural-language query ANDed all words"
+  },
+  {
+   "db": "pubmed",
+   "query": "structural atlas developing zebrafish telencephalon spatially-restricted transgene expression",
+   "n_hits": 1,
+   "note": "Turner 2022"
+  },
+  {
+   "db": "pubmed",
+   "query": "Paraphysis and epiphysis primordia gecko Correlophus ciliatus",
+   "n_hits": 0,
+   "note": "Vingert & Gonobobleva 2025 is not indexed in PubMed (already held from web)"
+  },
+  {
+   "db": "pubmed",
+   "query": "choroid plexus evolution vertebrates telencephalon tela choroidea [pdat 2010-2026]",
+   "n_hits": 0,
+   "note": ""
+  },
+  {
+   "db": "pubmed",
+   "query": "pineal complex parapineal epiphysis development evolution review [pdat 2010-2026]",
+   "n_hits": 0,
+   "note": ""
+  },
+  {
+   "db": "pubmed",
+   "query": "circumventricular organs evolution vertebrates review [pdat 2010-2026]",
+   "n_hits": 10,
+   "note": "only Korzh & Kondrychyn 2019 retained"
+  },
+  {
+   "db": "pubmed",
+   "query": "Pleurodeles waltl brain Pax6 Pax7 expression",
+   "n_hits": 2,
+   "note": "Joven 2012 and 2013, already held"
+  },
+  {
+   "db": "pubmed",
+   "query": "\"tela choroidea\" telencephalon development [pdat 2010-2026]",
+   "n_hits": 4,
+   "note": "all held or off-topic"
+  },
+  {
+   "db": "pubmed",
+   "query": "\"dorsal midline\" telencephalon roof plate choroid plexus evolution [pdat 2010-2026]",
+   "n_hits": 0,
+   "note": ""
+  },
+  {
+   "db": "pubmed",
+   "query": "\"pineal complex\" lizard development [pdat 2010-2026]",
+   "n_hits": 0,
+   "note": ""
+  },
+  {
+   "db": "pubmed",
+   "query": "axolotl telencephalon single-cell [pdat 2018-2026]",
+   "n_hits": 4,
+   "note": "Lust 2022, Wei 2022, scATAC atlas, TRH network: abstracts do not mention paraphysis; scATAC and TRH full texts searched, no paraphysis; not recorded"
+  },
+  {
+   "db": "pubmed",
+   "query": "lungfish brain telencephalon development [pdat 2010-2026]",
+   "n_hits": 9,
+   "note": "Lozano 2024 MRI atlas and Lopez 2019 Pax6 retained; rest off-topic"
+  },
+  {
+   "db": "pubmed",
+   "query": "tuatara brain [pdat 2010-2026]",
+   "n_hits": 9,
+   "note": "Reiner & Northcutt 2026 immunohistochemistry: abstract and PMC full text do not mention paraphysis; not recorded"
+  },
+  {
+   "db": "pubmed",
+   "query": "Moreno N[Author] AND Pax7 AND telencephalon",
+   "n_hits": 5,
+   "note": "Moreno 2014, Joven 2012/2013, Lozano 2025, Bandin 2014"
+  },
+  {
+   "db": "pubmed",
+   "query": "Xenopus telencephalon development Pax6 Pax7 immunohistochemistry diencephalon [pdat 2010-2026]",
+   "n_hits": 1,
+   "note": "Bandin 2014 adult"
+  },
+  {
+   "db": "pubmed",
+   "query": "lungfish genoarchitecture brain Protopterus [pdat 2010-2026]",
+   "n_hits": 0,
+   "note": ""
+  },
+  {
+   "db": "pubmed",
+   "query": "Joven A[Author] AND Pleurodeles",
+   "n_hits": 6,
+   "note": "neighbours of Joven 2013; Joven 2012/2013 already held; others (regeneration/muscle) off-topic"
+  },
+  {
+   "db": "pubmed",
+   "query": "Hasunuma I[Author] AND (vasotocin OR forebrain OR newt)",
+   "n_hits": 29,
+   "note": "Hasunuma neighbours: only 2010 AVT-receptor paper (already held) is relevant; others are endocrinology/behaviour"
+  },
+  {
+   "db": "pubmed",
+   "query": "find_related_articles pmid 35738026 (Rivas-Manzano 2022)",
+   "n_hits": 100,
+   "note": "related-article list screened: recent items are choroid-plexus clinical/physiology, none paraphysis-specific"
+  },
+  {
+   "db": "pubmed",
+   "query": "find_related_articles pmid 23784810 (Joven 2013)",
+   "n_hits": 150,
+   "note": "related list mostly pre-2010 Pax/patterning; recent items already held"
+  },
+  {
+   "db": "pubmed",
+   "query": "find_related_articles pmid 21079998 (Hasunuma 2010)",
+   "n_hits": 150,
+   "note": "related list mostly AVT/pharmacology; no new paraphysis items"
+  },
+  {
+   "db": "pubmed",
+   "query": "Pax7 paraphysis chick embryo Nomura",
+   "n_hits": 0,
+   "note": "could not identify the chick Pax7-in-paraphysis reference cited by Bandin 2013 as \"Nomura et al.\""
+  },
+  {
+   "db": "pubmed",
+   "query": "Nomura T[Author] AND Pax7 AND chick AND telencephalon",
+   "n_hits": 0,
+   "note": ""
+  },
+  {
+   "db": "pubmed",
+   "query": "Choroid plexus in developmental and evolutionary perspective",
+   "n_hits": 3,
+   "note": "title-style query; Bill & Korzh found with author query"
+  },
+  {
+   "db": "pubmed",
+   "query": "Kawakami Y Pax6 Pax7 chicken monoclonal antibodies",
+   "n_hits": 0,
+   "note": "Kawakami 1997 (Mech Dev) not found/verified"
+  },
+  {
+   "db": "pubmed",
+   "query": "parietal eye development lizard embryo [pdat 2010-2026]",
+   "n_hits": 1,
+   "note": "Anguis colchica osteology paper, off-topic"
+  },
+  {
+   "db": "pubmed",
+   "query": "Pogona vitticeps embryo brain development",
+   "n_hits": 0,
+   "note": ""
+  },
+  {
+   "db": "pubmed",
+   "query": "Anolis carolinensis embryo forebrain development gene expression",
+   "n_hits": 0,
+   "note": ""
+  },
+  {
+   "db": "pubmed",
+   "query": "Bill BR[Author] AND Korzh V[Author]",
+   "n_hits": 2,
+   "note": "Bill & Korzh 2014 plus a 2008 paper"
+  },
+  {
+   "db": "pubmed",
+   "query": "Anolis[Title] AND brain[Title] [pdat 2010+]",
+   "n_hits": 25,
+   "note": "first 20 PMIDs listed; none reviewed as relevant (Anolis brain neurochemistry/behaviour)"
+  },
+  {
+   "db": "pubmed",
+   "query": "gecko embryo brain[Title] [pdat 2010+]",
+   "n_hits": 0,
+   "note": ""
+  },
+  {
+   "db": "pubmed",
+   "query": "human embryo telencephalon medium cavity serial sections graphic reconstruction stages 11-23",
+   "n_hits": 1,
+   "note": "held"
+  },
+  {
+   "db": "pubmed",
+   "query": "\"telencephalon medium\" human embryonic",
+   "n_hits": 5,
+   "note": "all held"
+  },
+  {
+   "db": "pubmed",
+   "query": "human embryo ventricular system development morphology Carnegie stages choroid plexus paraphysis [pdat 2010+]",
+   "n_hits": 1,
+   "note": "held"
+  },
+  {
+   "db": "pubmed",
+   "query": "choroid plexus amphibian OR Xenopus OR salamander [pdat 2010-2026]",
+   "n_hits": 19801,
+   "note": "OR chain mis-parsed by PubMed; results discarded"
+  },
+  {
+   "db": "pubmed",
+   "query": "choroid plexus reptile OR lizard OR turtle OR snake [pdat 2010-2026]",
+   "n_hits": 31680,
+   "note": "OR chain mis-parsed by PubMed; results discarded"
+  },
+  {
+   "db": "pubmed",
+   "query": "telencephalon calretinin Xenopus gene expression patterns [pdat 2010-2026]",
+   "n_hits": 0,
+   "note": ""
+  },
+  {
+   "db": "pubmed",
+   "query": "\"pineal complex\" evolution [pdat 2010-2026]",
+   "n_hits": 10,
+   "note": "pineal opsin/photoreception papers, none naming the paraphysis; not recorded"
+  },
+  {
+   "db": "pubmed",
+   "query": "MRI- and histologically derived neuroanatomical atlas of the Ambystoma mexicanum (axolotl)",
+   "n_hits": 1,
+   "note": "Lazcano 2021"
+  },
+  {
+   "db": "pubmed",
+   "query": "A 3D MRI-based atlas of a lizard brain",
+   "n_hits": 1,
+   "note": "Hoops 2018"
+  },
+  {
+   "db": "pubmed",
+   "query": "paraphysis cerebri [pdat 2010-2026]",
+   "n_hits": 2,
+   "note": "held"
+  },
+  {
+   "db": "pubmed",
+   "query": "paraphyse [pdat 2010-2026]",
+   "n_hits": 0,
+   "note": ""
+  },
+  {
+   "db": "pubmed",
+   "query": "parafisis",
+   "n_hits": 0,
+   "note": ""
+  },
+  {
+   "db": "pubmed",
+   "query": "paraphysectomy",
+   "n_hits": 2,
+   "note": "both held (1980s)"
+  },
+  {
+   "db": "pubmed",
+   "query": "paraphysial",
+   "n_hits": 11,
+   "note": "all held"
+  },
+  {
+   "db": "pubmed",
+   "query": "\"lamina supraneuroporica\"",
+   "n_hits": 51124,
+   "note": "phrase not indexed; PubMed split into single words; discarded"
+  },
+  {
+   "db": "pmc",
+   "query": "get_full_text_article PMC9198225 + regex paraphy|dorsal sac|saccus|velum",
+   "n_hits": 0,
+   "note": "Turner 2022 zebrafish atlas: tela choroidea section, no paraphysis"
+  },
+  {
+   "db": "pmc",
+   "query": "get_full_text_article PMC10997765 + regex paraphy|dorsal sac|saccus|velum",
+   "n_hits": 0,
+   "note": "Lozano 2024 lungfish MRI atlas"
+  },
+  {
+   "db": "pmc",
+   "query": "get_full_text_article PMC4123791 + regex paraphy|dorsal sac|saccus|velum",
+   "n_hits": 1,
+   "note": "Moreno 2014: Pax7 in paraphysis (anamniotes)"
+  },
+  {
+   "db": "pmc",
+   "query": "get_full_text_article PMC13273860 + regex paraphy|dorsal sac|saccus|velum",
+   "n_hits": 0,
+   "note": "Reiner & Northcutt 2026 tuatara immunohistochemistry"
+  },
+  {
+   "db": "pmc",
+   "query": "get_full_text_article PMC3871710 + regex paraphy|dorsal sac|saccus|velum",
+   "n_hits": 7,
+   "note": "Bandin 2013: regex matches in Results and Discussion (paraphysis, velum transversum)"
+  },
+  {
+   "db": "pmc",
+   "query": "get_full_text_article PMC11109250 + regex paraphy|dorsal sac|saccus|velum",
+   "n_hits": 0,
+   "note": "Hegarty 2024 cichlid atlas"
+  },
+  {
+   "db": "pmc",
+   "query": "get_full_text_article PMC4231874 + regex paraphy|dorsal sac|saccus|velum",
+   "n_hits": 0,
+   "note": "Bill & Korzh 2014"
+  },
+  {
+   "db": "pmc",
+   "query": "get_full_text_article PMC8110773 + regex paraphy|dorsal sac|saccus|velum",
+   "n_hits": 0,
+   "note": "Lazcano 2021 axolotl MRI atlas"
+  },
+  {
+   "db": "pmc",
+   "query": "get_full_text_article PMC4094842 + regex paraphy|dorsal sac|saccus|velum",
+   "n_hits": 0,
+   "note": "Suarez 2014 interhemispheric connections"
+  },
+  {
+   "db": "pmc",
+   "query": "get_full_text_article PMC4793645 + regex paraphy|dorsal sac|saccus|velum",
+   "n_hits": 0,
+   "note": "embryonic CSF evolution review"
+  },
+  {
+   "db": "pmc",
+   "query": "get_full_text_article PMC7034762 + regex paraphy|dorsal sac|saccus|velum",
+   "n_hits": 0,
+   "note": "evolutionary development of brain / neurosurgery review"
+  },
+  {
+   "db": "pmc",
+   "query": "get_full_text_article PMC10502032 + regex paraphy|dorsal sac|saccus|velum",
+   "n_hits": 0,
+   "note": "axolotl scATAC atlas"
+  },
+  {
+   "db": "pmc",
+   "query": "get_full_text_article PMC12832632 + regex paraphy|dorsal sac|saccus|velum",
+   "n_hits": 0,
+   "note": "axolotl TRH co-expression network"
+  },
+  {
+   "db": "pmc",
+   "query": "get_full_text_article PMC8814574 + regex paraphy|dorsal sac|saccus|velum",
+   "n_hits": 0,
+   "note": "Xenopus type II opsins review"
+  },
+  {
+   "db": "web",
+   "query": "paraphysis telencephalon roof developing brain atlas axolotl Xenopus zebrafish expression",
+   "n_hits": 29,
+   "note": "leads: Turner 2022 atlas; axolotl Stereo-seq/ARTISTA (no paraphysis)"
+  },
+  {
+   "db": "web",
+   "query": "paraphysis lizard embryo Anolis Pogona gecko telencephalon choroid plexus dorsal midline development",
+   "n_hits": 9,
+   "note": "gecko Correlophus paper (already held); nothing on Anolis/Pogona"
+  },
+  {
+   "db": "web",
+   "query": "\"paraphysis\" Pax7 expression amphibian lungfish developing brain choroid plexus telencephalic hemispheres",
+   "n_hits": 18,
+   "note": "leads: Moreno 2014, Bandin 2013 (both confirmed in PMC full text)"
+  },
+  {
+   "db": "web",
+   "query": "\"paraphysis\" zebrafish \"dorsal sac\" telencephalon eversion tela choroidea reinterpretation",
+   "n_hits": 19,
+   "note": "Folgueira 2012 (held); Breviora lungfish paper (classical, not pursued)"
+  },
+  {
+   "db": "web",
+   "query": "\"paraphysis\" Xenopus tadpole brain development stage Nieuwkoop Faber",
+   "n_hits": 29,
+   "note": "nothing naming paraphysis"
+  },
+  {
+   "db": "web",
+   "query": "\"paraphysis\" chick embryo telencephalon medium dorsal midline Wnt BMP choroid plexus",
+   "n_hits": 28,
+   "note": "classical fowl paper (Dexter 1903) only; Nomura chick Pax7 reference not identified"
+  },
+  {
+   "db": "web",
+   "query": "\"paraphysis\" shark OR chondrichthyan OR Scyliorhinus embryo brain development forebrain roof",
+   "n_hits": 9,
+   "note": "no chondrichthyan paraphysis source found"
+  },
+  {
+   "db": "web",
+   "query": "\"paraphysis\" \"dorsal sac\" lungfish Protopterus Neoceratodus brain anatomy",
+   "n_hits": 19,
+   "note": "lungfish 3D MRI atlas (Lozano 2024); classical Protopterus papers already held"
+  },
+  {
+   "db": "web",
+   "query": "Nomura Pax7 expression paraphysis chick embryo telencephalon roof",
+   "n_hits": 10,
+   "note": "Kawakami 1997 chick Pax6/Pax7 lead; not verified; Joven 2013 abstract (held)"
+  },
+  {
+   "db": "web",
+   "query": "Joven Pax7 paraphysis Pleurodeles waltl development small invagination telencephalic roof plate",
+   "n_hits": 19,
+   "note": "confirms Joven 2013 (held)"
+  },
+  {
+   "db": "web",
+   "query": "\"Structural innovations and neurogenic continuity define avian brain development and evolution\" paraphysis",
+   "n_hits": 9,
+   "note": "bioRxiv avian single-cell preprint: no paraphysis mention seen; not recorded"
+  },
+  {
+   "db": "web",
+   "query": "\"paraphysis\" single-cell RNA-seq OR spatial transcriptomics telencephalon roof reptile amphibian",
+   "n_hits": 29,
+   "note": "lead: Hegarty 2024 cichlid atlas (recorded as peripheral)"
+  },
+  {
+   "db": "web",
+   "query": "\"paraphysis\" turtle OR Trachemys OR alligator OR crocodile embryo brain development 2015..2025",
+   "n_hits": 28,
+   "note": "Reese 1910 alligator (classical); no recent paraphysis paper"
+  },
+  {
+   "db": "web",
+   "query": "\"paraphysis\" coelacanth Latimeria OR hagfish OR lamprey brain forebrain roof",
+   "n_hits": 19,
+   "note": "Northcutt & Gonzalez 2011 (held); no cyclostome/coelacanth paraphysis source"
+  },
+  {
+   "db": "web",
+   "query": "\"paraphysis\" human embryo Carnegie stage telencephalon medium velum transversum 3D reconstruction",
+   "n_hits": 10,
+   "note": "human embryo brain 3D reconstructions (no paraphysis labels seen)"
+  },
+  {
+   "db": "web",
+   "query": "\"paraphysis\" zebrafish ZFIN anatomy ontology OR \"Xenbase\" anatomy term",
+   "n_hits": 20,
+   "note": "no ZFIN/Xenbase paraphysis anatomy term found (only parapophysis); unverified"
+  },
+  {
+   "db": "web",
+   "query": "evolution of choroid plexus review vertebrates \"paraphysis\" \"dorsal sac\" circumventricular organs Reissner subcommissural",
+   "n_hits": 28,
+   "note": "lead: Bill & Korzh 2014 (recorded, no paraphysis mention)"
+  },
+  {
+   "db": "web",
+   "query": "3D MRI brain atlas axolotl OR Pleurodeles OR Xenopus OR frog \"paraphysis\" labeled structures",
+   "n_hits": 28,
+   "note": "leads: Lazcano 2021 axolotl atlas, Hoops 2018 lizard atlas (recorded as peripheral)"
+  },
+  {
+   "db": "web",
+   "query": "frog brain MRI atlas Ringler OR Manzano \"paraphysis\" ventricles choroid plexus telencephalon diencephalon",
+   "n_hits": 10,
+   "note": "nothing new"
+  },
+  {
+   "db": "web",
+   "query": "\"paraphysis\" mouse embryo dorsal midline telencephalon choroid plexus \"Gli3\" OR \"Foxg1\" OR \"Lhx2\" OR \"Dmrt\" mutant",
+   "n_hits": 9,
+   "note": "no paraphysis-specific mouse source"
+  },
+  {
+   "db": "web",
+   "query": "\"paraphysis\" teleost OR zebrafish OR medaka OR cichlid development roof of telencephalon diencephalon \"tela choroidea\" enhancer trap",
+   "n_hits": 39,
+   "note": "nothing naming paraphysis in teleost development"
+  },
+  {
+   "db": "web",
+   "query": "paraphysis telencephalon roof plate expression embryo [allowed: pmc, ncbi]",
+   "n_hits": 9,
+   "note": "Bandin 2013 again; roof-plate holoprosencephaly papers (pre-2010 / mouse) not recorded"
+  },
+  {
+   "db": "web",
+   "query": "paraphysis choroid plexus dorsal midline forebrain development [allowed: biorxiv, frontiers, elife]",
+   "n_hits": 10,
+   "note": "choroid plexus/cortical hem reviews (held); no paraphysis"
+  },
+  {
+   "db": "web",
+   "query": "paraphysis brain evolution development vertebrates [extended; allowed: pmc, biorxiv, wiley, karger, springer]",
+   "n_hits": 19,
+   "note": "only classical/ultrastructural paraphysis papers (held)"
+  },
+  {
+   "db": "web",
+   "query": "Hasunuma arginine vasotocin receptors paraphysis newt Cynops V2 receptor cerebrospinal fluid production",
+   "n_hits": 37,
+   "note": "confirms Hasunuma 2010 (held); 2013 review not verified for paraphysis"
+  },
+  {
+   "db": "web",
+   "query": "Gonobobleva Vingert epiphysis paraphysis embryonic development turtle OR lizard OR gecko Ontogenez",
+   "n_hits": 29,
+   "note": "only Vingert & Gonobobleva 2025 (held)"
+  }
+ ],
+ "failures": [
+  "mcp__PubMed__convert_article_ids returned RATE_LIMIT_EXCEEDED (retryAfter 60 s); not retried because PMCIDs were already present in get_article_metadata output.",
+  "PubMed mis-parsed OR chains (two queries returned >19,000 hits) and the unindexed phrase \"lamina supraneuroporica\" (split into single words); those result sets were discarded.",
+  "get_article_metadata output was truncated at about 59 KB for two large batches (only 18 of 40 and 18 of 28 requested PMIDs returned); items not shown were screened by other means or skipped.",
+  "get_full_text_article returned an empty full_text for PMC6793052, PMC6826035 and PMC4650131, so those could not be checked.",
+  "The chick Pax7-in-paraphysis reference (\"Nomura et al.\") cited by Bandin 2013 could not be identified or verified; Kawakami 1997 (chick Pax6/Pax7 antibodies, Mech Dev) was not found in PubMed through the tool; neither was recorded.",
+  "No ZFIN/Xenbase anatomy-ontology entry for \"paraphysis\" could be confirmed through WebSearch (only unrelated parapophysis terms); whether such terms exist remains unverified.",
+  "Vingert & Gonobobleva 2025 (gecko Correlophus ciliatus) is not indexed in PubMed; it was already held in the corpus from web sources.",
+  "WebSearch result counts in the query log are approximate numbers of links returned, not exact hit counts."
+ ],
+ "records": [
+  {
+   "title": "Regional expression of Pax7 in the brain of Xenopus laevis during embryonic and larval development",
+   "authors": "Bandín S, Morona R, Moreno N, González A",
+   "year": 2013,
+   "journal": "Frontiers in neuroanatomy",
+   "volume": "7",
+   "pages": "48",
+   "doi": "10.3389/fnana.2013.00048",
+   "pmid": "24399938",
+   "pmcid": "PMC3871710",
+   "language": "eng",
+   "source_db": "pubmed",
+   "query": "WebSearch: \"paraphysis\" Pax7 expression amphibian lungfish developing brain choroid plexus telencephalic hemispheres; PMC full-text read",
+   "access": "pmc_fulltext",
+   "bibliographic_verified": true,
+   "verified_via": "PubMed metadata (get_article_metadata)",
+   "excerpt": "Interestingly Pax7 expression was described in the paraphysis during development in the chick (Nomura et al.,). The paraphysis was described within the telencephalon because it is located rostral to the velum transversum, which classically marks its dorsal limit with the diencephalon (Warren,), and according to its development it was considered a posterior telencephalic organ adjacent to the choroid plexus of the third ventricle (Kappers,). Therefore, the only telencephalic structure that might express Pax7, at least in some vertebrates, would be the paraphysis.",
+   "relevance": "relevant",
+   "dims": [
+    "ontogeny",
+    "molecular",
+    "terminology_history",
+    "phylogeny"
+   ],
+   "note": "Abstract does not name the paraphysis; PMC full text does: weak Pax7 immunoreactivity in the membranous structures between the telencephalic hemispheres that contain the paraphysis (Xenopus, early stages), and discussion that the paraphysis is the only telencephalic structure that might express Pax7 (cites Pax7 in paraphysis of Pleurodeles and chick).",
+   "as_cited_in": "Surfaced via WebSearch (AI summary lead); bibliographic data and text confirmed through PubMed/PMC"
+  },
+  {
+   "title": "Conserved localization of Pax6 and Pax7 transcripts in the brain of representatives of sarcopterygian vertebrates during development supports homologous brain regionalization",
+   "authors": "Moreno N, Joven A, Morona R, Bandín S, López JM, González A",
+   "year": 2014,
+   "journal": "Frontiers in neuroanatomy",
+   "volume": "8",
+   "pages": "75",
+   "doi": "10.3389/fnana.2014.00075",
+   "pmid": "25147506",
+   "pmcid": "PMC4123791",
+   "language": "eng",
+   "source_db": "pubmed",
+   "query": "PubMed: Moreno N[Author] AND Pax7 AND telencephalon; PMC full-text read",
+   "access": "pmc_fulltext",
+   "bibliographic_verified": true,
+   "verified_via": "PubMed metadata (get_article_metadata)",
+   "excerpt": "Regarding the presence of Pax7 cells in the rostral prosencephalon, only a conspicuous labeling was identified in the paraphysis, mainly in anamniotes, in relation to the choroid plexus that extended between the telencephalic hemispheres.",
+   "relevance": "relevant",
+   "dims": [
+    "ontogeny",
+    "molecular",
+    "phylogeny"
+   ],
+   "note": "Abstract does not name the paraphysis; PMC full text reports conspicuous Pax7 labeling in the paraphysis (mainly anamniotes, six sarcopterygian species incl. lungfish) as the only rostral-prosencephalic Pax7 signal, next to the telencephalic choroid plexus.",
+   "as_cited_in": ""
+  },
+  {
+   "title": "Immunohistochemical analysis of Pax6 and Pax7 expression in the CNS of adult Xenopus laevis",
+   "authors": "Bandín S, Morona R, López JM, Moreno N, González A",
+   "year": 2014,
+   "journal": "Journal of chemical neuroanatomy",
+   "volume": "57-58",
+   "pages": "24-41",
+   "doi": "10.1016/j.jchemneu.2014.03.006",
+   "pmid": "24717807",
+   "pmcid": "",
+   "language": "eng",
+   "source_db": "pubmed",
+   "query": "PubMed: Xenopus telencephalon development Pax6 Pax7 immunohistochemistry diencephalon",
+   "access": "pubmed_abstract",
+   "bibliographic_verified": true,
+   "verified_via": "PubMed metadata (get_article_metadata)",
+   "excerpt": "Only Pax6 was expressed in the telencephalon, including the olfactory bulbs, septum, striatum and amygdaloid complex.",
+   "relevance": "peripheral",
+   "dims": [
+    "molecular",
+    "anatomy",
+    "phylogeny"
+   ],
+   "note": "Companion adult Pax6/Pax7 map (anuran) to the developmental Pax7 paper and to Joven 2012/2013 in Pleurodeles; abstract does not name the paraphysis and full text was not available to check.",
+   "as_cited_in": ""
+  },
+  {
+   "title": "Pax6 and Pax7 in the Central Nervous System of Cladistian Fishes: A Comprehensive Expression Analysis",
+   "authors": "Lozano D, Chinarro A, Yanguas L, Morona R, Moreno N, López JM",
+   "year": 2025,
+   "journal": "The Journal of comparative neurology",
+   "volume": "533",
+   "pages": "e70053",
+   "doi": "10.1002/cne.70053",
+   "pmid": "40275424",
+   "pmcid": "",
+   "language": "eng",
+   "source_db": "pubmed",
+   "query": "PubMed: Moreno N[Author] AND Pax7 AND telencephalon",
+   "access": "pubmed_abstract",
+   "bibliographic_verified": true,
+   "verified_via": "PubMed metadata (get_article_metadata)",
+   "excerpt": "Likewise, the Pax7 expression pattern was generally conserved, with traits like the absence of labeling in the telencephalon and the expression in the retromamillary hypothalamic domain, the basal prosomere 3, the pretectum, the optic tectum, and the alar part of the first rhombomere.",
+   "relevance": "peripheral",
+   "dims": [
+    "molecular",
+    "phylogeny"
+   ],
+   "note": "Recent Pax6/Pax7 genoarchitecture in basal actinopterygians (Polypterus, Erpetoichthys); abstract does not name the paraphysis; full text not available to check.",
+   "as_cited_in": ""
+  },
+  {
+   "title": "Pax6 expression highlights regional organization in the adult brain of lungfishes, the closest living relatives of land vertebrates",
+   "authors": "López JM, Morona R, Moreno N, Lozano D, Jiménez S, González A",
+   "year": 2019,
+   "journal": "The Journal of comparative neurology",
+   "volume": "528",
+   "pages": "135-159",
+   "doi": "10.1002/cne.24744",
+   "pmid": "31299095",
+   "pmcid": "",
+   "language": "eng",
+   "source_db": "pubmed",
+   "query": "PubMed: lungfish brain telencephalon development",
+   "access": "pubmed_abstract",
+   "bibliographic_verified": true,
+   "verified_via": "PubMed metadata (get_article_metadata)",
+   "excerpt": "In the present study, we analyzed the detailed distribution of Pax6 cells in the adult central nervous system of lungfishes, the closest living relatives of all tetrapods.",
+   "relevance": "peripheral",
+   "dims": [
+    "molecular",
+    "phylogeny",
+    "anatomy"
+   ],
+   "note": "Lungfish Pax6 map (adult); abstract does not name the paraphysis or dorsal sac; full text not available to check. Context for the contested lungfish paraphysis/dorsal sac question.",
+   "as_cited_in": ""
+  },
+  {
+   "title": "A Structural Atlas of the Developing Zebrafish Telencephalon Based on Spatially-Restricted Transgene Expression",
+   "authors": "Turner KJ, Hawkins TA, Henriques PM, Valdivia LE, Bianco IH, Wilson SW, Folgueira M",
+   "year": 2022,
+   "journal": "Frontiers in neuroanatomy",
+   "volume": "16",
+   "pages": "840924",
+   "doi": "10.3389/fnana.2022.840924",
+   "pmid": "35721460",
+   "pmcid": "PMC9198225",
+   "language": "eng",
+   "source_db": "pubmed",
+   "query": "WebSearch: paraphysis telencephalon roof developing brain atlas axolotl Xenopus zebrafish expression; PMC full-text read",
+   "access": "pmc_fulltext",
+   "bibliographic_verified": true,
+   "verified_via": "PubMed metadata (get_article_metadata)",
+   "excerpt": "These datasets were registered to reference brains to form an atlas of telencephalic development at key stages of the eversion process (1dpf, 2dpf, and 5dpf) and compared to expression in adulthood.",
+   "relevance": "peripheral",
+   "dims": [
+    "ontogeny",
+    "anatomy"
+   ],
+   "note": "Reference-brain atlas of zebrafish telencephalon (1, 2, 5 dpf); PMC full text has a section on expansion of the tela choroidea but no mention of paraphysis, dorsal sac or velum transversum (checked by text search).",
+   "as_cited_in": "Surfaced via WebSearch (AI summary lead); bibliographic data confirmed through PubMed"
+  },
+  {
+   "title": "Choroid plexus in developmental and evolutionary perspective",
+   "authors": "Bill BR, Korzh V",
+   "year": 2014,
+   "journal": "Frontiers in neuroscience",
+   "volume": "8",
+   "pages": "363",
+   "doi": "10.3389/fnins.2014.00363",
+   "pmid": "25452709",
+   "pmcid": "PMC4231874",
+   "language": "eng",
+   "source_db": "pubmed",
+   "query": "PubMed: Bill BR[Author] AND Korzh V[Author]; PMC full-text read",
+   "access": "pmc_fulltext",
+   "bibliographic_verified": true,
+   "verified_via": "PubMed metadata (get_article_metadata)",
+   "excerpt": "In most vertebrates there are four CP's: CPIII, CPIV, and two lateral CPs, inset within each ventricle.",
+   "relevance": "peripheral",
+   "dims": [
+    "phylogeny",
+    "ontogeny",
+    "molecular"
+   ],
+   "note": "Review of choroid plexus development/evolution (roof plate origin, diencephalic vs myelencephalic CP in teleosts, CP as circumventricular organ); PMC full text does not mention the paraphysis (checked by text search).",
+   "as_cited_in": ""
+  },
+  {
+   "title": "Origin and development of circumventricular organs in living vertebrate",
+   "authors": "Korzh V, Kondrychyn I",
+   "year": 2019,
+   "journal": "Seminars in cell & developmental biology",
+   "volume": "102",
+   "pages": "13-20",
+   "doi": "10.1016/j.semcdb.2019.10.010",
+   "pmid": "31706729",
+   "pmcid": "",
+   "language": "eng",
+   "source_db": "pubmed",
+   "query": "PubMed: circumventricular organs evolution vertebrates review",
+   "access": "pubmed_abstract",
+   "bibliographic_verified": true,
+   "verified_via": "PubMed metadata (get_article_metadata)",
+   "excerpt": "These rather small and inconspicuous organs are found in close vicinity to the third and fourth brain ventricles suggestive of ancient evolutionary origin.",
+   "relevance": "peripheral",
+   "dims": [
+    "phylogeny",
+    "ontogeny",
+    "molecular"
+   ],
+   "note": "Zebrafish enhancer-trap view of CVO origin (roof plate, low Wnt/beta-catenin, fenestrated capillaries); abstract does not name the paraphysis; full text not available to check.",
+   "as_cited_in": ""
+  },
+  {
+   "title": "A detailed 3D MRI brain atlas of the African lungfish Protopterus annectens",
+   "authors": "Lozano D, López JM, Chinarro A, Morona R, Moreno N",
+   "year": 2024,
+   "journal": "Scientific reports",
+   "volume": "14",
+   "pages": "7999",
+   "doi": "10.1038/s41598-024-58671-x",
+   "pmid": "38580713",
+   "pmcid": "PMC10997765",
+   "language": "eng",
+   "source_db": "pubmed",
+   "query": "PubMed: lungfish brain telencephalon development; PMC full-text read",
+   "access": "pmc_fulltext",
+   "bibliographic_verified": true,
+   "verified_via": "PubMed metadata (get_article_metadata)",
+   "excerpt": "In turn, in its dorsal part stands the epithalamic recess between the epiphysis and the habenulae",
+   "relevance": "peripheral",
+   "dims": [
+    "anatomy",
+    "phylogeny"
+   ],
+   "note": "First 3D MRI atlas incl. ventricular system of a lungfish; labels epiphysis, habenula and epithalamic recess but the PMC full text never mentions a paraphysis or dorsal sac (checked by text search), i.e. no 3D-atlas coverage of the lungfish roof structures at issue.",
+   "as_cited_in": ""
+  },
+  {
+   "title": "MRI- and histologically derived neuroanatomical atlas of the Ambystoma mexicanum (axolotl)",
+   "authors": "Lazcano I, Cisneros-Mejorado A, Concha L, Ortiz-Retana JJ, Garza-Villarreal EA, Orozco A",
+   "year": 2021,
+   "journal": "Scientific reports",
+   "volume": "11",
+   "pages": "9850",
+   "doi": "10.1038/s41598-021-89357-3",
+   "pmid": "33972650",
+   "pmcid": "PMC8110773",
+   "language": "eng",
+   "source_db": "pubmed",
+   "query": "WebSearch: 3D MRI brain atlas axolotl OR Pleurodeles OR Xenopus OR frog paraphysis labeled structures; PMC full-text read",
+   "access": "pmc_fulltext",
+   "bibliographic_verified": true,
+   "verified_via": "PubMed metadata (get_article_metadata)",
+   "excerpt": "Moreover, the choroid plexus, which secretes cerebrospinal fluid into the vertebrate brainwas evident using MRI, contrary to what is observed in histological analysis due to the difficulty to preserve this structure.",
+   "relevance": "peripheral",
+   "dims": [
+    "anatomy"
+   ],
+   "note": "In vivo 3D MRI atlas of juvenile axolotl (82 ROIs) segmenting choroid plexus, subcommissural organ and habenula; PMC full text does not mention the paraphysis (checked by text search), so the structure studied histologically by Rivas-Manzano 2022 is not a labeled ROI.",
+   "as_cited_in": "Surfaced via WebSearch (AI summary lead); bibliographic data confirmed through PubMed"
+  },
+  {
+   "title": "A 3D MRI-based atlas of a lizard brain",
+   "authors": "Hoops D, Desfilis E, Ullmann JFP, Janke AL, Stait-Gardner T, Devenyi GA, Price WS, Medina L, Whiting MJ, Keogh JS",
+   "year": 2018,
+   "journal": "The Journal of comparative neurology",
+   "volume": "526",
+   "pages": "2511-2547",
+   "doi": "10.1002/cne.24480",
+   "pmid": "29931765",
+   "pmcid": "",
+   "language": "eng",
+   "source_db": "pubmed",
+   "query": "WebSearch: 3D MRI brain atlas axolotl OR Pleurodeles OR Xenopus OR frog paraphysis labeled structures",
+   "access": "pubmed_abstract",
+   "bibliographic_verified": true,
+   "verified_via": "PubMed metadata (get_article_metadata)",
+   "excerpt": "Few magnetic resonance brain atlases exist outside the standard model organisms in neuroscience and no magnetic resonance atlas has been produced for any reptile brain.",
+   "relevance": "peripheral",
+   "dims": [
+    "anatomy",
+    "phylogeny"
+   ],
+   "note": "11.74 T MRI atlas of an agamid lizard (Ctenophorus decresii), prosomeric framework; abstract does not name the paraphysis and full text was not available to check.",
+   "as_cited_in": "Surfaced via WebSearch (AI summary lead); bibliographic data confirmed through PubMed"
+  },
+  {
+   "title": "Spatially resolved cell atlas of the teleost telencephalon and deep homology of the vertebrate forebrain",
+   "authors": "Hegarty BE, Gruenhagen GW, Johnson ZV, Baker CM, Streelman JT",
+   "year": 2024,
+   "journal": "Communications biology",
+   "volume": "7",
+   "pages": "612",
+   "doi": "10.1038/s42003-024-06315-1",
+   "pmid": "38773256",
+   "pmcid": "PMC11109250",
+   "language": "eng",
+   "source_db": "pubmed",
+   "query": "WebSearch: \"paraphysis\" single-cell RNA-seq OR spatial transcriptomics telencephalon roof reptile amphibian; PMC full-text read",
+   "access": "pmc_fulltext",
+   "bibliographic_verified": true,
+   "verified_via": "PubMed metadata (get_article_metadata)",
+   "excerpt": "We then compare cell-types and anatomical regions in the cichlid telencephalon with those in amphibians, reptiles, birds, and mammals.",
+   "relevance": "peripheral",
+   "dims": [
+    "molecular",
+    "phylogeny"
+   ],
+   "note": "Spatial transcriptomics + snRNA-seq atlas of a teleost telencephalon compared with tetrapod datasets; PMC full text does not mention paraphysis, velum transversum or dorsal sac (checked by text search): single-cell atlases of the telencephalon do not yet cover the midline roof structures.",
+   "as_cited_in": "Surfaced via WebSearch (AI summary lead); bibliographic data confirmed through PubMed"
+  }
+ ]
+}

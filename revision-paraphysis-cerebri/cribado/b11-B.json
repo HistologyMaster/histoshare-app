@@ -1,0 +1,510 @@
+{
+ "batch": "b11",
+ "reviewer": "B",
+ "decisions": [
+  {
+   "rid": "R476",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Sea bass pineal complex histology incl. convoluted dorsal sac; descriptive only, no paraphysis comparison or homology argument.",
+   "dims": [
+    "anatomy",
+    "histology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R477",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Calbindin/calretinin map of caecilian brain; abstract never touches roof/paraphysis region.",
+   "dims": [
+    "histology",
+    "phylogeny"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R478",
+   "decision": "uncertain",
+   "reason_code": "insufficient_info",
+   "reason": "Northcutt chapter on lungfish CNS: only a table-of-contents snippet seen; could cover telencephalic roof/dorsal sac/paraphysis (coronarium) but unverified; chapter text or index for 'paraphysis' would resolve.",
+   "dims": [
+    "anatomy",
+    "phylogeny"
+   ],
+   "data_depth": "web_snippet"
+  },
+  {
+   "rid": "R479",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Coelacanth telencephalon impar reinterpreted as medial amygdalar cell group (cytoarchitecture); does not locate or bear on the paraphysis.",
+   "dims": [
+    "anatomy",
+    "phylogeny"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R480",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Lungfish medial telencephalic wall connections / pallium extent debate; abstract silent on dorsal sac or paraphysis.",
+   "dims": [
+    "anatomy",
+    "phylogeny"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R481",
+   "decision": "exclude",
+   "reason_code": "general_clinical",
+   "reason": "Pedigree of nasal dermoid sinus cyst with colloid cyst; genetic association only, no histogenesis or paraphysis discussion in abstract.",
+   "dims": [
+    "pathology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R482",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Xenopus hypothalamus alar regions; mentions telencephalon impar only as subdivision of secondary prosencephalon, nothing on paraphysis.",
+   "dims": [
+    "ontogeny"
+   ],
+   "data_depth": "fulltext"
+  },
+  {
+   "rid": "R483",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Zebrafish telencephalic eversion and thin tela choroidea; teleost morphogenesis without link to paraphysis region.",
+   "dims": [
+    "ontogeny"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R484",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Fzd3a/slit2 midline axon crossing in zebrafish commissural plate; axon guidance, unrelated to paraphysis.",
+   "dims": [
+    "molecular"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R485",
+   "decision": "include_A",
+   "reason_code": "paraphysis_data",
+   "reason": "Adult Pleurodeles Pax6/Pax7 atlas; discusses paraphysis nature (telencephalic vs p3 roof), lack of CSF uptake, AVT receptor; labelling in paraphysis (full-text passage; extent of own data inferred).",
+   "dims": [
+    "molecular",
+    "phylogeny",
+    "terminology_history"
+   ],
+   "data_depth": "fulltext"
+  },
+  {
+   "rid": "R486",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Dmrta2 mouse cortical hem/choroid plexus patterning; generic dorsal-midline paper never relating to paraphysis territory.",
+   "dims": [
+    "molecular"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R487",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Longitudinal neuromere lengths in human embryos; defines telencephalon medium T1 and commissural plate but abstract has no paraphysis content.",
+   "dims": [
+    "ontogeny"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R488",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Review of phylogenetic origins of brain organisers; Bmp/choroid plexus remark only, no paraphysis relevance.",
+   "dims": [
+    "molecular"
+   ],
+   "data_depth": "fulltext"
+  },
+  {
+   "rid": "R489",
+   "decision": "exclude",
+   "reason_code": "general_clinical",
+   "reason": "Familial colloid cyst case report/review; no histogenesis or paraphyseal discussion in abstract.",
+   "dims": [
+    "pathology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R490",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Dmrt5 mouse caudomedial cortex/choroid plexus; generic hem/choroid plexus patterning, no paraphysis link.",
+   "dims": [
+    "molecular"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R491",
+   "decision": "exclude",
+   "reason_code": "general_clinical",
+   "reason": "Forensic case of sudden death with colloid cyst; mere label 'endodermal malformation', no histogenesis data.",
+   "dims": [
+    "pathology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R492",
+   "decision": "include_A",
+   "reason_code": "paraphysis_data",
+   "reason": "Pax7 in Xenopus development: weak Pax7 signal in membranous structures containing the paraphysis; discussion of paraphysis as only telencephalic structure possibly Pax7+ (full text).",
+   "dims": [
+    "molecular",
+    "ontogeny",
+    "phylogeny",
+    "terminology_history"
+   ],
+   "data_depth": "fulltext"
+  },
+  {
+   "rid": "R493",
+   "decision": "exclude",
+   "reason_code": "general_clinical",
+   "reason": "MR comparison of sellar colloid cysts, third-ventricle colloid cysts and Rathke cleft cysts; imaging only.",
+   "dims": [
+    "pathology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R494",
+   "decision": "exclude",
+   "reason_code": "general_clinical",
+   "reason": "Familial colloid cyst mother/daughter report with screening suggestions; no histogenesis content.",
+   "dims": [
+    "pathology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R495",
+   "decision": "exclude",
+   "reason_code": "general_clinical",
+   "reason": "Giant petroclival endodermal cyst; case report, not third-ventricle colloid cyst histogenesis.",
+   "dims": [
+    "histology",
+    "pathology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R496",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "foxj1 ciliogenesis and CSF flow in Xenopus (SCO, choroid plexus); no paraphysis comparison.",
+   "dims": [
+    "histology",
+    "ontogeny"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R497",
+   "decision": "include_A",
+   "reason_code": "paraphysis_data",
+   "reason": "Pax3/Pax6/Pax7 in developing Pleurodeles; Pax7+ cells in paraphysis, concludes paraphysis is roof-plate derivative at p3/telencephalon limit.",
+   "dims": [
+    "histology",
+    "molecular",
+    "ontogeny",
+    "phylogeny"
+   ],
+   "data_depth": "fulltext"
+  },
+  {
+   "rid": "R499",
+   "decision": "include_A",
+   "reason_code": "clinical_origin",
+   "reason": "Colloid cyst + suprasellar dermoid case; discussion explicitly reviews neuroepithelial/paraphyseal vs endodermal origin, Nagaraju paraphysis-remnant claim and Cheng vacuolated-paraphysis model (case report, brief but explicit).",
+   "dims": [
+    "ontogeny",
+    "pathology",
+    "terminology_history"
+   ],
+   "data_depth": "fulltext"
+  },
+  {
+   "rid": "R501",
+   "decision": "include_A",
+   "reason_code": "paraphysis_data",
+   "reason": "Human embryonic lateral choroid plexus morphogenesis; reports paraphysis detected after CS19 on roof of dorsal ventricle with epithelial changes and discusses its relation to CP.",
+   "dims": [
+    "ontogeny",
+    "terminology_history"
+   ],
+   "data_depth": "fulltext"
+  },
+  {
+   "rid": "R502",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "FOXJ1/cilia in talpid3 chick choroid plexus-forming neuroectoderm; generic, no paraphysis.",
+   "dims": [
+    "histology",
+    "molecular"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R503",
+   "decision": "exclude",
+   "reason_code": "general_clinical",
+   "reason": "Anatomy of fornix windows and large colloid cyst growth for endoscopy; 'origin' means growth site, no histogenesis or paraphysis in abstract.",
+   "dims": [
+    "anatomy",
+    "pathology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R504",
+   "decision": "uncertain",
+   "reason_code": "insufficient_info",
+   "reason": "Adult Xenopus Pax6/Pax7 immunomap; abstract silent on paraphysis though sister Pax7 papers report paraphysis labelling in anamniotes; full-text search for 'paraphysis' would resolve.",
+   "dims": [
+    "molecular",
+    "anatomy",
+    "phylogeny"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R505",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Review of choroid plexus development/evolution; full text reported not to mention the paraphysis.",
+   "dims": [
+    "molecular",
+    "ontogeny",
+    "phylogeny"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R506",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Cichlid pineal complex incl. dorsal sac under photoperiods; no paraphysis data or homology discussion.",
+   "dims": [
+    "anatomy",
+    "histology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R507",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Zebrafish posterior telencephalic roof progenitors for adult pallial stem cells; no paraphysis.",
+   "dims": [
+    "molecular",
+    "ontogeny"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R508",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Zebrafish choroid plexus enhancer trap line; generic choroid plexus, no paraphysis link.",
+   "dims": [
+    "molecular",
+    "ontogeny"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R509",
+   "decision": "exclude",
+   "reason_code": "general_clinical",
+   "reason": "Terson syndrome case; single sentence repeats 'persistence of embryonic paraphysis' origin, no data or analysis (passing mention only).",
+   "dims": [
+    "pathology"
+   ],
+   "data_depth": "fulltext"
+  },
+  {
+   "rid": "R510",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Otx2 enhancers (choroid plexus, hem, choroidal roof) in mouse; generic regulatory study.",
+   "dims": [
+    "molecular",
+    "ontogeny"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R511",
+   "decision": "include_A",
+   "reason_code": "paraphysis_data",
+   "reason": "Pax6/Pax7 in six sarcopterygians incl. lungfish; conspicuous Pax7 labelling in the paraphysis as only rostral prosencephalic Pax7 signal, beside telencephalic choroid plexus (full text).",
+   "dims": [
+    "molecular",
+    "ontogeny",
+    "phylogeny"
+   ],
+   "data_depth": "fulltext"
+  },
+  {
+   "rid": "R512",
+   "decision": "exclude",
+   "reason_code": "general_clinical",
+   "reason": "Monozygotic twins with colloid cysts and familial literature review; no histogenesis.",
+   "dims": [
+    "pathology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R513",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Review of commissure evolution/commissural plate; axon-centred, abstract does not locate or discuss the paraphysis.",
+   "dims": [
+    "anatomy",
+    "ontogeny",
+    "phylogeny"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R514",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Review of SCO/choroid plexus CSF signalling and neurogenesis; abstract makes no comparison with the paraphysis.",
+   "dims": [
+    "molecular",
+    "physiology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R515",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Retinoic acid in chick forebrain roof plate/choroid plexus; generic roof-plate paper, no paraphysis.",
+   "dims": [
+    "molecular",
+    "ontogeny"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R516",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Pallial patterning and isocortex origin review; cortical hem signalling generic, no paraphysis.",
+   "dims": [
+    "molecular",
+    "phylogeny"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R517",
+   "decision": "include_A",
+   "reason_code": "clinical_origin",
+   "reason": "Familial colloid cyst case; Discussion gives explicit historiography of origin (Sjovall paraphysis, Fulton & Bailey, Kappers ectopic paraphyseal anlage, Coxe & Luse, Shuangshoti, endodermal view).",
+   "dims": [
+    "ontogeny",
+    "pathology",
+    "terminology_history"
+   ],
+   "data_depth": "fulltext"
+  },
+  {
+   "rid": "R518",
+   "decision": "exclude",
+   "reason_code": "general_clinical",
+   "reason": "Neurosurgical management review; origin only stated as neuroepithelium vs endoderm, no paraphysis discussion in abstract.",
+   "dims": [
+    "pathology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R519",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "miR-135a/Wnt in mouse hem and choroid plexus; generic, no paraphysis.",
+   "dims": [
+    "molecular",
+    "ontogeny"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R520",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Rat pineal ontogeny with Pax6+ precursors and microglia; pineal-only, no paraphysis relation.",
+   "dims": [
+    "histology",
+    "molecular",
+    "ontogeny"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R521",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "MafB in hindbrain choroid plexus; fourth-ventricle roof only.",
+   "dims": [
+    "molecular",
+    "ontogeny"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R522",
+   "decision": "exclude",
+   "reason_code": "general_clinical",
+   "reason": "Third-ventricle enterogenous cyst mimicking colloid cyst; case report, no colloid-cyst histogenesis or paraphysis weighing.",
+   "dims": [
+    "histology",
+    "pathology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R523",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Characid pineal complex comparison incl. dorsal sac morphology; no paraphysis data or homology argument.",
+   "dims": [
+    "anatomy",
+    "histology",
+    "phylogeny"
+   ],
+   "data_depth": "fulltext"
+  }
+ ]
+}

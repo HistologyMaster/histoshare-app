@@ -1,0 +1,1176 @@
+[
+ {
+  "rid": "R006",
+  "final": "B",
+  "source": "adjudicated",
+  "reason_code": "context_anatomy",
+  "reason": "Burckhardt 1894 on homologies of the diencephalic roof (epiphysis, paraphysis, dorsal sac) in lower vertebrates; needed for homology/terminology of the paraphysis versus dorsal sac (phylogeny, anatomy). Paraphysis is not named in the title and content is unverified (metadata only), hence B not A.",
+  "dims": [
+   "anatomy",
+   "phylogeny",
+   "terminology_history"
+  ],
+  "data_depth": "metadata_only",
+  "A": "A",
+  "B": "B",
+  "year": 1894,
+  "authors": "Burckhardt R",
+  "title": "Die Homologien des Zwischenhirndaches und ihre Bedeutung für die Morphologie des Hirns bei niederen Vertebraten"
+ },
+ {
+  "rid": "R019",
+  "final": "B",
+  "source": "agreement",
+  "reason_code": "context_embryology",
+  "reason": "Johnston 1909 forebrain vesicle morphology: defines roof plate, lamina terminalis/supraneuroporica and tela chorioidea, the framework that locates the paraphysis (ontogeny/anatomy); no paraphysis passage seen in the snippet.",
+  "dims": [
+   "anatomy",
+   "ontogeny",
+   "phylogeny",
+   "terminology_history"
+  ],
+  "data_depth": "web_snippet",
+  "A": "B",
+  "B": "B",
+  "year": 1909,
+  "authors": "Johnston JB",
+  "title": "The morphology of the forebrain vesicle in vertebrates"
+ },
+ {
+  "rid": "R024",
+  "final": "B",
+  "source": "adjudicated",
+  "reason_code": "context_anatomy",
+  "reason": "Dendy 1911 tuatara monograph on pineal organs 'and adjacent parts of the brain': by scope it must cover the roof between telencephalon and pineal complex (velum, dorsal sac, paraphysis of Sphenodon), key for reptile anatomy/ontogeny/phylogeny; no excerpt seen, content unverified - confirm paraphysis sections at full text.",
+  "dims": [
+   "anatomy",
+   "ontogeny",
+   "phylogeny"
+  ],
+  "data_depth": "metadata_only",
+  "A": "U",
+  "B": "U",
+  "year": 1911,
+  "authors": "Dendy A",
+  "title": "On the structure, development and morphological interpretation of the pineal organs and adjacent parts of the brain in the tuatara (Sphenodon punctatus)"
+ },
+ {
+  "rid": "R027",
+  "final": "B",
+  "source": "agreement",
+  "reason_code": "context_embryology",
+  "reason": "Streeter 1912 human nervous-system embryology: excerpt records homologising the anterior choroidal pouch with the paraphysis of lower vertebrates (human ontogeny/homology); second-hand quote via Bailey 1916, paraphysis is not the chapter's subject.",
+  "dims": [
+   "anatomy",
+   "ontogeny",
+   "phylogeny",
+   "terminology_history"
+  ],
+  "data_depth": "web_snippet",
+  "A": "B",
+  "B": "B",
+  "year": 1912,
+  "authors": "Streeter GL",
+  "title": "The development of the nervous system"
+ },
+ {
+  "rid": "R028",
+  "final": "B",
+  "source": "agreement",
+  "reason_code": "context_embryology",
+  "reason": "Bailey 1916 human forebrain roof plate and lateral choroid plexus: roof region from which the paraphysis arises, disputes paraphysis identifications in man (human ontogeny); excerpt itself silent on paraphysis.",
+  "dims": [
+   "anatomy",
+   "ontogeny"
+  ],
+  "data_depth": "web_snippet",
+  "A": "B",
+  "B": "B",
+  "year": 1916,
+  "authors": "Bailey P",
+  "title": "Morphology of the roof plate of the fore-brain and the lateral choroid plexuses in the human embryo"
+ },
+ {
+  "rid": "R030",
+  "final": "B",
+  "source": "adjudicated",
+  "reason_code": "context_embryology",
+  "reason": "Warren 1917 on the pineal region in human embryos: Warren's 'pineal region' studies pair pineal and paraphysis, and human embryo staging of the paraphysis is a review gap (ontogeny); only title/metadata seen, content unverified - confirm paraphysis statement at full text.",
+  "dims": [
+   "anatomy",
+   "ontogeny"
+  ],
+  "data_depth": "metadata_only",
+  "A": "U",
+  "B": "U",
+  "year": 1917,
+  "authors": "Warren J",
+  "title": "On the pineal region in human embryos"
+ },
+ {
+  "rid": "R034",
+  "final": "B",
+  "source": "agreement",
+  "reason_code": "context_embryology",
+  "reason": "Hines 1921 defines the human telencephalon medium divided into terminal plate and roof by the angulus terminalis, the terminology locating the region where the paraphysis arises (ontogeny/terminology); one-page item, no abstract.",
+  "dims": [
+   "ontogeny",
+   "terminology_history"
+  ],
+  "data_depth": "metadata_only",
+  "A": "B",
+  "B": "B",
+  "year": 1921,
+  "authors": "Hines M",
+  "title": "The Embryonic Cerebral Hemisphere in Man."
+ },
+ {
+  "rid": "R036",
+  "final": "B",
+  "source": "adjudicated",
+  "reason_code": "context_embryology",
+  "reason": "Hines 1923 development of the Sphenodon telencephalon: ontogeny of telencephalon medium/lamina terminalis/roof, and one finder summary identifies the caudal midline outpocketing as the paraphysis (second summary silent); locates the reptile paraphysis in ontogeny. Content unverified.",
+  "dims": [
+   "anatomy",
+   "ontogeny",
+   "phylogeny"
+  ],
+  "data_depth": "metadata_only",
+  "A": "B",
+  "B": "U",
+  "year": 1923,
+  "authors": "Hines M",
+  "title": "The development of the telencephalon in Sphenodon punctatum"
+ },
+ {
+  "rid": "R040",
+  "final": "B",
+  "source": "agreement",
+  "reason_code": "context_clinical_histogenesis",
+  "reason": "Byrom and Russell 1932 ependymal cyst of the third ventricle: early ependymal-origin interpretation set against the paraphysial theory, needed to weigh the hypothesis (clinical origin); case report, content unverified.",
+  "dims": [
+   "pathology"
+  ],
+  "data_depth": "metadata_only",
+  "A": "B",
+  "B": "B",
+  "year": 1932,
+  "authors": "Byrom FB, Russell DS",
+  "title": "Ependymal cyst of the third ventricle associated with diabetes mellitus"
+ },
+ {
+  "rid": "R067",
+  "final": "B",
+  "source": "agreement",
+  "reason_code": "context_clinical_histogenesis",
+  "reason": "Histology of mucus-secreting cells in colloid cysts, bearing on endodermal versus neuroepithelial/paraphyseal origin (clinical question); title-based, no abstract.",
+  "dims": [
+   "histology",
+   "pathology"
+  ],
+  "data_depth": "metadata_only",
+  "A": "B",
+  "B": "B",
+  "year": 1954,
+  "authors": "Mosberg WH, Blackwood W",
+  "title": "Mucus-secreting cells in colloid cysts of the third ventricle"
+ },
+ {
+  "rid": "R096",
+  "final": "B",
+  "source": "agreement",
+  "reason_code": "context_clinical_histogenesis",
+  "reason": "First EM study of a third-ventricle colloid cyst (ependymal/epithelial origin per citing literature); histogenesis evidence needed to weigh the paraphyseal-origin hypothesis (clinical question); paraphysis not named, content unverified.",
+  "dims": [
+   "histology",
+   "pathology"
+  ],
+  "data_depth": "metadata_only",
+  "A": "B",
+  "B": "B",
+  "year": 1964,
+  "authors": "Coxe WS, Luse SA",
+  "title": "COLLOID CYST OF THIRD VENTRICLE. AN ELECTRON MICROSCOPIC STUDY."
+ },
+ {
+  "rid": "R106",
+  "final": "B",
+  "source": "agreement",
+  "reason_code": "context_clinical_histogenesis",
+  "reason": "Colloid (neuroepithelial) cyst pathogenesis and relation to choroid plexus/ependyma by the group that classed paraphysis as extraventricular choroid plexus; histogenesis paper needed to weigh paraphyseal hypothesis (clinical); paraphysis content unverified, no abstract.",
+  "dims": [
+   "ontogeny",
+   "pathology",
+   "terminology_history"
+  ],
+  "data_depth": "metadata_only",
+  "A": "B",
+  "B": "B",
+  "year": 1965,
+  "authors": "Shuangshoti S, Roberts MP, Netsky MG",
+  "title": "NEUROEPITHELIAL (COLLOID) CYSTS: PATHOGENESIS AND RELATION TO CHOROID PLEXUS AND EPENDYMA."
+ },
+ {
+  "rid": "R122",
+  "final": "B",
+  "source": "agreement",
+  "reason_code": "context_anatomy",
+  "reason": "Yakovlev's definitions of telencephalon impar/semipar/totopar (midline unpaired telencephalon where the paraphysis arises); terminology source for locating the paraphysis (anatomy/terminology); paraphysis not verified in text, no abstract.",
+  "dims": [
+   "anatomy",
+   "phylogeny",
+   "terminology_history"
+  ],
+  "data_depth": "metadata_only",
+  "A": "B",
+  "B": "B",
+  "year": 1968,
+  "authors": "Yakovlev PI",
+  "title": "Telencephalon \"impar\", \"semipar\" and \"totopar\". (Morphogenetic, tectogenetic and architectonic definitions)."
+ },
+ {
+  "rid": "R140",
+  "final": "B",
+  "source": "agreement",
+  "reason_code": "context_clinical_histogenesis",
+  "reason": "EM of a third-ventricle colloid cyst (ciliated epithelium, mucin per MeSH): ultrastructural histogenesis evidence needed to weigh paraphyseal vs endodermal origin (clinical); paraphysis not named, no abstract.",
+  "dims": [
+   "histology",
+   "pathology"
+  ],
+  "data_depth": "metadata_only",
+  "A": "B",
+  "B": "B",
+  "year": 1973,
+  "authors": "Landolt-Weber UM",
+  "title": "[Ultrastructure of a third ventricle colloid cyst (author's transl)]"
+ },
+ {
+  "rid": "R145",
+  "final": "B",
+  "source": "agreement",
+  "reason_code": "context_clinical_histogenesis",
+  "reason": "Ultrastructure of colloid cysts (MeSH Endoderm, Choroid Plexus, Cilia) bearing on endodermal vs neuroepithelial/paraphyseal origin; content unverified, no abstract.",
+  "dims": [
+   "histology",
+   "pathology"
+  ],
+  "data_depth": "metadata_only",
+  "A": "B",
+  "B": "B",
+  "year": 1974,
+  "authors": "Hirano A, Ghatak NR",
+  "title": "The fine structure of colloid cysts of the third ventricle."
+ },
+ {
+  "rid": "R149",
+  "final": "B",
+  "source": "agreement",
+  "reason_code": "context_clinical_histogenesis",
+  "reason": "Colloid-cyst pathogenesis from diencephalic-roof neuroepithelium (invagination/evagination into velum interpositum); paraphysis not named in abstract but locates the origin relative to the paraphyseal hypothesis.",
+  "dims": [
+   "ontogeny",
+   "pathology",
+   "terminology_history"
+  ],
+  "data_depth": "abstract",
+  "A": "B",
+  "B": "B",
+  "year": 1975,
+  "authors": "Ciric I, Zivin I",
+  "title": "Neuroepithelial (colloid) cysts of the septum pellucidum."
+ },
+ {
+  "rid": "R151",
+  "final": "B",
+  "source": "agreement",
+  "reason_code": "context_clinical_histogenesis",
+  "reason": "EM of CNS epithelial cysts; colloid cyst judged endodermal, evidence needed to weigh paraphyseal/neuroepithelial origin (paraphysis not named in abstract).",
+  "dims": [
+   "histology",
+   "pathology"
+  ],
+  "data_depth": "abstract",
+  "A": "B",
+  "B": "B",
+  "year": 1975,
+  "authors": "Hirano A, Matsui T, Zimmerman HM",
+  "title": "[The fine structure of epithelial cyst in the central nervous system (author's transl)]."
+ },
+ {
+  "rid": "R153",
+  "final": "B",
+  "source": "agreement",
+  "reason_code": "context_clinical_histogenesis",
+  "reason": "Colloid cyst case stating neuroepithelial origin from ependyma/choroid plexus, stomodeal origin possible near floor; paraphysis not named.",
+  "dims": [
+   "histology",
+   "pathology",
+   "terminology_history"
+  ],
+  "data_depth": "abstract",
+  "A": "B",
+  "B": "B",
+  "year": 1975,
+  "authors": "Shuangshoti S, Phonprasert C, Suwanwela N, Netsky MG",
+  "title": "Combined neuroepithelial (colloid) cyst and xanthogranuloma (xanthoma) in the third ventricle."
+ },
+ {
+  "rid": "R168",
+  "final": "B",
+  "source": "agreement",
+  "reason_code": "context_clinical_histogenesis",
+  "reason": "EM of colloid cyst lining resembling respiratory epithelium, supporting endodermal origin (paraphysis not named in abstract); weighs against neuroepithelial/paraphyseal views.",
+  "dims": [
+   "histology",
+   "pathology"
+  ],
+  "data_depth": "abstract",
+  "A": "B",
+  "B": "B",
+  "year": 1977,
+  "authors": "Ghatak NR, Kasoff I, Alexander E",
+  "title": "Further observation on the fine structure of a colloid cyst of the third ventricle."
+ },
+ {
+  "rid": "R171",
+  "final": "B",
+  "source": "adjudicated",
+  "reason_code": "context_clinical_histogenesis",
+  "reason": "Holbach and Gullotta 1977 abstract equates Rathke cysts with colloid cysts of the foramen of Monro and cites an ectopic upper-respiratory (endodermal) origin: an explicit histogenetic alternative needed to weigh the paraphyseal hypothesis (clinical origin). No paraphysis data and no original evidence, so limited weight.",
+  "dims": [
+   "histology",
+   "pathology"
+  ],
+  "data_depth": "abstract",
+  "A": "B",
+  "B": "X",
+  "year": 1977,
+  "authors": "Holbach KH, Gullotta F",
+  "title": "[Contribution to the pathogenesis of intrasellar and intraventricular cysts (author's transl)]."
+ },
+ {
+  "rid": "R177",
+  "final": "B",
+  "source": "agreement",
+  "reason_code": "context_clinical_histogenesis",
+  "reason": "Multiple neuroepithelial cysts: proposes neuroepithelial folding origin and Rathke-cleft origin for floor cysts; paraphysis not named, informs origin debate.",
+  "dims": [
+   "ontogeny",
+   "pathology"
+  ],
+  "data_depth": "abstract",
+  "A": "B",
+  "B": "B",
+  "year": 1977,
+  "authors": "Shuangshoti S, Phisitbutr M, Kasantikul V, Netsky MG",
+  "title": "Multiple neuroepithelial (colloid) cysts: association with other congenital anomalies."
+ },
+ {
+  "rid": "R179",
+  "final": "B",
+  "source": "adjudicated",
+  "reason_code": "context_clinical_histogenesis",
+  "reason": "Zanetti and Gordini 1977 autopsy colloid cyst whose title promises 'histogenetic considerations' (clinical origin); expected to weigh neuroepithelial/endodermal/paraphyseal origin, but no abstract so content unverified - confirm at full text.",
+  "dims": [
+   "pathology"
+  ],
+  "data_depth": "metadata_only",
+  "A": "U",
+  "B": "U",
+  "year": 1977,
+  "authors": "Zanetti G, Gordini G",
+  "title": "[A case of autoptic colloid cyst of the 3rd ventricle. Anatomic, clinical and histogenetic considerations]."
+ },
+ {
+  "rid": "R185",
+  "final": "B",
+  "source": "adjudicated",
+  "reason_code": "context_function",
+  "reason": "Brocklehurst 1979 abstract: comparative CSF-system morphology (amphioxus to mouse) naming the paraphysis among compared ependymal derivatives with choroid plexuses and proposing a CSF chemical-environment function; paraphysis not principal and PMC full text is unreadable scans, so context for phylogeny/physiology, not A.",
+  "dims": [
+   "phylogeny",
+   "anatomy",
+   "physiology"
+  ],
+  "data_depth": "abstract",
+  "A": "B",
+  "B": "A",
+  "year": 1979,
+  "authors": "Brocklehurst G",
+  "title": "The significance of the evolution of the cerebrospinal fluid system."
+ },
+ {
+  "rid": "R188",
+  "final": "B",
+  "source": "agreement",
+  "reason_code": "context_clinical_histogenesis",
+  "reason": "Suprasellar/third-ventricle colloid cyst with foregut (respiratory) lining; reconsiders origin (endoderm vs neuroepithelium), needed to weigh the paraphyseal hypothesis; abstract does not name the paraphysis.",
+  "dims": [
+   "pathology",
+   "histology"
+  ],
+  "data_depth": "abstract",
+  "A": "B",
+  "B": "B",
+  "year": 1979,
+  "authors": "Evans DC, Netsky MG, Allen VE, Kasantikul V",
+  "title": "Empty sella secondary to suprasellar colloid cyst of foregut (respiratory) origin. Case report."
+ },
+ {
+  "rid": "R193",
+  "final": "B",
+  "source": "agreement",
+  "reason_code": "context_embryology",
+  "reason": "O'Rahilly & Gardner: early appearance of the telencephalon medium in human embryos and brain-subdivision terminology; defines the territory from which the paraphysis arises (ontogeny, terminology).",
+  "dims": [
+   "ontogeny",
+   "terminology_history"
+  ],
+  "data_depth": "abstract",
+  "A": "B",
+  "B": "B",
+  "year": 1979,
+  "authors": "O'Rahilly R, Gardner E",
+  "title": "The initial development of the human brain."
+ },
+ {
+  "rid": "R221",
+  "final": "B",
+  "source": "agreement",
+  "reason_code": "context_clinical_histogenesis",
+  "reason": "SEM/TEM of three colloid cysts (ciliated and non-ciliated cells, apocrine activity, surface like normal ventricle) bearing on cyst derivation; original ultrastructural data to weigh the paraphyseal hypothesis; abstract does not name the paraphysis.",
+  "dims": [
+   "histology",
+   "pathology"
+  ],
+  "data_depth": "abstract",
+  "A": "B",
+  "B": "B",
+  "year": 1982,
+  "authors": "Leech RW, Freeman T, Johnson R",
+  "title": "Colloid cyst of the third ventricle. A scanning and transmission electron microscopic study."
+ },
+ {
+  "rid": "R234",
+  "final": "B",
+  "source": "agreement",
+  "reason_code": "context_clinical_histogenesis",
+  "reason": "Single-case EM of colloid cyst wall (squamous plus mucin-secreting columnar epithelium) argues non-neuroepithelial origin, weighing against a paraphyseal/neuroepithelial origin (clinical).",
+  "dims": [
+   "histology",
+   "pathology"
+  ],
+  "data_depth": "abstract",
+  "A": "B",
+  "B": "B",
+  "year": 1984,
+  "authors": "Yagishita S, Itoh Y, Shiozawa T, Tanaka T",
+  "title": "Ultrastructural observation on a colloid cyst of the third ventricle. A contribution to its pathogenesis."
+ },
+ {
+  "rid": "R242",
+  "final": "B",
+  "source": "agreement",
+  "reason_code": "context_embryology",
+  "reason": "Human stage 11: defines telencephalon medium as the embryonic lamina terminalis (rostral neuropore closure); terminology baseline for locating the human paraphysis (ontogeny); weak link, no paraphysis mention.",
+  "dims": [
+   "ontogeny",
+   "terminology_history"
+  ],
+  "data_depth": "abstract",
+  "A": "B",
+  "B": "B",
+  "year": 1986,
+  "authors": "Müller F, O'Rahilly R",
+  "title": "The development of the human brain and the closure of the rostral neuropore at stage 11."
+ },
+ {
+  "rid": "R243",
+  "final": "B",
+  "source": "agreement",
+  "reason_code": "context_function",
+  "reason": "Circadian amine rhythms in the turtle 'pineal-paraphyseal complex' measured as combined tissue; paraphysis not analysed separately, so only contextual physiology.",
+  "dims": [
+   "physiology"
+  ],
+  "data_depth": "abstract",
+  "A": "B",
+  "B": "B",
+  "year": 1986,
+  "authors": "Mahapatra MS, Mahata SK, Maiti BR",
+  "title": "Circadian rhythms in serotonin, norepinephrine, and epinephrine contents of the pineal-paraphyseal complex of the soft-shelled turtle (Lissemys punctata punctata)."
+ },
+ {
+  "rid": "R251",
+  "final": "B",
+  "source": "agreement",
+  "reason_code": "context_function",
+  "reason": "Reserpine/chlorpromazine effects on amines in turtle 'pineal-paraphyseal complex' (combined tissue, paraphysis not separated); contextual physiology only.",
+  "dims": [
+   "physiology"
+  ],
+  "data_depth": "abstract",
+  "A": "B",
+  "B": "B",
+  "year": 1987,
+  "authors": "Mahapatra MS, Mahata SK, Maiti BR",
+  "title": "Effects of reserpine and chlorpromazine on the serotonin, norepinephrine, and epinephrine levels in the pineal-paraphyseal complex of soft-shelled turtles (Lissemys punctata punctata)."
+ },
+ {
+  "rid": "R253",
+  "final": "B",
+  "source": "agreement",
+  "reason_code": "context_clinical_histogenesis",
+  "reason": "Immunoperoxidase of 8 colloid cysts supports endodermal origin, bearing on whether a paraphyseal (neuroepithelial) origin is tenable (clinical).",
+  "dims": [
+   "histology",
+   "pathology"
+  ],
+  "data_depth": "abstract",
+  "A": "B",
+  "B": "B",
+  "year": 1987,
+  "authors": "Shibata T, Burger PC, Kleihues P",
+  "title": "[Origin of colloid cyst: immunoperoxidase study]"
+ },
+ {
+  "rid": "R261",
+  "final": "B",
+  "source": "agreement",
+  "reason_code": "context_embryology",
+  "reason": "Human stage 14: telencephalon medium and site of the velum transversum (roof thickness change) define the boundary region where the human paraphysis would arise (ontogeny).",
+  "dims": [
+   "ontogeny",
+   "anatomy"
+  ],
+  "data_depth": "abstract",
+  "A": "B",
+  "B": "B",
+  "year": 1988,
+  "authors": "Müller F, O'Rahilly R",
+  "title": "The first appearance of the future cerebral hemispheres in the human embryo at stage 14."
+ },
+ {
+  "rid": "R262",
+  "final": "B",
+  "source": "agreement",
+  "reason_code": "context_function",
+  "reason": "Circadian and photoperiod effects on amines in turtle 'pineal-paraphyseal complex' (combined tissue, paraphysis not separated); contextual physiology only.",
+  "dims": [
+   "physiology"
+  ],
+  "data_depth": "abstract",
+  "A": "B",
+  "B": "B",
+  "year": 1988,
+  "authors": "Mahapatra MS, Mahata SK, Maiti BR",
+  "title": "Circadian rhythms and influence of light on serotonin, norepinephrine, and epinephrine contents in the pineal-paraphyseal complex of soft-shelled turtles (Lissemys punctata punctata)."
+ },
+ {
+  "rid": "R270",
+  "final": "B",
+  "source": "adjudicated",
+  "reason_code": "context_clinical_histogenesis",
+  "reason": "Immunohistochemistry of 12 colloid cysts (cytokeratin, vimentin, NF, GFAP, EMA, lu-5): epithelium distinct from choroid plexus/ependyma/glia, concluded to be a primitive-neuroectoderm anomaly 'in any ventricular location'; abstract names the embryonic-paraphysis theory among proposed origins but does not itself test it, so B (clinical: weighs paraphyseal vs tela choroidea vs choroid plexus origin), not A.",
+  "dims": [
+   "clinical",
+   "histology"
+  ],
+  "data_depth": "abstract",
+  "A": "A",
+  "B": "B",
+  "year": 1989,
+  "authors": "Kondziolka D, Bilbao JM",
+  "title": "An immunohistochemical study of neuroepithelial (colloid) cysts."
+ },
+ {
+  "rid": "R273",
+  "final": "B",
+  "source": "agreement",
+  "reason_code": "context_embryology",
+  "reason": "Human stage 17: choroid plexus anlage begins in the roof of telencephalon medium (vessels, necrosis, anterior choroid artery); locates the tela choroidea region adjoining the paraphysis (ontogeny).",
+  "dims": [
+   "ontogeny",
+   "histology"
+  ],
+  "data_depth": "abstract",
+  "A": "B",
+  "B": "B",
+  "year": 1989,
+  "authors": "Müller F, O'Rahilly R",
+  "title": "The human brain at stage 17, including the appearance of the future olfactory bulb and the first amygdaloid nuclei."
+ },
+ {
+  "rid": "R274",
+  "final": "B",
+  "source": "agreement",
+  "reason_code": "context_function",
+  "reason": "Ambient temperature effects on amines in turtle 'pineal-paraphyseal complex' (combined tissue, paraphysis not separated); contextual physiology only.",
+  "dims": [
+   "physiology"
+  ],
+  "data_depth": "abstract",
+  "A": "B",
+  "B": "B",
+  "year": 1989,
+  "authors": "Mahapatra MS, Mahata SK, Maiti BR",
+  "title": "Effect of ambient temperature on serotonin, norepinephrine, and epinephrine contents in the pineal-paraphyseal complex of the soft-shelled turtle (Lissemys punctata punctata)."
+ },
+ {
+  "rid": "R285",
+  "final": "B",
+  "source": "agreement",
+  "reason_code": "context_embryology",
+  "reason": "Staged human embryos (CS 11-23): states paraphysis is appearing at stage 18 alongside telencephalon medium and choroid plexus sequence; ontogeny/staging anchor only (single clause on paraphysis; full PubMed abstract checked).",
+  "dims": [
+   "ontogeny",
+   "anatomy"
+  ],
+  "data_depth": "abstract",
+  "A": "B",
+  "B": "B",
+  "year": 1990,
+  "authors": "O'Rahilly R, Müller F",
+  "title": "Ventricular system and choroid plexuses of the human brain during the embryonic period proper."
+ },
+ {
+  "rid": "R286",
+  "final": "B",
+  "source": "adjudicated",
+  "reason_code": "context_clinical_histogenesis",
+  "reason": "Original immunohistochemistry (KL1, EMA, S100, GFAP) of 14 third-ventricle colloid cysts: epithelium clearly differs from neuroepithelium, supporting the presumed bronchogenic/endodermal origin; direct histogenesis data against a neuroepithelial/paraphyseal origin, needed for the clinical-origin question (paraphysis not named in abstract).",
+  "dims": [
+   "clinical",
+   "histology"
+  ],
+  "data_depth": "abstract",
+  "A": "B",
+  "B": "X",
+  "year": 1990,
+  "authors": "Schröder R, Sanker P, Thun F, Richard KE",
+  "title": "Cysts of the third ventricle."
+ },
+ {
+  "rid": "R288",
+  "final": "B",
+  "source": "adjudicated",
+  "reason_code": "context_clinical_histogenesis",
+  "reason": "Original cytokeratin/GFAP immunohistochemistry of 19 CNS epithelial cysts including 6 third-ventricle colloid cysts: complex-type cytokeratins in colloid cysts vs simple-type only in neuroectodermal cysts, discussed for origin; histogenesis data needed to weigh a neuroepithelial/paraphyseal vs endodermal origin (paraphysis not named). Kept as the primary data report of this series.",
+  "dims": [
+   "clinical",
+   "histology"
+  ],
+  "data_depth": "abstract",
+  "A": "B",
+  "B": "X",
+  "year": 1990,
+  "authors": "Uematsu Y, Rojas-Corona RR, Llena JF, Hirano A",
+  "title": "Epithelial cysts in the central nervous system, characteristic expression of cytokeratins in an immunohistochemical study."
+ },
+ {
+  "rid": "R293",
+  "final": "B",
+  "source": "adjudicated",
+  "reason_code": "context_clinical_histogenesis",
+  "reason": "Five third-ventricle colloid cysts vs spinal enterogenous cysts (cytokeratin, EMA, CEA positive; GFAP/vimentin negative) with explicit conclusion of primitive foregut endodermal origin, including a fourth-ventricle case; competing-hypothesis histogenesis evidence needed to weigh the paraphyseal origin (paraphysis not named in abstract).",
+  "dims": [
+   "clinical",
+   "histology"
+  ],
+  "data_depth": "abstract",
+  "A": "B",
+  "B": "X",
+  "year": 1991,
+  "authors": "Mackenzie IR, Gilbert JJ",
+  "title": "Cysts of the neuraxis of endodermal origin."
+ },
+ {
+  "rid": "R294",
+  "final": "B",
+  "source": "agreement",
+  "reason_code": "context_function",
+  "reason": "Stress effects on amines in the turtle pineal-paraphyseal complex; paraphysis included but not analysed separately, so data cannot be assigned to it; only marginal functional context.",
+  "dims": [
+   "physiology"
+  ],
+  "data_depth": "abstract",
+  "A": "B",
+  "B": "B",
+  "year": 1991,
+  "authors": "Mahapatra MS, Mahata SK, Maiti B",
+  "title": "Effect of stress on serotonin, norepinephrine, epinephrine and corticosterone contents in the soft-shelled turtle."
+ },
+ {
+  "rid": "R298",
+  "final": "B",
+  "source": "agreement",
+  "reason_code": "context_clinical_histogenesis",
+  "reason": "Ultrastructure of 4 colloid cysts favours respiratory/endodermal origin; abstract names paraphysis only in listing of competing neuroepithelial origins, so evaluates it only indirectly (full abstract checked).",
+  "dims": [
+   "histology",
+   "pathology",
+   "terminology_history"
+  ],
+  "data_depth": "abstract",
+  "A": "B",
+  "B": "B",
+  "year": 1992,
+  "authors": "Ho KL, Garcia JH",
+  "title": "Colloid cysts of the third ventricle: ultrastructural features are compatible with endodermal derivation."
+ },
+ {
+  "rid": "R300",
+  "final": "B",
+  "source": "agreement",
+  "reason_code": "context_clinical_histogenesis",
+  "reason": "11 colloid cysts differ immunohistochemically (cytokeratins, transthyretin) from choroid plexus and ependyma; favours non-neuroepithelial origin, weighing the paraphyseal hypothesis; paraphysis not named in abstract.",
+  "dims": [
+   "histology",
+   "pathology",
+   "molecular"
+  ],
+  "data_depth": "abstract",
+  "A": "B",
+  "B": "B",
+  "year": 1992,
+  "authors": "Kuchelmeister K, Bergmann M",
+  "title": "Colloid cysts of the third ventricle: an immunohistochemical study."
+ },
+ {
+  "rid": "R301",
+  "final": "B",
+  "source": "agreement",
+  "reason_code": "context_clinical_histogenesis",
+  "reason": "Ultrastructure of 13 colloid cysts matches endodermal cysts/respiratory mucosa, not choroid plexus or ependyma; weighs neuroepithelial/paraphyseal hypothesis.",
+  "dims": [
+   "histology",
+   "pathology"
+  ],
+  "data_depth": "abstract",
+  "A": "B",
+  "B": "B",
+  "year": 1992,
+  "authors": "Lach B, Scheithauer BW",
+  "title": "Colloid cyst of the third ventricle: a comparative ultrastructural study of neuraxis cysts and choroid plexus epithelium."
+ },
+ {
+  "rid": "R302",
+  "final": "B",
+  "source": "agreement",
+  "reason_code": "context_function",
+  "reason": "Steroid effects on amines in turtle pineal-paraphyseal complex; paraphysis not analysed separately from pineal; marginal functional context only.",
+  "dims": [
+   "physiology"
+  ],
+  "data_depth": "abstract",
+  "A": "B",
+  "B": "B",
+  "year": 1992,
+  "authors": "Mahata M, Mahata SK",
+  "title": "Effect of steroid hormones on serotonin, norepinephrine and epinephrine contents in the pineal-paraphyseal complex of the soft-shelled turtle (Lissemys punctata punctata)."
+ },
+ {
+  "rid": "R304",
+  "final": "B",
+  "source": "agreement",
+  "reason_code": "context_clinical_histogenesis",
+  "reason": "Immunohistochemistry (cytokeratins, GST-pi) of colloid cysts vs fetal/adult choroid plexus, ependyma and nasal mucosa: non-neuroepithelial differentiation; weighs paraphyseal hypothesis.",
+  "dims": [
+   "histology",
+   "pathology",
+   "molecular"
+  ],
+  "data_depth": "abstract",
+  "A": "B",
+  "B": "B",
+  "year": 1992,
+  "authors": "Tsuchida T, Hruban RH, Carson BS, Phillips PC",
+  "title": "Colloid cysts of the third ventricle: immunohistochemical evidence for nonneuroepithelial differentiation."
+ },
+ {
+  "rid": "R309",
+  "final": "B",
+  "source": "adjudicated",
+  "reason_code": "context_clinical_histogenesis",
+  "reason": "Immunohistochemistry of 11 intracranial cysts: choroidal and ependymal cysts keep neuroepithelial markers (prealbumin, GFAP, S-100) whereas colloid cysts show only epithelial markers (cytokeratins, EMA) like endodermal cysts; explicit neuroepithelial comparators make it needed to weigh the paraphyseal/neuroepithelial hypothesis (paraphysis not named; 3 colloid cysts only).",
+  "dims": [
+   "clinical",
+   "histology"
+  ],
+  "data_depth": "abstract",
+  "A": "B",
+  "B": "X",
+  "year": 1993,
+  "authors": "Coca S, Martínez A, Vaquero J, Moreno M, Martos JA, Rodríguez J, Mata P",
+  "title": "Immunohistochemical study of intracranial cysts."
+ },
+ {
+  "rid": "R310",
+  "final": "B",
+  "source": "adjudicated",
+  "reason_code": "context_clinical_histogenesis",
+  "reason": "Intrauterine-diagnosed third-ventricle colloid cyst: histology (ciliated cuboidal/columnar epithelium) and immunohistology interpreted as histogenesis from primitive neuroepithelial structures; single case but gives a fetal/congenital, neuroepithelial data point for the clinical-origin question (paraphysis not named; low weight).",
+  "dims": [
+   "clinical",
+   "histology",
+   "ontogeny"
+  ],
+  "data_depth": "abstract",
+  "A": "B",
+  "B": "X",
+  "year": 1993,
+  "authors": "Gaertner HJ, Prager B, Hinkel GK",
+  "title": "Colloid cyst of the third ventricle with XYY-syndrome."
+ },
+ {
+  "rid": "R313",
+  "final": "B",
+  "source": "agreement",
+  "reason_code": "context_clinical_histogenesis",
+  "reason": "Immunohistochemistry of 21 colloid cysts vs Rathke, enterogenous cysts and choroid plexus; immunophenotype argues endodermal not neuroepithelial nature; weighs paraphyseal hypothesis.",
+  "dims": [
+   "histology",
+   "pathology",
+   "molecular"
+  ],
+  "data_depth": "abstract",
+  "A": "B",
+  "B": "B",
+  "year": 1993,
+  "authors": "Lach B, Scheithauer BW, Gregor A, Wick MR",
+  "title": "Colloid cyst of the third ventricle. A comparative immunohistochemical study of neuraxis cysts and choroid plexus epithelium."
+ },
+ {
+  "rid": "R318",
+  "final": "B",
+  "source": "adjudicated",
+  "reason_code": "context_clinical_histogenesis",
+  "reason": "Cytokeratin immunohistochemistry 'with special reference to origins of colloid cyst of the third ventricle': colloid cysts resemble upper respiratory tract (endodermal) and differ from neuroectodermal cysts (simple-type keratins only); direct histogenesis argument against a neuroepithelial/paraphyseal origin (paraphysis not named).",
+  "dims": [
+   "clinical",
+   "histology"
+  ],
+  "data_depth": "abstract",
+  "A": "B",
+  "B": "X",
+  "year": 1993,
+  "authors": "Uematsu Y, Komai N, Hirano A, Shimizu M, Tanaka Y, Naka D, Yukawa S, Itakura T, Hayashi S",
+  "title": "Cytokeratin immunohistochemical study of epithelial cysts in the central nervous system: with special reference to origins of colloid cyst of the third ventricle and Rathke's cleft cyst in the sella."
+ },
+ {
+  "rid": "R331",
+  "final": "B",
+  "source": "agreement",
+  "reason_code": "context_clinical_histogenesis",
+  "reason": "Immunohistological comparison of neurenteric, Rathke and colloid cysts with a common endodermal-remnant origin hypothesis; needed to weigh endodermal vs paraphyseal origin of colloid cyst (clinical).",
+  "dims": [
+   "histology",
+   "pathology"
+  ],
+  "data_depth": "abstract",
+  "A": "B",
+  "B": "B",
+  "year": 1995,
+  "authors": "Graziani N, Dufour H, Figarella-Branger D, Donnet A, Bouillot P, Grisoli F",
+  "title": "Do the suprasellar neurenteric cyst, the Rathke cleft cyst and the colloid cyst constitute a same entity?"
+ },
+ {
+  "rid": "R332",
+  "final": "B",
+  "source": "agreement",
+  "reason_code": "context_anatomy",
+  "reason": "Turtle vascular corrosion casts of pineal and its vascular relations with dorsal sac, paraphysis and third-ventricle choroid plexus; paraphysis named as studied structure but abstract gives no paraphysis-specific result (full text could upgrade to A); helps anatomy/physiology.",
+  "dims": [
+   "anatomy",
+   "physiology"
+  ],
+  "data_depth": "abstract",
+  "A": "B",
+  "B": "B",
+  "year": 1995,
+  "authors": "Kleiter N, Lametschwandtner A",
+  "title": "Microvascularization of the pineal gland in the freshwater turtle, Pseudemys scripta elegans (Reptilia): a scanning electron microscopic study of vascular corrosion casts."
+ },
+ {
+  "rid": "R344",
+  "final": "B",
+  "source": "agreement",
+  "reason_code": "context_clinical_histogenesis",
+  "reason": "Histology/ultrastructure of six paediatric colloid cysts with glial-ependymal envelope read as supporting a supraventricular (neuroepithelial) origin; informs the histogenesis debate relevant to paraphyseal hypothesis (clinical).",
+  "dims": [
+   "histology",
+   "pathology"
+  ],
+  "data_depth": "abstract",
+  "A": "B",
+  "B": "B",
+  "year": 1997,
+  "authors": "Macaulay RJ, Felix I, Jay V, Becker LE",
+  "title": "Histological and ultrastructural analysis of six colloid cysts in children."
+ },
+ {
+  "rid": "R358",
+  "final": "B",
+  "source": "agreement",
+  "reason_code": "context_clinical_histogenesis",
+  "reason": "Mucin and sulfo-Lewis epitope characterization of colloid cyst contents interpreted as not inconsistent with endodermal origin; histochemical evidence to weigh endodermal vs paraphyseal origin (clinical/histology).",
+  "dims": [
+   "histology",
+   "pathology",
+   "molecular"
+  ],
+  "data_depth": "abstract",
+  "A": "B",
+  "B": "B",
+  "year": 1998,
+  "authors": "Veerman EC, Go KG, Molenaar WM, Amerongen AV, Vissink A",
+  "title": "On the chemical characterization of colloid cyst contents."
+ },
+ {
+  "rid": "R391",
+  "final": "B",
+  "source": "agreement",
+  "reason_code": "context_molecular",
+  "reason": "Bmpr1a conditional knockout shows BMP signalling is required locally to pattern the dorsal telencephalic midline and to specify the telencephalic choroid plexus (most dorsomedial derivative); helps with the molecular patterning of the roof that borders the paraphysis territory (ontogeny/molecular).",
+  "dims": [
+   "molecular",
+   "ontogeny"
+  ],
+  "data_depth": "abstract",
+  "A": "B",
+  "B": "B",
+  "year": 2002,
+  "authors": "Hébert JM, Mishina Y, McConnell SK",
+  "title": "BMP signaling is required locally to pattern the dorsal telencephalic midline."
+ },
+ {
+  "rid": "R405",
+  "final": "B",
+  "source": "agreement",
+  "reason_code": "context_embryology",
+  "reason": "Full abstract checked: rat E12-E16 forebrain morphogenesis names the telencephalon impar between the vesicles and places choroid plexus origins there at E15; useful for locating the midline roof/impar territory (ontogeny, anatomy); mammal, no paraphysis mentioned.",
+  "dims": [
+   "ontogeny",
+   "anatomy"
+  ],
+  "data_depth": "abstract",
+  "A": "B",
+  "B": "B",
+  "year": 2004,
+  "authors": "Alicelebić S, Mornjaković Z, Kundurović Z",
+  "title": "Morphogenesis of the rat forebrain."
+ },
+ {
+  "rid": "R415",
+  "final": "B",
+  "source": "agreement",
+  "reason_code": "context_molecular",
+  "reason": "Gdf7 fate-map and dorsal midline ablation distinguish a small anterior from a large posterior telencephalic choroid plexus epithelial domain with different lineage and apoptosis; bears on how the telencephalic midline roof is subdivided rostrally (ontogeny/molecular); mouse, paraphysis not mentioned.",
+  "dims": [
+   "molecular",
+   "ontogeny"
+  ],
+  "data_depth": "abstract",
+  "A": "B",
+  "B": "B",
+  "year": 2005,
+  "authors": "Currle DS, Cheng X, Hsu CM, Monuki ES",
+  "title": "Direct and indirect roles of CNS dorsal midline cells in choroid plexus epithelia formation."
+ },
+ {
+  "rid": "R416",
+  "final": "B",
+  "source": "agreement",
+  "reason_code": "context_molecular",
+  "reason": "Zic4 expression at the dorsal forebrain midline, telencephalon-diencephalon boundary, lamina terminalis and third-ventricle choroid plexus; candidate marker for the territory in which the paraphysis forms (molecular/ontogeny); mouse, paraphysis not mentioned.",
+  "dims": [
+   "molecular",
+   "ontogeny"
+  ],
+  "data_depth": "abstract",
+  "A": "B",
+  "B": "B",
+  "year": 2005,
+  "authors": "Gaston-Massuet C, Henderson DJ, Greene NDE, Copp AJ",
+  "title": "Zic4, a zinc-finger transcription factor, is expressed in the developing mouse nervous system."
+ },
+ {
+  "rid": "R426",
+  "final": "B",
+  "source": "agreement",
+  "reason_code": "context_molecular",
+  "reason": "Genetic ablation shows telencephalic roof plate is needed for dorsal midline induction and its loss causes holoprosencephaly; defines roof-plate role in the telencephalic dorsal midline from which choroid plexus and rostral roof structures derive (ontogeny/molecular); mouse, paraphysis not mentioned.",
+  "dims": [
+   "molecular",
+   "ontogeny"
+  ],
+  "data_depth": "abstract",
+  "A": "B",
+  "B": "B",
+  "year": 2006,
+  "authors": "Cheng X, Hsu CM, Currle DS, Hu JS, Barkovich AJ, Monuki ES",
+  "title": "Central roles of the roof plate in telencephalic development and holoprosencephaly."
+ },
+ {
+  "rid": "R455",
+  "final": "B",
+  "source": "adjudicated",
+  "reason_code": "context_anatomy",
+  "reason": "Craniate character 93 'Paraphysis' is explicitly applied to the left epithalamic (parapineal) diverticulum vs right epiphysis, not the telencephalic paraphysis; kept as necessary context for the phylogeny/terminology section because this homonymous usage would contaminate any reported distribution of 'paraphysis' (lampreys, actinopterygians, sarcopterygians). No data on the telencephalic paraphysis.",
+  "dims": [
+   "phylogeny",
+   "anatomy",
+   "terminology"
+  ],
+  "data_depth": "fulltext",
+  "A": "B",
+  "B": "A",
+  "year": 2009,
+  "authors": "Khonsari RH, Li B, Vernier P, Northcutt RG, Janvier P",
+  "title": "Agnathan brain anatomy and craniate phylogeny"
+ },
+ {
+  "rid": "R524",
+  "final": "B",
+  "source": "agreement",
+  "reason_code": "context_anatomy",
+  "reason": "Terminologia Neuroanatomica review: defines telencephalon medium (T) as the part rostral to D1 in the prosomeric scheme; needed to locate the paraphysis territory in current terminology (terminology question), though paraphysis itself is not named in the excerpt.",
+  "dims": [
+   "anatomy",
+   "terminology_history"
+  ],
+  "data_depth": "fulltext",
+  "A": "B",
+  "B": "B",
+  "year": 2016,
+  "authors": "Ten Donkelaar HJ, Broman J, Neumann PE, Puelles L, Riva A, Tubbs RS, Kachlik D",
+  "title": "Towards a Terminologia Neuroanatomica"
+ },
+ {
+  "rid": "R544",
+  "final": "B",
+  "source": "adjudicated",
+  "reason_code": "context_clinical_histogenesis",
+  "reason": "Case of paired third-ventricle colloid cysts whose stated purpose is a discussion of embryological origin ('re-ignites the debate' on origin); this is the histogenesis debate (endodermal/neuroepithelial/paraphyseal) needed to weigh the paraphyseal hypothesis for the clinical correlate. Whether paraphysis is explicitly argued is unverified (web snippet only), so B rather than A.",
+  "dims": [
+   "clinical",
+   "ontogeny"
+  ],
+  "data_depth": "web_snippet",
+  "A": "U",
+  "B": "U",
+  "year": 2018,
+  "authors": "Jay SM, MacFarlane MR",
+  "title": "Case Report: Paired/Dual Colloid Cysts in the Third Ventricle - A Discussion of Embryological Origin"
+ },
+ {
+  "rid": "R628",
+  "final": "B",
+  "source": "agreement",
+  "reason_code": "context_clinical_histogenesis",
+  "reason": "Immunohistochemistry (PAX8+, no thyroid/mullerian/enteric differentiation) of 15 colloid cysts bears on histogenesis needed to weigh the paraphyseal hypothesis; paraphysis not tested.",
+  "dims": [
+   "pathology",
+   "histology",
+   "molecular"
+  ],
+  "data_depth": "abstract",
+  "A": "B",
+  "B": "B",
+  "year": 2025,
+  "authors": "Soukup J, Traboulsi E, Lopatova S, Syrucek M, Koblizek M, Hendrych M, Svajdler M, Sichova K, May M, Netuka D",
+  "title": "Colloid cysts of the third ventricle show consistent expression of PAX8 but lack other features of thyroid, müllerian or intestinal differentiation."
+ },
+ {
+  "rid": "R650",
+  "final": "B",
+  "source": "agreement",
+  "reason_code": "context_embryology",
+  "reason": "Human embryology module on roof plate/third ventricle: states paraphysis diverticulum arises sometimes above foramina of Monro in humans, constant in lower vertebrates; locates the paraphysis in human ontogeny.",
+  "dims": [
+   "anatomy",
+   "ontogeny",
+   "phylogeny"
+  ],
+  "data_depth": "web_snippet",
+  "A": "B",
+  "B": "B",
+  "year": 0,
+  "authors": "",
+  "title": "Roof plate and IIIrd ventricle (diencephalon development module)"
+ },
+ {
+  "rid": "R651",
+  "final": "B",
+  "source": "adjudicated",
+  "reason_code": "context_embryology",
+  "reason": "Lexicon definition of telencephalon impar: median, non-evaginated telencephalon around the interventricular foramen in the former roof and floor plate territory, i.e. the region that locates the paraphysis (ontogeny/anatomy/terminology). Paraphysis is not named and the source is tertiary (cites Sobotta), so a necessary-context definition only.",
+  "dims": [
+   "ontogeny",
+   "anatomy",
+   "terminology"
+  ],
+  "data_depth": "web_snippet",
+  "A": "X",
+  "B": "B",
+  "year": 0,
+  "authors": "",
+  "title": "Telencephalon impar"
+ },
+ {
+  "rid": "R656",
+  "final": "B",
+  "source": "agreement",
+  "reason_code": "context_anatomy",
+  "reason": "Herring (1927, year unconfirmed): describes dorsal sac and velum transversum giving rise to choroid plexuses and states paraphysis (glandular in lower vertebrates) is not represented in placental mammals; bears on anatomy/phylogeny of the paraphysis region.",
+  "dims": [
+   "anatomy",
+   "histology",
+   "phylogeny",
+   "terminology_history"
+  ],
+  "data_depth": "abstract",
+  "A": "B",
+  "B": "B",
+  "year": 0,
+  "authors": "Herring PT",
+  "title": "THE PINEAL REGION OF THE MAMMALIAN BRAIN: ITS MORPHOLOGY AND HISTOLOGY IN RELATION TO FUNCTION"
+ },
+ {
+  "rid": "R661",
+  "final": "B",
+  "source": "adjudicated",
+  "reason_code": "context_embryology",
+  "reason": "Classical comparative anatomy and development of the craniate forebrain (Studnicka), cited in Warren's 1905 bibliography on paraphysis and pineal region development; needed for ontogeny/homology of the telencephalic roof and median telencephalon in which the paraphysis arises. Content unverified (metadata only), so B not A.",
+  "dims": [
+   "ontogeny",
+   "anatomy",
+   "phylogeny"
+  ],
+  "data_depth": "metadata_only",
+  "A": "U",
+  "B": "U",
+  "year": 0,
+  "authors": "Studenicka FCh [as printed; = Studnicka]",
+  "title": "Beiträge zur Anatomie und Entwicklungsgeschichte des Vorderhirns der Cranioten"
+ },
+ {
+  "rid": "R663",
+  "final": "B",
+  "source": "agreement",
+  "reason_code": "context_anatomy",
+  "reason": "Wilder: dorsal sack defined as a diatelar pouch between epiphysis and paraphysis (large in Ceratodus, Polyodon); terminology/homology of the dorsal sac locating the paraphysis; year unconfirmed.",
+  "dims": [
+   "anatomy",
+   "phylogeny",
+   "terminology_history"
+  ],
+  "data_depth": "fulltext",
+  "A": "B",
+  "B": "B",
+  "year": 0,
+  "authors": "Wilder BG",
+  "title": "The dorsal sack, the aulix and the diencephalic flexure"
+ }
+]

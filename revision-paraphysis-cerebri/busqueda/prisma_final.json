@@ -1,0 +1,24 @@
+{
+ "identified_unique": 663,
+ "excluded_at_identification": 30,
+ "screened": 633,
+ "agreement_initial": 559,
+ "adjudicated": 74,
+ "unresolved": 0,
+ "missing_decisions": [],
+ "final_counts": {
+  "X": 452,
+  "A": 113,
+  "B": 68
+ },
+ "cohen_kappa_4cat": 0.873,
+ "cohen_kappa_include_vs_exclude": 0.88,
+ "percent_agreement_initial": 93.4,
+ "included_access_depth": {
+  "web_snippet": 36,
+  "metadata_only": 58,
+  "pmc_fulltext": 6,
+  "wiley_passage": 23,
+  "pubmed_abstract": 58
+ }
+}

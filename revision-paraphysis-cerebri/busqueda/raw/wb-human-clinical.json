@@ -1,0 +1,1357 @@
+{
+ "label": "wb-human-clinical",
+ "channel": "web",
+ "queries": [
+  {
+   "db": "web",
+   "query": "paraphysis cerebri human fetus development Kappers 1955 colloid cyst third ventricle origin",
+   "n_hits": 18,
+   "note": "n_hits = approximate count of result URLs listed (WebSearch returns AI summaries; used as discovery leads only). Leads: Kappers 1955 JCN 102:425-510 (second-hand), Warren 1917, 1956 Radiology review, Nagaraju 2010."
+  },
+  {
+   "db": "web",
+   "query": "colloid cyst third ventricle histogenesis paraphyseal endodermal neuroepithelial theory review",
+   "n_hits": 19,
+   "note": "n_hits = approximate count of result URLs listed (WebSearch returns AI summaries; used as discovery leads only). Leads: Turk Neurosurg review, Kuchelmeister/Tsuchida/Lach IHC, Cheng 1999 model."
+  },
+  {
+   "db": "web",
+   "query": "colloid cyst of the third ventricle embryology origin paraphysis review neurosurgery",
+   "n_hits": 19,
+   "note": "n_hits = approximate count of result URLs listed (WebSearch returns AI summaries; used as discovery leads only). Leads: Neurosurgical Atlas, Youmans chapter, Kurwale 2013 commentary."
+  },
+  {
+   "db": "web",
+   "query": "paraphysis human embryo \"paraphysis\" velum transversum telencephalon medium Carnegie stage",
+   "n_hits": 20,
+   "note": "n_hits = approximate count of result URLs listed (WebSearch returns AI summaries; used as discovery leads only). No modern Carnegie-stage description of the paraphysis found; UNSW transcriptions of Warren 1917 and Bailey 1916."
+  },
+  {
+   "db": "web",
+   "query": "Cureus colloid cyst third ventricle case report embryological origin paraphysis",
+   "n_hits": 19,
+   "note": "n_hits = approximate count of result URLs listed (WebSearch returns AI summaries; used as discovery leads only). No Cureus paper surfaced directly; PMC items found (Mukherjee 2017, 1954 conference)."
+  },
+  {
+   "db": "web",
+   "query": "Surgical Neurology International colloid cyst third ventricle pathogenesis paraphysis review",
+   "n_hits": 19,
+   "note": "n_hits = approximate count of result URLs listed (WebSearch returns AI summaries; used as discovery leads only). Leads: Niknejad 2015 SNI, Azab 2014 SNI, Yadav 2015."
+  },
+  {
+   "db": "web",
+   "query": "Haymaker Yenermen 1955 colloid cysts third ventricle 80 cases paraphysis",
+   "n_hits": 28,
+   "note": "n_hits = approximate count of result URLs listed (WebSearch returns AI summaries; used as discovery leads only). Could not confirm a 1955 Haymaker & Yenermen paper; Springer BF01227769 (Yenermen, Bowerman, Haymaker 1958) identified in PubMed."
+  },
+  {
+   "db": "web",
+   "query": "Nagaraju 2010 colloid cyst third ventricle embryological remnant paraphysis cerebri Clinical Neuropathology",
+   "n_hits": 10,
+   "note": "n_hits = approximate count of result URLs listed (WebSearch returns AI summaries; used as discovery leads only). Already held (PMID 20423684); leads to Cureus 2021 case."
+  },
+  {
+   "db": "web",
+   "query": "\"paraphysis\" \"third ventricle\" colloid cyst anatomy embryology review \"tela choroidea\" origin neuroepithelium open access",
+   "n_hits": 28,
+   "note": "n_hits = approximate count of result URLs listed (WebSearch returns AI summaries; used as discovery leads only). Leads: Kurwale 2013 + commentary, Thieme chapter."
+  },
+  {
+   "db": "web",
+   "query": "Radiopaedia colloid cyst third ventricle paraphysis embryology",
+   "n_hits": 10,
+   "note": "n_hits = approximate count of result URLs listed (WebSearch returns AI summaries; used as discovery leads only). Radiopaedia 'Paraphysis elements' and teaching case = leads only, not recorded."
+  },
+  {
+   "db": "web",
+   "query": "\"paraphysis\" human fetal brain atlas OR textbook embryology roof of third ventricle \"paraphysis cerebri\" transient structure humans",
+   "n_hits": 19,
+   "note": "n_hits = approximate count of result URLs listed (WebSearch returns AI summaries; used as discovery leads only). No fetal atlas entry found; Warren 1917, Streeter via Bailey 1916."
+  },
+  {
+   "db": "web",
+   "query": "Rakic Yakovlev 1968 development of the corpus callosum and cavum septi in man paraphysis lamina terminalis",
+   "n_hits": 20,
+   "note": "n_hits = approximate count of result URLs listed (WebSearch returns AI summaries; used as discovery leads only). No paraphysis link found; bibliographic details confirmed later in PubMed."
+  },
+  {
+   "db": "web",
+   "query": "colloid cyst third ventricle genetics molecular PAX8 OR \"whole exome\" OR mutation origin endoderm",
+   "n_hits": 20,
+   "note": "n_hits = approximate count of result URLs listed (WebSearch returns AI summaries; used as discovery leads only). No exome/gene data; PAX8 study (Soukup 2025) already held; familial reports already held."
+  },
+  {
+   "db": "web",
+   "query": "UNSW embryology \"development of the paraphysis and pineal region in mammalia\" 1917 author",
+   "n_hits": 20,
+   "note": "n_hits = approximate count of result URLs listed (WebSearch returns AI summaries; used as discovery leads only). Warren 1917 (already held by wb-classical)."
+  },
+  {
+   "db": "web",
+   "query": "colloid cyst third ventricle \"paraphysis\" embryologic origin review World Neurosurgery OR \"Neurosurgical Review\" OR \"Child's Nervous System\" 2015..2025",
+   "n_hits": 29,
+   "note": "n_hits = approximate count of result URLs listed (WebSearch returns AI summaries; used as discovery leads only). extended mode. Leads: Armao 2000 quote, Niknejad 2015 historiography, Medscape (lead only)."
+  },
+  {
+   "db": "web",
+   "query": "human paraphysis cerebri vestigial adult remnant anterior roof third ventricle immunohistochemistry fetus",
+   "n_hits": 29,
+   "note": "n_hits = approximate count of result URLs listed (WebSearch returns AI summaries; used as discovery leads only). No human fetal immunohistochemistry on paraphysis found; Nedelcu 2024 surfaced (irrelevant)."
+  },
+  {
+   "db": "web",
+   "query": "\"Paired/Dual Colloid Cysts in the Third Ventricle\" \"Discussion of Embryological Origin\" International Journal of Brain Disorders and Treatment",
+   "n_hits": 10,
+   "note": "n_hits = approximate count of result URLs listed (WebSearch returns AI summaries; used as discovery leads only). Jay & MacFarlane 2018 (not in PubMed)."
+  },
+  {
+   "db": "web",
+   "query": "\"Sjovall presumed the cysts originated out of the paraphysis cerebri\" evanescent vestigial embryonic structure Fulton Bailey 1929 neuroepithelial cyst",
+   "n_hits": 19,
+   "note": "n_hits = approximate count of result URLs listed (WebSearch returns AI summaries; used as discovery leads only). Phrase located in Niknejad 2015 (read in PMC full text); Fulton & Bailey 1929 listing."
+  },
+  {
+   "db": "web",
+   "query": "Streeter 1912 \"Manual of Human Embryology\" Keibel Mall development of the nervous system \"paraphysis\" \"anterior choroidal pouch\"",
+   "n_hits": 9,
+   "note": "n_hits = approximate count of result URLs listed (WebSearch returns AI summaries; used as discovery leads only). Streeter chapter known only second-hand via Bailey 1916."
+  },
+  {
+   "db": "web",
+   "query": "Terminologia Anatomica OR \"Terminologia Embryologica\" paraphysis telencephalon medium velum transversum human embryo nomenclature",
+   "n_hits": 9,
+   "note": "n_hits = approximate count of result URLs listed (WebSearch returns AI summaries; used as discovery leads only). No official terminology entry returned; Hines 1921/1922 terminology."
+  },
+  {
+   "db": "web",
+   "query": "\"The embryonic cerebral hemisphere in man\" 1921 angulus terminalis telencephalon medium author journal",
+   "n_hits": 19,
+   "note": "n_hits = approximate count of result URLs listed (WebSearch returns AI summaries; used as discovery leads only). Hines 1921 J Anat; PMID 17103931 confirmed in PubMed."
+  },
+  {
+   "db": "web",
+   "query": "\"Triangular fossa of the third cerebral ventricle\" 3D model morphometric study Frontiers in Neuroanatomy 2024 paraphysis",
+   "n_hits": 20,
+   "note": "n_hits = approximate count of result URLs listed (WebSearch returns AI summaries; used as discovery leads only). Full text later read: no paraphysis mention (recorded as irrelevant)."
+  },
+  {
+   "db": "web",
+   "query": "colloid cyst third ventricle paraphysis origin embryology [allowed_domains: cureus.com]",
+   "n_hits": 18,
+   "note": "n_hits = approximate count of result URLs listed (WebSearch returns AI summaries; used as discovery leads only). Leads: PMC5071031, PMC3502434, PMC10804246, PMC8363163, Cureus 2025 imaging series (not recorded)."
+  },
+  {
+   "db": "web",
+   "query": "colloid cyst third ventricle paraphysis origin embryology [allowed_domains: surgicalneurologyint.com]",
+   "n_hits": 9,
+   "note": "n_hits = approximate count of result URLs listed (WebSearch returns AI summaries; used as discovery leads only). Leads: Niknejad 2015, De Melo Junior 2025, SNI endoscopic series (no origin text)."
+  },
+  {
+   "db": "web",
+   "query": "colloid cyst paraphysis embryonic remnant third ventricle origin case report discussion [allowed_domains: pmc.ncbi.nlm.nih.gov, ncbi.nlm.nih.gov]",
+   "n_hits": 19,
+   "note": "n_hits = approximate count of result URLs listed (WebSearch returns AI summaries; used as discovery leads only). Leads: Terson case (PMC4219228), Cosgrove 2020, Kurwale 2013, StatPearls NBK470314 (not in PubMed)."
+  },
+  {
+   "db": "web",
+   "query": "prenatal OR fetal OR neonatal diagnosis colloid cyst third ventricle congenital origin paraphysis remnant newborn",
+   "n_hits": 10,
+   "note": "n_hits = approximate count of result URLs listed (WebSearch returns AI summaries; used as discovery leads only). No series on fetal/neonatal colloid cysts; thefetus.net teaching case = lead only, not recorded."
+  },
+  {
+   "db": "web",
+   "query": "paraphysis remnant autopsy adult human brain third ventricle roof ependymal vesicles \"paraphyseal\" nests postmortem study",
+   "n_hits": 9,
+   "note": "n_hits = approximate count of result URLs listed (WebSearch returns AI summaries; used as discovery leads only). No post-mortem study of paraphyseal remnants found."
+  },
+  {
+   "db": "web",
+   "query": "quiste coloide tercer ventrículo origen embriológico parafisis revisión",
+   "n_hits": 10,
+   "note": "n_hits = approximate count of result URLs listed (WebSearch returns AI summaries; used as discovery leads only). Spanish-language leads (Medigraphic, Dialnet, Neurocirugia) not recorded: no identifiable origin-focused review."
+  },
+  {
+   "db": "web",
+   "query": "cisto coloide terceiro ventrículo origem embriológica paráfise revisão",
+   "n_hits": 19,
+   "note": "n_hits = approximate count of result URLs listed (WebSearch returns AI summaries; used as discovery leads only). Portuguese query; same core sources returned."
+  },
+  {
+   "db": "web",
+   "query": "Zystenbildung dritter Ventrikel Kolloidzyste Paraphyse Ursprung Entwicklung Mensch",
+   "n_hits": 18,
+   "note": "n_hits = approximate count of result URLs listed (WebSearch returns AI summaries; used as discovery leads only). German query; DocCheck, Thieme links (not recorded)."
+  },
+  {
+   "db": "web",
+   "query": "quiste coloide del tercer ventrículo Gaceta Médica de México 2004 medigraphic gm045n",
+   "n_hits": 10,
+   "note": "n_hits = approximate count of result URLs listed (WebSearch returns AI summaries; used as discovery leads only). Saravia Rivera 2004 image-in-medicine item: imaging only, not recorded."
+  },
+  {
+   "db": "web",
+   "query": "Journal of Liaquat University of Medical and Health Sciences colloid cyst third ventricle case report \"vestigial structure of paraphysis\"",
+   "n_hits": 10,
+   "note": "n_hits = approximate count of result URLs listed (WebSearch returns AI summaries; used as discovery leads only). JLUMHS Vol 5 No 1 case report contains the phrase, but its title/authors could not be retrieved (not recorded)."
+  },
+  {
+   "db": "web",
+   "query": "Isaacs \"Developmental Origins of the Cerebral Ventricular System and Colloid Cysts\" Thieme chapter abnormal embryonic foldings paraphysis",
+   "n_hits": 10,
+   "note": "n_hits = approximate count of result URLs listed (WebSearch returns AI summaries; used as discovery leads only). Chapter 1 of Thieme 2025 book recorded as web item."
+  },
+  {
+   "db": "web",
+   "query": "lumhs.edu.pk jlumhs Vol05No01 v5n1cr01 colloid cyst third ventricle case report title authors [allowed_domains: lumhs.edu.pk]",
+   "n_hits": 30,
+   "note": "n_hits = approximate count of result URLs listed (WebSearch returns AI summaries; used as discovery leads only). Title/authors of JLUMHS item still not found."
+  },
+  {
+   "db": "web",
+   "query": "\"The human paraphysis develops as a pouchlike evagination of the diencephalic roof dorsal to the interventricular foramen\"",
+   "n_hits": 10,
+   "note": "n_hits = approximate count of result URLs listed (WebSearch returns AI summaries; used as discovery leads only). Exact Armao 2000 sentence NOT reproduced by this verbatim search."
+  },
+  {
+   "db": "web",
+   "query": "human embryo timeline stage 18 week 7 paraphysis appears neural development Carnegie stage table",
+   "n_hits": 19,
+   "note": "n_hits = approximate count of result URLs listed (WebSearch returns AI summaries; used as discovery leads only). No source assigning the human paraphysis to a Carnegie stage."
+  },
+  {
+   "db": "wiley",
+   "query": "Development of the paraphysis cerebri in the human embryo and its relationship to colloid cysts of the third ventricle",
+   "n_hits": 0,
+   "note": "Free-tier quota exhausted (resets 2026-11-01); no search performed."
+  },
+  {
+   "db": "pubmed",
+   "query": "Haymaker Yenermen colloid cyst third ventricle",
+   "n_hits": 0,
+   "note": "No hit."
+  },
+  {
+   "db": "pubmed",
+   "query": "colloid cyst[Title] AND (paraphysis OR paraphyseal OR paraphysial)",
+   "n_hits": 4,
+   "note": "All four already held in corpus."
+  },
+  {
+   "db": "pubmed",
+   "query": "Colloid Cyst of 3rd Ventricle Clinico-Pathological Conference",
+   "n_hits": 1,
+   "note": "PMID 28907815 (Med J South-West 1954) - recorded."
+  },
+  {
+   "db": "pubmed",
+   "query": "colloid cyst third ventricle AND (histogenesis OR embryology OR pathogenesis OR origin) AND review[Publication Type]",
+   "n_hits": 3,
+   "note": "Cuoco 2018 already held; Musa 2020 recorded."
+  },
+  {
+   "db": "pubmed",
+   "query": "\"colloid cyst\" third ventricle review",
+   "n_hits": 115,
+   "note": "First 60 PMIDs returned; 20 abstracts screened (clinical/surgical, no origin content except O'Neill 2018 and Musa 2020 kept as clinical correlates)."
+  },
+  {
+   "db": "pubmed",
+   "query": "colloid cyst AND (histogenesis OR endodermal OR neuroepithelial OR paraphysis OR embryological OR embryogenesis)",
+   "n_hits": 108,
+   "note": "100 PMIDs returned; abstracts screened for the first 20 and for the origin-bearing items; the remainder only checked for novelty against the corpus."
+  },
+  {
+   "db": "pubmed",
+   "query": "cavum veli interpositi OR velum interpositum embryology OR development OR anatomy",
+   "n_hits": 12662315,
+   "note": "Boolean precedence error (matched all \"development\"/\"anatomy\"); result discarded."
+  },
+  {
+   "db": "pubmed",
+   "query": "(\"cavum veli interpositi\" OR \"velum interpositum\") AND (embryology OR development OR fetal)",
+   "n_hits": 49,
+   "note": "25 abstracts screened: prenatal ultrasound/cyst reports, none on the paraphysis; only Kier letters (embryologic basis) kept as peripheral."
+  },
+  {
+   "db": "pubmed",
+   "query": "paired dual colloid cysts third ventricle discussion of embryological origin",
+   "n_hits": 0,
+   "note": "Jay & MacFarlane 2018 not indexed."
+  },
+  {
+   "db": "pubmed",
+   "query": "Haymaker W[Author] AND (colloid OR cyst OR paraphysis)",
+   "n_hits": 12,
+   "note": "10 returned; located Yenermen, Bowerman & Haymaker 1958 (PMID 13594315)."
+  },
+  {
+   "db": "pubmed",
+   "query": "human embryo OR fetus (\"roof plate\" OR \"choroid plexus\") (\"third ventricle\" OR \"interventricular foramen\") morphogenesis embryonic period",
+   "n_hits": 1,
+   "note": "Off-topic 3D-ultrasound embryology paper (PMID 21427872), not recorded."
+  },
+  {
+   "db": "pubmed",
+   "query": "(Kelly R[Author] AND colloid cysts third ventricle) OR (Shuangshoti S[Author] AND neuroepithelial colloid cysts) OR (Coxe WS[Author] AND colloid cyst) OR (Little JR[Author] AND colloid cysts third ventricle)",
+   "n_hits": 10,
+   "note": "Classical series and origin papers recorded."
+  },
+  {
+   "db": "pubmed",
+   "query": "(colloid cyst OR neuroepithelial cyst OR paraphyseal cyst) AND third ventricle [1930-1979, sorted by date]",
+   "n_hits": 62,
+   "note": "Abstracts of ~46 PMIDs screened; origin-bearing items and the main series recorded."
+  },
+  {
+   "db": "pubmed",
+   "query": "paraphysis OR paraphyseal OR paraphysial OR paraphysis cerebri",
+   "n_hits": 82,
+   "note": "Completeness check: all 82 PMIDs already held by other agents."
+  },
+  {
+   "db": "pubmed",
+   "query": "(Müller F[Author] OR O'Rahilly R[Author]) AND \"human brain\" AND stage[Title] AND (embryo OR embryonic)",
+   "n_hits": 6,
+   "note": "Stages 11-16 papers (earlier than paraphysis anlage); only stage 18-20 paper recorded after separate search."
+  },
+  {
+   "db": "pubmed",
+   "query": "Müller O'Rahilly human brain stages 18-20 choroid plexuses amygdaloid septal nuclei",
+   "n_hits": 1,
+   "note": "PMID 2268071 recorded."
+  },
+  {
+   "db": "pubmed",
+   "query": "Rakic P Yakovlev PI development of the corpus callosum and cavum septi in man",
+   "n_hits": 1,
+   "note": "PMID 5293999 recorded (metadata only)."
+  },
+  {
+   "db": "pubmed",
+   "query": "\"Colloid Brain Cyst\" StatPearls",
+   "n_hits": 2,
+   "note": "PMIDs 35015399, 29262059 returned no metadata; not recorded."
+  },
+  {
+   "db": "pubmed",
+   "query": "Kier EL Truwit CL lamina rostralis rostrum corpus callosum anatomy embryology MR",
+   "n_hits": 1,
+   "note": "PMID 9127036 returned; not retrieved/recorded (lamina terminalis region, no paraphysis evidence)."
+  },
+  {
+   "db": "pubmed",
+   "query": "commentary \"Suprasellar dermoid cyst associated with colloid cyst\" disordered embryogenesis",
+   "n_hits": 0,
+   "note": "The J Neurosci Rural Pract commentary is not indexed."
+  },
+  {
+   "db": "pubmed",
+   "query": "lookup_article_by_citation x6 (AJNR 2020;41:1833; AJNR 1999;20:1383; Cent Eur Neurosurg 2004;65:108; Int J Clin Exp Med 2017;10; Int J Gen Med 2018; Rev Neurol 2002;36)",
+   "n_hits": 2,
+   "note": "Resolved to PMID 32912876 and 10473003; others NOT_FOUND/AMBIGUOUS."
+  },
+  {
+   "db": "pubmed",
+   "query": "convert_article_ids PMCID->PMID/DOI for 15 PMC IDs from WebSearch leads",
+   "n_hits": 15,
+   "note": "11 resolved in one call; 4 further in the first (rate-limited) retry sequence."
+  },
+  {
+   "db": "pmc",
+   "query": "get_full_text_article for ~22 PMC IDs (PMC5071031, PMC5529892, PMC8174970, PMC7056001, PMC7974047, PMC11317240, PMC8363163, PMC3821436, PMC4521314, PMC10804246, PMC8422505, PMC5858525, PMC10450352, PMC4333991, PMC4219228, PMC9617380, PMC4759087, PMC1550234, PMC4470447, PMC12584076, PMC10749142, PMC10432135, PMC11299467, PMC7827589)",
+   "n_hits": 24,
+   "note": "Text returned for most; EMPTY for PMC5529892, PMC8174970, PMC7056001, PMC7974047 (abstract only) and PMC4333991. Full texts of the case reports were grepped for paraphysis/origin statements."
+  }
+ ],
+ "failures": [
+  "Wiley Scholar Gateway free-tier quota exhausted (resets 2026-11-01): no Wiley confirmation possible in this label.",
+  "PubMed MCP returned RATE_LIMIT_EXCEEDED twice (convert_article_ids, get_article_metadata/search); retried after a short pause, no data lost.",
+  "get_full_text_article returned empty full text for PMC5529892 (Mukherjee 2017), PMC8174970 and PMC7056001 (Kier letters), PMC7974047 (Armao 2000, abstract only) and PMC4333991; the Mukherjee and Armao paraphysis sentences therefore rest on WebSearch quotations only (access=web_snippet).",
+  "Armao 2000 sentence on the human paraphysis (7th week, degeneration ~3.5 months) appeared inside two WebSearch summaries but was not reproduced by a verbatim-phrase search; verify against the AJNR page before citing.",
+  "The 'Haymaker and Yenermen 1955' series named in a WebSearch summary could not be confirmed; PubMed gives Yenermen, Bowerman & Haymaker 1958 (Acta Neuroveg 17:211-277). Fulton & Bailey 1929 and Streeter 1912 are not in PubMed (web items, bibliographic_verified=false).",
+  "J Liaquat Univ Med Health Sci Vol 5 No 1 case report (PDF v5n1cr01) contains the phrase 'vestigial structure of paraphysis' per WebSearch, but its title/authors could not be retrieved; not recorded.",
+  "Not recorded because no bibliographic identity could be obtained or content was imaging/clinical only: J Neurosci Rural Pract commentary on Kurwale 2013, Int J Gen Med 2018 (S169018, lookup AMBIGUOUS), Cent Eur Neurosurg 2004;65:108, Neurocirugia 'quiste neuroepitelial coloide rolandico', Spanish Medigraphic case reports, StatPearls NBK470314, Radiopaedia 'Paraphysis elements', thefetus.net case 493, Medscape and Neurosurgical Atlas pages (leads only).",
+  "No human fetal atlas, embryology textbook passage or modern study assigning the human paraphysis to a Carnegie stage was found with the available channels; human paraphysis development remains documented only by Kappers 1955 (already held), Warren 1917, Bailey 1916 and second-hand statements (Armao 2000, 1954 conference).",
+  "WebSearch output is AI-written: all web_snippet excerpts are sentences quoted inside such summaries and must not be cited as direct quotations of the original papers."
+ ],
+ "records": [
+  {
+   "title": "Colloid Cyst of 3rd Ventricle : Clinico-Pathological Conference.",
+   "authors": "",
+   "year": 1954,
+   "journal": "The Medical journal of the South-West",
+   "volume": "70(4)",
+   "pages": "127-129",
+   "doi": "",
+   "pmid": "28907815",
+   "pmcid": "PMC5071031",
+   "language": "eng",
+   "source_db": "pmc",
+   "query": "Colloid Cyst of 3rd Ventricle Clinico-Pathological Conference (PubMed) / WebSearch lead",
+   "access": "pmc_fulltext",
+   "bibliographic_verified": true,
+   "verified_via": "PubMed get_article_metadata PMID 28907815 (record carries no author names); text via get_full_text_article PMC5071031",
+   "excerpt": "In man it is a transient structure which is present ^ while the embryo is from 19-32 mm. in length. Histology of this particular cyst^t not definitely decide the matter but ciliated epithelium is recognizable and the likely origin is from the paraphysis.",
+   "relevance": "relevant",
+   "dims": [
+    "ontogeny",
+    "pathology",
+    "terminology_history"
+   ],
+   "note": "1954 Bristol clinico-pathological conference on an autopsied third-ventricle colloid cyst; the pathologist states the human paraphysis is transient (embryo 19-32 mm) and favours it as the likely origin, and argues cyst restriction to the third ventricle weakens choroid-plexus/ependymal derivation. Scanned-OCR text (garbled characters kept); speakers not named in the PubMed record.",
+   "as_cited_in": ""
+  },
+  {
+   "title": "COLLOID CYST OF THE THIRD VENTRICLE: A Case Report.",
+   "authors": "Mukherjee B, Malur PR, Pilli GS, Bannur HB",
+   "year": 2017,
+   "journal": "Medical journal, Armed Forces India",
+   "volume": "51(1)",
+   "pages": "69-71",
+   "doi": "10.1016/S0377-1237(17)30928-0",
+   "pmid": "28769250",
+   "pmcid": "PMC5529892",
+   "language": "eng",
+   "source_db": "pubmed",
+   "query": "Cureus colloid cyst third ventricle case report embryological origin paraphysis (WebSearch) -> PubMed convert_article_ids",
+   "access": "web_snippet",
+   "bibliographic_verified": true,
+   "verified_via": "PubMed get_article_metadata PMID 28769250 (abstract and PMC full text both empty in the tool)",
+   "excerpt": "They are postulated to arise either from the embryonic paraphysis at the anterior end of the third ventricle or the ependyma or from the chroid plexus.",
+   "relevance": "peripheral",
+   "dims": [
+    "pathology",
+    "ontogeny"
+   ],
+   "note": "Open-access case report; the origin sentence (paraphysis vs ependyma vs choroid plexus) is only known from a WebSearch summary, because PubMed returned no abstract and an empty PMC text; \"chroid\" is the typo as returned.",
+   "as_cited_in": "WebSearch AI summary of PMC5529892 (quoted sentence not re-verified against the page)"
+  },
+  {
+   "title": "A Rare, yet Classic Case of Colloid Cyst of Third Ventricle.",
+   "authors": "Bk P, Shrivastava A, Goel G, Panwar H, Kapoor N",
+   "year": 2021,
+   "journal": "Cureus",
+   "volume": "13(7)",
+   "pages": "e16406",
+   "doi": "10.7759/cureus.16406",
+   "pmid": "34408956",
+   "pmcid": "PMC8363163",
+   "language": "eng",
+   "source_db": "pmc",
+   "query": "Nagaraju 2010 colloid cyst third ventricle embryological remnant paraphysis cerebri Clinical Neuropathology (WebSearch) -> PMC full text",
+   "access": "pmc_fulltext",
+   "bibliographic_verified": true,
+   "verified_via": "PubMed get_article_metadata PMID 34408956; get_full_text_article PMC8363163",
+   "excerpt": "Colloid cysts of third ventricle are rare lesions arising from ectopic endodermal migration in the velum interpositum or from the primitive neuroepithelium of the tela choroidea.",
+   "relevance": "peripheral",
+   "dims": [
+    "pathology",
+    "histology",
+    "ontogeny"
+   ],
+   "note": "Open-access Cureus case report; states the two competing origins (ectopic endodermal migration into the velum interpositum vs neuroepithelium of the tela choroidea), mentions ciliated cells and respiratory/olfactory-type origin; the paraphysis is not mentioned in the full text.",
+   "as_cited_in": ""
+  },
+  {
+   "title": "Colloid cyst of the third ventricle: imaging-pathologic correlation.",
+   "authors": "Armao D, Castillo M, Chen H, Kwock L",
+   "year": 2000,
+   "journal": "AJNR. American journal of neuroradiology",
+   "volume": "21(8)",
+   "pages": "1470-7",
+   "doi": "",
+   "pmid": "11003281",
+   "pmcid": "PMC7974047",
+   "language": "eng",
+   "source_db": "pubmed",
+   "query": "colloid cyst third ventricle \"paraphysis\" embryologic origin review ... 2015..2025 (WebSearch, extended)",
+   "access": "web_snippet",
+   "bibliographic_verified": true,
+   "verified_via": "PubMed get_article_metadata PMID 11003281",
+   "excerpt": "The human paraphysis develops as a pouchlike evagination of the diencephalic roof dorsal to the interventricular foramen in the 7th week of life. Paraphyseal rudiments normally disappear by total degeneration at approximately 3.5 months of age. Colloid cysts of the third ventricle may arise from detached, nondegenerating embryonic vesicular recesses.",
+   "relevance": "relevant",
+   "dims": [
+    "ontogeny",
+    "pathology",
+    "anatomy"
+   ],
+   "note": "Gives a timetable for the human paraphysis (outgrowth week 7, total degeneration ~3.5 months) and a detached-vesicle origin for colloid cysts; NB the quoted text describes a DIENCEPHALIC-roof origin whereas the classical papers place the paraphysis on the telencephalic roof rostral to the velum transversum. PubMed abstract itself only says etiology is debated and discusses cholesterol/MRI correlation.",
+   "as_cited_in": "Quoted inside two WebSearch AI summaries of the full text (AJNR 21:1470); the PMC fetch returned only the abstract and a verbatim-phrase re-search did not reproduce the sentence, so check against the AJNR page before citing"
+  },
+  {
+   "title": "The evolutionary and embryologic basis for the development and anatomy of the cavum veli interpositi.",
+   "authors": "Kier",
+   "year": 1999,
+   "journal": "AJNR. American journal of neuroradiology",
+   "volume": "20(7)",
+   "pages": "1383-4",
+   "doi": "",
+   "pmid": "10473003",
+   "pmcid": "PMC7056001",
+   "language": "eng",
+   "source_db": "pubmed",
+   "query": "cavum veli interpositi OR velum interpositum AND (embryology OR development OR fetal)",
+   "access": "metadata_only",
+   "bibliographic_verified": true,
+   "verified_via": "PubMed get_article_metadata PMID 10473003 (author given only as \"Kier\")",
+   "excerpt": "",
+   "relevance": "peripheral",
+   "dims": [
+    "ontogeny",
+    "phylogeny",
+    "anatomy"
+   ],
+   "note": "Letter (PubMed MeSH: Biological Evolution, Pia Mater, Pineal Gland) on the evolutionary/embryological basis of the velum interpositum cistern; no abstract and empty PMC text, so any treatment of the paraphysis is NOT verified.",
+   "as_cited_in": ""
+  },
+  {
+   "title": "The evolutionary and embryologic basis for the development and anatomy of the cavum veli interpositi.",
+   "authors": "Kier LE",
+   "year": 2000,
+   "journal": "AJNR. American journal of neuroradiology",
+   "volume": "21(3)",
+   "pages": "612-4",
+   "doi": "",
+   "pmid": "10730668",
+   "pmcid": "PMC8174970",
+   "language": "eng",
+   "source_db": "pubmed",
+   "query": "cavum veli interpositi OR velum interpositum AND (embryology OR development OR fetal)",
+   "access": "metadata_only",
+   "bibliographic_verified": true,
+   "verified_via": "PubMed get_article_metadata PMID 10730668",
+   "excerpt": "",
+   "relevance": "peripheral",
+   "dims": [
+    "ontogeny",
+    "phylogeny",
+    "anatomy"
+   ],
+   "note": "Second letter/comment with the same title (PubMed article types Comment, Letter); no abstract and empty PMC text; relation to the paraphysis not verified.",
+   "as_cited_in": ""
+  },
+  {
+   "title": "The Variable Appearance of Third Ventricular Colloid Cysts: Correlation with Histopathology and the Risk of Obstructive Ventriculomegaly.",
+   "authors": "Khanpara SD, Day AL, Bhattacharjee MB, Riascos RF, Fernelius JP, Westmark KD",
+   "year": 2020,
+   "journal": "AJNR. American journal of neuroradiology",
+   "volume": "41(10)",
+   "pages": "1833-1840",
+   "doi": "10.3174/ajnr.A6722",
+   "pmid": "32912876",
+   "pmcid": "PMC7661083",
+   "language": "eng",
+   "source_db": "pubmed",
+   "query": "AJNR Am J Neuroradiol 2020;41:1833 (WebSearch lead) -> PubMed lookup_article_by_citation",
+   "access": "pubmed_abstract",
+   "bibliographic_verified": true,
+   "verified_via": "PubMed get_article_metadata PMID 32912876",
+   "excerpt": "Hyperintensity on T2-FLAIR, whether homogeneous, rim, or \"dot sign,\" is associated with larger cyst size and younger patient age, and is an imaging risk factor for obstructive ventriculomegaly.",
+   "relevance": "peripheral",
+   "dims": [
+    "pathology"
+   ],
+   "note": "Modern imaging-histopathology series (64 colloid cysts) giving the radiological risk factors for obstruction; no embryological content.",
+   "as_cited_in": ""
+  },
+  {
+   "title": "Huge familial colloid cyst of the third ventricle: An extraordinary presentation.",
+   "authors": "Niknejad HR, Samii A, Shen SH, Samii M",
+   "year": 2015,
+   "journal": "Surgical neurology international",
+   "volume": "6(Suppl 11)",
+   "pages": "S349-53",
+   "doi": "10.4103/2152-7806.161416",
+   "pmid": "26236556",
+   "pmcid": "PMC4521314",
+   "language": "eng",
+   "source_db": "pmc",
+   "query": "Surgical Neurology International colloid cyst third ventricle pathogenesis paraphysis review (WebSearch) -> PMC full text",
+   "access": "pmc_fulltext",
+   "bibliographic_verified": true,
+   "verified_via": "PubMed get_article_metadata PMID 26236556; get_full_text_article PMC4521314",
+   "excerpt": "More than a century ago Sjovall presumed the cysts originated out of the paraphysis cerebri, an evanescent vestigial embryonic structure.[] This theory held state until the advent of the term “neuroepithelial cyst” in 1929 by Fulton and Bailey. They discussed the presence of cilia and certain cyst contents in their specimens along with the variability in the location of the cysts, holding both a pathological and an anatomical argument against a paraphyseal origin.",
+   "relevance": "relevant",
+   "dims": [
+    "pathology",
+    "terminology_history",
+    "ontogeny",
+    "molecular"
+   ],
+   "note": "Open-access SNI paper whose Discussion (\"The origin of colloid cysts\") gives a compact historiography: Sjovall (paraphysis) -> Fulton & Bailey 1929 (neuroepithelial cyst, argued against paraphyseal origin) -> Kappers 1955 (ectopic cyst from displaced paraphyseal anlagen of ependymal origin) -> Coxe & Luse 1964 (ependymal, EM) -> Shuangshoti (paraphysis classified as extraventricular choroid plexus) -> Tsuchida / Ho & Garcia (endodermal, respiratory-type); also Prop1 analogy with Rathke cysts for familial cases. Secondary source: the primary dates/attributions are the authors' and should be checked in the originals.",
+   "as_cited_in": ""
+  },
+  {
+   "title": "Intraventricular sizeable colloid cyst with atypical radiological features: A case report and evidence-based review.",
+   "authors": "Mansour MA, Khalil DF, Hamdi A, Bayoumi M, El-Salamoni MA, Elsoulia A, Lasheen AA, Kamel AE, Nawara M, Ayad AA",
+   "year": 2023,
+   "journal": "Radiology case reports",
+   "volume": "18(10)",
+   "pages": "3753-3758",
+   "doi": "10.1016/j.radcr.2023.07.064",
+   "pmid": "37636536",
+   "pmcid": "PMC10450352",
+   "language": "eng",
+   "source_db": "pmc",
+   "query": "colloid cyst AND (histogenesis OR endodermal OR neuroepithelial OR paraphysis OR embryological OR embryogenesis) -> PMC full text",
+   "access": "pmc_fulltext",
+   "bibliographic_verified": true,
+   "verified_via": "PubMed get_article_metadata PMID 37636536; get_full_text_article PMC10450352",
+   "excerpt": "Thus far, neuropathologists still debate the true origin of colloid cysts. Colloid cysts were thought to originate from the neuroectodermal elements of the paraphysis cerebri [,]. However, recent immunohistochemistry studies have challenged the notion of the neuroepithelial origin of colloid cysts by the presence of several different cell types lining the cyst capsule, including ciliated and nonciliated, goblet, basal, and squamous cells, suggesting an endodermal rather than ectodermal origin of these colloid cysts.",
+   "relevance": "peripheral",
+   "dims": [
+    "pathology",
+    "histology",
+    "terminology_history"
+   ],
+   "note": "Open-access case + review that illustrates the modern textbook position: paraphysis (neuroectodermal) origin described as superseded by endodermal-migration models on immunohistochemical grounds.",
+   "as_cited_in": ""
+  },
+  {
+   "title": "Colloid cyst of the third ventricle presenting with features of Terson's syndrome.",
+   "authors": "Jacob MK, Anand SK, George P",
+   "year": 2014,
+   "journal": "Middle East African journal of ophthalmology",
+   "volume": "21(4)",
+   "pages": "344-6",
+   "doi": "10.4103/0974-9233.142275",
+   "pmid": "25371642",
+   "pmcid": "PMC4219228",
+   "language": "eng",
+   "source_db": "pmc",
+   "query": "colloid cyst paraphysis embryonic remnant third ventricle origin case report discussion (WebSearch, PMC domain) -> PMC full text",
+   "access": "pmc_fulltext",
+   "bibliographic_verified": true,
+   "verified_via": "PubMed get_article_metadata PMID 25371642; get_full_text_article PMC4219228",
+   "excerpt": "Colloid cyst is a benign neoplasm located in the rostral part of third ventricle accounting for about 2% of all intracranial tumors.It is believed to be originating from the diencephalic vesicle or from the persistence of the embryonic paraphysis.",
+   "relevance": "peripheral",
+   "dims": [
+    "pathology",
+    "ontogeny"
+   ],
+   "note": "Ophthalmology case report; one-line statement that colloid cysts are believed to arise from the diencephalic vesicle or from persistence of the embryonic paraphysis (shows the paraphyseal hypothesis still quoted in clinical reports).",
+   "as_cited_in": ""
+  },
+  {
+   "title": "Colloid cyst curtailed: A case report of spontaneous colloid cyst regression.",
+   "authors": "Cosgrove ME, Saadon J, Chesler DA",
+   "year": 2020,
+   "journal": "Surgical neurology international",
+   "volume": "11",
+   "pages": "465",
+   "doi": "10.25259/SNI_536_2020",
+   "pmid": "33500803",
+   "pmcid": "PMC7827589",
+   "language": "eng",
+   "source_db": "pmc",
+   "query": "colloid cyst paraphysis ... (WebSearch, surgicalneurologyint.com / PMC) -> PMC full text",
+   "access": "pmc_fulltext",
+   "bibliographic_verified": true,
+   "verified_via": "PubMed get_article_metadata PMID 33500803; get_full_text_article PMC7827589",
+   "excerpt": "Colloid cysts are benign neoplasms of neuroepithelial origin, thought to be derived from the paraphysis of the roof of the third ventricle where they are typically located.",
+   "relevance": "peripheral",
+   "dims": [
+    "pathology",
+    "ontogeny"
+   ],
+   "note": "Open-access SNI case of spontaneous regression; introduction asserts neuroepithelial origin from the paraphysis of the third-ventricle roof without primary evidence.",
+   "as_cited_in": ""
+  },
+  {
+   "title": "Colloid Cyst Presenting With Severe Headache and Bilateral Leg Weakness: Case Report and Review.",
+   "authors": "Nadeem A, Espinosa J, Lucerna A",
+   "year": 2023,
+   "journal": "Cureus",
+   "volume": "15(11)",
+   "pages": "e49347",
+   "doi": "10.7759/cureus.49347",
+   "pmid": "38143674",
+   "pmcid": "PMC10749142",
+   "language": "eng",
+   "source_db": "pmc",
+   "query": "colloid cyst paraphysis ... (WebSearch, cureus.com / PMC) -> PMC full text",
+   "access": "pmc_fulltext",
+   "bibliographic_verified": true,
+   "verified_via": "PubMed get_article_metadata PMID 38143674; get_full_text_article PMC10749142",
+   "excerpt": "The origin of a colloid cyst has been proposed to be a possible human remnant of sensory cells in lower vertebrates. The theory holds that these cells, which are epithelial in origin, slowly grow in size as they accumulate secretory debris []. Another theory is the development of pouch-like evagination of the diencephalic roof during embryologic development [].",
+   "relevance": "peripheral",
+   "dims": [
+    "pathology",
+    "ontogeny"
+   ],
+   "note": "Cureus case + review; origin paragraph alludes to remnant of cells of lower vertebrates and to a pouch-like evagination of the diencephalic roof (the paraphysis is NOT named, and \"sensory cells\" does not match the usual description of the paraphysis as a secretory ependymal structure - treat as imprecise).",
+   "as_cited_in": ""
+  },
+  {
+   "title": "Interhemispheric transcallosal approach for hemorrhagic colloid cyst.",
+   "authors": "De Melo Junior JO, Landeiro JA",
+   "year": 2025,
+   "journal": "Surgical neurology international",
+   "volume": "16",
+   "pages": "364",
+   "doi": "10.25259/SNI_363_2025",
+   "pmid": "41036055",
+   "pmcid": "PMC12482738",
+   "language": "eng",
+   "source_db": "pubmed",
+   "query": "colloid cyst AND (histogenesis OR endodermal OR neuroepithelial OR paraphysis OR embryological OR embryogenesis)",
+   "access": "pubmed_abstract",
+   "bibliographic_verified": true,
+   "verified_via": "PubMed get_article_metadata PMID 41036055",
+   "excerpt": "They consist of an outer layer of fibrous tissue and an inner epithelium of mucin-producing cells and many authors have supported an endodermal origin.",
+   "relevance": "peripheral",
+   "dims": [
+    "pathology",
+    "histology"
+   ],
+   "note": "Recent open-access operative case; abstract states the endodermal origin as the view supported by many authors (current clinical default).",
+   "as_cited_in": ""
+  },
+  {
+   "title": "Management of colloid cyst of third ventricle.",
+   "authors": "Yadav YR, Yadav N, Parihar V, Kher Y, Ratre S",
+   "year": 2015,
+   "journal": "Turkish neurosurgery",
+   "volume": "25(3)",
+   "pages": "362-71",
+   "doi": "10.5137/1019-5149.JTN.11086-14.1",
+   "pmid": "26037175",
+   "pmcid": "",
+   "language": "eng",
+   "source_db": "pubmed",
+   "query": "colloid cyst AND (histogenesis OR endodermal OR neuroepithelial OR paraphysis OR embryological OR embryogenesis)",
+   "access": "pubmed_abstract",
+   "bibliographic_verified": true,
+   "verified_via": "PubMed get_article_metadata PMID 26037175",
+   "excerpt": "Colloid cysts are usually located in third ventricle and are believed to be derived from either primitive neuroepithelium or endoderm.",
+   "relevance": "peripheral",
+   "dims": [
+    "pathology"
+   ],
+   "note": "Neurosurgical management review whose opening line frames the origin as neuroepithelium vs endoderm (paraphysis not named in the abstract).",
+   "as_cited_in": ""
+  },
+  {
+   "title": "Colloid cyst of the third ventricle, hypothalamus, and heart: a dangerous link for sudden death.",
+   "authors": "Turillazzi E, Bello S, Neri M, Riezzo I, Fineschi V",
+   "year": 2012,
+   "journal": "Diagnostic pathology",
+   "volume": "7",
+   "pages": "144",
+   "doi": "10.1186/1746-1596-7-144",
+   "pmid": "23078815",
+   "pmcid": "PMC3502434",
+   "language": "eng",
+   "source_db": "pubmed",
+   "query": "colloid cyst AND (histogenesis OR endodermal OR neuroepithelial OR paraphysis OR embryological OR embryogenesis)",
+   "access": "pubmed_abstract",
+   "bibliographic_verified": true,
+   "verified_via": "PubMed get_article_metadata PMID 23078815",
+   "excerpt": "Colloid cysts are rare congenital, intracranial neoplasms, commonly located in the third ventricle. Colloid cysts are endodermal congenital malformations.",
+   "relevance": "peripheral",
+   "dims": [
+    "pathology"
+   ],
+   "note": "Forensic case of sudden death with myocardial injury; clinical correlate (hypothalamic compression) plus the endodermal-malformation label.",
+   "as_cited_in": ""
+  },
+  {
+   "title": "Suprasellar dermoid cyst associated with colloid cyst of the third ventricle: Disordered embryogenesis or a mere coincidence?",
+   "authors": "Kurwale N, Kumar R, Sharma MC, Sharma BS",
+   "year": 2013,
+   "journal": "Journal of neurosciences in rural practice",
+   "volume": "4",
+   "pages": "345-7",
+   "doi": "10.4103/0976-3147.118803",
+   "pmid": "24250183",
+   "pmcid": "PMC3821436",
+   "language": "eng",
+   "source_db": "pmc",
+   "query": "WebSearch (histogenesis / Nagaraju lead) -> PMC full text (upgrade of an abstract-only record held by pm-clinical)",
+   "access": "pmc_fulltext",
+   "bibliographic_verified": true,
+   "verified_via": "PubMed get_article_metadata PMID 24250183; get_full_text_article PMC3821436",
+   "excerpt": "Congenital origin of these cysts is accepted universally; however, cell of origin is highly debated.[] Initial reports suggested their neuroepithelial origin as the derivatives of paraphysis or ventricular ependyma and these were further supported later by other studies.[] However, Mackenzie[] in 1991 suggested the endodermal derivation of these cysts on the basis of ultrastructural features which was supported by other authors.[] Until recently endodermal derivation of these cysts enjoyed the favor when Nagaraju.,[] in 2010 reignited the debate by claiming colloid cysts as paraphysis remnants in human.",
+   "relevance": "relevant",
+   "dims": [
+    "pathology",
+    "ontogeny",
+    "terminology_history"
+   ],
+   "note": "Full-text discussion: summarises neuroepithelial (paraphysis/ependyma) vs endodermal origin, the association of colloid cysts with midline malformations (callosal agenesis, encephaloceles, cavum veli interpositi) and Cheng et al.'s \"anterior neuropore corridor defects\" model in which a vacuolated paraphysis becomes the cyst.",
+   "as_cited_in": ""
+  },
+  {
+   "title": "Colloid cysts of the third ventricle; analysis of twenty-nine cases.",
+   "authors": "Kelly R",
+   "year": 1951,
+   "journal": "Brain : a journal of neurology",
+   "volume": "74(1)",
+   "pages": "23-65",
+   "doi": "10.1093/brain/74.1.23",
+   "pmid": "14830663",
+   "pmcid": "",
+   "language": "eng",
+   "source_db": "pubmed",
+   "query": "(colloid cyst OR neuroepithelial cyst OR paraphyseal cyst) AND third ventricle, 1930-1979",
+   "access": "metadata_only",
+   "bibliographic_verified": true,
+   "verified_via": "PubMed get_article_metadata PMID 14830663",
+   "excerpt": "",
+   "relevance": "peripheral",
+   "dims": [
+    "pathology"
+   ],
+   "note": "Classical 29-case series; no abstract in PubMed, so its treatment of the paraphyseal hypothesis is not verified.",
+   "as_cited_in": ""
+  },
+  {
+   "title": "The surgical treatment of colloid cyst of the third ventricle; a report based upon twenty-one personal cases.",
+   "authors": "McKissock W",
+   "year": 1951,
+   "journal": "Brain : a journal of neurology",
+   "volume": "74(1)",
+   "pages": "1-9",
+   "doi": "10.1093/brain/74.1.1",
+   "pmid": "14830661",
+   "pmcid": "",
+   "language": "eng",
+   "source_db": "pubmed",
+   "query": "(colloid cyst OR neuroepithelial cyst OR paraphyseal cyst) AND third ventricle, 1930-1979",
+   "access": "metadata_only",
+   "bibliographic_verified": true,
+   "verified_via": "PubMed get_article_metadata PMID 14830661",
+   "excerpt": "",
+   "relevance": "peripheral",
+   "dims": [
+    "pathology"
+   ],
+   "note": "Classical surgical series (21 cases); no abstract; paraphysis content not verified.",
+   "as_cited_in": ""
+  },
+  {
+   "title": "Colloid cyst of the third ventricle.",
+   "authors": "Cairns H, Mosberg WH",
+   "year": 1951,
+   "journal": "Surgery, gynecology & obstetrics",
+   "volume": "92(5)",
+   "pages": "545-70",
+   "doi": "",
+   "pmid": "14835211",
+   "pmcid": "",
+   "language": "eng",
+   "source_db": "pubmed",
+   "query": "(colloid cyst OR neuroepithelial cyst OR paraphyseal cyst) AND third ventricle, 1930-1979",
+   "access": "metadata_only",
+   "bibliographic_verified": true,
+   "verified_via": "PubMed get_article_metadata PMID 14835211",
+   "excerpt": "",
+   "relevance": "peripheral",
+   "dims": [
+    "pathology"
+   ],
+   "note": "Classical clinico-pathological account; no abstract; paraphysis content not verified.",
+   "as_cited_in": ""
+  },
+  {
+   "title": "Colloid cysts of the third ventricle; report of seven cases.",
+   "authors": "Poppen JL, Reyes V, Horrax G",
+   "year": 1953,
+   "journal": "Journal of neurosurgery",
+   "volume": "10(3)",
+   "pages": "242-63",
+   "doi": "10.3171/jns.1953.10.3.0242",
+   "pmid": "13053254",
+   "pmcid": "",
+   "language": "eng",
+   "source_db": "pubmed",
+   "query": "(colloid cyst OR neuroepithelial cyst OR paraphyseal cyst) AND third ventricle, 1930-1979",
+   "access": "metadata_only",
+   "bibliographic_verified": true,
+   "verified_via": "PubMed get_article_metadata PMID 13053254",
+   "excerpt": "",
+   "relevance": "peripheral",
+   "dims": [
+    "pathology"
+   ],
+   "note": "Classical neurosurgical series (7 cases); no abstract; paraphysis content not verified.",
+   "as_cited_in": ""
+  },
+  {
+   "title": "Colloid cyst of the third ventricle; a clinical study of 54 cases in the light of previous publications.",
+   "authors": "Yenermen MH, Bowerman CI, Haymaker W",
+   "year": 1958,
+   "journal": "Acta neurovegetativa",
+   "volume": "17(3-4)",
+   "pages": "211-77",
+   "doi": "10.1007/BF01227769",
+   "pmid": "13594315",
+   "pmcid": "",
+   "language": "eng",
+   "source_db": "pubmed",
+   "query": "Haymaker W[Author] AND (colloid OR cyst OR paraphysis); Haymaker Yenermen 1955 colloid cysts (WebSearch lead)",
+   "access": "metadata_only",
+   "bibliographic_verified": true,
+   "verified_via": "PubMed get_article_metadata PMID 13594315",
+   "excerpt": "",
+   "relevance": "peripheral",
+   "dims": [
+    "pathology"
+   ],
+   "note": "Large 54-case series (a WebSearch summary says it added 54 cases to 200 already published; not verified). This is the verifiable item behind the \"Haymaker and Yenermen\" series mentioned in web summaries (those named 1955; PubMed gives 1958 with Bowerman as second author).",
+   "as_cited_in": "WebSearch summary of link.springer.com/doi/10.1007/BF01227769"
+  },
+  {
+   "title": "Colloid cysts of the third ventricle.",
+   "authors": "Little JR, MacCarty CS",
+   "year": 1974,
+   "journal": "Journal of neurosurgery",
+   "volume": "40(2)",
+   "pages": "230-5",
+   "doi": "10.3171/jns.1974.40.2.0230",
+   "pmid": "4543624",
+   "pmcid": "",
+   "language": "eng",
+   "source_db": "pubmed",
+   "query": "(Kelly R[Author] AND colloid ...) OR (Shuangshoti S[Author] ...) OR (Coxe WS[Author] ...) OR (Little JR[Author] ...)",
+   "access": "metadata_only",
+   "bibliographic_verified": true,
+   "verified_via": "PubMed get_article_metadata PMID 4543624",
+   "excerpt": "",
+   "relevance": "peripheral",
+   "dims": [
+    "pathology"
+   ],
+   "note": "Mayo Clinic series; no abstract in PubMed; paraphysis content not verified.",
+   "as_cited_in": ""
+  },
+  {
+   "title": "COLLOID CYST OF THIRD VENTRICLE. AN ELECTRON MICROSCOPIC STUDY.",
+   "authors": "Coxe WS, Luse SA",
+   "year": 1964,
+   "journal": "Journal of neuropathology and experimental neurology",
+   "volume": "23",
+   "pages": "431-45",
+   "doi": "10.1097/00005072-196407000-00003",
+   "pmid": "14193250",
+   "pmcid": "",
+   "language": "eng",
+   "source_db": "pubmed",
+   "query": "(Kelly R[Author] AND colloid ...) OR (Shuangshoti S[Author] ...) OR (Coxe WS[Author] ...) OR (Little JR[Author] ...)",
+   "access": "metadata_only",
+   "bibliographic_verified": true,
+   "verified_via": "PubMed get_article_metadata PMID 14193250",
+   "excerpt": "",
+   "relevance": "relevant",
+   "dims": [
+    "pathology",
+    "histology",
+    "terminology_history"
+   ],
+   "note": "First EM study of a colloid cyst; credited by Niknejad et al. 2015 with an ependymal-epithelial origin (single case). Abstract not available.",
+   "as_cited_in": "Niknejad et al. 2015 (PMC4521314) - attribution as stated by those authors"
+  },
+  {
+   "title": "NEUROEPITHELIAL (COLLOID) CYSTS: PATHOGENESIS AND RELATION TO CHOROID PLEXUS AND EPENDYMA.",
+   "authors": "Shuangshoti S, Roberts MP, Netsky MG",
+   "year": 1965,
+   "journal": "Archives of pathology",
+   "volume": "80",
+   "pages": "214-24",
+   "doi": "",
+   "pmid": "14322940",
+   "pmcid": "",
+   "language": "eng",
+   "source_db": "pubmed",
+   "query": "(Kelly R[Author] AND colloid ...) OR (Shuangshoti S[Author] ...) OR (Coxe WS[Author] ...) OR (Little JR[Author] ...)",
+   "access": "metadata_only",
+   "bibliographic_verified": true,
+   "verified_via": "PubMed get_article_metadata PMID 14322940",
+   "excerpt": "",
+   "relevance": "relevant",
+   "dims": [
+    "pathology",
+    "terminology_history",
+    "ontogeny"
+   ],
+   "note": "Key neuroepithelial-origin paper (choroid plexus/ependyma); per Niknejad et al. 2015 Shuangshoti and colleagues classified the paraphysis as extraventricular choroid plexus (that attribution is secondary; this paper complements the 1966 J Morphol paper on choroid plexus and paraphysis already held). Abstract not available.",
+   "as_cited_in": "Niknejad et al. 2015 (PMC4521314) - attribution of year/content as stated by those authors"
+  },
+  {
+   "title": "Combined neuroepithelial (colloid) cyst and xanthogranuloma (xanthoma) in the third ventricle.",
+   "authors": "Shuangshoti S, Phonprasert C, Suwanwela N, Netsky MG",
+   "year": 1975,
+   "journal": "Neurology",
+   "volume": "25(6)",
+   "pages": "547-52",
+   "doi": "10.1212/wnl.25.6.547",
+   "pmid": "1168873",
+   "pmcid": "",
+   "language": "eng",
+   "source_db": "pubmed",
+   "query": "(Kelly R[Author] AND colloid ...) OR (Shuangshoti S[Author] ...) OR (Coxe WS[Author] ...) OR (Little JR[Author] ...)",
+   "access": "pubmed_abstract",
+   "bibliographic_verified": true,
+   "verified_via": "PubMed get_article_metadata PMID 1168873",
+   "excerpt": "The origin of \"colloid\" cysts is from neuroepithelium; these cysts arise from both ependyma and choroid plexus. Those cysts arising in or near the floor of the third ventricle may originate in stomodeal epithelium, but a distinction cannot be made from neuroepithelial cysts by presently available methods.",
+   "relevance": "relevant",
+   "dims": [
+    "pathology",
+    "histology",
+    "terminology_history"
+   ],
+   "note": "States the Shuangshoti/Netsky position (neuroepithelial, from ependyma and choroid plexus) while conceding a possible stomodeal origin for cysts near the third-ventricle floor.",
+   "as_cited_in": ""
+  },
+  {
+   "title": "Neuroepithelial (colloid) cysts of the septum pellucidum.",
+   "authors": "Ciric I, Zivin I",
+   "year": 1975,
+   "journal": "Journal of neurosurgery",
+   "volume": "43(1)",
+   "pages": "69-73",
+   "doi": "10.3171/jns.1975.43.1.0069",
+   "pmid": "1079860",
+   "pmcid": "",
+   "language": "eng",
+   "source_db": "pubmed",
+   "query": "(colloid cyst OR neuroepithelial cyst OR paraphyseal cyst) AND third ventricle, 1930-1979",
+   "access": "pubmed_abstract",
+   "bibliographic_verified": true,
+   "verified_via": "PubMed get_article_metadata PMID 1079860",
+   "excerpt": "In view of their origin from the neuroepithelium in the diencephalic roof, whether by a process of invagination into the third ventricle or by evagination into the velum interpositum, the so-called colloid cysts are more appropriately termed neuroepithelial cysts.",
+   "relevance": "relevant",
+   "dims": [
+    "pathology",
+    "ontogeny",
+    "anatomy",
+    "terminology_history"
+   ],
+   "note": "Two cysts between the fornices/septal leaves; discusses pathogenesis \"in light of the developmental anatomy\" and proposes origin from diencephalic-roof neuroepithelium (invagination into the third ventricle or evagination into the velum interpositum).",
+   "as_cited_in": ""
+  },
+  {
+   "title": "Further observation on the fine structure of a colloid cyst of the third ventricle.",
+   "authors": "Ghatak NR, Kasoff I, Alexander E",
+   "year": 1977,
+   "journal": "Acta neuropathologica",
+   "volume": "39(2)",
+   "pages": "101-7",
+   "doi": "10.1007/BF00703315",
+   "pmid": "899738",
+   "pmcid": "",
+   "language": "eng",
+   "source_db": "pubmed",
+   "query": "(colloid cyst OR neuroepithelial cyst OR paraphyseal cyst) AND third ventricle, 1930-1979",
+   "access": "pubmed_abstract",
+   "bibliographic_verified": true,
+   "verified_via": "PubMed get_article_metadata PMID 899738",
+   "excerpt": "The cyst lining closely resembled the upper respiratory epithelium rather than neuroepithelium, thus supporting the contention that colloid cysts are derived from an endodermal source.",
+   "relevance": "relevant",
+   "dims": [
+    "pathology",
+    "histology"
+   ],
+   "note": "Ultrastructure (ciliated and non-ciliated columnar cells, basal cell type) argues against neuroepithelial/paraphyseal origin; early endodermal-theory paper.",
+   "as_cited_in": ""
+  },
+  {
+   "title": "[Contribution to the pathogenesis of intrasellar and intraventricular cysts (author's transl)].",
+   "authors": "Holbach KH, Gullotta F",
+   "year": 1977,
+   "journal": "Neurochirurgia",
+   "volume": "20(6)",
+   "pages": "186-8",
+   "doi": "10.1055/s-0028-1090376",
+   "pmid": "74026",
+   "pmcid": "",
+   "language": "ger",
+   "source_db": "pubmed",
+   "query": "(colloid cyst OR neuroepithelial cyst OR paraphyseal cyst) AND third ventricle, 1930-1979",
+   "access": "pubmed_abstract",
+   "bibliographic_verified": true,
+   "verified_via": "PubMed get_article_metadata PMID 74026",
+   "excerpt": "These cysts are morphologically and genetically simialr to the so-called cysts of the foramen of Monro (colloid cysts of the third ventricle). According to Stochdorph, the origin of the latter cysts is from ectopic cerebral inclusions of the upper respiratory tract.",
+   "relevance": "peripheral",
+   "dims": [
+    "pathology",
+    "histology"
+   ],
+   "note": "German-language comparison of Rathke cysts with \"cysts of the foramen of Monro\"; cites Stochdorph for an upper-respiratory-tract (endodermal) inclusion origin.",
+   "as_cited_in": ""
+  },
+  {
+   "title": "[Value of computerised tomography in the diagnosis of colloid cyst of the third ventricle (author's transl)].",
+   "authors": "Pardatscher K, Rigobello L, Fiore D, Andrioli G, D'Avella D",
+   "year": 1979,
+   "journal": "La Radiologia medica",
+   "volume": "65(10)",
+   "pages": "727-30",
+   "doi": "",
+   "pmid": "317973",
+   "pmcid": "",
+   "language": "ita",
+   "source_db": "pubmed",
+   "query": "(colloid cyst OR neuroepithelial cyst OR paraphyseal cyst) AND third ventricle, 1930-1979",
+   "access": "pubmed_abstract",
+   "bibliographic_verified": true,
+   "verified_via": "PubMed get_article_metadata PMID 317973",
+   "excerpt": "The so called colloid cyst of the third ventricle is believed to originate from the neuroepithelium in the diencephalic roof.",
+   "relevance": "peripheral",
+   "dims": [
+    "pathology"
+   ],
+   "note": "Early CT case (11-year-old); the abstract reflects the period default of a diencephalic-roof neuroepithelial origin.",
+   "as_cited_in": ""
+  },
+  {
+   "title": "The Embryonic Cerebral Hemisphere in Man.",
+   "authors": "Hines M",
+   "year": 1921,
+   "journal": "Journal of anatomy",
+   "volume": "55(Pt 4)",
+   "pages": "292",
+   "doi": "",
+   "pmid": "17103931",
+   "pmcid": "PMC1262943",
+   "language": "eng",
+   "source_db": "pubmed",
+   "query": "\"The embryonic cerebral hemisphere in man\" 1921 angulus terminalis telencephalon medium author journal (WebSearch) -> PubMed",
+   "access": "metadata_only",
+   "bibliographic_verified": true,
+   "verified_via": "PubMed get_article_metadata PMID 17103931",
+   "excerpt": "",
+   "relevance": "peripheral",
+   "dims": [
+    "ontogeny",
+    "terminology_history"
+   ],
+   "note": "One-page Journal of Anatomy item; per the UNSW Embryology transcription (secondary, not verified) it defines the human \"telencephalon medium\" divided by the angulus terminalis into terminal plate and roof - the terminology used for the region where the paraphysis arises.",
+   "as_cited_in": "UNSW Embryology wiki transcription surfaced by WebSearch"
+  },
+  {
+   "title": "The human brain at stages 18-20, including the choroid plexuses and the amygdaloid and septal nuclei.",
+   "authors": "Müller F, O'Rahilly R",
+   "year": 1990,
+   "journal": "Anatomy and embryology",
+   "volume": "182(3)",
+   "pages": "285-306",
+   "doi": "10.1007/BF00185521",
+   "pmid": "2268071",
+   "pmcid": "",
+   "language": "eng",
+   "source_db": "pubmed",
+   "query": "Müller O'Rahilly human brain stages 18-20 choroid plexuses amygdaloid septal nuclei",
+   "access": "pubmed_abstract",
+   "bibliographic_verified": true,
+   "verified_via": "PubMed get_article_metadata PMID 2268071",
+   "excerpt": "The development of the human brain during the seventh embryonic week was studied in serial sections of 88 embryos, and graphic reconstructions were prepared. From stages 18 to 20 the cerebral hemispheres expand rapidly and become more and more distinct entities.",
+   "relevance": "peripheral",
+   "dims": [
+    "ontogeny"
+   ],
+   "note": "Staged description of the 7th embryonic week (the period in which Armao et al. place the human paraphysis outgrowth); the abstract does not mention the paraphysis.",
+   "as_cited_in": ""
+  },
+  {
+   "title": "Development of the corpus callosum and cavum septi in man.",
+   "authors": "Rakic P, Yakovlev PI",
+   "year": 1968,
+   "journal": "The Journal of comparative neurology",
+   "volume": "132(1)",
+   "pages": "45-72",
+   "doi": "10.1002/cne.901320103",
+   "pmid": "5293999",
+   "pmcid": "",
+   "language": "eng",
+   "source_db": "pubmed",
+   "query": "Rakic P Yakovlev PI development of the corpus callosum and cavum septi in man",
+   "access": "metadata_only",
+   "bibliographic_verified": true,
+   "verified_via": "PubMed get_article_metadata PMID 5293999",
+   "excerpt": "",
+   "relevance": "peripheral",
+   "dims": [
+    "ontogeny",
+    "anatomy"
+   ],
+   "note": "Classic account of commissural plate/lamina reuniens and cavum septi in the human fetus (region immediately rostral to the paraphysis); PubMed gives no abstract and a WebSearch summary found no mention of the paraphysis, so any link is unverified.",
+   "as_cited_in": ""
+  },
+  {
+   "title": "Developmental Origins of the Cerebral Ventricular System and Colloid Cysts",
+   "authors": "Isaacs A, Dahiya S, McEvoy SD, Rich KM, Limbrick D",
+   "year": 2025,
+   "journal": "In: Nakaji P, Beaumont T, Dacey R (eds). Colloid Cysts of the Third Ventricle. Thieme (chapter 1)",
+   "volume": "",
+   "pages": "",
+   "doi": "10.1055/b-0045-212350",
+   "pmid": "",
+   "pmcid": "",
+   "language": "eng",
+   "source_db": "web",
+   "query": "Isaacs \"Developmental Origins of the Cerebral Ventricular System and Colloid Cysts\" Thieme chapter abnormal embryonic foldings paraphysis",
+   "access": "web_snippet",
+   "bibliographic_verified": false,
+   "verified_via": "",
+   "excerpt": "An anatomical and histopathological examination attributes the origins of colloid cysts to abnormal embryonic foldings that trap endodermal elements.",
+   "relevance": "relevant",
+   "dims": [
+    "ontogeny",
+    "pathology",
+    "anatomy"
+   ],
+   "note": "Recent embryology chapter (neural-tube closure, ventricular system, choroid plexus/ependymal differentiation) proposing that colloid cysts arise from pinched-off diencephalic recesses or paraphysis remnants via abnormal folding that traps endoderm; reconciles paraphyseal and endodermal models. DOI is the book DOI as returned; chapter text not read (not in PubMed).",
+   "as_cited_in": "WebSearch AI summaries quoting the Thieme sample chapter PDF (shop.thieme.in 9781684201563_003_010_Nakaji.pdf) and the Thieme book page"
+  },
+  {
+   "title": "Case Report: Paired/Dual Colloid Cysts in the Third Ventricle - A Discussion of Embryological Origin",
+   "authors": "Jay SM, MacFarlane MR",
+   "year": 2018,
+   "journal": "International Journal of Brain Disorders and Treatment",
+   "volume": "4",
+   "pages": "023",
+   "doi": "10.23937/2469-5866/1510023",
+   "pmid": "",
+   "pmcid": "",
+   "language": "eng",
+   "source_db": "web",
+   "query": "paired dual colloid cysts third ventricle discussion of embryological origin (PubMed: 0 hits) -> WebSearch \"Paired/Dual Colloid Cysts in the Third Ventricle\"",
+   "access": "web_snippet",
+   "bibliographic_verified": false,
+   "verified_via": "",
+   "excerpt": "re-ignites the debate as to the embryological origin of colloid cysts",
+   "relevance": "peripheral",
+   "dims": [
+    "pathology",
+    "ontogeny"
+   ],
+   "note": "Open-access case (two adjacent third-ventricle colloid cysts in a 31-year-old) discussing embryological origin; the journal is not indexed in PubMed (title search returned nothing). Which theory the authors favour was not visible.",
+   "as_cited_in": "WebSearch AI summary of clinmedjournals.org/articles/ijbdt/...ijbdt-4-023"
+  },
+  {
+   "title": "The development of the nervous system",
+   "authors": "Streeter GL",
+   "year": 1912,
+   "journal": "In: Keibel F, Mall FP (eds). Manual of Human Embryology, vol. 2. J.B. Lippincott",
+   "volume": "",
+   "pages": "1-156",
+   "doi": "",
+   "pmid": "",
+   "pmcid": "",
+   "language": "eng",
+   "source_db": "web",
+   "query": "Streeter 1912 \"Manual of Human Embryology\" Keibel Mall development of the nervous system \"paraphysis\" \"anterior choroidal pouch\"",
+   "access": "web_snippet",
+   "bibliographic_verified": false,
+   "verified_via": "",
+   "excerpt": "The anterior choroidal pouch has been homologized with the paraphysis of the lower vertebrates.",
+   "relevance": "relevant",
+   "dims": [
+    "ontogeny",
+    "anatomy",
+    "terminology_history",
+    "phylogeny"
+   ],
+   "note": "Human-embryology manual chapter whose anterior choroidal pouch over the lamina terminalis was homologised with the paraphysis of lower vertebrates; Bailey 1916 disputed such identifications. Only known second-hand (as quoted in a 1916 paper on the UNSW wiki), no PubMed record.",
+   "as_cited_in": "Bailey 1916, \"Morphology of the roof plate of the fore-brain and the lateral choroid plexuses in the human embryo\" (UNSW Embryology transcription), via WebSearch summary"
+  },
+  {
+   "title": "Tumours in the region of the third ventricle; their diagnosis and relation to pathological sleep",
+   "authors": "Fulton JF, Bailey P",
+   "year": 1929,
+   "journal": "Journal of nervous and mental disease",
+   "volume": "",
+   "pages": "",
+   "doi": "",
+   "pmid": "",
+   "pmcid": "",
+   "language": "eng",
+   "source_db": "web",
+   "query": "\"Sjovall presumed the cysts originated out of the paraphysis cerebri\" ... Fulton Bailey 1929 neuroepithelial cyst",
+   "access": "web_snippet",
+   "bibliographic_verified": false,
+   "verified_via": "",
+   "excerpt": "This theory held state until the advent of the term “neuroepithelial cyst” in 1929 by Fulton and Bailey.",
+   "relevance": "peripheral",
+   "dims": [
+    "terminology_history",
+    "pathology"
+   ],
+   "note": "Origin of the label \"neuroepithelial cyst\" and an early argument against paraphyseal origin, per Niknejad et al. 2015. Identification of this title as the paper meant is an inference: WebSearch returned a Journal of Mental Science review listing of Fulton & Bailey 1929 under this title; volume/pages not obtained; not in PubMed.",
+   "as_cited_in": "Niknejad et al. 2015 (PMC4521314), excerpt taken from that paper; title from a Cambridge Journal of Mental Science listing seen via WebSearch"
+  },
+  {
+   "title": "Triangular fossa of the third cerebral ventricle - an original 3D model and morphometric study.",
+   "authors": "Nedelcu AH, Lupu VV, Lupu A, Tepordei RT, Ioniuc I, Stan CI, Vicoleanu SAP, Haliciu AM, Statescu G, Ursaru M, Danielescu C, Tarniceriu CC",
+   "year": 2024,
+   "journal": "Frontiers in neuroanatomy",
+   "volume": "18",
+   "pages": "1398858",
+   "doi": "10.3389/fnana.2024.1398858",
+   "pmid": "39135984",
+   "pmcid": "PMC11317240",
+   "language": "eng",
+   "source_db": "pmc",
+   "query": "human paraphysis cerebri vestigial adult remnant anterior roof third ventricle immunohistochemistry fetus (WebSearch) -> PMC full text",
+   "access": "pmc_fulltext",
+   "bibliographic_verified": true,
+   "verified_via": "PubMed get_article_metadata PMID 39135984; get_full_text_article PMC11317240",
+   "excerpt": "The triangular fossa is a diverticulum of the third cerebral ventricle. It lies on the anterior wall between the anterior columns of the fornix and the anterior white commissure.",
+   "relevance": "irrelevant",
+   "dims": [
+    "anatomy"
+   ],
+   "note": "Adult dissection study of the triangular recess (anterior wall of third ventricle); full text read: it never mentions the paraphysis or colloid cysts. Surfaced repeatedly in paraphysis searches.",
+   "as_cited_in": ""
+  },
+  {
+   "title": "Natural history of incidental colloid cysts of the third ventricle: A systematic review.",
+   "authors": "O'Neill AH, Gragnaniello C, Lai LT",
+   "year": 2018,
+   "journal": "Journal of clinical neuroscience",
+   "volume": "53",
+   "pages": "122-126",
+   "doi": "10.1016/j.jocn.2018.04.061",
+   "pmid": "29731276",
+   "pmcid": "",
+   "language": "eng",
+   "source_db": "pubmed",
+   "query": "\"colloid cyst\" third ventricle review",
+   "access": "pubmed_abstract",
+   "bibliographic_verified": true,
+   "verified_via": "PubMed get_article_metadata PMID 29731276",
+   "excerpt": "For incidental colloid cysts deemed appropriate for conservative management, there is a 5-15% risk of future progression necessitating operative intervention in the 5 years following diagnosis.",
+   "relevance": "peripheral",
+   "dims": [
+    "pathology"
+   ],
+   "note": "PRISMA systematic review (4 retrospective studies, 176 patients, low-level evidence) on progression of incidental colloid cysts; clinical correlate only.",
+   "as_cited_in": ""
+  },
+  {
+   "title": "Clinical and radiological characteristics in fatal third ventricle colloid cyst. Literature review.",
+   "authors": "Musa G, Simfukwe K, Gots A, Chmutin G, Chmutin E, Chaurasia B",
+   "year": 2020,
+   "journal": "Journal of clinical neuroscience",
+   "volume": "82(Pt A)",
+   "pages": "52-55",
+   "doi": "10.1016/j.jocn.2020.10.032",
+   "pmid": "33317739",
+   "pmcid": "",
+   "language": "eng",
+   "source_db": "pubmed",
+   "query": "\"colloid cyst\" third ventricle review",
+   "access": "pubmed_abstract",
+   "bibliographic_verified": true,
+   "verified_via": "PubMed get_article_metadata PMID 33317739",
+   "excerpt": "Colloid cysts are a benign tumor that is almost exclusively found in the third ventricle and may cause hydrocephalus and rarely life-threatening acute deterioration and even sudden death.",
+   "relevance": "peripheral",
+   "dims": [
+    "pathology"
+   ],
+   "note": "Review of 65 colloid-cyst deaths (sudden severe headache, vomiting, cyst size and haemorrhage as antecedents); clinical correlate only.",
+   "as_cited_in": ""
+  }
+ ]
+}

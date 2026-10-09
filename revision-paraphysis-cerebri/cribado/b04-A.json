@@ -1,0 +1,510 @@
+{
+ "batch": "b04",
+ "reviewer": "A",
+ "decisions": [
+  {
+   "rid": "R141",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Embryonic Lacerta pineal/parietal organ monoamine fluorescence; no paraphysis in title, no abstract available.",
+   "dims": [
+    "histology",
+    "ontogeny"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R142",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "CSF-contacting axons in pineal lumen; pineal-only EM, no paraphysis link.",
+   "dims": [
+    "histology"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R143",
+   "decision": "include_A",
+   "reason_code": "clinical_origin",
+   "reason": "Title names paraphysial cysts of the third ventricle (radiological report); content unverified, no abstract.",
+   "dims": [
+    "pathology",
+    "terminology_history"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R144",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Giant tortoise epithalamic hyperplasia; MeSH indicates pineal gland/choroid plexus, no sign of paraphysis; no abstract.",
+   "dims": [
+    "anatomy",
+    "pathology"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R145",
+   "decision": "include_B",
+   "reason_code": "context_clinical_histogenesis",
+   "reason": "Ultrastructure of colloid cysts (MeSH Endoderm, Choroid Plexus, Cilia) bearing on endodermal vs neuroepithelial/paraphyseal origin; content unverified, no abstract.",
+   "dims": [
+    "histology",
+    "pathology"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R146",
+   "decision": "exclude",
+   "reason_code": "general_clinical",
+   "reason": "Mayo clinical series of colloid cysts; no abstract and no sign of histogenesis data.",
+   "dims": [
+    "pathology"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R147",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "General textbook (catalogue record only); no statement about the paraphysis, cannot be shown necessary.",
+   "dims": [
+    "phylogeny"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R148",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Comparative neuroendocrine review of the pineal complex in fish, amphibians and birds; pineal-centred, no paraphysis link.",
+   "dims": [
+    "phylogeny",
+    "physiology"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R149",
+   "decision": "include_B",
+   "reason_code": "context_clinical_histogenesis",
+   "reason": "Colloid-cyst pathogenesis from diencephalic-roof neuroepithelium (invagination/evagination into velum interpositum); paraphysis not named in abstract but locates the origin relative to the paraphyseal hypothesis.",
+   "dims": [
+    "ontogeny",
+    "pathology",
+    "terminology_history"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R150",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Frog SCO versus pineal/eyes ablation; SCO paper never relates to the paraphysis.",
+   "dims": [
+    "physiology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R151",
+   "decision": "include_B",
+   "reason_code": "context_clinical_histogenesis",
+   "reason": "EM of CNS epithelial cysts; colloid cyst judged endodermal, evidence needed to weigh paraphyseal/neuroepithelial origin (paraphysis not named in abstract).",
+   "dims": [
+    "histology",
+    "pathology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R152",
+   "decision": "include_B",
+   "reason_code": "context_function",
+   "reason": "Lacerta 5-HTP autoradiography: abstract reports paraphysis only as neighbouring structure with weak constant nonspecific reaction (negative datum, marginal).",
+   "dims": [
+    "ontogeny",
+    "physiology",
+    "histology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R153",
+   "decision": "include_B",
+   "reason_code": "context_clinical_histogenesis",
+   "reason": "Colloid cyst case stating neuroepithelial origin from ependyma/choroid plexus, stomodeal origin possible near floor; paraphysis not named.",
+   "dims": [
+    "histology",
+    "pathology",
+    "terminology_history"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R154",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Human cerebral vesicle evagination staging; abstract covers pallium/foramen floor, no roof or paraphysis content.",
+   "dims": [
+    "ontogeny",
+    "anatomy"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R155",
+   "decision": "include_A",
+   "reason_code": "clinical_origin",
+   "reason": "Japanese colloid-cyst case report with author keyword 'Paraphysis'; discussion of paraphyseal origin presumed but unverified (keywords only).",
+   "dims": [
+    "pathology",
+    "terminology_history"
+   ],
+   "data_depth": "web_snippet"
+  },
+  {
+   "rid": "R156",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Lizard parietal eye-pineal morphology survey; abstract has no paraphysis data.",
+   "dims": [
+    "anatomy",
+    "phylogeny"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R157",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Teleost saccus dorsalis histology/EM (diencephalic roof evagination, CP analogue); abstract never compares with paraphysis.",
+   "dims": [
+    "anatomy",
+    "histology",
+    "physiology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R158",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Enzyme cytochemistry of trout saccus dorsalis; no paraphysis comparison.",
+   "dims": [
+    "histology",
+    "physiology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R159",
+   "decision": "exclude",
+   "reason_code": "homonym",
+   "reason": "Wallaby pineal changes in pregnancy; proceedings, off-topic.",
+   "dims": [
+    "physiology"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R160",
+   "decision": "include_A",
+   "reason_code": "paraphysis_data",
+   "reason": "Teleost pineal complex study reporting a paraphysis and dorsal sac present in Bathylagus, absent in Nezumia, with functional relation suggested.",
+   "dims": [
+    "anatomy",
+    "histology",
+    "phylogeny"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R161",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Lanternfish dorsal sac cell types and pineal development; abstract does not relate to paraphysis.",
+   "dims": [
+    "anatomy",
+    "histology",
+    "ontogeny"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R162",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Embryonic Lacerta pineal 5-HTP EM autoradiography; pineal-only.",
+   "dims": [
+    "histology",
+    "ontogeny"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R163",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Human fetal pineal innervation and junctions; no paraphysis link.",
+   "dims": [
+    "histology",
+    "ontogeny"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R164",
+   "decision": "include_A",
+   "reason_code": "clinical_origin",
+   "reason": "Reviews pathogenesis theories of neuroepithelial (colloid) cysts and argues an origin more diffuse than the paraphysis, with case support.",
+   "dims": [
+    "pathology",
+    "terminology_history"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R165",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Radiological anatomy of cavum veli interpositi in infants; no paraphysis or telencephalic-roof link.",
+   "dims": [
+    "anatomy"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R166",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Hydrocortisone effects on chick choroid plexus/CSF; generic choroid plexus, no paraphysis link.",
+   "dims": [
+    "ontogeny",
+    "physiology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R167",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Caecilian preoptic neurosecretory cell histology; abstract silent on paraphysis.",
+   "dims": [
+    "histology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R168",
+   "decision": "include_B",
+   "reason_code": "context_clinical_histogenesis",
+   "reason": "EM of colloid cyst lining resembling respiratory epithelium, supporting endodermal origin (paraphysis not named in abstract); weighs against neuroepithelial/paraphyseal views.",
+   "dims": [
+    "histology",
+    "pathology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R169",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Latimeria pineal/parapineal vesicles EM; abstract has no paraphysis or dorsal sac content.",
+   "dims": [
+    "anatomy",
+    "histology",
+    "phylogeny"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R170",
+   "decision": "include_A",
+   "reason_code": "paraphysis_data",
+   "reason": "Embryonic development of pineal complex and paraphysis in Calotes versicolor, compared with Sphenodon and Lacerta; paraphysis histology described.",
+   "dims": [
+    "ontogeny",
+    "histology",
+    "phylogeny"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R171",
+   "decision": "include_B",
+   "reason_code": "context_clinical_histogenesis",
+   "reason": "Short comparison of Rathke cysts with colloid cysts of the foramen of Monro, citing ectopic upper-respiratory (endodermal) inclusion origin; alternative to paraphyseal origin, no paraphysis data.",
+   "dims": [
+    "pathology",
+    "histology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R172",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Lanternfish dorsal-sac presence/absence and receptor cells; abstract never relates dorsal sac to paraphysis.",
+   "dims": [
+    "anatomy",
+    "phylogeny"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R173",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Embryonic Lacerta pineal 5-HTPD/MAO histochemistry; pineal-only.",
+   "dims": [
+    "histology",
+    "ontogeny"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R174",
+   "decision": "uncertain",
+   "reason_code": "insufficient_info",
+   "reason": "Gross brain survey of Latimeria, no abstract; telencephalic roof/paraphysis/dorsal sac coverage unknown. Resolve by checking full text for paraphysis, dorsal sac, tela choroidea.",
+   "dims": [
+    "anatomy",
+    "phylogeny"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R175",
+   "decision": "exclude",
+   "reason_code": "general_clinical",
+   "reason": "Colloid cyst contents (hyphal-like structures) histochemistry; not about origin.",
+   "dims": [
+    "histology",
+    "pathology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R176",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Fourth-ventricle neuroepithelial cyst case; rhombencephalic roof mechanism, no third-ventricle or paraphysis link.",
+   "dims": [
+    "pathology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R177",
+   "decision": "include_B",
+   "reason_code": "context_clinical_histogenesis",
+   "reason": "Multiple neuroepithelial cysts: proposes neuroepithelial folding origin and Rathke-cleft origin for floor cysts; paraphysis not named, informs origin debate.",
+   "dims": [
+    "ontogeny",
+    "pathology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R178",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Short item on chick telencephalic choroid plexus development; generic choroid plexus, no paraphysis link, no abstract.",
+   "dims": [
+    "ontogeny"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R179",
+   "decision": "uncertain",
+   "reason_code": "insufficient_info",
+   "reason": "Italian autopsy colloid cyst with 'histogenetic considerations' in title; no abstract or MeSH on origin. Resolve by full text (does it discuss paraphyseal vs endodermal/neuroepithelial origin).",
+   "dims": [
+    "pathology"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R180",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Chick pineal embryonic development; no paraphysis link.",
+   "dims": [
+    "histology",
+    "ontogeny"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R181",
+   "decision": "include_A",
+   "reason_code": "clinical_origin",
+   "reason": "Infratentorial neuroepithelial cyst case explicitly discussing developmental relationship to colloid and paraphyseal cysts of third ventricle (discussion part of a case report).",
+   "dims": [
+    "pathology",
+    "terminology_history"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R182",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Frog subfornical organ SEM/TEM; circumventricular organ without paraphysis link.",
+   "dims": [
+    "histology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R183",
+   "decision": "include_A",
+   "reason_code": "paraphysis_principal",
+   "reason": "Sea turtle pineal-paraphyseal complex: paraphysis fused to distal pineal, no pineal-ventricle canal, light microscopy across age classes.",
+   "dims": [
+    "anatomy",
+    "histology",
+    "phylogeny"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R184",
+   "decision": "exclude",
+   "reason_code": "general_clinical",
+   "reason": "Two case reports (choroidal angioma, pineal-region cyst with choroid plexus) supporting congenital nature only; no origin analysis, no paraphysis.",
+   "dims": [
+    "pathology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R185",
+   "decision": "include_B",
+   "reason_code": "context_function",
+   "reason": "Comparative CSF-system review (amphioxus to mouse) naming paraphysis among ependymal derivatives with choroid plexuses; paraphysis not principal but compared.",
+   "dims": [
+    "phylogeny",
+    "anatomy",
+    "physiology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R186",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "SEM of frog third-ventricle wall surface specialisations; no paraphysis link in abstract.",
+   "dims": [
+    "anatomy",
+    "histology"
+   ],
+   "data_depth": "abstract"
+  }
+ ]
+}

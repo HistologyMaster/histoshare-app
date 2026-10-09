@@ -1,0 +1,16 @@
+{
+  "label": "wy-ontogeny",
+  "channel": "wiley",
+  "queries": [
+    {
+      "db": "wiley",
+      "query": "What is the embryonic origin of the paraphysis cerebri from the roof of the telencephalon in vertebrate embryos?",
+      "n_hits": 0,
+      "note": "topN=20, no year filter. Tool returned type=free_tier_limit_reached (no search performed). getUsageLimit before the call: plan FREE, queriesUsed 30 of 30, queriesRemaining 0, resetDate 2026-11-01."
+    }
+  ],
+  "failures": [
+    "Wiley Scholar Gateway free-tier quota exhausted (30/30 queries used, 0 remaining, resets 2026-11-01). The single attempted search returned free_tier_limit_reached with result_count 0 and no search was executed. The planned sweep of at least 14 ontogeny questions (embryonic origin from the telencephalic roof; appearance/growth/regression in fish, amphibians, reptiles, birds, mammals and humans; relation to velum transversum, dorsal sac, lamina terminalis, choroid plexus and commissural plate; Wnt/BMP/FGF/Pax/Foxg1/Lmx1a/Otx2 patterning of the dorsal telencephalic midline; amphibian metamorphosis; fate of the paraphysis in mammalian embryos) was therefore NOT run. No further queries were attempted and no workaround was used. No records were collected through this channel."
+  ],
+  "records": []
+}

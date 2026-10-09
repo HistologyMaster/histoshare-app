@@ -1,0 +1,51 @@
+{
+  "label": "wy-physiology-clinical",
+  "channel": "wiley (FAILED: free-tier quota exhausted 30/30, reset 2026-11-01) -> limited PubMed fallback",
+  "queries": [
+    {"db": "wiley", "query": "What functions have been proposed for the paraphysis cerebri, such as cerebrospinal fluid secretion or absorption, osmoregulation, or phagocytosis?", "n_hits": 0, "note": "topN=20; rejected with type=free_tier_limit_reached, no search performed"},
+    {"db": "wiley", "query": "Does the paraphysis of amphibians or reptiles have a neuroendocrine or secretory function, and what is the evidence from ultrastructure or experimental ablation?", "n_hits": 0, "note": "topN=20; rejected with type=free_tier_limit_reached, no search performed"},
+    {"db": "wiley", "query": "How is the origin of colloid cysts of the third ventricle explained: paraphyseal origin versus endodermal origin versus neuroepithelial origin?", "n_hits": 0, "note": "topN=20; rejected with type=free_tier_limit_reached, no search performed"},
+    {"db": "wiley", "query": "What does immunohistochemistry of colloid cyst epithelium of the third ventricle show about its histogenesis, and how does it compare with the embryonic paraphysis?", "n_hits": 0, "note": "topN=20; rejected with type=free_tier_limit_reached, no search performed. getUsageLimit confirmed queriesUsed=30, queryLimit=30, queriesRemaining=0, resetDate=2026-11-01. No further Wiley calls attempted."},
+    {"db": "pubmed", "query": "paraphysis cerebri function", "n_hits": 5, "note": "fallback; all 5 already in corpus"},
+    {"db": "pubmed", "query": "colloid cyst third ventricle paraphysis origin", "n_hits": 1, "note": "fallback; 40608101 already in corpus (pm-adjacent)"},
+    {"db": "pubmed", "query": "colloid cyst third ventricle immunohistochemistry histogenesis endodermal neuroepithelial", "n_hits": 0, "note": "fallback; AND-translation too restrictive"},
+    {"db": "pubmed", "query": "paraphysis subcommissural organ Reissner fiber", "n_hits": 0, "note": "fallback; AND-translation too restrictive"},
+    {"db": "pubmed", "query": "colloid cyst third ventricle origin theories", "n_hits": 1, "note": "fallback; 30590211 new (peripheral, case report with neuroepithelial-origin statement)"},
+    {"db": "pubmed", "query": "colloid cyst third ventricle cytokeratin epithelium ultrastructure", "n_hits": 0, "note": "fallback"},
+    {"db": "pubmed", "query": "paraphysis seasonal OR hormonal OR tracer OR ablation", "n_hits": 2163364, "note": "fallback; malformed OR precedence, result set unusable, not screened"},
+    {"db": "pubmed", "query": "paraphysis[Title/Abstract] AND (seasonal OR hormone OR tracer OR ablation OR secretion)", "n_hits": 17, "note": "fallback; all 17 already in corpus"},
+    {"db": "pubmed", "query": "paraphysis[Title/Abstract] AND colloid cyst", "n_hits": 6, "note": "fallback; all 6 already in corpus"},
+    {"db": "pubmed", "query": "colloid cyst third ventricle histogenesis", "n_hits": 0, "note": "fallback"},
+    {"db": "pubmed", "query": "paraphysial OR paraphyseal epithelium ultrastructure", "n_hits": 12, "note": "fallback; all 12 already in corpus"},
+    {"db": "pubmed", "query": "paraphysis cerebrospinal fluid circumventricular organ", "n_hits": 2, "note": "fallback; both already in corpus"},
+    {"db": "pubmed", "query": "dorsal sac velum transversum telencephalon choroid plexus secretion", "n_hits": 0, "note": "fallback"}
+  ],
+  "failures": [
+    "Wiley Scholar Gateway: all 4 search_wiley_fulltext calls returned type=free_tier_limit_reached (no search performed). getUsageLimit: plan FREE, queriesUsed 30 of 30, queriesRemaining 0, resetDate 2026-11-01. The planned 14+ question Wiley sweep (functions, tracer/ablation, choroid plexus and CVO comparison, seasonal/hormonal variation, SCO and Reissner fiber, colloid cyst origin theories, colloid cyst immunohistochemistry, year windows) could NOT be run. No Wiley passages were obtained.",
+    "PubMed fallback (not the assigned channel): 13 searches run; with one exception every hit was already held by pm-adjacent, pm-clinical or pm-core. One query (OR-precedence, 2,163,364 hits) was malformed and discarded."
+  ],
+  "records": [
+    {
+      "title": "Postexercise Death Due to Hemorrhagic Colloid Cyst of Third Ventricle: Case Report and Literature Review.",
+      "authors": "Cuoco JA, Rogers CM, Busch CM, Benko MJ, Apfel LS, Elias Z",
+      "year": 2018,
+      "journal": "World neurosurgery",
+      "volume": "123",
+      "pages": "351-356",
+      "doi": "10.1016/j.wneu.2018.12.057",
+      "pmid": "30590211",
+      "pmcid": "",
+      "language": "eng",
+      "source_db": "pubmed",
+      "query": "colloid cyst third ventricle origin theories",
+      "access": "pubmed_abstract",
+      "bibliographic_verified": true,
+      "verified_via": "PubMed get_article_metadata (PMID 30590211)",
+      "excerpt": "Colloid cysts of the third ventricle are rare, slow-growing lesions of neuroepithelial origin. Although histopathologically benign, third ventricular colloid cysts are a well-known cause of sudden, unexpected coma and death.",
+      "relevance": "peripheral",
+      "dims": ["pathology"],
+      "note": "Clinical colloid cyst case report/review (fatal haemorrhagic cyst); asserts neuroepithelial origin but contains no paraphysis data in the abstract.",
+      "as_cited_in": ""
+    }
+  ]
+}

@@ -1,0 +1,2015 @@
+[
+ {
+  "rid": "R004",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "historical",
+  "reason": "Selenka 1891 (Das Stirnorgan der Wirbeltiere) is the classically credited first identification of the paraphysis in the chick (Dexter 1902); link of Dexter's ref (12) to this exact paper is inferred, content not seen.",
+  "dims": [
+   "ontogeny",
+   "phylogeny",
+   "terminology_history"
+  ],
+  "data_depth": "web_snippet",
+  "A": "A",
+  "B": "A",
+  "year": 1891,
+  "authors": "Selenka E",
+  "title": "Das Stirnorgan der Wirbeltiere"
+ },
+ {
+  "rid": "R005",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "historical",
+  "reason": "Burckhardt 1892 Protopterus CNS monograph where the lungfish roof structure was named 'coronarium' (later paraphysis per Studnicka, dorsal sac per Tsuneki); origin of the contested lungfish terminology.",
+  "dims": [
+   "anatomy",
+   "phylogeny",
+   "terminology_history"
+  ],
+  "data_depth": "web_snippet",
+  "A": "A",
+  "B": "A",
+  "year": 1892,
+  "authors": "Burckhardt R",
+  "title": "Das CNS. von Protopterus annectens"
+ },
+ {
+  "rid": "R007",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "paraphysis_data",
+  "reason": "Burckhardt 1894 companion on reptiles and birds; cited for showing the paraphysis in a crow embryo as a small diverticulum like that of Petromyzon (identity of Dexter's ref (3) with this paper inferred).",
+  "dims": [
+   "anatomy",
+   "ontogeny",
+   "phylogeny"
+  ],
+  "data_depth": "web_snippet",
+  "A": "A",
+  "B": "A",
+  "year": 1894,
+  "authors": "Burckhardt R",
+  "title": "Die Homologien des Zwischenhirndaches bei Reptilien und Vögeln"
+ },
+ {
+  "rid": "R009",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "historical",
+  "reason": "Sorensen 1894 comparative study of epiphysis and diencephalic roof; cited by Gladstone and Wakeley for the dorsal sac and paraphysis of the alligator, so a classical roof/paraphysis description; content unverified.",
+  "dims": [
+   "anatomy",
+   "phylogeny"
+  ],
+  "data_depth": "metadata_only",
+  "A": "A",
+  "B": "A",
+  "year": 1894,
+  "authors": "Sorensen",
+  "title": "Comparative study of the epiphysis and roof of the diencephalon"
+ },
+ {
+  "rid": "R011",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "paraphysis_principal",
+  "reason": "Studnicka 1895 'Zur Anatomie der sog. Paraphyse des Wirbelthiergehirns': title names the paraphysis; content unverified (metadata only).",
+  "dims": [
+   "anatomy",
+   "phylogeny",
+   "terminology_history"
+  ],
+  "data_depth": "metadata_only",
+  "A": "A",
+  "B": "A",
+  "year": 1895,
+  "authors": "Studnicka FK",
+  "title": "Zur Anatomie der sog. Paraphyse des Wirbelthiergehirns"
+ },
+ {
+  "rid": "R012",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "paraphysis_data",
+  "reason": "Melchers 1899 on rudimentary brain appendages of the gecko (Epi-, Para- und Hypophyse); title names the paraphysis; cited as classical in the 2025 gecko paper; content unverified.",
+  "dims": [
+   "anatomy",
+   "ontogeny",
+   "phylogeny"
+  ],
+  "data_depth": "metadata_only",
+  "A": "A",
+  "B": "A",
+  "year": 1899,
+  "authors": "Melchers F",
+  "title": "Über rudimentäre Hirnanhangsgebilde beim Gecko (Epi-, Para- und Hypophyse)"
+ },
+ {
+  "rid": "R013",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "paraphysis_data",
+  "reason": "Stemmler 1900 dissertation on development of the diencephalic-roof appendages of the gecko (subtitle reportedly covers epiphysis, parietal organ and paraphysis); cited in the 2025 gecko paraphysis paper; exact title wording unverified.",
+  "dims": [
+   "anatomy",
+   "ontogeny"
+  ],
+  "data_depth": "metadata_only",
+  "A": "A",
+  "B": "A",
+  "year": 1900,
+  "authors": "Stemmler",
+  "title": "Die Entwicklung der Anhänge am Zwischenhirndach beim Gecko"
+ },
+ {
+  "rid": "R014",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "paraphysis_principal",
+  "reason": "Dexter 1902, development of the paraphysis in the fowl; first dedicated avian paraphysis embryology paper with literature review (D'Erchia, Selenka, Burckhardt).",
+  "dims": [
+   "anatomy",
+   "ontogeny",
+   "phylogeny",
+   "terminology_history"
+  ],
+  "data_depth": "web_snippet",
+  "A": "A",
+  "B": "A",
+  "year": 1902,
+  "authors": "Dexter F",
+  "title": "The development of the paraphysis in the common fowl"
+ },
+ {
+  "rid": "R015",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "paraphysis_principal",
+  "reason": "Dexter's fowl paraphysis paper as transcribed on the UNSW wiki (excerpt gives cavity continuous with forebrain and thickening wall); duplicate of R014 (dated 1903 in the transcription).",
+  "dims": [
+   "anatomy",
+   "ontogeny",
+   "phylogeny"
+  ],
+  "data_depth": "web_snippet",
+  "A": "A",
+  "B": "A",
+  "year": 1903,
+  "authors": "Dexter F",
+  "title": "The development of the paraphysis in the common fowl"
+ },
+ {
+  "rid": "R016",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "historical",
+  "reason": "Studnicka 1905 'Die Parietalorgane': excerpt records his argument that Burckhardt's lungfish coronarium should be called paraphysis, a key terminology/homology step; chapter also a standard comparative reference.",
+  "dims": [
+   "anatomy",
+   "histology",
+   "phylogeny",
+   "terminology_history"
+  ],
+  "data_depth": "web_snippet",
+  "A": "A",
+  "B": "A",
+  "year": 1905,
+  "authors": "Studnicka FK",
+  "title": "Die Parietalorgane"
+ },
+ {
+  "rid": "R017",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "paraphysis_principal",
+  "reason": "Warren 1905, development of the paraphysis and pineal region in Necturus; title names paraphysis; excerpt compares the paraphysis in adult amphibian brains (Osborn).",
+  "dims": [
+   "anatomy",
+   "ontogeny",
+   "phylogeny"
+  ],
+  "data_depth": "web_snippet",
+  "A": "A",
+  "B": "A",
+  "year": 1905,
+  "authors": "Warren J",
+  "title": "The Development of the Paraphysis and the Pineal Region in Necturus Maculatus"
+ },
+ {
+  "rid": "R018",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "paraphysis_principal",
+  "reason": "Chiarugi 1906 on the paraphyseal region of the telencephalon in Torpedo ocellata embryos; title names the paraphyseal region (OCR-garbled), content unverified.",
+  "dims": [
+   "anatomy",
+   "ontogeny",
+   "phylogeny"
+  ],
+  "data_depth": "metadata_only",
+  "A": "A",
+  "B": "A",
+  "year": 1906,
+  "authors": "Chiarugi G",
+  "title": "Delia regione parafisaria del telencefalo e di alcuni ispessimenti del corrispondente ectoderma tegumentario in enihrioni di Torpedo ocellata"
+ },
+ {
+  "rid": "R020",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "clinical_origin",
+  "reason": "Untitled citation of Sjovall 1909 as first proposing a paraphyseal origin of colloid cysts (duplicate of R021); explicit historiographic anchor for the paraphyseal hypothesis.",
+  "dims": [
+   "pathology",
+   "terminology_history"
+  ],
+  "data_depth": "web_snippet",
+  "A": "A",
+  "B": "A",
+  "year": 1909,
+  "authors": "Sjövall",
+  "title": ""
+ },
+ {
+  "rid": "R021",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "clinical_origin",
+  "reason": "Sjovall 1909 'Ependymcyste embryonalen Charakters (Paraphyse?) im dritten Hirnventrikel': title names the paraphysis; origin of the paraphyseal cyst concept.",
+  "dims": [
+   "pathology",
+   "terminology_history"
+  ],
+  "data_depth": "web_snippet",
+  "A": "A",
+  "B": "A",
+  "year": 1909,
+  "authors": "Sjövall E",
+  "title": "Über eine Ependymcyste embryonalen Charakters (Paraphyse?) im dritten Hirnventrikel mit tödlichem Ausgang"
+ },
+ {
+  "rid": "R023",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "paraphysis_principal",
+  "reason": "Reese 1910, development of the alligator brain: the paraphysis and hypophysis; title names paraphysis; crocodilian ontogeny; content unverified.",
+  "dims": [
+   "anatomy",
+   "ontogeny",
+   "phylogeny"
+  ],
+  "data_depth": "metadata_only",
+  "A": "A",
+  "B": "A",
+  "year": 1910,
+  "authors": "Reese AM",
+  "title": "Development of the brain of the American alligator: the paraphysis and hypophysis, with five plates"
+ },
+ {
+  "rid": "R025",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "paraphysis_principal",
+  "reason": "Warren 1911 'Paraphysis and Pineal Region in Reptilia': title names paraphysis; reptile developmental study (duplicate of R026).",
+  "dims": [
+   "anatomy",
+   "ontogeny",
+   "phylogeny"
+  ],
+  "data_depth": "metadata_only",
+  "A": "A",
+  "B": "A",
+  "year": 1911,
+  "authors": "Warren J",
+  "title": "Paraphysis and Pineal Region in Reptilia"
+ },
+ {
+  "rid": "R026",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "paraphysis_principal",
+  "reason": "Warren 1911 development of the paraphysis and pineal region in Reptilia; title names paraphysis; telencephalic origin anterior to the velum (duplicate of R025).",
+  "dims": [
+   "anatomy",
+   "ontogeny",
+   "phylogeny"
+  ],
+  "data_depth": "web_snippet",
+  "A": "A",
+  "B": "A",
+  "year": 1911,
+  "authors": "Warren J",
+  "title": "The development of the paraphysis and pineal region in Reptilia"
+ },
+ {
+  "rid": "R031",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "paraphysis_principal",
+  "reason": "Warren 1917 development of the paraphysis and pineal region in mammalia: distinct paraphysis in sheep embryos 21-48 mm, rudimentary and inconstant in humans, arising from the roof plate in front of the velum.",
+  "dims": [
+   "anatomy",
+   "ontogeny",
+   "phylogeny",
+   "terminology_history"
+  ],
+  "data_depth": "web_snippet",
+  "A": "A",
+  "B": "A",
+  "year": 1917,
+  "authors": "Warren J",
+  "title": "The development of the paraphysis and pineal region in mammalia"
+ },
+ {
+  "rid": "R039",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "clinical_origin",
+  "reason": "Fulton and Bailey 1929 introduced 'neuroepithelial cyst' ending the paraphyseal-origin theory for third-ventricle colloid cysts (per Niknejad 2015); title identification inferred; second-hand.",
+  "dims": [
+   "pathology",
+   "terminology_history"
+  ],
+  "data_depth": "web_snippet",
+  "A": "A",
+  "B": "A",
+  "year": 1929,
+  "authors": "Fulton JF, Bailey P",
+  "title": "Tumours in the region of the third ventricle; their diagnosis and relation to pathological sleep"
+ },
+ {
+  "rid": "R043",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "paraphysis_data",
+  "reason": "Gladstone and Wakeley 1940 The Pineal Organ: passages describe the paraphysis and dorsal sac across urodeles (tubular or branched glandular diverticulum), reptiles, crocodilians and mammals.",
+  "dims": [
+   "anatomy",
+   "ontogeny",
+   "phylogeny",
+   "terminology_history"
+  ],
+  "data_depth": "web_snippet",
+  "A": "A",
+  "B": "A",
+  "year": 1940,
+  "authors": "Gladstone RJ, Wakeley CPG",
+  "title": "The pineal organ: the comparative anatomy of median and lateral eyes, with special reference to the origin of the pineal body; and a description of the human pineal organ considered from the clinical and surgical standpoints"
+ },
+ {
+  "rid": "R044",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "paraphysis_data",
+  "reason": "Same monograph as R043 (UNSW section pages): dorsal sac and paraphysis present in alligator, positions between parietal organ and pineal sac at 25 mm.",
+  "dims": [
+   "anatomy",
+   "ontogeny",
+   "phylogeny"
+  ],
+  "data_depth": "web_snippet",
+  "A": "A",
+  "B": "A",
+  "year": 1940,
+  "authors": "Gladstone RJ, Wakeley CPG",
+  "title": "The Pineal Organ: the comparative anatomy of median and lateral eyes"
+ },
+ {
+  "rid": "R047",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "clinical_origin",
+  "reason": "Title names the 'paraphisial' (variant spelling of paraphysial) cyst of the third ventricle; case report, content unverified (metadata only).",
+  "dims": [
+   "pathology",
+   "terminology_history"
+  ],
+  "data_depth": "metadata_only",
+  "A": "A",
+  "B": "A",
+  "year": 1946,
+  "authors": "Wilson AA",
+  "title": "Colloid (paraphisial) cysts of the third ventricle; report of case with removal and recovery."
+ },
+ {
+  "rid": "R049",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "clinical_origin",
+  "reason": "Title names paraphysial cyst of third ventricle (paraphyseal-origin label); content unverified (metadata only).",
+  "dims": [
+   "pathology",
+   "terminology_history"
+  ],
+  "data_depth": "metadata_only",
+  "A": "A",
+  "B": "A",
+  "year": 1948,
+  "authors": "Dublin WB, Brown RW",
+  "title": "Paraphysial cyst of third ventricle."
+ },
+ {
+  "rid": "R050",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "paraphysis_principal",
+  "reason": "Experimental data on function of the paraphysis cerebri in urodeles (Kappers 1949); abstract absent but title makes it a principal paraphysis study.",
+  "dims": [
+   "physiology"
+  ],
+  "data_depth": "metadata_only",
+  "A": "A",
+  "B": "A",
+  "year": 1949,
+  "authors": "Ariens Kappers J",
+  "title": "Preliminary data on the function of the paraphysis cerebri in Urodela."
+ },
+ {
+  "rid": "R051",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "clinical_origin",
+  "reason": "Title names paraphysial cysts of third ventricle, eight cases; content unverified (metadata only).",
+  "dims": [
+   "pathology",
+   "terminology_history"
+  ],
+  "data_depth": "metadata_only",
+  "A": "A",
+  "B": "A",
+  "year": 1949,
+  "authors": "Greenwood J",
+  "title": "Paraphysial cysts of the third ventricle; with report of eight cases."
+ },
+ {
+  "rid": "R052",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "paraphysis_principal",
+  "reason": "Van de Kamer dissertation on development, determination and significance of epiphysis and paraphysis in amphibians; known only from a reference string.",
+  "dims": [
+   "ontogeny",
+   "phylogeny",
+   "physiology"
+  ],
+  "data_depth": "web_snippet",
+  "A": "A",
+  "B": "A",
+  "year": 1949,
+  "authors": "Van de Kamer JC",
+  "title": "Over de ontwikkeling, de determinatie en de betekenis van de epiphyse en de paraphyse van de amphibien"
+ },
+ {
+  "rid": "R053",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "paraphysis_principal",
+  "reason": "Normal development of epiphysis and paraphysis in Ambystoma (Van de Kamer 1949); short note, abstract absent.",
+  "dims": [
+   "ontogeny",
+   "anatomy"
+  ],
+  "data_depth": "metadata_only",
+  "A": "A",
+  "B": "A",
+  "year": 1949,
+  "authors": "Van De Kamer JC",
+  "title": "[The normal development of epiphyse and paraphyse in amblystoma]."
+ },
+ {
+  "rid": "R054",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "paraphysis_principal",
+  "reason": "Kappers 1950 monograph on development, structure and experimental function (extirpation) of the urodele paraphysis; principal classical work; not in PubMed.",
+  "dims": [
+   "anatomy",
+   "histology",
+   "ontogeny",
+   "physiology"
+  ],
+  "data_depth": "metadata_only",
+  "A": "A",
+  "B": "A",
+  "year": 1950,
+  "authors": "Ariëns-Kappers J",
+  "title": "The development and structure of the paraphysis cerebri in urodeles with experiments on its function in Amblystoma mexicanum"
+ },
+ {
+  "rid": "R059",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "clinical_origin",
+  "reason": "Title names paraphysial cyst of third ventricle with autopsy observations; content unverified (metadata only).",
+  "dims": [
+   "pathology",
+   "terminology_history"
+  ],
+  "data_depth": "metadata_only",
+  "A": "A",
+  "B": "A",
+  "year": 1951,
+  "authors": "Schwartz J, Hansen JL",
+  "title": "Paraphysial cyst of the third ventricle; report of a case with autopsy observations."
+ },
+ {
+  "rid": "R061",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "clinical_origin",
+  "reason": "Kappers on the so-called paraphyseal cystic tumours of the third ventricle (two-part article); title explicit, content unverified.",
+  "dims": [
+   "pathology",
+   "terminology_history"
+  ],
+  "data_depth": "metadata_only",
+  "A": "A",
+  "B": "A",
+  "year": 1953,
+  "authors": "Ariens Kappers J",
+  "title": "[The so-called paraphyseal cystose tumors of the third cerebral ventricle]."
+ },
+ {
+  "rid": "R062",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "clinical_origin",
+  "reason": "Title names paraphysial cyst of third ventricle; clinical report, content unverified (metadata only).",
+  "dims": [
+   "pathology",
+   "terminology_history"
+  ],
+  "data_depth": "metadata_only",
+  "A": "A",
+  "B": "A",
+  "year": 1953,
+  "authors": "Burrows RE",
+  "title": "Paraphysial cyst of the third ventricle of the brain."
+ },
+ {
+  "rid": "R064",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "paraphysis_principal",
+  "reason": "Comparative embryology, histogenesis and histology of epiphysis, paraphysis, velum transversum, dorsal sac and SCO in three reptiles; directly locates paraphysis relative to adjoining structures (abstract absent).",
+  "dims": [
+   "anatomy",
+   "histology",
+   "ontogeny",
+   "phylogeny"
+  ],
+  "data_depth": "metadata_only",
+  "A": "A",
+  "B": "A",
+  "year": 1953,
+  "authors": "Trost E",
+  "title": "[Embryology, histogenesis and histology of epiphysis, paraphysis, velum transversum, dorsal sack and subcommissural organ in Anguis fragilis, Chalcides ocellatus and Natrix natrix]."
+ },
+ {
+  "rid": "R065",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "clinical_origin",
+  "reason": "Clinico-pathological conference: pathologist states human paraphysis is transient (19-32 mm embryo), ciliated epithelium in the cyst, favours paraphysis as likely origin.",
+  "dims": [
+   "ontogeny",
+   "pathology",
+   "terminology_history"
+  ],
+  "data_depth": "fulltext",
+  "A": "A",
+  "B": "A",
+  "year": 1954,
+  "authors": "",
+  "title": "Colloid Cyst of 3rd Ventricle : Clinico-Pathological Conference."
+ },
+ {
+  "rid": "R070",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "paraphysis_principal",
+  "reason": "Kappers 1955 monograph on development of the human paraphysis, its relation to the intercolumnar tubercle and origin of third-ventricle cystic tumours; core work.",
+  "dims": [
+   "anatomy",
+   "ontogeny",
+   "pathology",
+   "terminology_history"
+  ],
+  "data_depth": "metadata_only",
+  "A": "A",
+  "B": "A",
+  "year": 1955,
+  "authors": "Kappers JA",
+  "title": "The development of the paraphysis cerebri in man with comments on its relationship to the intercolumnar tubercle and its significance for the origin of cystic tumors in the third ventricle."
+ },
+ {
+  "rid": "R074",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "paraphysis_principal",
+  "reason": "Kappers 1956 review of development, structure and function of the paraphysis cerebri; title explicit (abstract absent).",
+  "dims": [
+   "anatomy",
+   "histology",
+   "ontogeny",
+   "physiology"
+  ],
+  "data_depth": "metadata_only",
+  "A": "A",
+  "B": "A",
+  "year": 1956,
+  "authors": "Ariens Kappers J",
+  "title": "On the development, structure and function of the paraphysis cerebri."
+ },
+ {
+  "rid": "R075",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "clinical_origin",
+  "reason": "Title 'Paraphyseal or colloid cysts of the third ventricle' (radiology); content unverified (metadata only).",
+  "dims": [
+   "pathology",
+   "terminology_history"
+  ],
+  "data_depth": "metadata_only",
+  "A": "A",
+  "B": "A",
+  "year": 1956,
+  "authors": "Glazer NM, Hauser H, Slade HW",
+  "title": "Paraphyseal or colloid cysts of the third ventricle."
+ },
+ {
+  "rid": "R076",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "paraphysis_principal",
+  "reason": "Kappers on development of the paraphysis cerebri in Scyliorhinus canicula (chondrichthyan); title explicit.",
+  "dims": [
+   "ontogeny",
+   "phylogeny"
+  ],
+  "data_depth": "metadata_only",
+  "A": "A",
+  "B": "A",
+  "year": 1956,
+  "authors": "Kappers JA",
+  "title": "[Development of the paraphysis cerebri in Scylliorhinus caniculus]."
+ },
+ {
+  "rid": "R078",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "clinical_origin",
+  "reason": "Title names paraphysial cyst of third ventricle (surgical report); content unverified (metadata only).",
+  "dims": [
+   "pathology",
+   "terminology_history"
+  ],
+  "data_depth": "metadata_only",
+  "A": "A",
+  "B": "A",
+  "year": 1956,
+  "authors": "Slade HW, Glazer NM",
+  "title": "Paraphysial cyst of the third ventricle."
+ },
+ {
+  "rid": "R079",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "paraphysis_principal",
+  "reason": "Fine structure of the 'paraphysis' of Protopterus annectens (Dorn 1957); structure later reinterpreted by some as dorsal sac, relevant to terminology.",
+  "dims": [
+   "anatomy",
+   "histology",
+   "phylogeny",
+   "terminology_history"
+  ],
+  "data_depth": "metadata_only",
+  "A": "A",
+  "B": "A",
+  "year": 1957,
+  "authors": "Dorn E",
+  "title": "[Fine structure of paraphysis of Protopterus annectens]."
+ },
+ {
+  "rid": "R080",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "paraphysis_principal",
+  "reason": "Experimental ablation/cauterization of the frog paraphysis (Rana esculenta) with secondary cerebral changes; title explicit.",
+  "dims": [
+   "pathology",
+   "physiology"
+  ],
+  "data_depth": "metadata_only",
+  "A": "A",
+  "B": "A",
+  "year": 1957,
+  "authors": "Legait H, Legait E",
+  "title": "[Cerebral changes secondary to ablation or cauterization of the paraphysis in Rana esculenta]."
+ },
+ {
+  "rid": "R081",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "paraphysis_principal",
+  "reason": "Homology of subfornical organ and paraphysis (Watermann 1957); title makes paraphysis homology the principal subject.",
+  "dims": [
+   "anatomy",
+   "phylogeny",
+   "terminology_history"
+  ],
+  "data_depth": "metadata_only",
+  "A": "A",
+  "B": "A",
+  "year": 1957,
+  "authors": "Watermann R",
+  "title": "[The problem of homology of the subfornical organ and the paraphysis]."
+ },
+ {
+  "rid": "R086",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "clinical_origin",
+  "reason": "Title names paraphysial (colloid) cysts of third ventricle, eight cases; content unverified (metadata only).",
+  "dims": [
+   "pathology",
+   "terminology_history"
+  ],
+  "data_depth": "metadata_only",
+  "A": "A",
+  "B": "A",
+  "year": 1959,
+  "authors": "Heaven RC, Young EF",
+  "title": "Paraphysial (colloid) cysts of the third ventricle: report of eight cases with special attention to diagnostic features."
+ },
+ {
+  "rid": "R087",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "historical",
+  "reason": "Holmgren 1959 on pineal area and adjacent structures of Protopterus; snippet documents Burckhardt's 'coronarium' (old lungfish term) and structure identified as paraphysis in front of velum transversum.",
+  "dims": [
+   "anatomy",
+   "phylogeny",
+   "terminology_history"
+  ],
+  "data_depth": "web_snippet",
+  "A": "A",
+  "B": "A",
+  "year": 1959,
+  "authors": "Holmgren U",
+  "title": "On the pineal area and adjacent structures of the brain of the dipnoan fish, Protopterus annectens (Owen)"
+ },
+ {
+  "rid": "R089",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "clinical_origin",
+  "reason": "Title names paraphyseal cysts of the third ventricle, two infant cases; content unverified (metadata only).",
+  "dims": [
+   "pathology",
+   "terminology_history"
+  ],
+  "data_depth": "metadata_only",
+  "A": "A",
+  "B": "A",
+  "year": 1960,
+  "authors": "Gemperlein J",
+  "title": "Paraphyseal cysts of the third ventricle. Report of two cases in infants."
+ },
+ {
+  "rid": "R090",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "clinical_origin",
+  "reason": "Title equates cysts of foramen of Monro with para-physeal cysts of the third ventricle; content unverified (metadata only).",
+  "dims": [
+   "pathology",
+   "terminology_history"
+  ],
+  "data_depth": "metadata_only",
+  "A": "A",
+  "B": "A",
+  "year": 1961,
+  "authors": "Hullay J, Gal J",
+  "title": "[On cysts of the foramen of Monro (para-physeal cysts of the 3d ventricle)]."
+ },
+ {
+  "rid": "R091",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "clinical_origin",
+  "reason": "Title 'Paraphysial cyst' case report; content unverified (metadata only).",
+  "dims": [
+   "pathology",
+   "terminology_history"
+  ],
+  "data_depth": "metadata_only",
+  "A": "A",
+  "B": "A",
+  "year": 1962,
+  "authors": "Kenefick JN",
+  "title": "Paraphysial cyst."
+ },
+ {
+  "rid": "R097",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "paraphysis_principal",
+  "reason": "Title: ultrastructural analysis of the paraphysis cerebri in newts; paraphysis is the principal subject (histology/ultrastructure, urodele); content unverified, no abstract.",
+  "dims": [
+   "anatomy",
+   "histology",
+   "phylogeny"
+  ],
+  "data_depth": "metadata_only",
+  "A": "A",
+  "B": "A",
+  "year": 1964,
+  "authors": "Kelly DE",
+  "title": "AN ULTRASTRUCTURAL ANALYSIS OF THE PARAPHYSIS CEREBRI IN NEWTS."
+ },
+ {
+  "rid": "R098",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "clinical_origin",
+  "reason": "Title names 'paraphysial cyst of third ventricle' (case report adopting paraphyseal-origin label); content unverified, no abstract.",
+  "dims": [
+   "pathology",
+   "terminology_history"
+  ],
+  "data_depth": "metadata_only",
+  "A": "A",
+  "B": "A",
+  "year": 1964,
+  "authors": "Krohn W, Wittstruck KP, Slade HW",
+  "title": "PARAPHYSIAL CYST OF THIRD VENTRICLE."
+ },
+ {
+  "rid": "R099",
+  "final": "A",
+  "source": "adjudicated",
+  "reason_code": "paraphysis_data",
+  "reason": "Title field (catalogue-summary wording, not verbatim) names the paraphysis: vascular supply of epiphysis and paraphysis in reptiles; included on the title rule, CONTENT UNVERIFIED. Same chapter as R103 (Lierse, PBR 10); German 'Paraepiphyse' may instead denote the parapineal - verify and drop if so.",
+  "dims": [
+   "anatomy",
+   "phylogeny"
+  ],
+  "data_depth": "metadata_only",
+  "A": "A",
+  "B": "U",
+  "year": 1965,
+  "authors": "",
+  "title": "Vascular supply of the epiphysis and paraphysis in reptiles"
+ },
+ {
+  "rid": "R103",
+  "final": "A",
+  "source": "adjudicated",
+  "reason_code": "paraphysis_data",
+  "reason": "Same chapter as R099 (Lierse 1965, PBR 10:183-92, PMID 14281602); verified German-translated title says 'para-epiphysis' (MeSH pineal only), which may be parapineal, but R099 wording names the paraphysis; kept as a duplicate pair, CONTENT UNVERIFIED, merge records and verify chapter.",
+  "dims": [
+   "anatomy",
+   "terminology_history"
+  ],
+  "data_depth": "metadata_only",
+  "A": "U",
+  "B": "U",
+  "year": 1965,
+  "authors": "Lierse W",
+  "title": "[THE BLOOD SUPPLY OF THE EPIPHYSIS AND PARA-EPIPHYSIS IN REPTILES]."
+ },
+ {
+  "rid": "R107",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "paraphysis_principal",
+  "reason": "Title: ontogenesis and function of the amphibian paraphysis (MeSH: glycogen, CSF, metamorphosis, thyroid); principal subject; content unverified, no abstract.",
+  "dims": [
+   "ontogeny",
+   "physiology",
+   "phylogeny"
+  ],
+  "data_depth": "metadata_only",
+  "A": "A",
+  "B": "A",
+  "year": 1965,
+  "authors": "Stockem W",
+  "title": "[On ontogenesis and function of the paraphysis of Amphibia]."
+ },
+ {
+  "rid": "R110",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "paraphysis_principal",
+  "reason": "Comparative histology of paraphysis and choroid plexus in amphibians, reptiles and sharks; concludes paraphysis is a modified (extraventricular) choroid plexus and that the velum transversum is an arbitrary boundary; principal homology/terminology paper.",
+  "dims": [
+   "anatomy",
+   "histology",
+   "phylogeny",
+   "terminology_history"
+  ],
+  "data_depth": "abstract",
+  "A": "A",
+  "B": "A",
+  "year": 1966,
+  "authors": "Shuangshoti S, Netsky MG",
+  "title": "Choroid plexus and paraphysis in lower vertebrates."
+ },
+ {
+  "rid": "R111",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "paraphysis_data",
+  "reason": "Histogenesis of human choroid plexus; explicitly reanalyses the paraphysis as extraventricular choroid plexus (common neuroepithelial origin), rudimentary and inconstant in man; explicit analysis of the human paraphysis.",
+  "dims": [
+   "histology",
+   "ontogeny",
+   "phylogeny",
+   "terminology_history"
+  ],
+  "data_depth": "abstract",
+  "A": "A",
+  "B": "A",
+  "year": 1966,
+  "authors": "Shuangshoti S, Netsky MG",
+  "title": "Histogenesis of choroid plexus in man"
+ },
+ {
+  "rid": "R113",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "paraphysis_principal",
+  "reason": "Title: comparative embryology of the paraphysis in birds (canary, duck, chick per MeSH); principal ontogeny/phylogeny paper; content unverified, no abstract.",
+  "dims": [
+   "ontogeny",
+   "phylogeny"
+  ],
+  "data_depth": "metadata_only",
+  "A": "A",
+  "B": "A",
+  "year": 1966,
+  "authors": "Stockem W, Weber W",
+  "title": "[On the comparative embryology of the paraphysis in birds]."
+ },
+ {
+  "rid": "R116",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "paraphysis_principal",
+  "reason": "Title: frog subfornical organ and regulation of the secretory activity of the paraphysis; paraphysis physiology/function; content unverified, no abstract.",
+  "dims": [
+   "anatomy",
+   "physiology"
+  ],
+  "data_depth": "metadata_only",
+  "A": "A",
+  "B": "A",
+  "year": 1967,
+  "authors": "Srebro Z",
+  "title": "The subfornical organ in frogs and its role in the regulation of the secretory activity of the paraphysis."
+ },
+ {
+  "rid": "R120",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "paraphysis_principal",
+  "reason": "Title: histochemistry of choroid plexuses, paraphysis cerebri and ependyma of Rana temporaria (enzymes, glycogen, epinephrine per MeSH); histochemical data on the paraphysis; no abstract.",
+  "dims": [
+   "histology",
+   "physiology"
+  ],
+  "data_depth": "metadata_only",
+  "A": "A",
+  "B": "A",
+  "year": 1968,
+  "authors": "Paul E",
+  "title": "[Histochemical studies on the choroid plexuses, the paraphysis cerebri, and the ependyma of Rana temporaria L]."
+ },
+ {
+  "rid": "R127",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "clinical_origin",
+  "reason": "Title names 'paraphyseal cyst (autopsy report)'; colloid cyst labelled paraphyseal; content unverified, no abstract.",
+  "dims": [
+   "pathology",
+   "terminology_history"
+  ],
+  "data_depth": "metadata_only",
+  "A": "A",
+  "B": "A",
+  "year": 1970,
+  "authors": "Agrawal RV, Gupta YP, Rajkondawar VL",
+  "title": "Paraphyseal cyst (an autopsy report)."
+ },
+ {
+  "rid": "R132",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "paraphysis_data",
+  "reason": "Lizard (Liolaemus) epiphyseal-complex morphogenesis; authors label a structure PAR as 'paraepifisis' and 'parafisis' (paraphysis) alongside pineal and parietal organ; data on authors' own paraphysis but terminology (parietal vs paraphysis) and depth unverified (snippet only).",
+  "dims": [
+   "anatomy",
+   "ontogeny",
+   "terminology_history"
+  ],
+  "data_depth": "web_snippet",
+  "A": "A",
+  "B": "A",
+  "year": 1971,
+  "authors": "Alay F, Sotomayor R",
+  "title": "Morfogénesis del complejo epifisial en Liolaemus gravenhorsti (Cray)"
+ },
+ {
+  "rid": "R138",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "paraphysis_principal",
+  "reason": "Title: enzyme histochemical and fluorescence studies of choroid plexus and paraphysus of Rana temporaria (monoamine fluorescence, enzymes); histochemical data on the paraphysis; no abstract.",
+  "dims": [
+   "histology",
+   "physiology"
+  ],
+  "data_depth": "metadata_only",
+  "A": "A",
+  "B": "A",
+  "year": 1972,
+  "authors": "Paul E",
+  "title": "[Enzyme histochemical and fluorescence microscopic studies of the choroid plexus and the paraphysus of Rana temporaria L]."
+ },
+ {
+  "rid": "R139",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "clinical_origin",
+  "reason": "Abstract fragment states the neuroepithelial (colloid) cyst arises from the anlage of the paraphysis (case report, 21-year-old man); author-endorsed paraphyseal origin, no histogenetic data seen; title/authors unverified, open the DOI to confirm.",
+  "dims": [
+   "pathology",
+   "terminology_history"
+  ],
+  "data_depth": "web_snippet",
+  "A": "A",
+  "B": "A",
+  "year": 1973,
+  "authors": "",
+  "title": ""
+ },
+ {
+  "rid": "R143",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "clinical_origin",
+  "reason": "Title names paraphysial cysts of the third ventricle (radiological report); content unverified, no abstract.",
+  "dims": [
+   "pathology",
+   "terminology_history"
+  ],
+  "data_depth": "metadata_only",
+  "A": "A",
+  "B": "A",
+  "year": 1974,
+  "authors": "Danziger J, Bloch S",
+  "title": "Paraphysial cysts of the third ventricle."
+ },
+ {
+  "rid": "R152",
+  "final": "A",
+  "source": "adjudicated",
+  "reason_code": "paraphysis_data",
+  "reason": "Meiniel et al. 1975 abstract explicitly reports the paraphysis (with dorsal telencephalon, tectum) as showing only constant weak non-specific 3H-5-HTP uptake in Lacerta embryos, in contrast to the epiphysis; minor/negative autoradiographic datum, but explicit original labelling data on the paraphysis (histochemistry, ontogeny).",
+  "dims": [
+   "histology",
+   "ontogeny",
+   "physiology"
+  ],
+  "data_depth": "abstract",
+  "A": "B",
+  "B": "A",
+  "year": 1975,
+  "authors": "Meiniel A, Collin J-P, Roux M",
+  "title": "[Pineal organ and parietal eye of Lacerta vivipara: a qualitative and quantitative microscopic study of the uptake of 3H-5-hydroxytryptophan during ontogenesis]."
+ },
+ {
+  "rid": "R155",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "clinical_origin",
+  "reason": "Japanese colloid-cyst case report with author keyword 'Paraphysis'; discussion of paraphyseal origin presumed but unverified (keywords only).",
+  "dims": [
+   "pathology",
+   "terminology_history"
+  ],
+  "data_depth": "web_snippet",
+  "A": "A",
+  "B": "A",
+  "year": 1976,
+  "authors": "馬場元毅ほか5名",
+  "title": "第3脳室Colloid Cystについて—1手術例と1剖検例の報告 (Colloid Cysts of the Third Ventricle: Report of One Operated and One Autopsied Case)"
+ },
+ {
+  "rid": "R160",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "paraphysis_data",
+  "reason": "Teleost pineal complex study reporting a paraphysis and dorsal sac present in Bathylagus, absent in Nezumia, with functional relation suggested.",
+  "dims": [
+   "anatomy",
+   "histology",
+   "phylogeny"
+  ],
+  "data_depth": "abstract",
+  "A": "A",
+  "B": "A",
+  "year": 1976,
+  "authors": "McNulty JA",
+  "title": "A comparative study of the pineal complex in the deep-sea fishes Bathylagus Wesethi and Nezumia liolepis."
+ },
+ {
+  "rid": "R164",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "clinical_origin",
+  "reason": "Reviews pathogenesis theories of neuroepithelial (colloid) cysts and argues an origin more diffuse than the paraphysis, with case support.",
+  "dims": [
+   "pathology",
+   "terminology_history"
+  ],
+  "data_depth": "abstract",
+  "A": "A",
+  "B": "A",
+  "year": 1976,
+  "authors": "Palacios E, Azar-Kia B, Shannon M, Messina AV",
+  "title": "Neuroepithelial (colloid) cysts. Pathogenesis and unusual features."
+ },
+ {
+  "rid": "R170",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "paraphysis_data",
+  "reason": "Embryonic development of pineal complex and paraphysis in Calotes versicolor, compared with Sphenodon and Lacerta; paraphysis histology described.",
+  "dims": [
+   "ontogeny",
+   "histology",
+   "phylogeny"
+  ],
+  "data_depth": "abstract",
+  "A": "A",
+  "B": "A",
+  "year": 1977,
+  "authors": "Haldar C, Thapliyal JP",
+  "title": "Development of pineal complex in Calotes versicolor"
+ },
+ {
+  "rid": "R181",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "clinical_origin",
+  "reason": "Infratentorial neuroepithelial cyst case explicitly discussing developmental relationship to colloid and paraphyseal cysts of third ventricle (discussion part of a case report).",
+  "dims": [
+   "pathology",
+   "terminology_history"
+  ],
+  "data_depth": "abstract",
+  "A": "A",
+  "B": "A",
+  "year": 1978,
+  "authors": "Challa VR, Markesbery WR",
+  "title": "Infratentorial neuroepithelial cyst (colloid cyst). Case report."
+ },
+ {
+  "rid": "R183",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "paraphysis_principal",
+  "reason": "Sea turtle pineal-paraphyseal complex: paraphysis fused to distal pineal, no pineal-ventricle canal, light microscopy across age classes.",
+  "dims": [
+   "anatomy",
+   "histology",
+   "phylogeny"
+  ],
+  "data_depth": "abstract",
+  "A": "A",
+  "B": "A",
+  "year": 1978,
+  "authors": "Owens DW, Ralph CL",
+  "title": "The pineal-paraphyseal complex of sea turtles. I. Light microscopic description."
+ },
+ {
+  "rid": "R217",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "paraphysis_principal",
+  "reason": "Light and EM ultrastructure of the paraphysis cerebri of the snake Natrix maura (polarity, microvilli, fenestrated sinusoids, CSF-blood exchange role).",
+  "dims": [
+   "anatomy",
+   "histology",
+   "physiology",
+   "phylogeny"
+  ],
+  "data_depth": "fulltext",
+  "A": "A",
+  "B": "A",
+  "year": 1982,
+  "authors": "Fernández-Llebrez P, Becerra J, Marín-Girón F",
+  "title": "Ultrastructure of the paraphysis cerebri of the water snake Natrix maura L."
+ },
+ {
+  "rid": "R224",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "clinical_origin",
+  "reason": "Series of 75 colloid cysts of the 3rd ventricle explicitly framed as 'so-called cyst of the paraphysis'; concludes embryological hypotheses do not clarify the origin.",
+  "dims": [
+   "pathology",
+   "terminology_history"
+  ],
+  "data_depth": "abstract",
+  "A": "A",
+  "B": "A",
+  "year": 1982,
+  "authors": "Witzig EP",
+  "title": "[Statistical study of the colloid cyst of the 3rd ventricle (so-called cyst of the paraphysis). Clinico-anatomical series of 75 cases]."
+ },
+ {
+  "rid": "R226",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "paraphysis_data",
+  "reason": "Experimental paraphysectomy in bullfrogs causing hypocalcemia, tetany and motor neuron degeneration; direct functional data on the paraphysis.",
+  "dims": [
+   "physiology",
+   "pathology"
+  ],
+  "data_depth": "abstract",
+  "A": "A",
+  "B": "A",
+  "year": 1983,
+  "authors": "Nelson SR, Foltz FM",
+  "title": "Hypocalcemia and motor neuron degeneration in paraphysectomized frogs."
+ },
+ {
+  "rid": "R233",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "paraphysis_data",
+  "reason": "Ultracytochemical localization of Ca-ATPase on apical microvilli of frog paraphyseal cells; histochemistry and proposed Ca regulation of CSF.",
+  "dims": [
+   "histology",
+   "physiology"
+  ],
+  "data_depth": "abstract",
+  "A": "A",
+  "B": "A",
+  "year": 1984,
+  "authors": "Ueno S, Umar H, Bambauer HJ, Ueck M",
+  "title": "Ultracytochemical localization of Ca++-ATPase activity in the paraphyseal epithelial cells of the frog, Rana esculenta."
+ },
+ {
+  "rid": "R237",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "paraphysis_data",
+  "reason": "Paraphysectomy of bullfrog tadpoles: parathyroid hyperplasia and fractures 22 months later; experimental data on paraphysis function (calcium metabolism).",
+  "dims": [
+   "physiology",
+   "pathology"
+  ],
+  "data_depth": "abstract",
+  "A": "A",
+  "B": "A",
+  "year": 1985,
+  "authors": "Nelson SR, Foltz FM, Camarata P, Sarras MP",
+  "title": "Occurrence of bone fractures and parathyroid hyperplasia in paraphysectomized frogs (Rana catesbeiana)."
+ },
+ {
+  "rid": "R245",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "paraphysis_data",
+  "reason": "Paraphysectomy (paraphyseal-choroid plexus complex removal) in adult bullfrogs stimulates parathyroids; experimental physiology/histology of the paraphysis.",
+  "dims": [
+   "physiology",
+   "histology"
+  ],
+  "data_depth": "abstract",
+  "A": "A",
+  "B": "A",
+  "year": 1986,
+  "authors": "Sarras MP, Trune DR, Merisko EM, Foltz FM, Nelson SR",
+  "title": "Paraphysectomy-induced stimulation of parathyroid glands in mature frogs (Rana catesbeiana): evidence for telencephalic regulation of parathyroid gland function."
+ },
+ {
+  "rid": "R246",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "paraphysis_data",
+  "reason": "Comparative survey of circumventricular organs: states paraphysis present in dogfish and osteoglossomorph teleosts and that the lungfish 'paraphysis' is a dorsal sac (phylogeny/terminology).",
+  "dims": [
+   "phylogeny",
+   "anatomy",
+   "terminology_history"
+  ],
+  "data_depth": "abstract",
+  "A": "A",
+  "B": "A",
+  "year": 1986,
+  "authors": "Tsuneki K",
+  "title": "A survey of occurrence of about seventeen circumventricular organs in brains of various vertebrates with special reference to lower groups."
+ },
+ {
+  "rid": "R280",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "paraphysis_principal",
+  "reason": "Vascular casting and TEM of frog paraphysis: sinusoidal portal bed fed by choroid plexus, fenestrated endothelium, possible calcium-metabolism role.",
+  "dims": [
+   "anatomy",
+   "histology",
+   "physiology"
+  ],
+  "data_depth": "abstract",
+  "A": "A",
+  "B": "A",
+  "year": 1990,
+  "authors": "Hinton DA, Nelson SR, Gattone VH",
+  "title": "Vasculature of the paraphysis cerebri of the frog."
+ },
+ {
+  "rid": "R281",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "paraphysis_principal",
+  "reason": "Ultrastructure of treefrog paraphysis, anterior choroid plexus and endolymphatic tubules; proposed functional unit regulating CSF composition.",
+  "dims": [
+   "anatomy",
+   "histology",
+   "phylogeny",
+   "physiology"
+  ],
+  "data_depth": "abstract",
+  "A": "A",
+  "B": "A",
+  "year": 1990,
+  "authors": "Kemnitz CP, Fox LM, McNulty JA",
+  "title": "Ultrastructure and organization of circumventricular organs and endolymphatic tubules in the treefrog, Hyla versicolor."
+ },
+ {
+  "rid": "R320",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "paraphysis_principal",
+  "reason": "Ultrastructure of the paraphysis in Bufo bufo larvae: tubular-ramified gland, glycoprotein secretion into CSF, proposed role in ionic/osmotic homeostasis.",
+  "dims": [
+   "anatomy",
+   "histology",
+   "ontogeny",
+   "physiology"
+  ],
+  "data_depth": "abstract",
+  "A": "A",
+  "B": "A",
+  "year": 1994,
+  "authors": "Farnesi RM, Tei S, Vagnetti D, Santarella B, Pollacci P",
+  "title": "Ultrastructure of the paraphysis in Bufo bufo larvae."
+ },
+ {
+  "rid": "R327",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "clinical_origin",
+  "reason": "Immunohistochemistry of CNS cysts documents a neuroepithelial cyst 'of paraphyseal origin' (keratin+, S-100+) against enterogenous, Rathke and arachnoid cysts; single-case paraphyseal cyst data.",
+  "dims": [
+   "histology",
+   "pathology",
+   "molecular"
+  ],
+  "data_depth": "abstract",
+  "A": "A",
+  "B": "A",
+  "year": 1994,
+  "authors": "Morimura T, Maeda Y, Tani E, Nishigami T",
+  "title": "Immunohistochemical differential diagnosis of benign cysts in the central nervous system."
+ },
+ {
+  "rid": "R361",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "paraphysis_principal",
+  "reason": "Master's dissertation on structure and ultrastructure of the turtle (Trachemys scripta dorbigni) paraphysis; circumventricular organ, Evans blue, links to colloid cysts. Snippet only.",
+  "dims": [
+   "anatomy",
+   "histology",
+   "physiology",
+   "phylogeny",
+   "ontogeny"
+  ],
+  "data_depth": "web_snippet",
+  "A": "A",
+  "B": "A",
+  "year": 1999,
+  "authors": "",
+  "title": "A estrutura e a ultra-estrutura da paráfise da tartaruga Trachemys scripta dorbigni"
+ },
+ {
+  "rid": "R370",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "clinical_origin",
+  "reason": "Colloid cyst imaging-pathologic correlation; quoted text gives human paraphysis timetable (7th week outgrowth, degeneration ~3.5 months) and origin of colloid cysts from nondegenerating vesicles; places paraphysis on diencephalic roof (terminology point). Quoted text via web snippet only.",
+  "dims": [
+   "pathology",
+   "ontogeny",
+   "anatomy",
+   "terminology_history"
+  ],
+  "data_depth": "web_snippet",
+  "A": "A",
+  "B": "A",
+  "year": 2000,
+  "authors": "Armao D, Castillo M, Chen H, Kwock L",
+  "title": "Colloid cyst of the third ventricle: imaging-pathologic correlation."
+ },
+ {
+  "rid": "R410",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "paraphysis_data",
+  "reason": "Tuatara pineal complex histology: describes the paraphysis as an evagination of the lamina supraneuroporica, multisaccular, presumed secretory, opening shifted to the dorsal sac (Dendy), with its position relative to pineal eye and dorsal sac.",
+  "dims": [
+   "anatomy",
+   "histology",
+   "phylogeny",
+   "physiology",
+   "terminology_history"
+  ],
+  "data_depth": "fulltext",
+  "A": "A",
+  "B": "A",
+  "year": 2004,
+  "authors": "Ung CY, Molteno AC",
+  "title": "An enigmatic eye: the histology of the tuatara pineal complex."
+ },
+ {
+  "rid": "R411",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "paraphysis_principal",
+  "reason": "Light/EM microscopy of the turtle Trachemys dorbigni paraphysis (vascular neuroepithelial structure, cuboidal epithelium, dense bodies); paraphysis is the sole subject. Not in PubMed; authorship conflict and probable duplicate of R412.",
+  "dims": [
+   "anatomy",
+   "histology",
+   "phylogeny"
+  ],
+  "data_depth": "web_snippet",
+  "A": "A",
+  "B": "A",
+  "year": 2004,
+  "authors": "Winkelmann EC, Fernandes MC, Jackowski AP, Severino AG, Schneider FL",
+  "title": "Microscopic studies of the paraphysis of the turtle Trachemys (scripta) dorbigni (Duméril & Bibron, 1835)"
+ },
+ {
+  "rid": "R412",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "paraphysis_principal",
+  "reason": "Same turtle paraphysis paper as R411 (light, SEM, TEM, Evans blue shows fenestrated endothelium and no blood-brain barrier; circumventricular absorptive/secretory organ); paraphysis is the principal subject. Treat as duplicate of R411 on merging.",
+  "dims": [
+   "histology",
+   "phylogeny",
+   "physiology"
+  ],
+  "data_depth": "web_snippet",
+  "A": "A",
+  "B": "A",
+  "year": 2004,
+  "authors": "Winkelmann et al.",
+  "title": "Microscopic studies of the paraphysis of the turtle Trachemys (scripta) dorbigni"
+ },
+ {
+  "rid": "R447",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "paraphysis_data",
+  "reason": "Quail-chick chimera fate mapping of telencephalic roof/neurulation: places velum transversum at p3/p2 roof limit and states the paraphysis lies in p3 (original data on paraphysis position/ontogeny).",
+  "dims": [
+   "ontogeny",
+   "molecular",
+   "anatomy"
+  ],
+  "data_depth": "fulltext",
+  "A": "A",
+  "B": "A",
+  "year": 2008,
+  "authors": "Pombero A, Martinez S",
+  "title": "Telencephalic morphogenesis during the process of neurulation: An experimental study using quail–chick chimeras"
+ },
+ {
+  "rid": "R467",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "paraphysis_data",
+  "reason": "Newt (Cynops) AVT receptor localization: paraphysis shows only V2-type receptor mRNA and immunoreactivity, and is proposed as a main site of CSF production (histochemical/molecular and functional data on paraphysis).",
+  "dims": [
+   "histology",
+   "molecular",
+   "physiology"
+  ],
+  "data_depth": "abstract",
+  "A": "A",
+  "B": "A",
+  "year": 2010,
+  "authors": "Hasunuma I, Toyoda F, Kadono Y, Yamamoto K, Namiki H, Kikuyama S",
+  "title": "Localization of three types of arginine vasotocin receptors in the brain and pituitary of the newt Cynops pyrrhogaster."
+ },
+ {
+  "rid": "R471",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "clinical_origin",
+  "reason": "Adult colloid cyst of third ventricle with an embryological remnant interpreted as paraphysis cerebri; explicitly evaluates paraphyseal origin in histogenesis debate.",
+  "dims": [
+   "pathology",
+   "ontogeny",
+   "anatomy",
+   "terminology_history"
+  ],
+  "data_depth": "abstract",
+  "A": "A",
+  "B": "A",
+  "year": 2010,
+  "authors": "Nagaraju S, O'Donovan DG, Cross J, Fernandes H",
+  "title": "Colloid cyst of the third cerebral ventricle with an embryological remnant consistent with paraphysis cerebri in an adult human."
+ },
+ {
+  "rid": "R485",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "paraphysis_data",
+  "reason": "Adult Pleurodeles Pax6/Pax7 atlas whose discussion explicitly treats the paraphysis (telencephalic derivative vs roof of p3; AVT receptor, CSF uptake); Pax7 labelling of paraphysis inferred from discussion, not seen in the excerpt.",
+  "dims": [
+   "molecular",
+   "phylogeny",
+   "terminology_history"
+  ],
+  "data_depth": "fulltext",
+  "A": "A",
+  "B": "A",
+  "year": 2012,
+  "authors": "Joven A, Morona R, González A, Moreno N",
+  "title": "Expression patterns of Pax6 and Pax7 in the adult brain of a urodele amphibian, Pleurodeles waltl"
+ },
+ {
+  "rid": "R492",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "paraphysis_data",
+  "reason": "Xenopus Pax7 development: full text reports weak Pax7 in membranous structures containing the paraphysis and discusses it as the only telencephalic structure that might express Pax7 (telencephalic vs velum-transversum boundary).",
+  "dims": [
+   "molecular",
+   "ontogeny",
+   "phylogeny",
+   "terminology_history"
+  ],
+  "data_depth": "fulltext",
+  "A": "A",
+  "B": "A",
+  "year": 2013,
+  "authors": "Bandín S, Morona R, Moreno N, González A",
+  "title": "Regional expression of Pax7 in the brain of Xenopus laevis during embryonic and larval development"
+ },
+ {
+  "rid": "R497",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "paraphysis_data",
+  "reason": "Pleurodeles Pax3/6/7 development: Pax7+ cells in paraphysis and explicit conclusion that the paraphysis is a roof-plate derivative at the p3/telencephalon limit, contrasting with the prosomeric model.",
+  "dims": [
+   "histology",
+   "molecular",
+   "ontogeny",
+   "phylogeny",
+   "terminology_history"
+  ],
+  "data_depth": "fulltext",
+  "A": "A",
+  "B": "A",
+  "year": 2013,
+  "authors": "Joven A, Morona R, González A, Moreno N",
+  "title": "Spatiotemporal patterns of Pax3, Pax6, and Pax7 expression in the developing brain of a urodele amphibian, Pleurodeles waltl."
+ },
+ {
+  "rid": "R499",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "clinical_origin",
+  "reason": "Colloid cyst case whose discussion explicitly reviews neuroepithelial (paraphysis) vs endodermal origin, Nagaraju's paraphysis-remnant claim and the vacuolated-paraphysis model.",
+  "dims": [
+   "pathology",
+   "ontogeny",
+   "terminology_history"
+  ],
+  "data_depth": "fulltext",
+  "A": "A",
+  "B": "A",
+  "year": 2013,
+  "authors": "Kurwale N, Kumar R, Sharma MC, Sharma BS",
+  "title": "Suprasellar dermoid cyst associated with colloid cyst of the third ventricle: Disordered embryogenesis or a mere coincidence?"
+ },
+ {
+  "rid": "R501",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "paraphysis_data",
+  "reason": "Human embryo (Carnegie stage) study of lateral choroid plexus reporting original observation of paraphysis at roof of dorsal ventricle after CS19 and its relation to the CP primordium.",
+  "dims": [
+   "ontogeny",
+   "anatomy",
+   "terminology_history"
+  ],
+  "data_depth": "fulltext",
+  "A": "A",
+  "B": "A",
+  "year": 2013,
+  "authors": "Shiraishi N, Nakashima T, Yamada S, Uwabe C, Kose K, Takakuwa T",
+  "title": "Morphogenesis of Lateral Choroid Plexus During Human Embryonic Period"
+ },
+ {
+  "rid": "R511",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "paraphysis_data",
+  "reason": "Pax6/Pax7 in six sarcopterygians incl. lungfish: full text reports conspicuous Pax7 labelling in the paraphysis as the only rostral prosencephalic Pax7 signal, next to telencephalic choroid plexus.",
+  "dims": [
+   "molecular",
+   "ontogeny",
+   "phylogeny"
+  ],
+  "data_depth": "fulltext",
+  "A": "A",
+  "B": "A",
+  "year": 2014,
+  "authors": "Moreno N, Joven A, Morona R, Bandín S, López JM, González A",
+  "title": "Conserved localization of Pax6 and Pax7 transcripts in the brain of representatives of sarcopterygian vertebrates during development supports homologous brain regionalization"
+ },
+ {
+  "rid": "R517",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "clinical_origin",
+  "reason": "Familial giant colloid cyst whose discussion gives an explicit historiography of origin: Sjovall paraphysis, Fulton and Bailey against paraphyseal origin, Kappers, Coxe and Luse, Shuangshoti, endodermal theory.",
+  "dims": [
+   "pathology",
+   "terminology_history",
+   "ontogeny"
+  ],
+  "data_depth": "fulltext",
+  "A": "A",
+  "B": "A",
+  "year": 2015,
+  "authors": "Niknejad HR, Samii A, Shen SH, Samii M",
+  "title": "Huge familial colloid cyst of the third ventricle: An extraordinary presentation."
+ },
+ {
+  "rid": "R528",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "paraphysis_principal",
+  "reason": "Radiopaedia entry titled 'Paraphysis elements': describes the embryonic paraphysis as a strand between telencephalon and diencephalon and as the believed precursor of third-ventricle colloid cysts (non-peer-reviewed secondary source).",
+  "dims": [
+   "ontogeny",
+   "pathology",
+   "terminology_history"
+  ],
+  "data_depth": "web_snippet",
+  "A": "A",
+  "B": "A",
+  "year": 2017,
+  "authors": "Gaillard F, Kang O, Knipe H",
+  "title": "Paraphysis elements"
+ },
+ {
+  "rid": "R534",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "paraphysis_data",
+  "reason": "Frog brain anatomy paper describing the paraphysis cerebri (glandular organ at the third ventricle) and comparing its size/shape across anuran species (larger in climber-walkers, cord-like in hopper-walker): original comparative gross-anatomy data.",
+  "dims": [
+   "anatomy",
+   "phylogeny"
+  ],
+  "data_depth": "fulltext",
+  "A": "A",
+  "B": "A",
+  "year": 2017,
+  "authors": "Manzano AS, Herrel A, Fabre A, Abdala V",
+  "title": "Variation in brain anatomy in frogs and its possible bearing on their locomotor ecology"
+ },
+ {
+  "rid": "R545",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "paraphysis_data",
+  "reason": "Xenopus vascular-corrosion-cast study reporting that the choroidal artery supplies the paraphysis and third-ventricle choroid plexus (with venous drainage): original data on paraphysis vascularisation.",
+  "dims": [
+   "anatomy",
+   "physiology"
+  ],
+  "data_depth": "fulltext",
+  "A": "A",
+  "B": "A",
+  "year": 2018,
+  "authors": "Lametschwandtner A, Minnich B",
+  "title": "Microvascular anatomy of the brain of the adult pipid frog, Xenopus laevis (Daudin): A scanning electron microscopic study of vascular corrosion casts"
+ },
+ {
+  "rid": "R560",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "paraphysis_data",
+  "reason": "Manganese-enhanced MRI in frogs reporting the greatest signal change in torus semicircularis, habenula and the paraphysis after conspecific calls: original experimental functional data on the paraphysis (not the study focus).",
+  "dims": [
+   "physiology"
+  ],
+  "data_depth": "abstract",
+  "A": "A",
+  "B": "A",
+  "year": 2019,
+  "authors": "Ringler E, Coates M, Cobo-Cuan A, Harris NG, Narins PM",
+  "title": "MEMRI for visualizing brain activity after auditory stimulation in frogs."
+ },
+ {
+  "rid": "R588",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "paraphysis_data",
+  "reason": "Micro-CT/dissection/radiographic ventricular casts of dogfish, bullfrog and iguana with the paraphysis (pa), dorsal sac and velum transversum labelled in figures; paraphysis not sole focus but comparative gross-anatomy data (borderline A/B).",
+  "dims": [
+   "anatomy",
+   "phylogeny"
+  ],
+  "data_depth": "fulltext",
+  "A": "A",
+  "B": "A",
+  "year": 2022,
+  "authors": "Kier EL, Conlogue GJ, VanHouten JN",
+  "title": "Cerebral arterial and ventricular morphology of the dogfish (Squalus acanthias), American bullfrog (Rana catesbeiana), and green iguana (Iguana iguana): Arterial high‐resolution micro‐CT, dissection, and radiography study"
+ },
+ {
+  "rid": "R599",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "paraphysis_principal",
+  "reason": "Histological reinterpretation of the paraphysis cerebri in axolotl larvae: AEP and PEP evaginations proposed homologous to paraphysis and dorsal sac; principal paraphysis paper (terminology, ontogeny, location in diencephalic roof).",
+  "dims": [
+   "anatomy",
+   "histology",
+   "ontogeny",
+   "phylogeny",
+   "terminology_history"
+  ],
+  "data_depth": "abstract",
+  "A": "A",
+  "B": "A",
+  "year": 2022,
+  "authors": "Rivas-Manzano P, Torres-Ramírez N, Parra-Gámez L, Ortiz-Hernández R",
+  "title": "Histological reinterpretation of paraphysis cerebri in Ambystoma mexicanum."
+ },
+ {
+  "rid": "R604",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "clinical_origin",
+  "reason": "Colloid cyst case plus review explicitly stating origin from neuroectodermal paraphysis cerebri and its challenge by immunohistochemistry favouring endodermal origin; brief but explicit evaluation of paraphyseal hypothesis.",
+  "dims": [
+   "pathology",
+   "histology",
+   "terminology_history"
+  ],
+  "data_depth": "fulltext",
+  "A": "A",
+  "B": "A",
+  "year": 2023,
+  "authors": "Mansour MA, Khalil DF, Hamdi A, Bayoumi M, El-Salamoni MA, Elsoulia A, Lasheen AA, Kamel AE, Nawara M, Ayad AA",
+  "title": "Intraventricular sizeable colloid cyst with atypical radiological features: A case report and evidence-based review."
+ },
+ {
+  "rid": "R619",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "clinical_origin",
+  "reason": "Anterior transcallosal colloid cyst series with CK/S100/PAX7 immunohistochemistry; authors state PAX-7 staining points to a paraphysis remnant (argues for paraphyseal origin).",
+  "dims": [
+   "pathology",
+   "histology",
+   "molecular"
+  ],
+  "data_depth": "abstract",
+  "A": "A",
+  "B": "A",
+  "year": 2025,
+  "authors": "Cevik OM, Eksi MS, Guduk M, Usseli MI, Erşen-Danyeli A, Dincer A, Ozduman K, Pamir MN",
+  "title": "Microsurgical Anterior Transcallosal Resection of Colloid Cysts of the Third Ventricle."
+ },
+ {
+  "rid": "R623",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "clinical_origin",
+  "reason": "Neurosurgical monograph chapter on developmental origins of the ventricular system and colloid cysts; snippets state origin from diencephalic recesses or paraphysis cerebri remnants and reconcile with endodermal trapping (chapter text not read).",
+  "dims": [
+   "ontogeny",
+   "anatomy",
+   "pathology"
+  ],
+  "data_depth": "web_snippet",
+  "A": "A",
+  "B": "A",
+  "year": 2025,
+  "authors": "Isaacs A, Dahiya S, McEvoy SD, Rich KM, Limbrick D",
+  "title": "Developmental Origins of the Cerebral Ventricular System and Colloid Cysts"
+ },
+ {
+  "rid": "R629",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "paraphysis_principal",
+  "reason": "Gecko Correlophus ciliatus paraphysis and epiphysis primordia described as diencephalic roof evaginations (anterior border); contests classical telencephalic assignment (duplicate of R662).",
+  "dims": [
+   "ontogeny",
+   "anatomy",
+   "phylogeny",
+   "terminology_history"
+  ],
+  "data_depth": "web_snippet",
+  "A": "A",
+  "B": "A",
+  "year": 2025,
+  "authors": "Vingert DP, Gonobobleva EL",
+  "title": "Paraphysis and epiphysis primordia of the gecko Correlophus ciliatus at different stages of embryonic development"
+ },
+ {
+  "rid": "R644",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "paraphysis_principal",
+  "reason": "Adult rainbow-trout (Salmo gairdneri) paraphysis cerebri: part of the pars impar telencephali; epithelium with zonulae occludentes, fenestrated sinusoids, CSF-regulation role proposed; bibliographic details missing.",
+  "dims": [
+   "anatomy",
+   "histology",
+   "phylogeny",
+   "physiology"
+  ],
+  "data_depth": "web_snippet",
+  "A": "A",
+  "B": "A",
+  "year": 0,
+  "authors": "",
+  "title": ""
+ },
+ {
+  "rid": "R647",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "clinical_origin",
+  "reason": "Title names paraphyseal cysts (Ependymal and Paraphyseal Cysts, Springer chapter); content unverified (metadata only).",
+  "dims": [
+   "pathology",
+   "terminology_history"
+  ],
+  "data_depth": "metadata_only",
+  "A": "A",
+  "B": "A",
+  "year": 0,
+  "authors": "",
+  "title": "Ependymal and Paraphyseal Cysts"
+ },
+ {
+  "rid": "R648",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "paraphysis_data",
+  "reason": "Title names the paraphysis (Epiphyse und Paraphyse im Lebenscyclus der Anuren: anuran life-cycle study); content unverified (metadata only).",
+  "dims": [
+   "histology",
+   "ontogeny",
+   "physiology"
+  ],
+  "data_depth": "metadata_only",
+  "A": "A",
+  "B": "A",
+  "year": 0,
+  "authors": "",
+  "title": "Epiphyse und Paraphyse im Lebenscyclus der Anuren"
+ },
+ {
+  "rid": "R649",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "clinical_origin",
+  "reason": "Radiology review explicitly states colloid cysts arise from abnormal folding of the neuroepithelial paraphysis; a stated paraphyseal-origin account, web snippet only.",
+  "dims": [
+   "pathology",
+   "ontogeny"
+  ],
+  "data_depth": "web_snippet",
+  "A": "A",
+  "B": "A",
+  "year": 0,
+  "authors": "",
+  "title": "Non-neoplastic Cystic Lesions of the Central Nervous System, Part 1: Developmental Cysts"
+ },
+ {
+  "rid": "R654",
+  "final": "A",
+  "source": "adjudicated",
+  "reason_code": "historical",
+  "reason": "Classical (1888) development-of-the-epiphysis paper; Dexter 1902 credits Francotte with first identifying the paraphysis in a 12-week human embryo and with holding that it occurs in all vertebrate embryos, and the paper is listed in Warren's 1905 paraphysis/pineal-region bibliography. Included as historical record; content unverified (metadata only) and the exact carrying paper rests on Dexter's attribution.",
+  "dims": [
+   "ontogeny",
+   "phylogeny",
+   "terminology"
+  ],
+  "data_depth": "metadata_only",
+  "A": "U",
+  "B": "U",
+  "year": 0,
+  "authors": "Francotte P",
+  "title": "Récherches sur le dévéloppement de L'épiphyse"
+ },
+ {
+  "rid": "R655",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "paraphysis_data",
+  "reason": "Needlefish Xenentodon cancila brain: diencephalic roof shows some indication (trace) of a paraphysis, parapineal absent; minor but original presence/absence datum for teleost distribution.",
+  "dims": [
+   "anatomy",
+   "phylogeny"
+  ],
+  "data_depth": "web_snippet",
+  "A": "A",
+  "B": "A",
+  "year": 0,
+  "authors": "Gupta; Shrivastava",
+  "title": "Studies on the Functional Morphology and Anatomy of the Central Nervous System of Xenentodon cancila (Ham.) including its Histology 1. The Brain"
+ },
+ {
+  "rid": "R658",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "historical",
+  "reason": "Minot's classic Acanthias pineal-region study, cited by Warren 1905 and Dexter 1902 for early paraphysis records; content secondhand, metadata only.",
+  "dims": [
+   "anatomy",
+   "ontogeny",
+   "phylogeny",
+   "terminology_history"
+  ],
+  "data_depth": "metadata_only",
+  "A": "A",
+  "B": "A",
+  "year": 0,
+  "authors": "Minot CS",
+  "title": "On the morphology of the pineal region, based upon its development in Acanthias"
+ },
+ {
+  "rid": "R659",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "paraphysis_principal",
+  "reason": "Roofe, histology of the paraphysis of Amblystoma: ependymal paraphyseal tubules opening by common mouth into third ventricle, venous sinusoid rete, mitochondria; year unconfirmed.",
+  "dims": [
+   "anatomy",
+   "histology"
+  ],
+  "data_depth": "abstract",
+  "A": "A",
+  "B": "A",
+  "year": 0,
+  "authors": "Roofe PG",
+  "title": "The histology of the paraphysis of Amblystoma"
+ },
+ {
+  "rid": "R662",
+  "final": "A",
+  "source": "agreement",
+  "reason_code": "paraphysis_principal",
+  "reason": "Gecko paraphysis and epiphysis primordia as diencephalic roof evaginations (anterior and posterior borders); contrasts classical telencephalic placement (duplicate of R629, journal/year missing).",
+  "dims": [
+   "anatomy",
+   "ontogeny",
+   "phylogeny"
+  ],
+  "data_depth": "web_snippet",
+  "A": "A",
+  "B": "A",
+  "year": 0,
+  "authors": "Vingert DP, Gonobobleva EL",
+  "title": "Paraphysis and epiphysis primordia of the gecko Correlophus ciliatus at different stages of embryonic development"
+ }
+]

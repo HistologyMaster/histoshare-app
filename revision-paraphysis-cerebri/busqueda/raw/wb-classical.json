@@ -1,0 +1,1470 @@
+{
+ "label": "wb-classical",
+ "channel": "web",
+ "queries": [
+  {
+   "db": "websearch",
+   "query": "paraphysis cerebri history discovery who first described paraphysis Selenka Stieda Burckhardt Paraphyse Gehirn",
+   "n_hits": 19,
+   "note": "mode extended; n_hits = approximate count of result links listed in the tool output; the text is an AI-written summary, used only as discovery lead"
+  },
+  {
+   "db": "websearch",
+   "query": "Selenka \"Das Stirnorgan der Wirbeltiere\" Biologisches Centralblatt 1891 paraphysis",
+   "n_hits": 39,
+   "note": "mode standard; n_hits = approximate count of result links listed in the tool output; the text is an AI-written summary, used only as discovery lead"
+  },
+  {
+   "db": "websearch",
+   "query": "Dexter 1902 \"The development of the paraphysis in the common fowl\" American Journal of Anatomy references Selenka Burckhardt Hill Minot Studnicka",
+   "n_hits": 39,
+   "note": "mode standard; n_hits = approximate count of result links listed in the tool output; the text is an AI-written summary, used only as discovery lead"
+  },
+  {
+   "db": "websearch",
+   "query": "Paraphyse Wirbeltiere Gehirn Entwicklung Epiphyse Paraphyse Stirnorgan Literaturverzeichnis Studnicka 1905 Paraphysis Parietalorgane",
+   "n_hits": 38,
+   "note": "mode standard; n_hits = approximate count of result links listed in the tool output; the text is an AI-written summary, used only as discovery lead"
+  },
+  {
+   "db": "websearch",
+   "query": "Ariëns Kappers \"paraphysis\" Gehirn comparative anatomy nervous system vertebrates \"paraphysis\" Francotte Sorensen Gaupp Hill Warren history",
+   "n_hits": 40,
+   "note": "mode standard; n_hits = approximate count of result links listed in the tool output; the text is an AI-written summary, used only as discovery lead"
+  },
+  {
+   "db": "websearch",
+   "query": "\"paraphysis\" Warren 1905 \"development of the paraphysis and the pineal region in Necturus maculatus\" bibliography literature cited",
+   "n_hits": 29,
+   "note": "mode standard; n_hits = approximate count of result links listed in the tool output; the text is an AI-written summary, used only as discovery lead"
+  },
+  {
+   "db": "websearch",
+   "query": "Warren 1917 \"development of the paraphysis and pineal region in mammalia\" Journal of Comparative Neurology 28 bibliography Francotte D'Erchia Dexter Kappers",
+   "n_hits": 30,
+   "note": "mode standard; n_hits = approximate count of result links listed in the tool output; the text is an AI-written summary, used only as discovery lead"
+  },
+  {
+   "db": "websearch",
+   "query": "Book The Pineal Organ 1940 Gladstone Wakeley bibliography paraphysis Burckhardt Selenka Hill Sorensen Dendy Francotte Studnicka Minot",
+   "n_hits": 40,
+   "note": "mode standard; n_hits = approximate count of result links listed in the tool output; the text is an AI-written summary, used only as discovery lead"
+  },
+  {
+   "db": "websearch",
+   "query": "\"paraphysis\" \"coronarium\" lungfish Protopterus Neoceratodus telencephalon roof Rudebeck Holmgren history terminology",
+   "n_hits": 45,
+   "note": "mode standard; n_hits = approximate count of result links listed in the tool output; the text is an AI-written summary, used only as discovery lead"
+  },
+  {
+   "db": "websearch",
+   "query": "paraphysial cyst third ventricle origin colloid cyst history Sjövall Globus Kappers paraphysis theory Rickards 1930s",
+   "n_hits": 29,
+   "note": "mode standard; n_hits = approximate count of result links listed in the tool output; the text is an AI-written summary, used only as discovery lead"
+  },
+  {
+   "db": "websearch",
+   "query": "Dendy 1911 pineal organs tuatara Sphenodon paraphysis Philosophical Transactions \"paraphysis\" reptiles lizards Gaupp Studnicka Francotte history",
+   "n_hits": 29,
+   "note": "mode standard; n_hits = approximate count of result links listed in the tool output; the text is an AI-written summary, used only as discovery lead"
+  },
+  {
+   "db": "websearch",
+   "query": "Paper - The development of the paraphysis in the common fowl (1903) Dexter bibliography list of references Selenka Biol. Centralbl. Burckhardt Anat. Anz. Francotte D'Erchia Minot Studnicka",
+   "n_hits": 18,
+   "note": "mode extended; n_hits = approximate count of result links listed in the tool output; the text is an AI-written summary, used only as discovery lead"
+  },
+  {
+   "db": "websearch",
+   "query": "Paper - The development of the paraphysis and pineal region in mammalia (1917) Warren Bibliography numbered list Dexter Kappers Francotte Hochstetter Mihalkovics Hill Studnicka",
+   "n_hits": 45,
+   "note": "mode extended; n_hits = approximate count of result links listed in the tool output; the text is an AI-written summary, used only as discovery lead"
+  },
+  {
+   "db": "websearch",
+   "query": "\"development and structure of the paraphysis cerebri in urodele with experiments on its function in Ambystoma mexicanum\" author Journal of Comparative Neurology 1950",
+   "n_hits": 9,
+   "note": "mode standard; n_hits = approximate count of result links listed in the tool output; the text is an AI-written summary, used only as discovery lead"
+  },
+  {
+   "db": "websearch",
+   "query": "\"Die epithelialen Gebilde am Gehirn der Wirbeltiere\" Paraphyse Zeitschrift für Anatomie author",
+   "n_hits": 40,
+   "note": "mode standard; n_hits = approximate count of result links listed in the tool output; the text is an AI-written summary, used only as discovery lead"
+  },
+  {
+   "db": "websearch",
+   "query": "\"Epiphyse und Paraphyse im Lebenscyclus der Anuren\" author journal year",
+   "n_hits": 38,
+   "note": "mode standard; n_hits = approximate count of result links listed in the tool output; the text is an AI-written summary, used only as discovery lead"
+  },
+  {
+   "db": "websearch",
+   "query": "\"Über den Feinbau der Paraphyse von Protopterus annectens\" Dorn Zeitschrift für Zellforschung 1957",
+   "n_hits": 30,
+   "note": "mode standard; n_hits = approximate count of result links listed in the tool output; the text is an AI-written summary, used only as discovery lead"
+  },
+  {
+   "db": "websearch",
+   "query": "Reese \"Development of the brain of the American alligator: the paraphysis and hypophysis\" Smithsonian Miscellaneous Collections",
+   "n_hits": 10,
+   "note": "mode standard; n_hits = approximate count of result links listed in the tool output; the text is an AI-written summary, used only as discovery lead"
+  },
+  {
+   "db": "websearch",
+   "query": "paraphysis lamprey Petromyzon shark Scyliorhinus teleost fish paraphysis present or absent comparative review Kappers Nieuwenhuys central nervous system of vertebrates",
+   "n_hits": 50,
+   "note": "mode standard; n_hits = approximate count of result links listed in the tool output; the text is an AI-written summary, used only as discovery lead"
+  },
+  {
+   "db": "websearch",
+   "query": "paraphysectomy frog Rana hypocalcemia paraphysis parathyroid Nelson Sarras Stefanou classical studies Kappers \"paraphysis\" function secretion cerebrospinal fluid",
+   "n_hits": 40,
+   "note": "mode standard; n_hits = approximate count of result links listed in the tool output; the text is an AI-written summary, used only as discovery lead"
+  },
+  {
+   "db": "websearch",
+   "query": "Latimeria coelacanth brain paraphysis dorsal sac telencephalon Millot Anthony Nieuwenhuys \"paraphysis\" forebrain",
+   "n_hits": 20,
+   "note": "mode standard; n_hits = approximate count of result links listed in the tool output; the text is an AI-written summary, used only as discovery lead"
+  },
+  {
+   "db": "websearch",
+   "query": "Sjövall 1909 paraphysis cyst \"third ventricle\" Wallman 1858 Dandy 1921 colloid cyst history original paper title",
+   "n_hits": 20,
+   "note": "mode extended; n_hits = approximate count of result links listed in the tool output; the text is an AI-written summary, used only as discovery lead"
+  },
+  {
+   "db": "websearch",
+   "query": "Gaupp \"Zirbel, Parietalorgan und Paraphysis\" Ergebnisse der Anatomie und Entwicklungsgeschichte 1904",
+   "n_hits": 29,
+   "note": "mode standard; n_hits = approximate count of result links listed in the tool output; the text is an AI-written summary, used only as discovery lead"
+  },
+  {
+   "db": "websearch",
+   "query": "Sorensen 1894 \"Comparative study of the epiphysis and roof of the diencephalon\" Journal of Comparative Neurology supplement alligator paraphysis",
+   "n_hits": 9,
+   "note": "mode standard; n_hits = approximate count of result links listed in the tool output; the text is an AI-written summary, used only as discovery lead"
+  },
+  {
+   "db": "websearch",
+   "query": "Hill C. L. \"The epiphysis of teleosts and Amia\" Journal of Morphology 1894 paraphysis",
+   "n_hits": 19,
+   "note": "mode standard; n_hits = approximate count of result links listed in the tool output; the text is an AI-written summary, used only as discovery lead"
+  },
+  {
+   "db": "websearch",
+   "query": "Cameron \"On the origin of the pineal body as an amesial structure, deduced from the study of its development in Amphibia\" Proceedings Royal Society of Edinburgh author year",
+   "n_hits": 18,
+   "note": "mode standard; n_hits = approximate count of result links listed in the tool output; the text is an AI-written summary, used only as discovery lead"
+  },
+  {
+   "db": "websearch",
+   "query": "Francotte paraphyse épiphyse plexus choroïdes troisième ventricule embryon humain Bulletin Académie royale Belgique 1894 \"paraphyse\"",
+   "n_hits": 40,
+   "note": "mode standard; n_hits = approximate count of result links listed in the tool output; the text is an AI-written summary, used only as discovery lead"
+  },
+  {
+   "db": "websearch",
+   "query": "D'Erchia \"paraphysis\" OR \"paraphisi\" 1896 Anatomischer Anzeiger Contributo allo studio dell'epifisi e paraphisi vertebrati",
+   "n_hits": 18,
+   "note": "mode standard; n_hits = approximate count of result links listed in the tool output; the text is an AI-written summary, used only as discovery lead"
+  },
+  {
+   "db": "websearch",
+   "query": "Burckhardt \"Zur Frage der Homologie der Paraphyse\" OR \"Die Homologien des Zwischenhirndaches\" Anatomischer Anzeiger 1891 1892 1894 paraphysis Reptilien Vögel",
+   "n_hits": 49,
+   "note": "mode standard; n_hits = approximate count of result links listed in the tool output; the text is an AI-written summary, used only as discovery lead"
+  },
+  {
+   "db": "websearch",
+   "query": "Kappers Huber Crosby 1936 \"The Comparative Anatomy of the Nervous System of Vertebrates, Including Man\" paraphysis chapter diencephalon roof epiphysis paraphysis",
+   "n_hits": 20,
+   "note": "mode standard; n_hits = approximate count of result links listed in the tool output; the text is an AI-written summary, used only as discovery lead"
+  },
+  {
+   "db": "websearch",
+   "query": "Paraphysis and epiphysis primordia of the gecko Correlophus ciliatus references list Melchers Stemmler Warren Dendy Studnicka Quay Vingert Gonobobleva",
+   "n_hits": 28,
+   "note": "mode extended; n_hits = approximate count of result links listed in the tool output; the text is an AI-written summary, used only as discovery lead"
+  },
+  {
+   "db": "websearch",
+   "query": "Holmgren 1959 \"On the pineal area and adjacent structures of the brain of the dipnoan fish, Protopterus annectens (Owen)\" Breviora",
+   "n_hits": 9,
+   "note": "mode standard; n_hits = approximate count of result links listed in the tool output; the text is an AI-written summary, used only as discovery lead"
+  },
+  {
+   "db": "websearch",
+   "query": "\"The Pineal Organ (1940) Bibliography\" Burckhardt R. Selenka E. Studnicka F. K. Dexter F. Warren J. Reese A. M. Minot C. S. Francotte P. Hill C. Sorensen A. D. Béraneck",
+   "n_hits": 8,
+   "note": "mode extended; n_hits = approximate count of result links listed in the tool output; the text is an AI-written summary, used only as discovery lead"
+  },
+  {
+   "db": "websearch",
+   "query": "paraphysis amphibian anuran frog Rana \"paraphysis\" classical Studnicka Gaupp Kappers Legait histology secretion vascularized tubular glands review history of research",
+   "n_hits": 48,
+   "note": "mode standard; n_hits = approximate count of result links listed in the tool output; the text is an AI-written summary, used only as discovery lead"
+  },
+  {
+   "db": "websearch",
+   "query": "\"paraphysis\" turtle Trachemys scripta dorbigni ultrastructure Belgian Journal of Zoology 134 2004 circumventricular organ blood-brain barrier Evans blue",
+   "n_hits": 19,
+   "note": "mode standard; n_hits = approximate count of result links listed in the tool output; the text is an AI-written summary, used only as discovery lead"
+  },
+  {
+   "db": "websearch",
+   "query": "\"The morphology of the forebrain vesicle in vertebrates\" author Journal of Comparative Neurology Johnston OR Kingsbury OR Herrick lamina terminalis paraphysis roof",
+   "n_hits": 19,
+   "note": "mode standard; n_hits = approximate count of result links listed in the tool output; the text is an AI-written summary, used only as discovery lead"
+  },
+  {
+   "db": "websearch",
+   "query": "\"Morphology of the roof plate of the fore-brain and the lateral choroid plexuses in the human embryo\" 1916 author journal paraphysis velum transversum",
+   "n_hits": 10,
+   "note": "mode standard; n_hits = approximate count of result links listed in the tool output; the text is an AI-written summary, used only as discovery lead"
+  },
+  {
+   "db": "websearch",
+   "query": "\"The morphology and morphogenesis of the choroid plexuses with especial reference to the development of the lateral telencephalic plexus in Chrysemys marginata\" 1916 author journal",
+   "n_hits": 19,
+   "note": "mode standard; n_hits = approximate count of result links listed in the tool output; the text is an AI-written summary, used only as discovery lead"
+  },
+  {
+   "db": "pubmed",
+   "query": "paraphysis[Title] AND 1900:1990[dp]",
+   "n_hits": 17,
+   "note": "all 17 PMIDs already held by other agents (checked with known.py)"
+  },
+  {
+   "db": "pubmed",
+   "query": "paraphyse[Title] OR paraphysis cerebri[Title] OR paraphyseal[Title] OR paraphysial[Title]",
+   "n_hits": 36,
+   "note": "36 PMIDs; all already held by other agents"
+  },
+  {
+   "db": "pubmed",
+   "query": "The development and structure of the paraphysis cerebri in urodeles with experiments on its function in Ambystoma mexicanum",
+   "n_hits": 0,
+   "note": "Ariens-Kappers 1950 J Comp Neurol is NOT indexed in PubMed"
+  },
+  {
+   "db": "pubmed",
+   "query": "paraphysectomy OR paraphysectomized",
+   "n_hits": 3,
+   "note": "3 PMIDs (Nelson 1983, 1985; Sarras 1986) already held"
+  },
+  {
+   "db": "pubmed",
+   "query": "paraphysis AND (Oksche OR Hofer OR Vigh OR Rodriguez OR Kappers OR Kuhlenbeck OR Quay)",
+   "n_hits": 2,
+   "note": "2 PMIDs already held"
+  },
+  {
+   "db": "pubmed",
+   "query": "paraphysis[Title/Abstract] AND (amphibia OR urodela OR anura OR reptilia OR birds OR fishes)",
+   "n_hits": 28,
+   "note": "28 PMIDs; all already held"
+  },
+  {
+   "db": "pubmed",
+   "query": "paraphysis[Title/Abstract] OR paraphyseal[Title/Abstract] OR paraphysial[Title/Abstract] OR \"paraphysis cerebri\"",
+   "n_hits": 82,
+   "note": "82 PMIDs sorted by date; all already held by other agents"
+  },
+  {
+   "db": "pubmed",
+   "query": "Ultrastruktur einer Kolloidcyste des dritten Ventrikels",
+   "n_hits": 1,
+   "note": "found Landolt-Weber 1973 (PMID 4747696), new"
+  },
+  {
+   "db": "pubmed",
+   "query": "Ependymal and paraphyseal cysts",
+   "n_hits": 1,
+   "note": "only PMID 682011, already held"
+  },
+  {
+   "db": "pubmed",
+   "query": "A theory on the natural history of colloid cyst of the third ventricle",
+   "n_hits": 0,
+   "note": "not in PubMed"
+  },
+  {
+   "db": "pubmed",
+   "query": "colloid cyst third ventricle[Title] AND (Bristol OR Hewer OR 1954[dp])",
+   "n_hits": 2,
+   "note": "found Mosberg & Blackwood 1954 (13175038, new) and an unrelated 2011 case"
+  },
+  {
+   "db": "pubmed",
+   "query": "Ebbesson Schroeder paraphysis Necturus ultrastructure",
+   "n_hits": 0,
+   "note": "Ebbesson & Schroeder 1975 (Necturus paraphysis) not found in PubMed"
+  },
+  {
+   "db": "pubmed",
+   "query": "Winkelmann paraphysis turtle Trachemys dorbigni",
+   "n_hits": 0,
+   "note": "Winkelmann et al. 2004 Belg J Zool not in PubMed"
+  },
+  {
+   "db": "pubmed",
+   "query": "lookup_article_by_citation batch: Kappers 1950 JCN 92:93; Warren 1917 JCN 28:75; Roofe 1934 J Morphol 59; Mosberg 1954 JNEN 13:417; Dexter 1902 Am J Anat 2:13; Warren 1905 Am J Anat 5:1; Holmgren 1959 Breviora 109:1",
+   "n_hits": 1,
+   "note": "8 citations submitted, only Mosberg 1954 matched (PMID 13175038); Dexter 1902, Warren 1905/1917, Roofe 1934, Kappers 1950 and Holmgren 1959 (Breviora = invalid journal) are not in PubMed"
+  },
+  {
+   "db": "pubmed",
+   "query": "Short history of pineal discovery and research (title lookup of a result surfaced by WebSearch)",
+   "n_hits": 1,
+   "note": "PMID 398533 retrieved with get_article_metadata"
+  },
+  {
+   "db": "wiley",
+   "query": "getUsageLimit (no search run)",
+   "n_hits": 0,
+   "note": "plan FREE, queriesUsed 30 of 30, queriesRemaining 0, reset 2026-11-01; Wiley could therefore not be used to verify any pre-1950 reference"
+  }
+ ],
+ "failures": [
+  "Wiley Scholar Gateway free-tier quota exhausted (30/30, resets 2026-11-01): no classical reference could be confirmed in Wiley, so all pre-1946 items stay bibliographic_verified=false.",
+  "PubMed does not index the pre-1946 classical literature (Dexter 1902, Warren 1905/1911/1917, Reese 1910, Studnicka 1895/1905, Burckhardt 1894, Selenka 1891, Minot, Sorensen 1894, Hill 1894, Cameron, Dendy 1911, Melchers 1899, Sjovall 1909, Wallman 1858, Roofe 1934, Holmgren 1959 Breviora, Ariens-Kappers 1950 J Comp Neurol): lookup_article_by_citation returned NOT_FOUND for the ones tested.",
+  "WebSearch returns AI-written summaries, not page text: the 'excerpt' fields of web records are sentences quoted inside those summaries (themselves quoting OCR text of the UNSW Embryology wiki, Springer reference lists, Wiley/Zenodo/BHL listings) and must not be cited as direct quotation of the original papers.",
+  "Full reference lists of Dexter 1902, Warren 1905 and Warren 1917 could not be retrieved through WebSearch (only partial in-text citations); the UNSW Embryology transcriptions of these papers (embryology.med.unsw.edu.au, pages 'Paper - The development of the paraphysis in the common fowl (1903)' and '... in mammalia (1917)') should be opened by a human or a tool with page-fetch rights.",
+  "Original Francotte (human embryo, 12 weeks), D'Erchia (fish and mammal embryos), Herrick ('preparaphysis'), Osborn (amphibian brain plates), Ebbesson & Schroeder 1975 (Necturus paraphysis), Kappers 1955-57 compilations and Dandy 1921-22 (first successful removal of a paraphysial cyst) were mentioned only as in-text or second-hand citations; no title/volume was returned for them, so they were NOT recorded as separate records (see note on the Dexter and Warren records).",
+  "Gaupp's review on pineal, parietal organ and paraphysis (Ergebnisse der Anatomie und Entwicklungsgeschichte, c. 1904) is only a recollection offered by the search summary 'from memory'; no tool confirmed it, so it was not recorded.",
+  "Conflicting data between sources, left unresolved: Dexter paper year (1902 Wiley vs 1903 UNSW wiki); Sjovall year (1909 vs 1910); Warren 1917 page range (75-134 vs 75-135) and volume (28; one Springer list said 27); Cameron pineal paper year (1902-05); Reese year (1910 repository vs 1922 catalogue); Ariens-Kappers 1950 last page (127 vs 128). One search summary wrongly attributed the 1917 mammalian paraphysis paper to Percival Bailey; all other results (Zenodo DOI 10.1002/cne.900280103, UNSW wiki, Harvard affiliation) point to John Warren, and Bailey 1916 papers concern the roof plate / choroid plexus only.",
+  "Direct HTTP to blocked domains was not attempted; archive.org, BHL, Zenodo and UNSW pages were only reachable as WebSearch hits, not fetched."
+ ],
+ "records": [
+  {
+   "title": "The development of the paraphysis in the common fowl",
+   "authors": "Dexter F",
+   "year": 1902,
+   "journal": "American Journal of Anatomy",
+   "volume": "2(1)",
+   "pages": "13-24",
+   "doi": "10.1002/aja.1000020103",
+   "pmid": "",
+   "pmcid": "",
+   "language": "eng",
+   "source_db": "web",
+   "query": "Paper - The development of the paraphysis in the common fowl (1903) Dexter bibliography list of references Selenka Biol. Centralbl. Burckhardt Anat. Anz. Francotte D'Erchia Minot Studnicka",
+   "access": "web_snippet",
+   "bibliographic_verified": false,
+   "verified_via": "",
+   "excerpt": "D'Erchia (5) identified the paraphysis in fish, and in mammalian embryos, and believes it to be a constant structure in all vertebrates, but reports no observations on birds.",
+   "relevance": "core",
+   "dims": [
+    "ontogeny",
+    "anatomy",
+    "phylogeny",
+    "terminology_history"
+   ],
+   "note": "First dedicated embryological study of the avian paraphysis (chick); its literature review credits Selenka, Burckhardt, Minot, D'Erchia and Francotte with earlier observations. Year conflict: Wiley 'first published 29 Nov 1902', UNSW wiki transcription dated 1903.",
+   "as_cited_in": "WebSearch result list: onlinelibrary.wiley.com/doi/10.1002/aja.1000020103 (title, year, volume/pages as summarised); text quoted from the UNSW Embryology transcription (embryology.med.unsw.edu.au/embryology/index.php/Talk:Paper_-_The_development_of_the_paraphysis_in_the_common_fowl_(1903))"
+  },
+  {
+   "title": "The development of the paraphysis and the pineal region in Necturus maculatus",
+   "authors": "Warren J",
+   "year": 1905,
+   "journal": "American Journal of Anatomy",
+   "volume": "5(1)",
+   "pages": "",
+   "doi": "10.1002/aja.1000050102",
+   "pmid": "",
+   "pmcid": "",
+   "language": "eng",
+   "source_db": "web",
+   "query": "\"paraphysis\" Warren 1905 \"development of the paraphysis and the pineal region in Necturus maculatus\" bibliography literature cited",
+   "access": "web_snippet",
+   "bibliographic_verified": false,
+   "verified_via": "",
+   "excerpt": "the presence of the paraphysis in Necturus was noted by Prof. C. S. Minot",
+   "relevance": "core",
+   "dims": [
+    "ontogeny",
+    "anatomy",
+    "phylogeny"
+   ],
+   "note": "Classical urodele (Necturus) developmental description of paraphysis and pineal region; introduction cites Minot (paraphysis in Necturus), Herrick ('preparaphysis' in the adult) and Osborn (adult brain plates). Zenodo record 2165853 dated 1 Dec 1905. Page range not returned.",
+   "as_cited_in": "WebSearch summaries of zenodo.org/record/2165853, onlinelibrary.wiley.com/doi/10.1002/aja.1000050102 and archive.org americanjournalo05wist volume PDF"
+  },
+  {
+   "title": "The development of the paraphysis and pineal region in Reptilia",
+   "authors": "Warren J",
+   "year": 1911,
+   "journal": "American Journal of Anatomy",
+   "volume": "11",
+   "pages": "313-392",
+   "doi": "",
+   "pmid": "",
+   "pmcid": "",
+   "language": "eng",
+   "source_db": "web",
+   "query": "Paraphyse Wirbeltiere Gehirn Entwicklung Epiphyse Paraphyse Stirnorgan Literaturverzeichnis Studnicka 1905 Paraphysis Parietalorgane",
+   "access": "web_snippet",
+   "bibliographic_verified": false,
+   "verified_via": "",
+   "excerpt": "Warren J. The development of the paraphysis and pineal region in reptilia // Am. Jour of Anat. 1911. V. 11. P. 313–392.",
+   "relevance": "core",
+   "dims": [
+    "ontogeny",
+    "anatomy",
+    "phylogeny"
+   ],
+   "note": "Reptilian companion of Warren 1905 and 1917; established the paraphysis as a telencephalic structure anterior to the velum transversum. Seen only as a citation; the paper itself was not retrieved.",
+   "as_cited_in": "Reference list of the gecko paper Paraphysis and epiphysis primordia of the gecko Correlophus ciliatus (vestnik-pp.samgtu.ru/0475-1450/article/view/685005) as reproduced in a WebSearch summary; also UNSW Embryology bibliography entry quoted in the Warren 1917 search"
+  },
+  {
+   "title": "The development of the paraphysis and pineal region in Mammalia",
+   "authors": "Warren J",
+   "year": 1917,
+   "journal": "Journal of Comparative Neurology",
+   "volume": "28(1)",
+   "pages": "75-134",
+   "doi": "10.1002/cne.900280103",
+   "pmid": "",
+   "pmcid": "",
+   "language": "eng",
+   "source_db": "web",
+   "query": "Warren 1917 \"development of the paraphysis and pineal region in mammalia\" Journal of Comparative Neurology 28 bibliography Francotte D'Erchia Dexter Kappers",
+   "access": "web_snippet",
+   "bibliographic_verified": false,
+   "verified_via": "",
+   "excerpt": "the paraphysis therefore does exist in certain human embryos but it is a rudimentary and inconstant structure",
+   "relevance": "core",
+   "dims": [
+    "ontogeny",
+    "anatomy",
+    "phylogeny",
+    "terminology_history"
+   ],
+   "note": "Key mammalian paper: distinct paraphysis in sheep embryos 21-48 mm (not absolutely constant), rudimentary and inconstant in human embryos; arises from the telencephalic roof plate immediately in front of the velum. Parts: sheep (p 77), human (p 83), mammals in general (p 94), bibliography p 102. Page range 75-134 per UNSW wiki (one Springer citation says 75-135). One search summary wrongly named Bailey as author; Warren (Harvard Anatomical Dept) is consistent across Zenodo, UNSW and DOI.",
+   "as_cited_in": "WebSearch summaries of embryology.med.unsw.edu.au 'Paper - The development of the paraphysis and pineal region in mammalia' and zenodo.org/records/2228516"
+  },
+  {
+   "title": "On the pineal region in human embryos",
+   "authors": "Warren J",
+   "year": 1917,
+   "journal": "",
+   "volume": "",
+   "pages": "",
+   "doi": "",
+   "pmid": "",
+   "pmcid": "",
+   "language": "eng",
+   "source_db": "web",
+   "query": "Warren 1917 \"development of the paraphysis and pineal region in mammalia\" Journal of Comparative Neurology 28 bibliography Francotte D'Erchia Dexter Kappers",
+   "access": "metadata_only",
+   "bibliographic_verified": false,
+   "verified_via": "",
+   "excerpt": "",
+   "relevance": "peripheral",
+   "dims": [
+    "ontogeny",
+    "anatomy"
+   ],
+   "note": "Companion communication presented at the 33rd meeting of the American Association of Anatomists (Dec 1916); journal of publication not returned.",
+   "as_cited_in": "WebSearch summary of embryology.med.unsw.edu.au 'Paper - On the pineal region in human embryos'"
+  },
+  {
+   "title": "Development of the brain of the American alligator: the paraphysis and hypophysis, with five plates",
+   "authors": "Reese AM",
+   "year": 1910,
+   "journal": "Smithsonian Miscellaneous Collections",
+   "volume": "54(2)",
+   "pages": "1-20",
+   "doi": "",
+   "pmid": "",
+   "pmcid": "",
+   "language": "eng",
+   "source_db": "web",
+   "query": "Reese \"Development of the brain of the American alligator: the paraphysis and hypophysis\" Smithsonian Miscellaneous Collections",
+   "access": "metadata_only",
+   "bibliographic_verified": false,
+   "verified_via": "",
+   "excerpt": "",
+   "relevance": "core",
+   "dims": [
+    "ontogeny",
+    "anatomy",
+    "phylogeny"
+   ],
+   "note": "Crocodilian (Alligator mississippiensis) developmental study of the paraphysis; the Monthly Catalog entry records 5 plates and a bibliography. Year conflict: Smithsonian repository 1910, catalogue note 1922. Repository record: repository.si.edu/handle/10088/23389.",
+   "as_cited_in": "WebSearch result repository.si.edu/items/a87e8b68-850e-4fe1-b686-a4250fffe312 and mocat.library.unt.edu/catalog/183-ch1312"
+  },
+  {
+   "title": "The development and structure of the paraphysis cerebri in urodeles with experiments on its function in Amblystoma mexicanum",
+   "authors": "Ariëns-Kappers J",
+   "year": 1950,
+   "journal": "Journal of Comparative Neurology",
+   "volume": "92",
+   "pages": "93-128",
+   "doi": "10.1002/cne.900920106",
+   "pmid": "",
+   "pmcid": "",
+   "language": "eng",
+   "source_db": "web",
+   "query": "\"development and structure of the paraphysis cerebri in urodele with experiments on its function in Ambystoma mexicanum\" author Journal of Comparative Neurology 1950",
+   "access": "metadata_only",
+   "bibliographic_verified": false,
+   "verified_via": "",
+   "excerpt": "",
+   "relevance": "core",
+   "dims": [
+    "ontogeny",
+    "histology",
+    "physiology",
+    "anatomy"
+   ],
+   "note": "Principal mid-century monograph on urodele paraphysis (development, structure and function by extirpation/experiment in axolotl), preceded by the 1949 Experientia note. Wiley TOC for vol 92 issue 1 (Feb 1950) lists pages 93-127; a Springer reference list gives 93-128. Not indexed in PubMed (title search 0 hits, citation lookup NOT_FOUND).",
+   "as_cited_in": "Reference list of a Springer paper on the paraphysis (link.springer.com/article/10.1007/BF00323310, Kelly 1964) as quoted by WebSearch; Wiley issue TOC listing (proxy copy of onlinelibrary.wiley.com toc/10969861/1950/92/1)"
+  },
+  {
+   "title": "Zur Anatomie der sog. Paraphyse des Wirbelthiergehirns",
+   "authors": "Studnicka FK",
+   "year": 1895,
+   "journal": "Sitzungsberichte der Königlichen Böhmischen Gesellschaft der Wissenschaften in Prag",
+   "volume": "",
+   "pages": "",
+   "doi": "",
+   "pmid": "",
+   "pmcid": "",
+   "language": "ger",
+   "source_db": "web",
+   "query": "Paraphyse Wirbeltiere Gehirn Entwicklung Epiphyse Paraphyse Stirnorgan Literaturverzeichnis Studnicka 1905 Paraphysis Parietalorgane",
+   "access": "metadata_only",
+   "bibliographic_verified": false,
+   "verified_via": "",
+   "excerpt": "",
+   "relevance": "core",
+   "dims": [
+    "anatomy",
+    "phylogeny",
+    "terminology_history"
+   ],
+   "note": "Earliest paraphysis-specific anatomical paper located; the title already says 'so-called' paraphysis, showing that homology and nomenclature were disputed by 1895. Volume/pages not returned.",
+   "as_cited_in": "Library catalogue record 'Zur Anatomie der sog. Paraphyse des Wirbelthiergehirns' (Prag: Verlag der königl. böhmischen Gesellschaft der Wissenschaften, 1895) at search.books2ebooks.eu/vufind/Record/knav_002009831, via WebSearch"
+  },
+  {
+   "title": "Die Parietalorgane",
+   "authors": "Studnicka FK",
+   "year": 1905,
+   "journal": "Lehrbuch der vergleichenden mikroskopischen Anatomie der Wirbeltiere (Oppel A, ed.), Teil 5, Jena",
+   "volume": "5",
+   "pages": "167-209",
+   "doi": "",
+   "pmid": "",
+   "pmcid": "",
+   "language": "ger",
+   "source_db": "web",
+   "query": "Paraphyse Wirbeltiere Gehirn Entwicklung Epiphyse Paraphyse Stirnorgan Literaturverzeichnis Studnicka 1905 Paraphysis Parietalorgane",
+   "access": "web_snippet",
+   "bibliographic_verified": false,
+   "verified_via": "",
+   "excerpt": "Studnička, in 1905, argued that the structure should be called paraphysis instead.",
+   "relevance": "relevant",
+   "dims": [
+    "terminology_history",
+    "phylogeny",
+    "anatomy"
+   ],
+   "note": "Handbook chapter whose nomenclature became standard for the pineal complex; in the lungfish debate Studnicka (1905) argued that Burckhardt's 'coronarium' is a true paraphysis. Editor and imprint as given in secondary citations.",
+   "as_cited_in": "Reference lists quoted in WebSearch summaries (gecko paper vestnik-pp.samgtu.ru/0475-1450/article/view/685005; Protopterus study archive.org/download/biostor-283290/biostor-283290.pdf)"
+  },
+  {
+   "title": "Beiträge zur Anatomie und Entwicklungsgeschichte des Vorderhirns der Cranioten",
+   "authors": "Studenicka FCh [as printed; = Studnicka]",
+   "year": 0,
+   "journal": "",
+   "volume": "",
+   "pages": "",
+   "doi": "",
+   "pmid": "",
+   "pmcid": "",
+   "language": "ger",
+   "source_db": "web",
+   "query": "Warren 1917 \"development of the paraphysis and pineal region in mammalia\" Journal of Comparative Neurology 28 bibliography Francotte D'Erchia Dexter Kappers",
+   "access": "metadata_only",
+   "bibliographic_verified": false,
+   "verified_via": "",
+   "excerpt": "",
+   "relevance": "peripheral",
+   "dims": [
+    "anatomy",
+    "ontogeny",
+    "terminology_history"
+   ],
+   "note": "Listed in Warren's 1905 Necturus bibliography (OCR spelling 'Studenicka, F. Ch.'); year and journal not returned.",
+   "as_cited_in": "Bibliography of Warren 1905 (Necturus) quoted in a WebSearch summary"
+  },
+  {
+   "title": "Das Stirnorgan der Wirbeltiere",
+   "authors": "Selenka E",
+   "year": 1891,
+   "journal": "Biologisches Centralblatt",
+   "volume": "10",
+   "pages": "323-326",
+   "doi": "",
+   "pmid": "",
+   "pmcid": "",
+   "language": "ger",
+   "source_db": "web",
+   "query": "paraphysis cerebri history discovery who first described paraphysis Selenka Stieda Burckhardt Paraphyse Gehirn",
+   "access": "web_snippet",
+   "bibliographic_verified": false,
+   "verified_via": "",
+   "excerpt": "Selenka (12) was the first to identify the paraphysis in chicks.",
+   "relevance": "relevant",
+   "dims": [
+    "terminology_history",
+    "ontogeny",
+    "phylogeny"
+   ],
+   "note": "Cited as a key early reference (Biol. Zbl. 10, 323-326, 1891); Dexter 1902 credits Selenka with the first identification of the paraphysis in the chick, but it is not confirmed that Dexter's reference (12) is this paper. 'Stirnorgan' (frontal organ) was Leydig's name for the parietal eye, so the early terminology mixed pineal-complex and paraphyseal structures.",
+   "as_cited_in": "WebSearch summary (first query) quoting later literature; Dexter 1902 text on the UNSW Embryology Talk page"
+  },
+  {
+   "title": "Die Homologien des Zwischenhirndaches und ihre Bedeutung für die Morphologie des Hirns bei niederen Vertebraten",
+   "authors": "Burckhardt R",
+   "year": 1894,
+   "journal": "Anatomischer Anzeiger",
+   "volume": "9",
+   "pages": "152",
+   "doi": "",
+   "pmid": "",
+   "pmcid": "",
+   "language": "ger",
+   "source_db": "web",
+   "query": "Burckhardt \"Zur Frage der Homologie der Paraphyse\" OR \"Die Homologien des Zwischenhirndaches\" Anatomischer Anzeiger 1891 1892 1894 paraphysis Reptilien Vögel",
+   "access": "metadata_only",
+   "bibliographic_verified": false,
+   "verified_via": "",
+   "excerpt": "",
+   "relevance": "relevant",
+   "dims": [
+    "anatomy",
+    "phylogeny",
+    "terminology_history"
+   ],
+   "note": "Burckhardt's account of the diencephalic roof homologies (epiphysis, paraphysis, dorsal sac) in lower vertebrates; only the starting page is known from citations.",
+   "as_cited_in": "Reference list of the Proc R Soc Edinburgh paper 'On the origin of the pineal body as an amesial structure...' as quoted in a WebSearch summary"
+  },
+  {
+   "title": "Die Homologien des Zwischenhirndaches bei Reptilien und Vögeln",
+   "authors": "Burckhardt R",
+   "year": 1894,
+   "journal": "Anatomischer Anzeiger",
+   "volume": "9",
+   "pages": "320",
+   "doi": "",
+   "pmid": "",
+   "pmcid": "",
+   "language": "ger",
+   "source_db": "web",
+   "query": "Burckhardt \"Zur Frage der Homologie der Paraphyse\" OR \"Die Homologien des Zwischenhirndaches\" Anatomischer Anzeiger 1891 1892 1894 paraphysis Reptilien Vögel",
+   "access": "web_snippet",
+   "bibliographic_verified": false,
+   "verified_via": "",
+   "excerpt": "Burckhardt (3) shows the paraphysis in an embryo of the crow as a small diverticulum not unlike that of Petromyzon.",
+   "relevance": "relevant",
+   "dims": [
+    "ontogeny",
+    "anatomy",
+    "phylogeny"
+   ],
+   "note": "Reptile and bird companion of the previous item. The quoted sentence comes from a later AJA paper citing 'Burckhardt (3)'; it is not confirmed that reference (3) is this exact paper.",
+   "as_cited_in": "Reference list quoted in a WebSearch summary (Proc R Soc Edinburgh pineal paper); in-text quotation from the UNSW Embryology transcription of a later paraphysis paper"
+  },
+  {
+   "title": "On the morphology of the pineal region, based upon its development in Acanthias",
+   "authors": "Minot CS",
+   "year": 0,
+   "journal": "American Journal of Anatomy",
+   "volume": "1",
+   "pages": "81",
+   "doi": "",
+   "pmid": "",
+   "pmcid": "",
+   "language": "eng",
+   "source_db": "web",
+   "query": "\"paraphysis\" Warren 1905 \"development of the paraphysis and the pineal region in Necturus maculatus\" bibliography literature cited",
+   "access": "metadata_only",
+   "bibliographic_verified": false,
+   "verified_via": "",
+   "excerpt": "",
+   "relevance": "relevant",
+   "dims": [
+    "ontogeny",
+    "anatomy",
+    "phylogeny"
+   ],
+   "note": "Selachian (Acanthias) study cited by Warren 1905 and Dexter 1902 for early records of the paraphysis (Necturus, 7-day chick). Only 'volume i, page 81' was returned (year not stated; volume 1 of AJA).",
+   "as_cited_in": "Reference list of the Proc R Soc Edinburgh pineal paper as quoted in a WebSearch summary; Warren 1905 introduction"
+  },
+  {
+   "title": "Comparative study of the epiphysis and roof of the diencephalon",
+   "authors": "Sorensen",
+   "year": 1894,
+   "journal": "Journal of Comparative Neurology",
+   "volume": "4",
+   "pages": "12-72",
+   "doi": "",
+   "pmid": "",
+   "pmcid": "",
+   "language": "eng",
+   "source_db": "web",
+   "query": "Sorensen 1894 \"Comparative study of the epiphysis and roof of the diencephalon\" Journal of Comparative Neurology supplement alligator paraphysis",
+   "access": "metadata_only",
+   "bibliographic_verified": false,
+   "verified_via": "",
+   "excerpt": "",
+   "relevance": "relevant",
+   "dims": [
+    "anatomy",
+    "phylogeny"
+   ],
+   "note": "Wiley TOC (April 1894, pp 12-72; author not shown there). Gladstone & Wakeley 1940 cite Sorensen (1894) for the dorsal sac and paraphysis of the alligator. Author initials not returned.",
+   "as_cited_in": "WebSearch result: Wiley TOC for J Comp Neurol 4 (1894) issue 1 (proxy copy); Gladstone & Wakeley 1940 reptile chapter on the UNSW Embryology wiki"
+  },
+  {
+   "title": "The epiphysis of teleosts and Amia",
+   "authors": "Hill CL",
+   "year": 1894,
+   "journal": "Journal of Morphology",
+   "volume": "9",
+   "pages": "237",
+   "doi": "",
+   "pmid": "",
+   "pmcid": "",
+   "language": "eng",
+   "source_db": "web",
+   "query": "Hill C. L. \"The epiphysis of teleosts and Amia\" Journal of Morphology 1894 paraphysis",
+   "access": "metadata_only",
+   "bibliographic_verified": false,
+   "verified_via": "",
+   "excerpt": "",
+   "relevance": "peripheral",
+   "dims": [
+    "anatomy",
+    "phylogeny"
+   ],
+   "note": "Early pineal-complex study of teleosts and the bowfin; cited in Warren 1905's bibliography. Content on the paraphysis not seen.",
+   "as_cited_in": "Reference list quoted in a WebSearch summary (volume 9, p 237)"
+  },
+  {
+   "title": "On the origin of the pineal body as an amesial structure, deduced from the study of its development in Amphibia",
+   "authors": "Cameron J",
+   "year": 0,
+   "journal": "Proceedings of the Royal Society of Edinburgh",
+   "volume": "24",
+   "pages": "",
+   "doi": "",
+   "pmid": "",
+   "pmcid": "",
+   "language": "eng",
+   "source_db": "web",
+   "query": "Cameron \"On the origin of the pineal body as an amesial structure, deduced from the study of its development in Amphibia\" Proceedings Royal Society of Edinburgh author year",
+   "access": "metadata_only",
+   "bibliographic_verified": false,
+   "verified_via": "",
+   "excerpt": "",
+   "relevance": "peripheral",
+   "dims": [
+    "ontogeny",
+    "terminology_history"
+   ],
+   "note": "Amphibian pineal development paper whose reference list (Burckhardt, Dexter, De Graaf, Minot...) is a useful source of classical citations. Year conflict among sources (1902-03, 1903, 1904, 1905); journal volume 24; also issued in Anat. Anz. 23 (1903), pp 394-395.",
+   "as_cited_in": "WebSearch summaries of Cambridge Core record and of the Gladstone & Wakeley 1940 bibliography (UNSW wiki)"
+  },
+  {
+   "title": "On the structure, development and morphological interpretation of the pineal organs and adjacent parts of the brain in the tuatara (Sphenodon punctatus)",
+   "authors": "Dendy A",
+   "year": 1911,
+   "journal": "Philosophical Transactions of the Royal Society of London B",
+   "volume": "201",
+   "pages": "227-331",
+   "doi": "",
+   "pmid": "",
+   "pmcid": "",
+   "language": "eng",
+   "source_db": "web",
+   "query": "Dendy 1911 pineal organs tuatara Sphenodon paraphysis Philosophical Transactions \"paraphysis\" reptiles lizards Gaupp Studnicka Francotte history",
+   "access": "metadata_only",
+   "bibliographic_verified": false,
+   "verified_via": "",
+   "excerpt": "",
+   "relevance": "peripheral",
+   "dims": [
+    "anatomy",
+    "ontogeny",
+    "phylogeny"
+   ],
+   "note": "Standard monograph on the tuatara pineal organs and adjacent brain; paraphysis content not seen. A Zenodo record dates it 22 Sept 1910 and a short version appeared in Anat. Anz. 37 (1910), 453-462.",
+   "as_cited_in": "WebSearch summaries of secondary citations (Zenodo record 1447470; 1927 Sphenodon paper)"
+  },
+  {
+   "title": "Über rudimentäre Hirnanhangsgebilde beim Gecko (Epi-, Para- und Hypophyse)",
+   "authors": "Melchers F",
+   "year": 1899,
+   "journal": "Zeitschrift für wissenschaftliche Zoologie",
+   "volume": "67",
+   "pages": "139-166",
+   "doi": "",
+   "pmid": "",
+   "pmcid": "",
+   "language": "ger",
+   "source_db": "web",
+   "query": "Paraphyse Wirbeltiere Gehirn Entwicklung Epiphyse Paraphyse Stirnorgan Literaturverzeichnis Studnicka 1905 Paraphysis Parietalorgane",
+   "access": "metadata_only",
+   "bibliographic_verified": false,
+   "verified_via": "",
+   "excerpt": "",
+   "relevance": "relevant",
+   "dims": [
+    "ontogeny",
+    "anatomy",
+    "phylogeny"
+   ],
+   "note": "Early gecko study of epiphysis, paraphysis and hypophysis rudiments; cited as classical reference in the 2025 gecko paraphysis paper.",
+   "as_cited_in": "Reference list of the gecko paper (vestnik-pp.samgtu.ru/0475-1450/article/view/685005) quoted in WebSearch summaries"
+  },
+  {
+   "title": "Die Entwicklung der Anhänge am Zwischenhirndach beim Gecko",
+   "authors": "Stemmler",
+   "year": 1900,
+   "journal": "Leipzig dissertation",
+   "volume": "",
+   "pages": "",
+   "doi": "",
+   "pmid": "",
+   "pmcid": "",
+   "language": "ger",
+   "source_db": "web",
+   "query": "D'Erchia \"paraphysis\" OR \"paraphisi\" 1896 Anatomischer Anzeiger Contributo allo studio dell'epifisi e paraphisi vertebrati",
+   "access": "metadata_only",
+   "bibliographic_verified": false,
+   "verified_via": "",
+   "excerpt": "",
+   "relevance": "relevant",
+   "dims": [
+    "ontogeny",
+    "anatomy"
+   ],
+   "note": "Dissertation on the appendages of the diencephalic roof (epiphysis, paraphysis) in the gecko.",
+   "as_cited_in": "Gecko paper reference list quoted in a WebSearch summary"
+  },
+  {
+   "title": "Zur Kenntnis der Zirbel und Parietalorgane. Fortgesetzte Studien",
+   "authors": "Leydig F",
+   "year": 1895,
+   "journal": "Abhandlungen der Senckenbergischen Naturforschenden Gesellschaft",
+   "volume": "19",
+   "pages": "217-280",
+   "doi": "",
+   "pmid": "",
+   "pmcid": "",
+   "language": "ger",
+   "source_db": "web",
+   "query": "Paraphyse Wirbeltiere Gehirn Entwicklung Epiphyse Paraphyse Stirnorgan Literaturverzeichnis Studnicka 1905 Paraphysis Parietalorgane",
+   "access": "metadata_only",
+   "bibliographic_verified": false,
+   "verified_via": "",
+   "excerpt": "",
+   "relevance": "peripheral",
+   "dims": [
+    "terminology_history",
+    "anatomy"
+   ],
+   "note": "Leydig's follow-up on pineal and parietal organs (volume dated 1895-1896); Leydig coined 'Stirnorgan' for the parietal eye, a term that early on overlapped with paraphyseal structures.",
+   "as_cited_in": "WebSearch summary (listing of Zobodat entry; Leydig 1895-1896)"
+  },
+  {
+   "title": "Zur Anatomie und Entwickelung der Epiphyse bei Amphibien und Reptilien",
+   "authors": "De Graff HW [as printed]",
+   "year": 1886,
+   "journal": "Zoologischer Anzeiger [garbled in source]",
+   "volume": "9",
+   "pages": "191",
+   "doi": "",
+   "pmid": "",
+   "pmcid": "",
+   "language": "ger",
+   "source_db": "web",
+   "query": "Cameron \"On the origin of the pineal body as an amesial structure, deduced from the study of its development in Amphibia\" Proceedings Royal Society of Edinburgh author year",
+   "access": "metadata_only",
+   "bibliographic_verified": false,
+   "verified_via": "",
+   "excerpt": "",
+   "relevance": "peripheral",
+   "dims": [
+    "anatomy",
+    "ontogeny",
+    "terminology_history"
+   ],
+   "note": "Early amphibian/reptile epiphysis paper; the journal abbreviation 'Zoolog. Am.' is garbled in the source and the author spelling is as printed.",
+   "as_cited_in": "Reference list of the Proc R Soc Edinburgh pineal paper quoted in a WebSearch summary"
+  },
+  {
+   "title": "Récherches sur le dévéloppement de L'épiphyse",
+   "authors": "Francotte P",
+   "year": 0,
+   "journal": "Archives de Biologie",
+   "volume": "8",
+   "pages": "",
+   "doi": "",
+   "pmid": "",
+   "pmcid": "",
+   "language": "fre",
+   "source_db": "web",
+   "query": "Francotte paraphyse épiphyse plexus choroïdes troisième ventricule embryon humain Bulletin Académie royale Belgique 1894 \"paraphyse\"",
+   "access": "metadata_only",
+   "bibliographic_verified": false,
+   "verified_via": "",
+   "excerpt": "",
+   "relevance": "peripheral",
+   "dims": [
+    "ontogeny",
+    "terminology_history"
+   ],
+   "note": "Listed in Warren's 1905 Necturus bibliography (title spelling as printed). Francotte is credited in Dexter 1902 with identifying the paraphysis in a 12-week human embryo and holding that it exists in all vertebrate embryos; the specific paper that carries that observation was not identified.",
+   "as_cited_in": "Warren 1905 bibliography quoted in a WebSearch summary; Dexter 1902 text on the UNSW wiki; biography at fomu.atomis.be/index.php/francotte-p"
+  },
+  {
+   "title": "The pineal organ: the comparative anatomy of median and lateral eyes, with special reference to the origin of the pineal body; and a description of the human pineal organ considered from the clinical and surgical standpoints",
+   "authors": "Gladstone RJ, Wakeley CPG",
+   "year": 1940,
+   "journal": "London: Baillière, Tindall & Cox (book)",
+   "volume": "",
+   "pages": "",
+   "doi": "",
+   "pmid": "",
+   "pmcid": "",
+   "language": "eng",
+   "source_db": "web",
+   "query": "Book The Pineal Organ 1940 Gladstone Wakeley bibliography paraphysis Burckhardt Selenka Hill Sorensen Dendy Francotte Studnicka Minot",
+   "access": "web_snippet",
+   "bibliographic_verified": false,
+   "verified_via": "",
+   "excerpt": "A paraphysis is usually well developed in the Urodela, and may appear as a simple tubular diverticulum or it may be branched and glandular in appearance.",
+   "relevance": "relevant",
+   "dims": [
+    "phylogeny",
+    "anatomy",
+    "ontogeny",
+    "terminology_history"
+   ],
+   "note": "528-page comparative monograph (33 chapters) with passages on paraphysis and dorsal sac in urodeles, reptiles (alligator, citing Sorensen 1894), crocodilians (paraphysis and dorsal sac persist in the adult, parietal organ and epiphysis absent) and mammals (Warren: inconstant and rudimentary in man). Full text and bibliography are transcribed on the UNSW Embryology wiki.",
+   "as_cited_in": "WebSearch summaries of embryology.med.unsw.edu.au 'Book - The Pineal Organ (1940)' chapters 19-20 and Bibliography"
+  },
+  {
+   "title": "The morphology and evolutional significance of the pineal body",
+   "authors": "Tilney F, Warren LF",
+   "year": 1919,
+   "journal": "",
+   "volume": "",
+   "pages": "",
+   "doi": "",
+   "pmid": "",
+   "pmcid": "",
+   "language": "eng",
+   "source_db": "web",
+   "query": "Ariëns Kappers \"paraphysis\" Gehirn comparative anatomy nervous system vertebrates \"paraphysis\" Francotte Sorensen Gaupp Hill Warren history",
+   "access": "metadata_only",
+   "bibliographic_verified": false,
+   "verified_via": "",
+   "excerpt": "",
+   "relevance": "peripheral",
+   "dims": [
+    "phylogeny",
+    "terminology_history"
+   ],
+   "note": "1919 monograph on the pineal body (Luther Fiske Warren, not John Warren, the paraphysis author); transcribed on the UNSW Embryology wiki.",
+   "as_cited_in": "WebSearch summary listing 'Book - The morphology and evolutional significance of the pineal body (1919)'"
+  },
+  {
+   "title": "The comparative anatomy of the nervous system of vertebrates, including man (2 vols)",
+   "authors": "Kappers CUA, Huber GC, Crosby EC",
+   "year": 1936,
+   "journal": "New York: Macmillan (book)",
+   "volume": "",
+   "pages": "",
+   "doi": "",
+   "pmid": "",
+   "pmcid": "",
+   "language": "eng",
+   "source_db": "web",
+   "query": "Kappers Huber Crosby 1936 \"The Comparative Anatomy of the Nervous System of Vertebrates, Including Man\" paraphysis chapter diencephalon roof epiphysis paraphysis",
+   "access": "metadata_only",
+   "bibliographic_verified": false,
+   "verified_via": "",
+   "excerpt": "",
+   "relevance": "peripheral",
+   "dims": [
+    "phylogeny",
+    "anatomy",
+    "terminology_history"
+   ],
+   "note": "Standard comparative reference (xvii+864 and xi+865-1845 pp; bibliography at the end of each chapter), a thorough rewrite of Kappers' 1920-21 German work. Paraphysis chapter location not identified.",
+   "as_cited_in": "WebSearch summaries of antiquarian and Wellcome catalogue records"
+  },
+  {
+   "title": "Structure and function of the epiphysis cerebri (Kappers JA, Schadé JP, eds.)",
+   "authors": "Ariëns Kappers J, Schadé JP",
+   "year": 1965,
+   "journal": "Amsterdam: Elsevier (Progress in Brain Research)",
+   "volume": "",
+   "pages": "",
+   "doi": "",
+   "pmid": "",
+   "pmcid": "",
+   "language": "eng",
+   "source_db": "web",
+   "query": "Kappers Huber Crosby 1936 \"The Comparative Anatomy of the Nervous System of Vertebrates, Including Man\" paraphysis chapter diencephalon roof epiphysis paraphysis",
+   "access": "metadata_only",
+   "bibliographic_verified": false,
+   "verified_via": "",
+   "excerpt": "",
+   "relevance": "peripheral",
+   "dims": [
+    "physiology",
+    "terminology_history"
+   ],
+   "note": "Conference volume (1963) on the pineal; adjacent literature for the epiphysis-paraphysis complex.",
+   "as_cited_in": "WebSearch summary of catalogue records"
+  },
+  {
+   "title": "On the pineal area and adjacent structures of the brain of the dipnoan fish, Protopterus annectens (Owen)",
+   "authors": "Holmgren U",
+   "year": 1959,
+   "journal": "Breviora",
+   "volume": "109",
+   "pages": "1-7",
+   "doi": "",
+   "pmid": "",
+   "pmcid": "",
+   "language": "eng",
+   "source_db": "web",
+   "query": "Holmgren 1959 \"On the pineal area and adjacent structures of the brain of the dipnoan fish, Protopterus annectens (Owen)\" Breviora",
+   "access": "web_snippet",
+   "bibliographic_verified": false,
+   "verified_via": "",
+   "excerpt": "Burckhardt's 1890 and 1892 publications offered a short account of the brain's dorsal region. They noted a pineal organ and a prominent inner structure that Burckhardt called the \"coronarium.\"",
+   "relevance": "relevant",
+   "dims": [
+    "terminology_history",
+    "anatomy",
+    "phylogeny"
+   ],
+   "note": "Key source for the old lungfish term 'coronarium' (Burckhardt 1890, 1892). A Protopterus study at the same archive.org file (biostor-283290) judges the structure in front of the velum transversum a true paraphysis cerebri, following Studnicka 1905 and Kappers 1956-57, and states that the paraphysis belongs morphologically to the telencephalon. Five specimens, Bouin or formol-alcohol, celloidin and paraffin sections. Breviora no. 109, May 1959 (Museum of Comparative Zoology).",
+   "as_cited_in": "WebSearch summaries of biodiversitylibrary.org/part/374168, biostor.org/reference/283290 and archive.org/download/biostor-283290/biostor-283290.pdf"
+  },
+  {
+   "title": "Contribution to the morphology of the brain of Ceratodus",
+   "authors": "Holmgren N, van der Horst",
+   "year": 1925,
+   "journal": "Acta Zoologica",
+   "volume": "",
+   "pages": "",
+   "doi": "10.1111/j.1463-6395.1925.tb00262.x",
+   "pmid": "",
+   "pmcid": "",
+   "language": "eng",
+   "source_db": "web",
+   "query": "\"paraphysis\" \"coronarium\" lungfish Protopterus Neoceratodus telencephalon roof Rudebeck Holmgren history terminology",
+   "access": "metadata_only",
+   "bibliographic_verified": false,
+   "verified_via": "",
+   "excerpt": "",
+   "relevance": "peripheral",
+   "dims": [
+    "anatomy",
+    "phylogeny"
+   ],
+   "note": "Lungfish (Neoceratodus) brain morphology; DOI as returned in the search summary; paraphysis content not seen.",
+   "as_cited_in": "WebSearch summary (lungfish query)"
+  },
+  {
+   "title": "Contributions to forebrain morphology in Dipnoi",
+   "authors": "Rudebeck B",
+   "year": 1945,
+   "journal": "Acta Zoologica",
+   "volume": "",
+   "pages": "",
+   "doi": "10.1111/j.1463-6395.1945.tb00017.x",
+   "pmid": "",
+   "pmcid": "",
+   "language": "eng",
+   "source_db": "web",
+   "query": "\"paraphysis\" \"coronarium\" lungfish Protopterus Neoceratodus telencephalon roof Rudebeck Holmgren history terminology",
+   "access": "metadata_only",
+   "bibliographic_verified": false,
+   "verified_via": "",
+   "excerpt": "",
+   "relevance": "peripheral",
+   "dims": [
+    "anatomy",
+    "phylogeny",
+    "ontogeny"
+   ],
+   "note": "Described as the most detailed account of telencephalon development in Protopterus; DOI as returned in the search summary; paraphysis content not seen.",
+   "as_cited_in": "WebSearch summary (lungfish query)"
+  },
+  {
+   "title": "The morphology of the forebrain vesicle in vertebrates",
+   "authors": "Johnston JB",
+   "year": 1909,
+   "journal": "Journal of Comparative Neurology and Psychology",
+   "volume": "19",
+   "pages": "457-539",
+   "doi": "",
+   "pmid": "",
+   "pmcid": "",
+   "language": "eng",
+   "source_db": "web",
+   "query": "\"The morphology of the forebrain vesicle in vertebrates\" author Journal of Comparative Neurology Johnston OR Kingsbury OR Herrick lamina terminalis paraphysis roof",
+   "access": "web_snippet",
+   "bibliographic_verified": false,
+   "verified_via": "",
+   "excerpt": "a membranous roof, tela chorioidea, and one or two epiphyses",
+   "relevance": "peripheral",
+   "dims": [
+    "anatomy",
+    "ontogeny",
+    "terminology_history"
+   ],
+   "note": "Classical framework for roof plate, lamina terminalis / lamina supraneuroporica and tela chorioidea terminology within which the paraphysis arch is described.",
+   "as_cited_in": "WebSearch summary of embryology.med.unsw.edu.au 'Paper - The morphology of the forebrain vesicle in vertebrates'"
+  },
+  {
+   "title": "Morphology of the roof plate of the fore-brain and the lateral choroid plexuses in the human embryo",
+   "authors": "Bailey P",
+   "year": 1916,
+   "journal": "Journal of Comparative Neurology",
+   "volume": "26",
+   "pages": "79-120",
+   "doi": "",
+   "pmid": "",
+   "pmcid": "",
+   "language": "eng",
+   "source_db": "web",
+   "query": "\"Morphology of the roof plate of the fore-brain and the lateral choroid plexuses in the human embryo\" 1916 author journal paraphysis velum transversum",
+   "access": "web_snippet",
+   "bibliographic_verified": false,
+   "verified_via": "",
+   "excerpt": "This first historic 1916 paper by Bailey is an early description of the roof plate of the fore-brain and the lateral choroid plexuses in the human embryo.",
+   "relevance": "peripheral",
+   "dims": [
+    "ontogeny",
+    "anatomy"
+   ],
+   "note": "Human telencephalic roof plate / choroid plexus morphogenesis (Chicago); frames the origin of the telencephalon impar roof from which the paraphysis arises. HathiTrust notes a separate 1921 abstract.",
+   "as_cited_in": "WebSearch summary of the UNSW Embryology transcription and HathiTrust record 008457527"
+  },
+  {
+   "title": "The morphology and morphogenesis of the choroid plexuses with especial reference to the development of the lateral telencephalic plexus in Chrysemys marginata",
+   "authors": "Bailey P",
+   "year": 1916,
+   "journal": "Journal of Comparative Neurology",
+   "volume": "26(5)",
+   "pages": "505",
+   "doi": "",
+   "pmid": "",
+   "pmcid": "",
+   "language": "eng",
+   "source_db": "web",
+   "query": "\"The morphology and morphogenesis of the choroid plexuses with especial reference to the development of the lateral telencephalic plexus in Chrysemys marginata\" 1916 author journal",
+   "access": "metadata_only",
+   "bibliographic_verified": false,
+   "verified_via": "",
+   "excerpt": "",
+   "relevance": "peripheral",
+   "dims": [
+    "ontogeny",
+    "anatomy",
+    "histology"
+   ],
+   "note": "Painted-turtle telencephalic choroid plexus morphogenesis; the wiki page range is truncated ('505-').",
+   "as_cited_in": "WebSearch summary of the UNSW Embryology page"
+  },
+  {
+   "title": "Microscopic studies of the paraphysis of the turtle Trachemys (scripta) dorbigni",
+   "authors": "Winkelmann et al.",
+   "year": 2004,
+   "journal": "Belgian Journal of Zoology",
+   "volume": "134(1)",
+   "pages": "25-30",
+   "doi": "",
+   "pmid": "",
+   "pmcid": "",
+   "language": "eng",
+   "source_db": "web",
+   "query": "\"paraphysis\" turtle Trachemys scripta dorbigni ultrastructure Belgian Journal of Zoology 134 2004 circumventricular organ blood-brain barrier Evans blue",
+   "access": "web_snippet",
+   "bibliographic_verified": false,
+   "verified_via": "",
+   "excerpt": "Intra-arterial administration of Evans blue showed the absence of the blood-brain barrier. This is probably related to the presence of a fenestrated endothelium",
+   "relevance": "core",
+   "dims": [
+    "histology",
+    "physiology",
+    "phylogeny"
+   ],
+   "note": "Light, SEM and TEM study of 24 adult turtles: vascular neuroepithelium with simple cuboidal lining, microvilli/cilia, dense bodies, mitochondria, lipid droplets, sinusoids, mast cells; no blood-brain barrier, so the paraphysis is treated as a circumventricular organ with absorptive/secretory functions. The BJZ site shows a metadata error (other authors) for the same PDF. Not in PubMed. Only the first author's surname was returned.",
+   "as_cited_in": "WebSearch summaries of biblio.naturalsciences.be bjz 134-1 pp 25-30 and lume.ufrgs.br/handle/10183/272081"
+  },
+  {
+   "title": "A estrutura e a ultra-estrutura da paráfise da tartaruga Trachemys scripta dorbigni",
+   "authors": "",
+   "year": 1999,
+   "journal": "Dissertation, Universidade Federal do Rio Grande do Sul (UFRGS)",
+   "volume": "",
+   "pages": "",
+   "doi": "",
+   "pmid": "",
+   "pmcid": "",
+   "language": "por",
+   "source_db": "web",
+   "query": "\"paraphysis\" turtle Trachemys scripta dorbigni ultrastructure Belgian Journal of Zoology 134 2004 circumventricular organ blood-brain barrier Evans blue",
+   "access": "metadata_only",
+   "bibliographic_verified": false,
+   "verified_via": "",
+   "excerpt": "",
+   "relevance": "core",
+   "dims": [
+    "histology",
+    "physiology",
+    "phylogeny"
+   ],
+   "note": "Master's dissertation (year as given in the search summary, unverified) on the same turtle paraphysis; two animals injected with Evans blue; concludes it is a circumventricular organ lacking a blood-brain barrier and possibly contributing to CSF formation.",
+   "as_cited_in": "WebSearch result lume.ufrgs.br/handle/10183/272081 and summary"
+  },
+  {
+   "title": "Paraphysis and epiphysis primordia of the gecko Correlophus ciliatus at different stages of embryonic development",
+   "authors": "Vingert D, Gonobobleva E",
+   "year": 2025,
+   "journal": "Ontogenez (Russian Journal of Developmental Biology)",
+   "volume": "56(1)",
+   "pages": "36-41",
+   "doi": "",
+   "pmid": "",
+   "pmcid": "",
+   "language": "eng",
+   "source_db": "web",
+   "query": "Paraphysis and epiphysis primordia of the gecko Correlophus ciliatus references list Melchers Stemmler Warren Dendy Studnicka Quay Vingert Gonobobleva",
+   "access": "web_snippet",
+   "bibliographic_verified": false,
+   "verified_via": "",
+   "excerpt": "evaginations of the roof of diencephalon, localized on its anterior and posterior borders",
+   "relevance": "core",
+   "dims": [
+    "ontogeny",
+    "anatomy",
+    "terminology_history"
+   ],
+   "note": "Recent embryological description of paraphysis and epiphysis primordia in a diplodactylid gecko; the abstract places the paraphysis on the anterior border of the diencephalic roof, which contrasts with the classical telencephalic assignment (Warren 1905-1917) and must be discussed in the review. Compared with turtles (no parapineal). Reference list (Melchers, Stemmler, Warren, Studnicka, Quay) not retrievable.",
+   "as_cited_in": "WebSearch result mirrors vestnik-pp.samgtu.ru/0475-1450/article/view/685005 and ogarev-online.ru/0475-1450/article/view/286324"
+  },
+  {
+   "title": "Epiphyse und Paraphyse im Lebenscyclus der Anuren",
+   "authors": "",
+   "year": 0,
+   "journal": "",
+   "volume": "",
+   "pages": "",
+   "doi": "10.1007/BF00572193",
+   "pmid": "",
+   "pmcid": "",
+   "language": "ger",
+   "source_db": "web",
+   "query": "paraphysis cerebri history discovery who first described paraphysis Selenka Stieda Burckhardt Paraphyse Gehirn",
+   "access": "metadata_only",
+   "bibliographic_verified": false,
+   "verified_via": "",
+   "excerpt": "",
+   "relevance": "core",
+   "dims": [
+    "ontogeny",
+    "histology",
+    "physiology"
+   ],
+   "note": "Title returned in a WebSearch result list (link.springer.com/article/10.1007/BF00572193); authors, year and journal could not be found in a follow-up search. DOI taken from the URL. Not found in PubMed by title.",
+   "as_cited_in": "WebSearch result list (first query), Springer link"
+  },
+  {
+   "title": "Die epithelialen Gebilde am Gehirn der Wirbeltiere. I",
+   "authors": "",
+   "year": 1922,
+   "journal": "",
+   "volume": "",
+   "pages": "",
+   "doi": "10.1007/BF02593712",
+   "pmid": "",
+   "pmcid": "",
+   "language": "ger",
+   "source_db": "web",
+   "query": "paraphysis cerebri history discovery who first described paraphysis Selenka Stieda Burckhardt Paraphyse Gehirn",
+   "access": "metadata_only",
+   "bibliographic_verified": false,
+   "verified_via": "",
+   "excerpt": "",
+   "relevance": "peripheral",
+   "dims": [
+    "histology",
+    "anatomy"
+   ],
+   "note": "Springer result (link.springer.com/article/10.1007/BF02593712); a Zenodo record with the same title is dated 1922 but its author field was empty. Relation to the paraphysis not established.",
+   "as_cited_in": "WebSearch result list (first query) and follow-up search"
+  },
+  {
+   "title": "Eine colloidcyste im dritten hirnventrikel und ein lipom im plexes choroides",
+   "authors": "Wallmann H",
+   "year": 1858,
+   "journal": "Virchows Archiv für Pathologische Anatomie",
+   "volume": "11",
+   "pages": "385-388",
+   "doi": "",
+   "pmid": "",
+   "pmcid": "",
+   "language": "ger",
+   "source_db": "web",
+   "query": "Sjövall 1909 paraphysis cyst \"third ventricle\" Wallman 1858 Dandy 1921 colloid cyst history original paper title",
+   "access": "web_snippet",
+   "bibliographic_verified": false,
+   "verified_via": "",
+   "excerpt": "The first description was published in 1858 by Wallmann [2] as an autopsy finding.",
+   "relevance": "peripheral",
+   "dims": [
+    "pathology",
+    "terminology_history"
+   ],
+   "note": "First recorded colloid cyst of the third ventricle (title as printed in a review reference list, with the typo 'plexes'; Glazer et al. 1956 spell the author Wallman).",
+   "as_cited_in": "WebSearch summaries of a review reference list and of Glazer et al. 1956 (PMID 13359714, already in corpus)"
+  },
+  {
+   "title": "Über eine Ependymcyste embryonalen Charakters (Paraphyse?) im dritten Hirnventrikel mit tödlichem Ausgang",
+   "authors": "Sjövall E",
+   "year": 1909,
+   "journal": "Beiträge zur Pathologischen Anatomie",
+   "volume": "47",
+   "pages": "248-269",
+   "doi": "",
+   "pmid": "",
+   "pmcid": "",
+   "language": "ger",
+   "source_db": "web",
+   "query": "Sjövall 1909 paraphysis cyst \"third ventricle\" Wallman 1858 Dandy 1921 colloid cyst history original paper title",
+   "access": "web_snippet",
+   "bibliographic_verified": false,
+   "verified_via": "",
+   "excerpt": "The paraphysial origin of these cystic tumors was first suggested by Sjövall in 1909.",
+   "relevance": "relevant",
+   "dims": [
+    "pathology",
+    "terminology_history"
+   ],
+   "note": "Origin of the 'paraphysial cyst' concept. The full printed title continues 'Zugleich eine Beobachtung wahrer lipochromer Veränderungen mit Auftreten von Halbmondkörperchen'. Year given as 1909 in most sources, 1910 in others (volume 47).",
+   "as_cited_in": "WebSearch summary of Glazer et al. 1956 (pubs.rsna.org/doi/10.1148/67.3.351; PMID 13359714) and later reference lists"
+  },
+  {
+   "title": "Ependymal cyst of the third ventricle associated with diabetes mellitus",
+   "authors": "Byrom FB, Russell DS",
+   "year": 1932,
+   "journal": "Lancet",
+   "volume": "2",
+   "pages": "278-282",
+   "doi": "",
+   "pmid": "",
+   "pmcid": "",
+   "language": "eng",
+   "source_db": "web",
+   "query": "paraphysial cyst third ventricle origin colloid cyst history Sjövall Globus Kappers paraphysis theory Rickards 1930s",
+   "access": "metadata_only",
+   "bibliographic_verified": false,
+   "verified_via": "",
+   "excerpt": "",
+   "relevance": "peripheral",
+   "dims": [
+    "pathology"
+   ],
+   "note": "Early 'ependymal cyst' interpretation of third-ventricle cysts, as an alternative to the paraphysial theory; found in the bibliography of a German-language case series.",
+   "as_cited_in": "WebSearch summary of a later reference list"
+  },
+  {
+   "title": "[Ultrastructure of a third ventricle colloid cyst (author's transl)]",
+   "authors": "Landolt-Weber UM",
+   "year": 1973,
+   "journal": "Acta Neuropathologica",
+   "volume": "26(1)",
+   "pages": "59-70",
+   "doi": "10.1007/BF00685523",
+   "pmid": "4747696",
+   "pmcid": "",
+   "language": "ger",
+   "source_db": "pubmed",
+   "query": "Ultrastruktur einer Kolloidcyste des dritten Ventrikels",
+   "access": "metadata_only",
+   "bibliographic_verified": true,
+   "verified_via": "PubMed metadata (get_article_metadata PMID 4747696)",
+   "excerpt": "",
+   "relevance": "peripheral",
+   "dims": [
+    "pathology",
+    "histology"
+   ],
+   "note": "Electron-microscopic description of a third-ventricle colloid cyst (ciliated epithelium, mucin); no abstract in PubMed. Surfaced through a Springer link in a WebSearch result.",
+   "as_cited_in": "WebSearch result link.springer.com/article/10.1007/BF00685523, confirmed in PubMed"
+  },
+  {
+   "title": "Mucus-secreting cells in colloid cysts of the third ventricle",
+   "authors": "Mosberg WH, Blackwood W",
+   "year": 1954,
+   "journal": "Journal of Neuropathology and Experimental Neurology",
+   "volume": "13(3)",
+   "pages": "417-26",
+   "doi": "10.1097/00005072-195407000-00002",
+   "pmid": "13175038",
+   "pmcid": "",
+   "language": "eng",
+   "source_db": "pubmed",
+   "query": "colloid cyst third ventricle[Title] AND (Bristol OR Hewer OR 1954[dp])",
+   "access": "metadata_only",
+   "bibliographic_verified": true,
+   "verified_via": "PubMed metadata (get_article_metadata PMID 13175038)",
+   "excerpt": "",
+   "relevance": "peripheral",
+   "dims": [
+    "pathology",
+    "histology"
+   ],
+   "note": "Classical histology of third-ventricle colloid cysts (mucus-secreting cells), relevant to the debate between neuroepithelial/paraphyseal and endodermal origin; no abstract in PubMed.",
+   "as_cited_in": "Found by PubMed title search for 1954 colloid cyst reports"
+  },
+  {
+   "title": "Short history of pineal discovery and research",
+   "authors": "Kappers JA",
+   "year": 1979,
+   "journal": "Progress in Brain Research",
+   "volume": "52",
+   "pages": "3-22",
+   "doi": "10.1016/S0079-6123(08)62908-8",
+   "pmid": "398533",
+   "pmcid": "",
+   "language": "eng",
+   "source_db": "pubmed",
+   "query": "Short history of pineal discovery and research (title lookup of a result surfaced by WebSearch)",
+   "access": "metadata_only",
+   "bibliographic_verified": true,
+   "verified_via": "PubMed metadata (get_article_metadata PMID 398533)",
+   "excerpt": "",
+   "relevance": "peripheral",
+   "dims": [
+    "terminology_history"
+   ],
+   "note": "Historical article on pineal discovery by the same author who wrote the main mid-century paraphysis papers; background for the epiphysis-paraphysis terminology. No abstract in PubMed.",
+   "as_cited_in": "WebSearch result pubmed.ncbi.nlm.nih.gov/398533, confirmed in PubMed"
+  }
+ ]
+}

@@ -1,0 +1,159 @@
+{
+ "group": "adj03",
+ "decisions": [
+  {
+   "rid": "R445",
+   "decision": "exclude",
+   "reason_code": "general_clinical",
+   "reason": "Case report of colloid cyst confined to the velum interpositum; full PubMed abstract only says location 'gives additional information on pathogenesis' and briefly reviews pathogenesis, never naming a paraphyseal or other specific origin; no histogenesis data shown. Excluded as clinical case without verifiable paraphysis/histogenesis content (full text would show whether paraphyseal origin is argued).",
+   "dims": [
+    "clinical"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R455",
+   "decision": "include_B",
+   "reason_code": "context_anatomy",
+   "reason": "Craniate character 93 'Paraphysis' is explicitly applied to the left epithalamic (parapineal) diverticulum vs right epiphysis, not the telencephalic paraphysis; kept as necessary context for the phylogeny/terminology section because this homonymous usage would contaminate any reported distribution of 'paraphysis' (lampreys, actinopterygians, sarcopterygians). No data on the telencephalic paraphysis.",
+   "dims": [
+    "phylogeny",
+    "anatomy",
+    "terminology"
+   ],
+   "data_depth": "fulltext"
+  },
+  {
+   "rid": "R466",
+   "decision": "exclude",
+   "reason_code": "insufficient_info",
+   "reason": "Metadata-only official embryological nomenclature; no paraphysis or telencephalon impar entry confirmed and title is non-specific. Cannot support inclusion; checking TE2 telencephalon/roof entries for 'paraphysis' would resolve.",
+   "dims": [
+    "ontogeny",
+    "terminology"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R478",
+   "decision": "exclude",
+   "reason_code": "insufficient_info",
+   "reason": "Only a table-of-contents line seen for a general lungfish CNS chapter; title does not name the paraphysis/dorsal sac/coronarium and coverage is unverified. Excluded for lack of evidence (chapter text or index for paraphysis/dorsal sac/telencephalic roof would resolve).",
+   "dims": [
+    "anatomy",
+    "phylogeny"
+   ],
+   "data_depth": "web_snippet"
+  },
+  {
+   "rid": "R504",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Full abstract checked: adult Xenopus Pax6/Pax7 map, only Pax6 in telencephalon (olfactory bulbs, septum, striatum, amygdala); no mention of paraphysis, telencephalic roof or midline; generic marker map with no link to the paraphysis region.",
+   "dims": [
+    "histology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R527",
+   "decision": "exclude",
+   "reason_code": "insufficient_info",
+   "reason": "Metadata-only official neuroanatomical nomenclature; finder confirmed unit pages for tela choroidea and suprapineal recess but no paraphysis entry; nothing verifiable to support inclusion (direct TNA term search for paraphysis would resolve).",
+   "dims": [
+    "terminology"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R530",
+   "decision": "exclude",
+   "reason_code": "insufficient_info",
+   "reason": "Metadata-only veterinary embryological nomenclature PDF; no excerpt, paraphysis entry unverified and title non-specific. Excluded (text search of the NEV PDF for paraphysis/telencephalon impar would resolve).",
+   "dims": [
+    "ontogeny",
+    "terminology"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R544",
+   "decision": "include_B",
+   "reason_code": "context_clinical_histogenesis",
+   "reason": "Case of paired third-ventricle colloid cysts whose stated purpose is a discussion of embryological origin ('re-ignites the debate' on origin); this is the histogenesis debate (endodermal/neuroepithelial/paraphyseal) needed to weigh the paraphyseal hypothesis for the clinical correlate. Whether paraphysis is explicitly argued is unverified (web snippet only), so B rather than A.",
+   "dims": [
+    "clinical",
+    "ontogeny"
+   ],
+   "data_depth": "web_snippet"
+  },
+  {
+   "rid": "R590",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Comparative review of ventricular system development; the excerpt covers zebrafish circumventricular organs and choroid plexus and never names paraphysis, dorsal sac or velum transversum. Generic CVO/choroid plexus content that cannot be shown to bear on the paraphysis; full-text search for 'paraphysis' would be needed to reverse.",
+   "dims": [
+    "anatomy",
+    "phylogeny"
+   ],
+   "data_depth": "fulltext"
+  },
+  {
+   "rid": "R645",
+   "decision": "exclude",
+   "reason_code": "insufficient_info",
+   "reason": "Japanese single operated case of third-ventricle ependymal cyst with literature review; metadata only, title does not name the paraphysis or paraphyseal cyst and no abstract seen. Treated as a clinical case series without verifiable histogenesis content (abstract/text would show whether paraphyseal origin is discussed).",
+   "dims": [
+    "clinical"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R651",
+   "decision": "include_B",
+   "reason_code": "context_embryology",
+   "reason": "Lexicon definition of telencephalon impar: median, non-evaginated telencephalon around the interventricular foramen in the former roof and floor plate territory, i.e. the region that locates the paraphysis (ontogeny/anatomy/terminology). Paraphysis is not named and the source is tertiary (cites Sobotta), so a necessary-context definition only.",
+   "dims": [
+    "ontogeny",
+    "anatomy",
+    "terminology"
+   ],
+   "data_depth": "web_snippet"
+  },
+  {
+   "rid": "R654",
+   "decision": "include_A",
+   "reason_code": "historical",
+   "reason": "Classical (1888) development-of-the-epiphysis paper; Dexter 1902 credits Francotte with first identifying the paraphysis in a 12-week human embryo and with holding that it occurs in all vertebrate embryos, and the paper is listed in Warren's 1905 paraphysis/pineal-region bibliography. Included as historical record; content unverified (metadata only) and the exact carrying paper rests on Dexter's attribution.",
+   "dims": [
+    "ontogeny",
+    "phylogeny",
+    "terminology"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R657",
+   "decision": "exclude",
+   "reason_code": "insufficient_info",
+   "reason": "Metadata-only catalogue entry for a multi-volume comparative treatise (diencephalon and telencephalon derivatives); no evidence it treats the paraphysis, and no independent link to the paraphysis literature. Excluded rather than rewarding the treatise's stature (index/ToC check for paraphysis, dorsal sac, telencephalon impar would resolve).",
+   "dims": [
+    "anatomy",
+    "phylogeny"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R661",
+   "decision": "include_B",
+   "reason_code": "context_embryology",
+   "reason": "Classical comparative anatomy and development of the craniate forebrain (Studnicka), cited in Warren's 1905 bibliography on paraphysis and pineal region development; needed for ontogeny/homology of the telencephalic roof and median telencephalon in which the paraphysis arises. Content unverified (metadata only), so B not A.",
+   "dims": [
+    "ontogeny",
+    "anatomy",
+    "phylogeny"
+   ],
+   "data_depth": "metadata_only"
+  }
+ ]
+}

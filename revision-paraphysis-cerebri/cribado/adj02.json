@@ -1,0 +1,327 @@
+{
+ "group": "adj02",
+ "decisions": [
+  {
+   "rid": "R195",
+   "decision": "exclude",
+   "reason_code": "insufficient_info",
+   "reason": "Metadata-only title 'The parietal eye-pineal complex' (Quay 1979 reptile chapter); no excerpt, title does not name the paraphysis, and paraphysis coverage rests only on its appearing in the gecko paraphysis paper's reference list; cannot support inclusion. Hand-check the chapter index for paraphysis/dorsal sac if the gecko paper's citing context is needed.",
+   "dims": [
+    "phylogeny",
+    "anatomy"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R202",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Full abstract (checked on PubMed) covers mouse E8-E13 prosencephalon: necrosis at lamina terminalis/'choroid plate', telodiencephalic sulcus fusion; never names the paraphysis or the velum transversum/telencephalon medium roof, so it does not locate the paraphysis or bear on its homology.",
+   "dims": [
+    "ontogeny"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R212",
+   "decision": "exclude",
+   "reason_code": "insufficient_info",
+   "reason": "Web snippet is only a preface sentence of Vollrath's 'The Pineal Organ' handbook chapter (mammalian/human emphasis); title does not name the paraphysis and no paraphysis passage is visible; generic pineal paper without demonstrated link.",
+   "dims": [
+    "anatomy",
+    "histology"
+   ],
+   "data_depth": "web_snippet"
+  },
+  {
+   "rid": "R227",
+   "decision": "exclude",
+   "reason_code": "insufficient_info",
+   "reason": "Metadata-only monograph on the chondrichthyan CNS; no passage on paraphysis/dorsal sac retrieved and title is generic; cannot support inclusion without the telencephalic roof/index text.",
+   "dims": [
+    "anatomy",
+    "phylogeny"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R255",
+   "decision": "exclude",
+   "reason_code": "general_clinical",
+   "reason": "Abstract is a general classification of benign CNS cysts (arachnoid, dermoid, Rathke, etc.); colloid cyst gets a single sentence ('usually neuroectodermal ... certain features suggest endodermal origin') with no colloid-cyst-specific histogenesis data or paraphysis mention; not necessary to weigh the paraphyseal hypothesis.",
+   "dims": [
+    "clinical"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R257",
+   "decision": "exclude",
+   "reason_code": "general_clinical",
+   "reason": "Japanese case report of colloid cyst with cavum veli interpositi; full abstract is clinical/MRI, with a one-line EM-based suggestion of endodermal origin (microvilli with coating) and no paraphysis mention; single-case aside, not needed for the clinical-origin question.",
+   "dims": [
+    "clinical"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R269",
+   "decision": "exclude",
+   "reason_code": "general_clinical",
+   "reason": "Fourth-ventricle colloid cyst case; the only origin statement is one speculative sentence (common neuroepithelial origin via similar prosencephalic/rhombencephalic roof development) with no histogenesis data and no paraphysis link; histology was only diagnostic.",
+   "dims": [
+    "clinical"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R270",
+   "decision": "include_B",
+   "reason_code": "context_clinical_histogenesis",
+   "reason": "Immunohistochemistry of 12 colloid cysts (cytokeratin, vimentin, NF, GFAP, EMA, lu-5): epithelium distinct from choroid plexus/ependyma/glia, concluded to be a primitive-neuroectoderm anomaly 'in any ventricular location'; abstract names the embryonic-paraphysis theory among proposed origins but does not itself test it, so B (clinical: weighs paraphyseal vs tela choroidea vs choroid plexus origin), not A.",
+   "dims": [
+    "clinical",
+    "histology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R282",
+   "decision": "exclude",
+   "reason_code": "insufficient_info",
+   "reason": "Letter 'Ontogenesis of colloid cysts' (Kondziolka 1990); PubMed has no abstract (MeSH only: choroid plexus, immunohistochemistry), title does not name the paraphysis, so cannot tell whether it argues for or against a paraphyseal origin; content unverified. Letter text would resolve it.",
+   "dims": [
+    "clinical"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R283",
+   "decision": "exclude",
+   "reason_code": "insufficient_info",
+   "reason": "Full abstract (checked on PubMed) of human stages 18-20 mentions only fourth and lateral ventricle choroid plexuses, septum, amygdala and cerebellum; no roof of telencephalon medium, velum transversum or paraphysis is mentioned. Coverage of the paraphysis is only inferred from the 7th-week timing, so not supportable; full text would resolve it.",
+   "dims": [
+    "ontogeny"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R284",
+   "decision": "exclude",
+   "reason_code": "insufficient_info",
+   "reason": "Web snippet is only the title of the Nieuwenhuys & Meek 1990 sarcopterygian telencephalon chapter (authorship/pagination partly unconfirmed); no text on the roof, dorsal sac or paraphysis was seen; generic title, cannot support inclusion. Chapter text on the lungfish roof would resolve it.",
+   "dims": [
+    "anatomy",
+    "phylogeny"
+   ],
+   "data_depth": "web_snippet"
+  },
+  {
+   "rid": "R286",
+   "decision": "include_B",
+   "reason_code": "context_clinical_histogenesis",
+   "reason": "Original immunohistochemistry (KL1, EMA, S100, GFAP) of 14 third-ventricle colloid cysts: epithelium clearly differs from neuroepithelium, supporting the presumed bronchogenic/endodermal origin; direct histogenesis data against a neuroepithelial/paraphyseal origin, needed for the clinical-origin question (paraphysis not named in abstract).",
+   "dims": [
+    "clinical",
+    "histology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R287",
+   "decision": "exclude",
+   "reason_code": "general_clinical",
+   "reason": "Japanese-language report of the same Uematsu/Hirano cytokeratin series (21 CNS epithelial cysts, 6 colloid); abstract has no paraphysis or neuroepithelial-origin analysis and the data are redundant with R288 (English) and R318, so not necessary as a separate record.",
+   "dims": [
+    "clinical"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R288",
+   "decision": "include_B",
+   "reason_code": "context_clinical_histogenesis",
+   "reason": "Original cytokeratin/GFAP immunohistochemistry of 19 CNS epithelial cysts including 6 third-ventricle colloid cysts: complex-type cytokeratins in colloid cysts vs simple-type only in neuroectodermal cysts, discussed for origin; histogenesis data needed to weigh a neuroepithelial/paraphyseal vs endodermal origin (paraphysis not named). Kept as the primary data report of this series.",
+   "dims": [
+    "clinical",
+    "histology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R293",
+   "decision": "include_B",
+   "reason_code": "context_clinical_histogenesis",
+   "reason": "Five third-ventricle colloid cysts vs spinal enterogenous cysts (cytokeratin, EMA, CEA positive; GFAP/vimentin negative) with explicit conclusion of primitive foregut endodermal origin, including a fourth-ventricle case; competing-hypothesis histogenesis evidence needed to weigh the paraphyseal origin (paraphysis not named in abstract).",
+   "dims": [
+    "clinical",
+    "histology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R303",
+   "decision": "exclude",
+   "reason_code": "insufficient_info",
+   "reason": "Metadata-only entry for the O'Rahilly & Muller embryology textbook; no excerpt or index entry on the paraphysis seen, generic title; the paraphysis staging is better sourced from the specific stage papers. Chapter/index check on the CNS roof would resolve it.",
+   "dims": [
+    "ontogeny",
+    "anatomy"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R308",
+   "decision": "exclude",
+   "reason_code": "insufficient_info",
+   "reason": "Metadata-only entry for Nomina Anatomica Avium; no paraphysis term or entry was confirmed by the finder, title is a generic nomenclature work; cannot support inclusion without the nervous-system index.",
+   "dims": [
+    "anatomy"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R309",
+   "decision": "include_B",
+   "reason_code": "context_clinical_histogenesis",
+   "reason": "Immunohistochemistry of 11 intracranial cysts: choroidal and ependymal cysts keep neuroepithelial markers (prealbumin, GFAP, S-100) whereas colloid cysts show only epithelial markers (cytokeratins, EMA) like endodermal cysts; explicit neuroepithelial comparators make it needed to weigh the paraphyseal/neuroepithelial hypothesis (paraphysis not named; 3 colloid cysts only).",
+   "dims": [
+    "clinical",
+    "histology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R310",
+   "decision": "include_B",
+   "reason_code": "context_clinical_histogenesis",
+   "reason": "Intrauterine-diagnosed third-ventricle colloid cyst: histology (ciliated cuboidal/columnar epithelium) and immunohistology interpreted as histogenesis from primitive neuroepithelial structures; single case but gives a fetal/congenital, neuroepithelial data point for the clinical-origin question (paraphysis not named; low weight).",
+   "dims": [
+    "clinical",
+    "histology",
+    "ontogeny"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R318",
+   "decision": "include_B",
+   "reason_code": "context_clinical_histogenesis",
+   "reason": "Cytokeratin immunohistochemistry 'with special reference to origins of colloid cyst of the third ventricle': colloid cysts resemble upper respiratory tract (endodermal) and differ from neuroectodermal cysts (simple-type keratins only); direct histogenesis argument against a neuroepithelial/paraphyseal origin (paraphysis not named).",
+   "dims": [
+    "clinical",
+    "histology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R350",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Cortical hem Wnt/Bmp/Msx expression and Gli3 mutant loss of telencephalic choroid plexus (full abstract read); hem lies at the medial hemispheric edge, and the abstract never relates to the paraphysis, velum transversum or telencephalon medium roof; generic hem/choroid plexus patterning paper per the exclusion rule.",
+   "dims": [
+    "molecular",
+    "ontogeny"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R351",
+   "decision": "exclude",
+   "reason_code": "insufficient_info",
+   "reason": "Metadata-only entry for Nieuwenhuys 1998 'Lungfishes' chapter; the coronarium/paraphysis discussion the finder saw came from a different paper (Holmgren 1959 via a MRI atlas), not from this chapter, and the title does not name the paraphysis; content unverified. Chapter text (coronarium/paraphysis/dorsal sac) would resolve it.",
+   "dims": [
+    "phylogeny",
+    "anatomy"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R352",
+   "decision": "exclude",
+   "reason_code": "insufficient_info",
+   "reason": "Metadata-only entry for the three-volume Central Nervous System of Vertebrates; no passage on the paraphysis or telencephalon impar retrieved and the whole-work citation is not specific; cite specific chapters only if they are verified.",
+   "dims": [
+    "phylogeny",
+    "anatomy"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R364",
+   "decision": "exclude",
+   "reason_code": "general_clinical",
+   "reason": "Case of nasal dermoid sinus plus colloid cyst; full abstract (checked on PubMed) proposes 'anterior neuropore corridor defects' as embryological explanation but offers no histogenesis data and does not name or evaluate a paraphyseal origin; clinical case report.",
+   "dims": [
+    "clinical"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R365",
+   "decision": "exclude",
+   "reason_code": "insufficient_info",
+   "reason": "Kier 1999 letter on the evolutionary/embryologic basis of the cavum veli interpositi; PubMed has no abstract (MeSH: pineal gland, pia mater), title does not name the paraphysis or velum transversum, so no link can be shown; content unverified. Letter text would resolve it.",
+   "dims": [
+    "anatomy",
+    "ontogeny",
+    "phylogeny"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R369",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Gli3 required for Emx expression (hippocampus and lateral-ventricle choroid plexus loss, Fgf8/Bmp4 changes at dorsal midline; abstract read); primarily a cortical-patterning paper that never relates to the paraphysis region or the telencephalon medium roof.",
+   "dims": [
+    "molecular",
+    "ontogeny"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R372",
+   "decision": "exclude",
+   "reason_code": "insufficient_info",
+   "reason": "Second Kier letter (2000) on the cavum veli interpositi; PubMed has no abstract (MeSH: biological evolution, pia mater), title does not name the paraphysis or velum transversum, so no link can be shown; content unverified. Letter text would resolve it.",
+   "dims": [
+    "anatomy",
+    "ontogeny",
+    "phylogeny"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R377",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Passage seen only mentions the non-evaginated forebrain 'telencephalon impar of some authors' in passing within a chick/mouse pallial-subpallial gene-expression study; it does not locate the paraphysis or analyse the impar, so the term is not defined in a way that bears on paraphysis homology.",
+   "dims": [
+    "ontogeny"
+   ],
+   "data_depth": "fulltext"
+  },
+  {
+   "rid": "R383",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Neoceratodus pituitary vascularisation paper; the only paraphysis item retrieved is the figure abbreviation 'Pa paraphysis' (listed beside 'SD saccus dorsalis'); a landmark label without text discussion is not substantive data on the structure. Figure legends could show how the author distinguishes paraphysis and dorsal sac.",
+   "dims": [
+    "anatomy"
+   ],
+   "data_depth": "fulltext"
+  },
+  {
+   "rid": "R413",
+   "decision": "exclude",
+   "reason_code": "insufficient_info",
+   "reason": "Metadata-only entry for the Butler & Hodos comparative neuroanatomy textbook; no passage or index entry on the paraphysis seen, generic title; cannot support inclusion without an index check.",
+   "dims": [
+    "anatomy",
+    "phylogeny"
+   ],
+   "data_depth": "metadata_only"
+  }
+ ]
+}

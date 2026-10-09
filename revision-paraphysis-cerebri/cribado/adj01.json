@@ -1,0 +1,338 @@
+{
+ "group": "adj01",
+ "decisions": [
+  {
+   "rid": "R001",
+   "decision": "exclude",
+   "reason_code": "general_clinical",
+   "reason": "Untitled web-snippet stub duplicating R002; only a 1956 secondary remark calling Wallman's 1858 case a 'colloid or paraphyseal cyst' (Glazer's label, anachronistic); no paraphysis or histogenesis content, so not necessary for any review dimension.",
+   "dims": [
+    "pathology",
+    "terminology_history"
+   ],
+   "data_depth": "web_snippet"
+  },
+  {
+   "rid": "R002",
+   "decision": "exclude",
+   "reason_code": "general_clinical",
+   "reason": "Wallmann 1858 autopsy report of the first third-ventricle colloid cyst; the paraphyseal concept dates from 1909, the record gives no origin argument, and the first-description date is citable via Glazer 1956; no bearing on paraphysis question.",
+   "dims": [
+    "pathology",
+    "terminology_history"
+   ],
+   "data_depth": "web_snippet"
+  },
+  {
+   "rid": "R006",
+   "decision": "include_B",
+   "reason_code": "context_anatomy",
+   "reason": "Burckhardt 1894 on homologies of the diencephalic roof (epiphysis, paraphysis, dorsal sac) in lower vertebrates; needed for homology/terminology of the paraphysis versus dorsal sac (phylogeny, anatomy). Paraphysis is not named in the title and content is unverified (metadata only), hence B not A.",
+   "dims": [
+    "anatomy",
+    "phylogeny",
+    "terminology_history"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R024",
+   "decision": "include_B",
+   "reason_code": "context_anatomy",
+   "reason": "Dendy 1911 tuatara monograph on pineal organs 'and adjacent parts of the brain': by scope it must cover the roof between telencephalon and pineal complex (velum, dorsal sac, paraphysis of Sphenodon), key for reptile anatomy/ontogeny/phylogeny; no excerpt seen, content unverified - confirm paraphysis sections at full text.",
+   "dims": [
+    "anatomy",
+    "ontogeny",
+    "phylogeny"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R029",
+   "decision": "exclude",
+   "reason_code": "insufficient_info",
+   "reason": "Bailey(?) 1916 turtle telencephalic choroid-plexus morphogenesis: generic plexus title, authorship uncertain, only evidence is that it cites Warren's paraphysis work; cannot be shown to locate or homologise the paraphysis. Reinstate if the text relates the plexus to velum/paraphysis.",
+   "dims": [
+    "anatomy",
+    "histology",
+    "ontogeny",
+    "phylogeny"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R030",
+   "decision": "include_B",
+   "reason_code": "context_embryology",
+   "reason": "Warren 1917 on the pineal region in human embryos: Warren's 'pineal region' studies pair pineal and paraphysis, and human embryo staging of the paraphysis is a review gap (ontogeny); only title/metadata seen, content unverified - confirm paraphysis statement at full text.",
+   "dims": [
+    "anatomy",
+    "ontogeny"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R035",
+   "decision": "exclude",
+   "reason_code": "insufficient_info",
+   "reason": "1922 'Die epithelialen Gebilde am Gehirn der Wirbeltiere. I': no author, abstract or excerpt; title could cover plexuses, paraphysis or dorsal sac but nothing in the record ties it to the paraphysis. Contents of part I would resolve it.",
+   "dims": [
+    "anatomy",
+    "histology"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R036",
+   "decision": "include_B",
+   "reason_code": "context_embryology",
+   "reason": "Hines 1923 development of the Sphenodon telencephalon: ontogeny of telencephalon medium/lamina terminalis/roof, and one finder summary identifies the caudal midline outpocketing as the paraphysis (second summary silent); locates the reptile paraphysis in ontogeny. Content unverified.",
+   "dims": [
+    "anatomy",
+    "ontogeny",
+    "phylogeny"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R037",
+   "decision": "exclude",
+   "reason_code": "insufficient_info",
+   "reason": "Holmgren and van der Horst 1925 Ceratodus brain morphology: whole-brain title, no excerpt and no evidence of a paraphysis/dorsal-sac description; cannot be shown necessary. Full-text check of the roof section would reverse this.",
+   "dims": [
+    "anatomy",
+    "phylogeny"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R041",
+   "decision": "exclude",
+   "reason_code": "insufficient_info",
+   "reason": "Kappers, Huber and Crosby 1936 general comparative treatise, catalogue record only; no paraphysis passage identified and a general textbook is not rewarded for prestige (duplicate of R042).",
+   "dims": [
+    "anatomy",
+    "phylogeny",
+    "terminology_history"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R042",
+   "decision": "exclude",
+   "reason_code": "insufficient_info",
+   "reason": "Duplicate catalogue entry of the 1936 Kappers/Huber/Crosby treatise (R041); paraphysis chapter/page not identified, so it cannot be shown to bear on the review question.",
+   "dims": [
+    "anatomy",
+    "phylogeny",
+    "terminology_history"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R046",
+   "decision": "exclude",
+   "reason_code": "insufficient_info",
+   "reason": "Rudebeck 1945 forebrain morphology in Dipnoi: telencephalon-development title but no excerpt and no sign it treats the roof/paraphysis (coronarium/dorsal sac); insufficient to support inclusion. Full-text roof/velum section would reverse this.",
+   "dims": [
+    "anatomy",
+    "ontogeny",
+    "phylogeny"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R056",
+   "decision": "exclude",
+   "reason_code": "insufficient_info",
+   "reason": "Cairns and Mosberg 1951 clinico-pathological colloid cyst account: neutral title, no abstract (PubMed confirms none), no evidence it evaluates paraphyseal origin; excluded only for lack of text - reinstate (include_A, clinical_origin) if the discussion argues for/against paraphyseal origin.",
+   "dims": [
+    "pathology"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R057",
+   "decision": "exclude",
+   "reason_code": "insufficient_info",
+   "reason": "Kelly 1951 analysis of 29 colloid cysts: neutral title, no abstract (PubMed confirms none), web check did not surface its stance on paraphyseal origin; excluded only for lack of text - reinstate if the full text evaluates paraphyseal origin.",
+   "dims": [
+    "pathology"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R060",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Wislocki and Leduc 1952 vital staining/cytology of circumventricular organs incl. intercolumnar tubercle; the paraphysis link is only Kappers' later view, nothing in the record names the paraphysis; generic circumventricular paper.",
+   "dims": [
+    "histology",
+    "physiology"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R066",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Brizzee 1954 cat area postrema/supraoptic crest/intercolumnar tubercle cytology; generic circumventricular comparison with no stated paraphysis link in the record.",
+   "dims": [
+    "histology"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R077",
+   "decision": "exclude",
+   "reason_code": "insufficient_info",
+   "reason": "Legait and Legait 1956 innervation of third-ventricle ependymal organs in amphibians/reptiles: no abstract, and nothing shows the paraphysis is among the organs or is explicitly compared; cannot be shown necessary.",
+   "dims": [
+    "anatomy"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R083",
+   "decision": "exclude",
+   "reason_code": "insufficient_info",
+   "reason": "Testut-Latarjet Spanish general anatomy textbook, catalogue record only; no 'parafisis' passage retrieved, so it cannot be shown to bear on the review question.",
+   "dims": [
+    "anatomy",
+    "terminology_history"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R085",
+   "decision": "exclude",
+   "reason_code": "general_clinical",
+   "reason": "Yenermen, Bowerman and Haymaker 1958 clinical study of 54 colloid cysts: clinical-series title, no abstract, nothing indicating a histogenesis or paraphyseal-origin analysis; excluded for lack of text.",
+   "dims": [
+    "pathology"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R099",
+   "decision": "include_A",
+   "reason_code": "paraphysis_data",
+   "reason": "Title field (catalogue-summary wording, not verbatim) names the paraphysis: vascular supply of epiphysis and paraphysis in reptiles; included on the title rule, CONTENT UNVERIFIED. Same chapter as R103 (Lierse, PBR 10); German 'Paraepiphyse' may instead denote the parapineal - verify and drop if so.",
+   "dims": [
+    "anatomy",
+    "phylogeny"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R103",
+   "decision": "include_A",
+   "reason_code": "paraphysis_data",
+   "reason": "Same chapter as R099 (Lierse 1965, PBR 10:183-92, PMID 14281602); verified German-translated title says 'para-epiphysis' (MeSH pineal only), which may be parapineal, but R099 wording names the paraphysis; kept as a duplicate pair, CONTENT UNVERIFIED, merge records and verify chapter.",
+   "dims": [
+    "anatomy",
+    "terminology_history"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R105",
+   "decision": "exclude",
+   "reason_code": "insufficient_info",
+   "reason": "Nieuwenhuys 1965 Latimeria forebrain: PubMed shows no abstract, MeSH telencephalon/limbic system only; nothing indicates a paraphysis/roof description. Full-text check of the roof would reverse this.",
+   "dims": [
+    "anatomy",
+    "phylogeny"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R117",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Dempsey 1968 fine structure of rat intercolumnar tubercle; Kappers' paraphysis link is secondary and absent from this record (MeSH: pineal, pituitary, blood-brain barrier); generic circumventricular ultrastructure.",
+   "dims": [
+    "anatomy",
+    "histology"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R144",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Giant-tortoise epithalamic hyperplasia case report; MeSH indicates pineal gland/choroid plexus only and no abstract mentions the paraphysis; a veterinary case report of off-topic structures.",
+   "dims": [
+    "anatomy",
+    "pathology"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R147",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Sarnat and Netsky general textbook on nervous-system evolution, catalogue record only; no statement about the paraphysis, cannot be shown necessary.",
+   "dims": [
+    "phylogeny"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R152",
+   "decision": "include_A",
+   "reason_code": "paraphysis_data",
+   "reason": "Meiniel et al. 1975 abstract explicitly reports the paraphysis (with dorsal telencephalon, tectum) as showing only constant weak non-specific 3H-5-HTP uptake in Lacerta embryos, in contrast to the epiphysis; minor/negative autoradiographic datum, but explicit original labelling data on the paraphysis (histochemistry, ontogeny).",
+   "dims": [
+    "histology",
+    "ontogeny",
+    "physiology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R171",
+   "decision": "include_B",
+   "reason_code": "context_clinical_histogenesis",
+   "reason": "Holbach and Gullotta 1977 abstract equates Rathke cysts with colloid cysts of the foramen of Monro and cites an ectopic upper-respiratory (endodermal) origin: an explicit histogenetic alternative needed to weigh the paraphyseal hypothesis (clinical origin). No paraphysis data and no original evidence, so limited weight.",
+   "dims": [
+    "histology",
+    "pathology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R174",
+   "decision": "exclude",
+   "reason_code": "insufficient_info",
+   "reason": "Nieuwenhuys, Kremers and van Huijzen 1977 Latimeria gross brain survey: no abstract, MeSH only telencephalon/diencephalon; no evidence it describes the paraphysis or dorsal sac. Full-text check would reverse this.",
+   "dims": [
+    "anatomy",
+    "phylogeny"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R179",
+   "decision": "include_B",
+   "reason_code": "context_clinical_histogenesis",
+   "reason": "Zanetti and Gordini 1977 autopsy colloid cyst whose title promises 'histogenetic considerations' (clinical origin); expected to weigh neuroepithelial/endodermal/paraphyseal origin, but no abstract so content unverified - confirm at full text.",
+   "dims": [
+    "pathology"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R185",
+   "decision": "include_B",
+   "reason_code": "context_function",
+   "reason": "Brocklehurst 1979 abstract: comparative CSF-system morphology (amphioxus to mouse) naming the paraphysis among compared ependymal derivatives with choroid plexuses and proposing a CSF chemical-environment function; paraphysis not principal and PMC full text is unreadable scans, so context for phylogeny/physiology, not A.",
+   "dims": [
+    "phylogeny",
+    "anatomy",
+    "physiology"
+   ],
+   "data_depth": "abstract"
+  }
+ ]
+}

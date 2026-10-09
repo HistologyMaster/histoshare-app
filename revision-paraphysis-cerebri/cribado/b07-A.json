@@ -1,0 +1,499 @@
+{
+ "batch": "b07",
+ "reviewer": "A",
+ "decisions": [
+  {
+   "rid": "R285",
+   "decision": "include_B",
+   "reason_code": "context_embryology",
+   "reason": "Staged human embryos (CS 11-23): states paraphysis is appearing at stage 18 alongside telencephalon medium and choroid plexus sequence; ontogeny/staging anchor only (single clause on paraphysis; full PubMed abstract checked).",
+   "dims": [
+    "ontogeny",
+    "anatomy"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R286",
+   "decision": "include_B",
+   "reason_code": "context_clinical_histogenesis",
+   "reason": "14 third-ventricle colloid cysts show immunohistochemical profile unlike neuroepithelium, favouring bronchogenic/endodermal origin; weighs against paraphyseal (neuroepithelial) hypothesis; paraphysis not named in abstract.",
+   "dims": [
+    "histology",
+    "pathology",
+    "molecular"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R287",
+   "decision": "include_B",
+   "reason_code": "context_clinical_histogenesis",
+   "reason": "Cytokeratin immunohistochemistry of CNS epithelial cysts incl. third-ventricle colloid cysts (complex-type keratins, not neuroectodermal pattern); bears on colloid cyst origin vs neuroepithelial/paraphyseal hypothesis; paraphysis not named; duplicate dataset of R288.",
+   "dims": [
+    "histology",
+    "pathology",
+    "molecular"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R288",
+   "decision": "include_B",
+   "reason_code": "context_clinical_histogenesis",
+   "reason": "English report of same cytokeratin study of 19 CNS epithelial cysts incl. colloid cysts, discussed for origin; indirect bearing on paraphyseal hypothesis; paraphysis not named; duplicate dataset of R287.",
+   "dims": [
+    "histology",
+    "pathology",
+    "molecular"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R289",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Lungfish dorsomedial telencephalon pallial vs subpallial (ependymal thickenings, AChE, paraventricular organ); full abstract checked, no roof/paraphysis/coronarium content.",
+   "dims": [
+    "anatomy",
+    "phylogeny"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R290",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Polypterus intracranial ligaments; velum transversum only a passage landmark, not defined or related to the paraphysis.",
+   "dims": [
+    "anatomy"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R291",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Choroid plexus transthyretin expression across vertebrates; no paraphysis or dorsal midline roof link.",
+   "dims": [
+    "molecular"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R292",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "BMP-4/Vgr-1 expression in CNS roof plate to forebrain in mouse; generic roof plate, no telencephalic dorsal midline/paraphysis territory content.",
+   "dims": [
+    "molecular"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R293",
+   "decision": "include_B",
+   "reason_code": "context_clinical_histogenesis",
+   "reason": "Five colloid cysts vs enterogenous cysts: cytokeratin/EMA/CEA profile argues foregut endodermal origin; weighs against neuroepithelial/paraphyseal hypothesis; paraphysis not in abstract.",
+   "dims": [
+    "histology",
+    "pathology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R294",
+   "decision": "include_B",
+   "reason_code": "context_function",
+   "reason": "Stress effects on amines in the turtle pineal-paraphyseal complex; paraphysis included but not analysed separately, so data cannot be assigned to it; only marginal functional context.",
+   "dims": [
+    "physiology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R295",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "CRF-immunoreactive neuron mapping in snake brain; subfornical organ listed only as a perikaryal site.",
+   "dims": [
+    "anatomy"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R296",
+   "decision": "exclude",
+   "reason_code": "general_clinical",
+   "reason": "Case report of intrasellar colloid cyst; remark on neuroepithelial origin of sellar cysts, not on third-ventricle/paraphyseal origin.",
+   "dims": [
+    "pathology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R297",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Amphibian choroid plexus lipocalin secretion; generic choroid plexus protein biochemistry.",
+   "dims": [
+    "molecular"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R298",
+   "decision": "include_B",
+   "reason_code": "context_clinical_histogenesis",
+   "reason": "Ultrastructure of 4 colloid cysts favours respiratory/endodermal origin; abstract names paraphysis only in listing of competing neuroepithelial origins, so evaluates it only indirectly (full abstract checked).",
+   "dims": [
+    "histology",
+    "pathology",
+    "terminology_history"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R299",
+   "decision": "exclude",
+   "reason_code": "general_clinical",
+   "reason": "Single case of fourth-ventricle colloid cyst; neuroepithelial origin argued from roof embryology, no third-ventricle/paraphyseal data.",
+   "dims": [
+    "pathology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R300",
+   "decision": "include_B",
+   "reason_code": "context_clinical_histogenesis",
+   "reason": "11 colloid cysts differ immunohistochemically (cytokeratins, transthyretin) from choroid plexus and ependyma; favours non-neuroepithelial origin, weighing the paraphyseal hypothesis; paraphysis not named in abstract.",
+   "dims": [
+    "histology",
+    "pathology",
+    "molecular"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R301",
+   "decision": "include_B",
+   "reason_code": "context_clinical_histogenesis",
+   "reason": "Ultrastructure of 13 colloid cysts matches endodermal cysts/respiratory mucosa, not choroid plexus or ependyma; weighs neuroepithelial/paraphyseal hypothesis.",
+   "dims": [
+    "histology",
+    "pathology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R302",
+   "decision": "include_B",
+   "reason_code": "context_function",
+   "reason": "Steroid effects on amines in turtle pineal-paraphyseal complex; paraphysis not analysed separately from pineal; marginal functional context only.",
+   "dims": [
+    "physiology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R303",
+   "decision": "uncertain",
+   "reason_code": "insufficient_info",
+   "reason": "Standard human embryology textbook, no excerpt (catalogue only); may repeat O'Rahilly and Muller staging of the paraphysis but unverified; resolve by checking CNS/telencephalon chapter and index for 'paraphysis'.",
+   "dims": [
+    "ontogeny",
+    "anatomy"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R304",
+   "decision": "include_B",
+   "reason_code": "context_clinical_histogenesis",
+   "reason": "Immunohistochemistry (cytokeratins, GST-pi) of colloid cysts vs fetal/adult choroid plexus, ependyma and nasal mucosa: non-neuroepithelial differentiation; weighs paraphyseal hypothesis.",
+   "dims": [
+    "histology",
+    "pathology",
+    "molecular"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R305",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Avian subfornical organ lesion and angiotensin II drinking in chicks; physiology unrelated to paraphysis.",
+   "dims": [
+    "physiology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R306",
+   "decision": "exclude",
+   "reason_code": "general_clinical",
+   "reason": "Case report of suprasellar xanthomatous Rathke cleft cyst; similarity to colloid cyst noted but no third-ventricle histogenesis data.",
+   "dims": [
+    "pathology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R307",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Lizard choroid plexus transthyretin cDNA; generic choroid plexus molecular evolution.",
+   "dims": [
+    "molecular"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R308",
+   "decision": "uncertain",
+   "reason_code": "insufficient_info",
+   "reason": "Avian anatomical nomenclature book, catalogue only; finder could not confirm any paraphysis entry; resolve by checking the central nervous system section of Nomina Anatomica Avium for a paraphysis/telencephalic roof term.",
+   "dims": [
+    "terminology_history",
+    "anatomy"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R309",
+   "decision": "include_B",
+   "reason_code": "context_clinical_histogenesis",
+   "reason": "Immunohistochemistry of intracranial cysts: colloid cysts show endodermal-type epithelial markers unlike choroid/ependymal cysts; weighs neuroepithelial/paraphyseal origin; paraphysis not named.",
+   "dims": [
+    "histology",
+    "pathology",
+    "molecular"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R310",
+   "decision": "include_B",
+   "reason_code": "context_clinical_histogenesis",
+   "reason": "Intrauterine-diagnosed third-ventricle colloid cyst with immunohistology suggesting derivation from primitive neuroepithelium (single case); bears on congenital/neuroepithelial origin.",
+   "dims": [
+    "histology",
+    "ontogeny",
+    "pathology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R311",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Prenatal MRI of human brain (pineal recess at 11 weeks); no telencephalic roof/paraphysis information.",
+   "dims": [
+    "anatomy"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R312",
+   "decision": "exclude",
+   "reason_code": "general_clinical",
+   "reason": "Choroidal epithelial and neuroepithelial cysts vs choroid plexus/ependyma; not colloid cysts and no paraphysis link in abstract.",
+   "dims": [
+    "histology",
+    "pathology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R313",
+   "decision": "include_B",
+   "reason_code": "context_clinical_histogenesis",
+   "reason": "Immunohistochemistry of 21 colloid cysts vs Rathke, enterogenous cysts and choroid plexus; immunophenotype argues endodermal not neuroepithelial nature; weighs paraphyseal hypothesis.",
+   "dims": [
+    "histology",
+    "pathology",
+    "molecular"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R314",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Cladistic analysis of salamander brain paedomorphosis; no roof/paraphysis information.",
+   "dims": [
+    "phylogeny"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R315",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Transthyretin synthesis in choroid plexus across vertebrates; generic choroid plexus.",
+   "dims": [
+    "molecular"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R316",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Neural tube defects in parietal region (roof of third ventricle) of Kyoto human embryos; abstract has no paraphysis or telencephalon impar content (full abstract checked).",
+   "dims": [
+    "ontogeny"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R317",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Vascular casts of lizard pineal complex; dorsal sac shares vessels with pineal but paraphysis not examined and dorsal sac not compared or defined relative to it (full abstract checked).",
+   "dims": [
+    "anatomy"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R318",
+   "decision": "include_B",
+   "reason_code": "context_clinical_histogenesis",
+   "reason": "Cytokeratin profile of CNS epithelial cysts focused on origin of third-ventricle colloid cyst: upper respiratory (endodermal) pattern; weighs neuroepithelial/paraphyseal hypothesis.",
+   "dims": [
+    "histology",
+    "pathology",
+    "molecular"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R319",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Ultrasound echogenicity of fetal telencephalic choroid plexus; generic plexus, no paraphysis link.",
+   "dims": [
+    "ontogeny"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R320",
+   "decision": "include_A",
+   "reason_code": "paraphysis_principal",
+   "reason": "Ultrastructure of the paraphysis in Bufo bufo larvae: tubular-ramified gland, glycoprotein secretion into CSF, proposed role in ionic/osmotic homeostasis.",
+   "dims": [
+    "anatomy",
+    "histology",
+    "ontogeny",
+    "physiology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R321",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Lectin/immunocytochemistry of dogfish subcommissural organ glycoproteins; no comparison with the paraphysis.",
+   "dims": [
+    "histology",
+    "molecular"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R322",
+   "decision": "exclude",
+   "reason_code": "general_clinical",
+   "reason": "Japanese review of benign intracranial cysts, abstract generic with no colloid cyst histogenesis or paraphysis content.",
+   "dims": [
+    "pathology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R323",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Opossum brain growth and neocortical development; no midline roof data.",
+   "dims": [
+    "ontogeny"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R324",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Ependymin immunostaining in goldfish incl. saccus dorsalis and choroid plexus; adjacent structure staining only, no paraphysis comparison (full abstract checked).",
+   "dims": [
+    "histology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R325",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Ontogeny of angiotensin II receptors in duck brain (SFO, choroid plexus); unrelated.",
+   "dims": [
+    "physiology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R326",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Opsin immunocytochemistry in quail, lizard and bullfrog pineal complex; no paraphysis.",
+   "dims": [
+    "molecular"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R327",
+   "decision": "include_A",
+   "reason_code": "clinical_origin",
+   "reason": "Immunohistochemistry of CNS cysts documents a neuroepithelial cyst 'of paraphyseal origin' (keratin+, S-100+) against enterogenous, Rathke and arachnoid cysts; single-case paraphyseal cyst data.",
+   "dims": [
+    "histology",
+    "pathology",
+    "molecular"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R328",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Evolution of vertebrate thyroxine-binding proteins, transthyretin in choroid plexus; generic.",
+   "dims": [
+    "molecular"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R329",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Ultrasound echogenicity of fetal telencephalic choroid plexus; generic plexus.",
+   "dims": [
+    "ontogeny"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R330",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Transthyretin gene expression in marsupial choroid plexus; generic.",
+   "dims": [
+    "molecular"
+   ],
+   "data_depth": "abstract"
+  }
+ ]
+}

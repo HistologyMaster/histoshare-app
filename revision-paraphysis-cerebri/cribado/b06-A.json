@@ -1,0 +1,500 @@
+{
+ "batch": "b06",
+ "reviewer": "A",
+ "decisions": [
+  {
+   "rid": "R234",
+   "decision": "include_B",
+   "reason_code": "context_clinical_histogenesis",
+   "reason": "Single-case EM of colloid cyst wall (squamous plus mucin-secreting columnar epithelium) argues non-neuroepithelial origin, weighing against a paraphyseal/neuroepithelial origin (clinical).",
+   "dims": [
+    "histology",
+    "pathology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R235",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Epiplexus cells on turtle embryonic choroid epithelium; generic choroid plexus cytology, no paraphysis link.",
+   "dims": [
+    "histology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R236",
+   "decision": "exclude",
+   "reason_code": "general_clinical",
+   "reason": "Case of mixed colloid cyst-xanthogranuloma; EM describes epithelial cell types but abstract gives no histogenetic conclusion or paraphysis reference.",
+   "dims": [
+    "histology",
+    "pathology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R237",
+   "decision": "include_A",
+   "reason_code": "paraphysis_data",
+   "reason": "Paraphysectomy of bullfrog tadpoles: parathyroid hyperplasia and fractures 22 months later; experimental data on paraphysis function (calcium metabolism).",
+   "dims": [
+    "physiology",
+    "pathology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R239",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Aminergic/cholinergic innervation of amphibian choroid plexus in three species; no paraphysis or dorsal-midline roof comparison in abstract.",
+   "dims": [
+    "histology",
+    "phylogeny"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R240",
+   "decision": "exclude",
+   "reason_code": "general_clinical",
+   "reason": "Case report of colloid cysts in twins; no histogenesis or paraphysis content.",
+   "dims": [
+    "pathology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R242",
+   "decision": "include_B",
+   "reason_code": "context_embryology",
+   "reason": "Human stage 11: defines telencephalon medium as the embryonic lamina terminalis (rostral neuropore closure); terminology baseline for locating the human paraphysis (ontogeny); weak link, no paraphysis mention.",
+   "dims": [
+    "ontogeny",
+    "terminology_history"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R243",
+   "decision": "include_B",
+   "reason_code": "context_function",
+   "reason": "Circadian amine rhythms in the turtle 'pineal-paraphyseal complex' measured as combined tissue; paraphysis not analysed separately, so only contextual physiology.",
+   "dims": [
+    "physiology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R244",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Pigeon subfornical organ lesion and drinking; functional circumventricular organ study, no paraphysis link.",
+   "dims": [
+    "physiology",
+    "phylogeny"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R245",
+   "decision": "include_A",
+   "reason_code": "paraphysis_data",
+   "reason": "Paraphysectomy (paraphyseal-choroid plexus complex removal) in adult bullfrogs stimulates parathyroids; experimental physiology/histology of the paraphysis.",
+   "dims": [
+    "physiology",
+    "histology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R246",
+   "decision": "include_A",
+   "reason_code": "paraphysis_data",
+   "reason": "Comparative survey of circumventricular organs: states paraphysis present in dogfish and osteoglossomorph teleosts and that the lungfish 'paraphysis' is a dorsal sac (phylogeny/terminology).",
+   "dims": [
+    "phylogeny",
+    "anatomy",
+    "terminology_history"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R247",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Subcommissural organ vascular/leptomeningeal projections in snake and turtle; SCO paper with no comparison to paraphysis.",
+   "dims": [
+    "histology",
+    "phylogeny"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R248",
+   "decision": "exclude",
+   "reason_code": "general_clinical",
+   "reason": "Fatal colloid cyst case; 'paraphyseal cyst' appears only as a synonym, no analysis or argument on paraphyseal origin.",
+   "dims": [
+    "pathology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R249",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Human stage 12 brain; only notes telencephalon medium enlarged, nothing locating the paraphysis.",
+   "dims": [
+    "ontogeny"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R250",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Freeze-fracture of rat ependyma and circumventricular organs; no paraphysis link.",
+   "dims": [
+    "histology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R251",
+   "decision": "include_B",
+   "reason_code": "context_function",
+   "reason": "Reserpine/chlorpromazine effects on amines in turtle 'pineal-paraphyseal complex' (combined tissue, paraphysis not separated); contextual physiology only.",
+   "dims": [
+    "physiology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R252",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Immunohistochemical subdivisions of lungfish telencephalon (pallium/subpallium homologies); abstract has no roof, dorsal sac or paraphysis content.",
+   "dims": [
+    "anatomy",
+    "phylogeny"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R253",
+   "decision": "include_B",
+   "reason_code": "context_clinical_histogenesis",
+   "reason": "Immunoperoxidase of 8 colloid cysts supports endodermal origin, bearing on whether a paraphyseal (neuroepithelial) origin is tenable (clinical).",
+   "dims": [
+    "histology",
+    "pathology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R255",
+   "decision": "include_B",
+   "reason_code": "context_clinical_histogenesis",
+   "reason": "Light/EM review of benign CNS cyst walls; colloid cysts usually neuroectodermal but features suggest endodermal origin, relevant to weighing the paraphyseal hypothesis (clinical).",
+   "dims": [
+    "histology",
+    "pathology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R256",
+   "decision": "exclude",
+   "reason_code": "general_clinical",
+   "reason": "Immunohistochemical panel of 14 intracranial cysts for diagnosis; only one colloid cyst, no histogenesis argument or paraphysis link.",
+   "dims": [
+    "histology",
+    "molecular"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R257",
+   "decision": "include_B",
+   "reason_code": "context_clinical_histogenesis",
+   "reason": "Colloid cyst case report; EM (microvilli with coating) used to argue endodermal origin; low-weight histogenesis evidence (clinical).",
+   "dims": [
+    "histology",
+    "pathology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R258",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "NPY mapping in chick brain; 'subseptal (subfornical) organ' terminology only, no paraphysis link.",
+   "dims": [
+    "anatomy"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R259",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Parietal eye masking and body temperature in Varanus; parietal eye is not the paraphysis (metadata only, title unambiguous).",
+   "dims": [
+    "physiology"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R260",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Human stage 13 brain; names adult lamina terminalis and commissural plate but nothing locating the paraphysis or roof.",
+   "dims": [
+    "ontogeny"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R261",
+   "decision": "include_B",
+   "reason_code": "context_embryology",
+   "reason": "Human stage 14: telencephalon medium and site of the velum transversum (roof thickness change) define the boundary region where the human paraphysis would arise (ontogeny).",
+   "dims": [
+    "ontogeny",
+    "anatomy"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R262",
+   "decision": "include_B",
+   "reason_code": "context_function",
+   "reason": "Circadian and photoperiod effects on amines in turtle 'pineal-paraphyseal complex' (combined tissue, paraphysis not separated); contextual physiology only.",
+   "dims": [
+    "physiology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R263",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Chick pineal cytodifferentiation; pineal only, no paraphysis link.",
+   "dims": [
+    "histology",
+    "ontogeny"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R265",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Bird vs mammal ADH/ANGII review including subfornical organ; no paraphysis link.",
+   "dims": [
+    "physiology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R266",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Sturgeon telencephalic choroid plexus vascular casting incl. dorsal-sac vessels; abstract never relates dorsal sac to paraphysis or homology.",
+   "dims": [
+    "anatomy",
+    "histology",
+    "phylogeny"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R268",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "SEM of supraependymal cells in chicken third ventricle; no paraphysis link.",
+   "dims": [
+    "histology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R269",
+   "decision": "include_B",
+   "reason_code": "context_clinical_histogenesis",
+   "reason": "Fourth-ventricle colloid cyst argued to share neuroepithelial origin with third-ventricle cysts via roof development; bears on whether a paraphysis-specific origin can hold (clinical/ontogeny).",
+   "dims": [
+    "ontogeny",
+    "pathology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R270",
+   "decision": "include_A",
+   "reason_code": "clinical_origin",
+   "reason": "Colloid-cyst immunohistochemistry explicitly weighs embryonic paraphysis vs tela choroidea vs choroid plexus/ependyma origins; concludes cysts are a primitive neuroectoderm anomaly distinct from choroid plexus.",
+   "dims": [
+    "histology",
+    "molecular",
+    "pathology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R271",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Holoprosencephaly/cyclopia embryos with absent mediobasal telencephalon; ventral midline, not the roof or paraphysis.",
+   "dims": [
+    "ontogeny",
+    "pathology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R272",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Human stage 16 brain; hemispheres and interventricular foramen, no roof or paraphysis content in abstract.",
+   "dims": [
+    "ontogeny"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R273",
+   "decision": "include_B",
+   "reason_code": "context_embryology",
+   "reason": "Human stage 17: choroid plexus anlage begins in the roof of telencephalon medium (vessels, necrosis, anterior choroid artery); locates the tela choroidea region adjoining the paraphysis (ontogeny).",
+   "dims": [
+    "ontogeny",
+    "histology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R274",
+   "decision": "include_B",
+   "reason_code": "context_function",
+   "reason": "Ambient temperature effects on amines in turtle 'pineal-paraphyseal complex' (combined tissue, paraphysis not separated); contextual physiology only.",
+   "dims": [
+    "physiology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R275",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Intraspinal genuine endodermal epithelial cyst; spinal case, no link to third-ventricle or paraphyseal origin.",
+   "dims": [
+    "histology",
+    "pathology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R276",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Review of intrapineal neuronal organisation in fish and amphibians (snippet only); pineal complex, no paraphysis content seen.",
+   "dims": [
+    "anatomy",
+    "physiology"
+   ],
+   "data_depth": "web_snippet"
+  },
+  {
+   "rid": "R277",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "HT7 blood-brain-barrier marker in chick circumventricular organs; no paraphysis link.",
+   "dims": [
+    "histology",
+    "molecular"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R278",
+   "decision": "exclude",
+   "reason_code": "general_clinical",
+   "reason": "Familial colloid cysts in two brothers; cell-of-origin controversy only mentioned, no histogenesis data or paraphysis discussion.",
+   "dims": [
+    "pathology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R279",
+   "decision": "exclude",
+   "reason_code": "no_paraphysis_link",
+   "reason": "Lacertilian parietal eye ganglion cells; parietal eye, not paraphysis.",
+   "dims": [
+    "histology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R280",
+   "decision": "include_A",
+   "reason_code": "paraphysis_principal",
+   "reason": "Vascular casting and TEM of frog paraphysis: sinusoidal portal bed fed by choroid plexus, fenestrated endothelium, possible calcium-metabolism role.",
+   "dims": [
+    "anatomy",
+    "histology",
+    "physiology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R281",
+   "decision": "include_A",
+   "reason_code": "paraphysis_principal",
+   "reason": "Ultrastructure of treefrog paraphysis, anterior choroid plexus and endolymphatic tubules; proposed functional unit regulating CSF composition.",
+   "dims": [
+    "anatomy",
+    "histology",
+    "phylogeny",
+    "physiology"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R282",
+   "decision": "uncertain",
+   "reason_code": "insufficient_info",
+   "reason": "Letter 'Ontogenesis of colloid cysts' (Kondziolka), no abstract; MeSH choroid plexus/immunohistochemistry. Reading the letter text would show whether it argues for or against a paraphyseal origin.",
+   "dims": [
+    "ontogeny",
+    "pathology"
+   ],
+   "data_depth": "metadata_only"
+  },
+  {
+   "rid": "R283",
+   "decision": "uncertain",
+   "reason_code": "insufficient_info",
+   "reason": "Human stages 18-20 (7th week) with choroid plexuses; abstract mentions only fourth/lateral ventricle plexuses, so whether the full text describes the paraphysis or telencephalon medium roof cannot be judged. Full text would resolve it.",
+   "dims": [
+    "ontogeny"
+   ],
+   "data_depth": "abstract"
+  },
+  {
+   "rid": "R284",
+   "decision": "uncertain",
+   "reason_code": "insufficient_info",
+   "reason": "Sarcopterygian telencephalon chapter (web snippet, title only); unclear whether it treats the lungfish roof, dorsal sac or paraphysis. Chapter text on the roof/dorsal sac would resolve it.",
+   "dims": [
+    "anatomy",
+    "phylogeny"
+   ],
+   "data_depth": "web_snippet"
+  }
+ ]
+}
