@@ -5,9 +5,6 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
 <title>Epitelios de revestimiento</title>
 <meta name="description" content="Atlas tridimensional de los epitelios de revestimiento: clasificación, estructuras rotuladas y ubicación en el cuerpo humano.">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&family=IBM+Plex+Sans:wght@400;500;600&display=swap">
 <style>
 /* Layout: columna de lectura académica + banda ancha del atlas (visor 3D a la izquierda, ficha a la derecha) */
 :root{
@@ -24,8 +21,8 @@
   --label-bg:rgba(255,255,255,.93);
   --leader:#2a2f40;
   --focus:#7a5cc4;
-  --font-display:"Newsreader","Iowan Old Style","Palatino Linotype",Georgia,serif;
-  --font-ui:"IBM Plex Sans","Segoe UI",system-ui,-apple-system,sans-serif;
+  --font-display:"Century Gothic","CenturyGothic","URW Gothic","URW Gothic L","TeX Gyre Adventor","AppleGothic",sans-serif;
+  --font-ui:var(--font-display);
   color-scheme:light;
 }
 @media (prefers-color-scheme: dark){
@@ -45,7 +42,7 @@
 
 *,*::before,*::after{box-sizing:border-box}
 html{-webkit-text-size-adjust:100%}
-body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--font-display);font-size:1.0625rem;line-height:1.62;font-optical-sizing:auto}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--font-display);font-size:1.0625rem;line-height:1.62;font-synthesis:none;-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility}
 [hidden]{display:none!important}
 a{color:var(--accent)}
 :focus-visible{outline:2px solid var(--focus);outline-offset:2px}
@@ -145,14 +142,12 @@ dl.criteria b{color:var(--ink);font-weight:600}
 .leaders path{fill:none;stroke:var(--leader);stroke-width:1;opacity:.75}
 .leaders circle{fill:var(--surface);stroke:var(--leader);stroke-width:1.4}
 .leaders .hot{stroke:var(--eosin);opacity:1;stroke-width:1.6}
-.callout{position:absolute;left:0;top:0;font-family:var(--font-ui);font-size:.76rem;line-height:1.25;color:var(--ink);background:var(--label-bg);border:1px solid var(--rule);padding:.28rem .45rem;border-radius:2px;display:flex;gap:.4rem;align-items:baseline;will-change:transform}
-.callout.left{flex-direction:row-reverse;text-align:right}
-.callout .cn{flex:none;font-weight:600;color:var(--accent);font-variant-numeric:tabular-nums}
-.callout.hot{border-color:var(--eosin);box-shadow:0 0 0 1px var(--eosin)}
-.labels.narrow .callout{padding:0;width:20px!important;height:20px;border-radius:50%;justify-content:center;align-items:center;background:var(--accent);border-color:var(--surface)}
-.labels.narrow .callout .cn{color:var(--surface);font-size:.7rem}
-.labels.narrow .callout .ct{display:none}
-.labels.narrow .callout.hot{background:var(--eosin)}
+.callout{position:absolute;left:0;top:0;width:16px;height:16px;margin:-8px 0 0 -8px;border-radius:50%;background:var(--surface);border:2px solid var(--leader);box-shadow:0 1px 3px rgba(0,0,0,.35);pointer-events:auto;cursor:help;will-change:transform;outline:none}
+.callout::after{content:"";position:absolute;inset:3px;border-radius:50%;background:var(--accent)}
+.callout .ct{position:absolute;left:22px;top:50%;transform:translateY(-50%);white-space:nowrap;font-family:var(--font-ui);font-size:.82rem;line-height:1.25;color:var(--ink);background:var(--label-bg);border:1px solid var(--rule);padding:.3rem .55rem;border-radius:3px;box-shadow:0 2px 8px rgba(0,0,0,.18);opacity:0;visibility:hidden;transition:opacity .12s;pointer-events:none;z-index:2}
+.callout.flip .ct{left:auto;right:22px}
+.callout:hover,.callout:focus-visible,.callout.hot{border-color:var(--eosin);z-index:3}
+.callout:hover .ct,.callout:focus .ct,.callout.hot .ct{opacity:1;visibility:visible}
 .stage-msg{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;text-align:center;padding:2rem;font-family:var(--font-ui);font-size:.9rem;color:var(--ink-2)}
 .figcap{font-family:var(--font-ui);font-size:.76rem;color:var(--ink-2);padding:.55rem .8rem;border-top:1px solid var(--rule);display:flex;justify-content:space-between;gap:.4rem 1rem;flex-wrap:wrap}
 
@@ -340,7 +335,7 @@ footer li{margin-bottom:.35rem}
             <div class="stage-msg" id="stage-msg">Cargando modelo 3D…</div>
           </div>
           <figcaption class="figcap">
-            <span>Arrastre para rotar · rueda o pellizco para acercar · clic derecho o dos dedos para desplazar</span>
+            <span>Pase el cursor sobre un punto para ver el nombre de la estructura · arrastre para rotar · rueda o pellizco para acercar · clic derecho o dos dedos para desplazar</span>
             <span>Modelo esquemático, no a escala</span>
           </figcaption>
         </figure>
@@ -2534,15 +2529,11 @@ footer li{margin-bottom:.35rem}
     return b.anchors;
   }
 
-  const colW = (w) => Math.round(Math.min(215, Math.max(140, w * 0.21)));
-  const isNarrow = () => stage.clientWidth < 640;
 
   // Distancia que encuadra las 8 esquinas del bloque, dejando espacio lateral para los rótulos
   function fitDistance(dir, target) {
     const w = stage.clientWidth || 600, h = stage.clientHeight || 400;
-    const wide = current.labels && !isNarrow();
-    const ax = wide ? Math.max(0.36, (w - 2 * (colW(w) + 18)) / w) : (current.labels ? 0.84 : 0.9);
-    const ay = current.labels ? 0.8 : 0.86;
+    const ax = 0.88, ay = 0.84;
     const bx = fitInfo.box, pts = [];
     [bx.min.x, bx.max.x].forEach((x) => [bx.min.y, bx.max.y].forEach((y) => [bx.min.z, bx.max.z].forEach((z) => pts.push(V(x, y, z)))));
     const cam = camera.clone();
@@ -2579,25 +2570,17 @@ footer li{margin-bottom:.35rem}
       if (!a) return;
       const el = document.createElement('div');
       el.className = 'callout';
-      const n = document.createElement('span'); n.className = 'cn'; n.textContent = String(i + 1);
+      el.tabIndex = 0; el.setAttribute('role', 'img'); el.setAttribute('aria-label', s.t);
       const t = document.createElement('span'); t.className = 'ct'; t.textContent = s.t;
-      el.append(n, t);
+      el.append(t);
       labelsEl.appendChild(el);
-      const path = document.createElementNS(NS, 'path');
-      const dot = document.createElementNS(NS, 'circle'); dot.setAttribute('r', '3.4');
-      svg.append(path, dot);
-      labelItems.push({ k: s.k, el, path, dot, anchor: a, h: 0 });
+      labelItems.push({ k: s.k, el, anchor: a });
     });
     measure();
     applyHot();
   }
 
   function measure() {
-    const narrow = isNarrow();
-    labelsEl.classList.toggle('narrow', narrow);
-    const cw = colW(stage.clientWidth);
-    labelItems.forEach((L) => { L.el.style.width = narrow ? '' : cw + 'px'; });
-    labelItems.forEach((L) => { L.h = L.el.offsetHeight; });
     dirty = true;
   }
 
@@ -2605,76 +2588,22 @@ footer li{margin-bottom:.35rem}
     labelItems.forEach((L) => {
       const on = L.k === hotKey;
       L.el.classList.toggle('hot', on);
-      L.path.classList.toggle('hot', on);
-      L.dot.classList.toggle('hot', on);
     });
   }
 
   const tmp = new THREE.Vector3();
+  // Solo puntos sobre cada estructura; el nombre aparece al pasar el cursor (o al tocar/enfocar el punto)
   function layoutLabels() {
     if (!current.labels || !labelItems.length) return;
     const w = stage.clientWidth, h = stage.clientHeight;
-    const narrow = isNarrow();
-    const proj = labelItems.map((L) => {
+    labelItems.forEach((L) => {
       tmp.copy(L.anchor).project(camera);
-      return { L, x: (tmp.x * 0.5 + 0.5) * w, y: (-tmp.y * 0.5 + 0.5) * h };
+      const x = (tmp.x * 0.5 + 0.5) * w, y = (-tmp.y * 0.5 + 0.5) * h;
+      const off = x < 4 || x > w - 4 || y < 4 || y > h - 4 || tmp.z > 1;
+      L.el.hidden = off;
+      L.el.classList.toggle('flip', x > w * 0.6);
+      L.el.style.transform = `translate(${x.toFixed(1)}px, ${y.toFixed(1)}px)`;
     });
-    if (narrow) {
-      proj.forEach(({ L, x, y }) => {
-        L.el.hidden = x < 0 || x > w || y < 0 || y > h;
-        L.el.style.transform = `translate(${(x - 10).toFixed(1)}px, ${(y - 10).toFixed(1)}px)`;
-        L.path.setAttribute('d', '');
-        L.dot.setAttribute('cx', '-20'); L.dot.setAttribute('cy', '-20');
-      });
-      return;
-    }
-    tmp.copy(controls.target).project(camera);
-    const cx = (tmp.x * 0.5 + 0.5) * w;
-    const pad = 10, gap = 5, cw = colW(w);
-    const place = (list, left) => {
-      list.sort((a, b) => a.y - b.y);
-      let prev = pad - gap;
-      list.forEach((p) => { p.top = Math.max(p.y - p.L.h / 2, prev + gap); prev = p.top + p.L.h; });
-      let limit = h - pad;
-      for (let i = list.length - 1; i >= 0; i--) { const p = list[i]; if (p.top + p.L.h > limit) p.top = limit - p.L.h; limit = p.top - gap; }
-      list.forEach((p) => {
-        const lx = left ? pad : w - pad - cw;
-        p.L.el.classList.toggle('left', left);
-        p.L.el.style.transform = `translate(${lx}px, ${p.top.toFixed(1)}px)`;
-        const ex = left ? pad + cw : w - pad - cw, ey = p.top + p.L.h / 2;
-        const elbow = left ? ex + 12 : ex - 12;
-        p.L.path.setAttribute('d', `M${ex},${ey.toFixed(1)} L${elbow},${ey.toFixed(1)} L${p.x.toFixed(1)},${p.y.toFixed(1)}`);
-        p.L.dot.setAttribute('cx', p.x.toFixed(1)); p.L.dot.setAttribute('cy', p.y.toFixed(1));
-      });
-    };
-    // Oculta los rótulos cuya estructura quedó fuera de la vista (al acercar el modelo); si la estructura quedaría
-    // tapada por su propia columna de rótulos, el rótulo pasa a la columna del otro lado
-    const vis = [];
-    proj.forEach((p) => {
-      const off = p.x < 4 || p.x > w - 4 || p.y < 4 || p.y > h - 4;
-      p.L.el.hidden = off; p.L.path.style.display = off ? 'none' : ''; p.L.dot.style.display = off ? 'none' : '';
-      if (!off) vis.push(p);
-    });
-    const underL = (p) => p.x < pad + cw + 6, underR = (p) => p.x > w - pad - cw - 6;
-    const left = [], right = [];
-    vis.forEach((p) => {
-      let side = p.x < cx ? 'L' : 'R';
-      if (side === 'L' && underL(p) && !underR(p)) side = 'R';
-      if (side === 'R' && underR(p) && !underL(p)) side = 'L';
-      p.fixed = (side === 'L' && underR(p)) || (side === 'R' && underL(p));
-      (side === 'L' ? left : right).push(p);
-    });
-    // Reparte los rótulos entre ambas columnas: si un lado queda muy cargado, pasan al otro los más cercanos al centro
-    const movable = (arr) => arr.filter((p) => !p.fixed && !(arr === left ? underR(p) : underL(p)));
-    const byCenter = (a, b) => Math.abs(a.x - cx) - Math.abs(b.x - cx);
-    for (let guard = 0; guard < 20 && left.length - right.length > 1; guard++) {
-      const m = movable(left).sort(byCenter)[0]; if (!m) break; left.splice(left.indexOf(m), 1); right.push(m);
-    }
-    for (let guard = 0; guard < 20 && right.length - left.length > 1; guard++) {
-      const m = movable(right).sort(byCenter)[0]; if (!m) break; right.splice(right.indexOf(m), 1); left.push(m);
-    }
-    place(left, true);
-    place(right, false);
   }
 
   function setLabelsVisible(on) {
@@ -2690,20 +2619,17 @@ footer li{margin-bottom:.35rem}
     measure();
     dirty = true;
   }
-  new ResizeObserver(() => { const wasNarrow = labelsEl.classList.contains('narrow'); resize(); if (wasNarrow !== isNarrow()) frame(false, false); }).observe(stage);
+  new ResizeObserver(() => { resize(); }).observe(stage);
 
   function update(st) {
     if (!st) return;
     const modelChanged = st.id !== current.id;
     const variantChanged = st.variant !== current.variant;
-    const labelsChanged = st.labels !== current.labels;
     current = { id: st.id, variant: st.variant, labels: st.labels };
     if (modelChanged || variantChanged) {
       const anchors = buildModel(st.id, st.variant);
       buildLabels(st.estructuras, anchors);
       frame(modelChanged, false);
-    } else if (labelsChanged) {
-      frame(false, true);
     }
     setLabelsVisible(st.labels);
     dirty = true;
