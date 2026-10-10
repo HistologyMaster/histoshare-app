@@ -1,120 +1,120 @@
 [
  {
-  "cid": "S1-021",
+  "cid": "S3-041",
   "verdict": "supported",
   "issue": "",
   "fix": ""
  },
  {
-  "cid": "S1-022",
+  "cid": "S3-042",
   "verdict": "supported",
   "issue": "",
   "fix": ""
  },
  {
-  "cid": "S1-023",
+  "cid": "S3-043",
   "verdict": "supported",
   "issue": "",
   "fix": ""
  },
  {
-  "cid": "S1-024",
+  "cid": "S3-044",
   "verdict": "supported",
   "issue": "",
   "fix": ""
  },
  {
-  "cid": "S1-025",
+  "cid": "S3-045",
   "verdict": "supported",
   "issue": "",
   "fix": ""
  },
  {
-  "cid": "S1-026",
+  "cid": "S3-046",
   "verdict": "supported",
   "issue": "",
   "fix": ""
  },
  {
-  "cid": "S1-027",
+  "cid": "S3-047",
   "verdict": "supported",
   "issue": "",
   "fix": ""
  },
  {
-  "cid": "S1-028",
-  "verdict": "supported",
-  "issue": "",
-  "fix": ""
- },
- {
-  "cid": "S1-029",
-  "verdict": "supported",
-  "issue": "",
-  "fix": ""
- },
- {
-  "cid": "S1-030",
+  "cid": "S3-048",
   "verdict": "needs_hedge",
-  "issue": "«la equivalencia entre estos dos descansa solo en el juicio de Tsuneki»: exclusivity claim about the whole corpus; R246.2 only shows Tsuneki's judgement, it cannot show that no other record makes the same equation (the finder note on R079 says the structure was 'later reinterpreted by some as dorsal sac'). The rest of the sentence (three labels, R005.1/R079.t/R246.2, corpus not showing coronarium equivalence) is supported.",
-  "fix": "...; el corpus recuperado no muestra que «coronarium» equivalga a «paraphysis» o «dorsal sac», y la equivalencia entre estos dos rótulos se apoya aquí en el juicio de Tsuneki (según el resumen)."
+  "issue": "\"En el corpus recuperado, los datos ontogénicos directos sobre aves son fragmentos no verificados\" is a corpus-wide exclusivity claim the two cited markers (R014.2, R014.m2, both from the Dexter excerpt) cannot support; the corpus also holds full-text/excerpt bird data not in these fragments (R511: chicken embryos HH33-HH37 with paraphyseal Pax7 labelling 'mainly in anamniotes'; R447 quail-chick, paraphysis in p3).",
+  "fix": "En el corpus recuperado, los datos ontogénicos directos sobre la morfología de la paráfisis de aves que se citan aquí provienen de fragmentos no verificados: según uno, Dexter (1902) informa ..."
  },
  {
-  "cid": "S1-031",
+  "cid": "S3-049",
   "verdict": "supported",
   "issue": "",
   "fix": ""
  },
  {
-  "cid": "S1-032",
+  "cid": "S3-050",
   "verdict": "supported",
   "issue": "",
   "fix": ""
  },
  {
-  "cid": "S1-033",
+  "cid": "S3-051",
   "verdict": "supported",
   "issue": "",
   "fix": ""
  },
  {
-  "cid": "S1-034",
+  "cid": "S3-052",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S3-053",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S3-054",
   "verdict": "ok_uncited",
   "issue": "",
   "fix": ""
  },
  {
-  "cid": "S1-035",
+  "cid": "S3-055",
   "verdict": "supported",
   "issue": "",
   "fix": ""
  },
  {
-  "cid": "S1-036",
+  "cid": "S3-056",
   "verdict": "supported",
   "issue": "",
   "fix": ""
  },
  {
-  "cid": "S1-037",
-  "verdict": "ok_uncited",
-  "issue": "",
-  "fix": ""
- },
- {
-  "cid": "S1-038",
+  "cid": "S3-057",
   "verdict": "supported",
   "issue": "",
   "fix": ""
  },
  {
-  "cid": "S1-039",
+  "cid": "S3-058",
   "verdict": "supported",
   "issue": "",
   "fix": ""
  },
  {
-  "cid": "S1-040",
+  "cid": "S3-059",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S3-060",
   "verdict": "supported",
   "issue": "",
   "fix": ""

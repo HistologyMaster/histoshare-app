@@ -1,0 +1,122 @@
+[
+ {
+  "cid": "F-001",
+  "verdict": "partial",
+  "issue": "«es una estructura del techo del prosencéfalo»: R065.4 only says «an out-pouching from the front of the 3rd ventricle ... by a derivative of ependyma» (secondary_report, OCR-garbled; extraction notes 'no telencephalic or diencephalic assignment stated'). The forebrain-roof placement is not in the cited source (the 1954 clinico-pathological conference does not say it). The rest (evaginación del frente del tercer ventrículo, derivado del epéndimo, 1954) is supported.",
+  "fix": "La paráfisis (*paraphysis cerebri*) fue descrita en un caso clínico-patológico de 1954 como una evaginación del frente del tercer ventrículo vinculada a un derivado del epéndimo [@R065.4]; su asignación al techo telencefálico o diencefálico es discutida [@R485.1]."
+ },
+ {
+  "cid": "F-002",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "F-003",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "F-004",
+  "verdict": "ok_uncited",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "F-005",
+  "verdict": "partial",
+  "issue": "(a) «en la producción o el intercambio del líquido cefalorraquídeo [R320.2; R467.2]»: R320.2 (secretes glycoprotein contributing to CSF production) and R467.2 («possibly the main site of CSF production») support only production; «intercambio» is not stated by these markers (it is in uncited R217.6/R320.3). (b) «la regulación del calcio y de la función paratiroidea [R226.5; R245.5]»: R245.5 proposes the role for the «paraphyseal-choroid plexus complex», not for the paraphysis alone (the review itself says so in F-018/F-019). Sjövall and 'origen en debate' parts are supported.",
+  "fix": "Se ha propuesto que interviene en la regulación del calcio [@R226.5] y que el complejo paráfisis-plexo coroideo participa en la función paratiroidea [@R245.5], y en la producción del líquido cefalorraquídeo [@R320.2; @R467.2] o en el intercambio de sustancias entre sangre y LCR [@R217.6; @R320.3]; la hipótesis atribuida a Sjövall ... [@R517.1], cuyo verdadero origen sigue en debate [@R517.6]."
+ },
+ {
+  "cid": "F-006",
+  "verdict": "ok_uncited",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "F-007",
+  "verdict": "ok_uncited",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "F-008",
+  "verdict": "ok_uncited",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "F-009",
+  "verdict": "needs_hedge",
+  "issue": "«Las fuentes la sitúan en el techo telencefálico, rostral al velum transversum [R492.6]»: plural 'fuentes' rests on one marker, a secondary_report (Bandín citing Warren: «was described within the telencephalon because it is located rostral to the velum transversum»), not on an author's own placement; and «emplean el término también para un saco dorsal [R246.2]»: Tsuneki states the opposite, that the «so-called paraphysis of the lungfish is not a paraphysis, but a dorsal sac» (his own judgement); the source does not show that sources use the term for a dorsal sac (F-003 words it correctly as «lo que otros autores llaman saco dorsal»). The diencephalic/p3 and epithalamic-diverticulum parts are supported.",
+  "fix": "Según Bandín, que remite a Warren, se la describió dentro del telencéfalo, rostral al velum transversum [@R492.6]; otros autores la sitúan en el techo diencefálico o en el prosómero 3 [@R110.2; @R497.2; @R447.1; @R599.1]; y el término se ha aplicado también a lo que Tsuneki considera un saco dorsal [@R246.2] y a un divertículo epitalámico izquierdo [@R455.1]."
+ },
+ {
+  "cid": "F-010",
+  "verdict": "needs_hedge",
+  "issue": "«el corpus no contiene un estudio que la resuelva en un mismo taxón»: corpus-wide absence claim that the three markers cannot support; Joven 2013 (R497.2) itself concludes in Pleurodeles that the paraphysis is «more likely belonging to» p3, and Shuangshoti 1966 (R110.2-R110.3) argues for a diencephalic assignment in amphibians; only 7 of 113 specific works were read in full text and 44 are title-only. The attributions (Kappers per Joven 2012; Joven 2013; Rivas-Manzano 2022) and «no parece depender del taxón» are supported.",
+  "fix": "... no parece depender del taxón, y entre los textos leídos no se identificó un estudio que la resuelva de forma concluyente en un mismo taxón."
+ },
+ {
+  "cid": "F-011",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "F-012",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "F-013",
+  "verdict": "partial",
+  "issue": "(1) «El único marcador molecular con datos en la paráfisis es Pax7»: exclusivity contradicted within the corpus by R467.1 (V2-type AVT receptor mRNA and immunoreactivity in the newt paraphysis; also R485.4) and by Ca++-ATPase cytochemistry (R233.1); cited markers cannot show 'único'. (2) «con ubicaciones discrepantes entre trabajos [R492.4; R497.2]»: R492.4 is Bandín's secondary paraphrase of Joven et al. (the same work as R497, which places it at the p3/evaginated-telencephalon limit, 'more likely p3'), so the pair does not show two works disagreeing; R492.6 or R447.1 vs R497.2 would. (3) «la cronología humana difiere según la fuente»: stage 18, 'after CS19' and '7th week' are not shown to conflict (R285 abstract maps stages 11-23 to 4-8 weeks, so stage 18-19 falls around 6-7 weeks); they differ in wording, not demonstrably in date. The three quoted human statements themselves are accurately reported, with R370.1 correctly flagged as unverified.",
+  "fix": "Pax7 es el marcador molecular con más datos de expresión en la paráfisis [@R497.1; @R492.1; @R511.2] (otro registro describe el receptor V2 de arginina vasotocina en la paráfisis del tritón [@R467.1]), con asignaciones de ubicación distintas entre trabajos [@R492.6; @R497.2], y la cronología humana se expresa de modos distintos: «apareciendo» en el estadio 18 [@R285.1], detectada al menos después de CS19 [@R501.1] o desarrollada en la séptima semana según un fragmento no verificado [@R370.1]."
+ },
+ {
+  "cid": "F-014",
+  "verdict": "needs_citation",
+  "issue": "«esas cifras no pueden armonizarse»: not inferable from the preceding cited sentence and not supported by the corpus. Stage 18 («appearing», R285.1), detection «at least after CS19» (R501.1) and '7th week' (R370.1) are expressed in different scales and are not shown to be incompatible; per R285's own stage-to-week range (stages 11-23 = 4-8 weeks) stages 18-19 fall around 6-7 weeks. The second half («la ontogenia no permite decidir el origen») is a fair interpretation of limited evidence.",
+  "fix": "Interpretación de esta revisión: esas cronologías se expresan en escalas distintas (estadio, semana) y con verbos distintos, y los extractos no permiten comprobar si coinciden; con la evidencia leída, la ontogenia no permite decidir el origen de la estructura."
+ },
+ {
+  "cid": "F-015",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "F-016",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "F-017",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "F-018",
+  "verdict": "overstated",
+  "issue": "«El único conjunto experimental con efecto medido es la paraphysectomía en la rana toro»: corpus-wide exclusivity contradicted by other experimental_result findings on the paraphysis, e.g. R560.1/R560.2 (MEMRI signal change in the frog paraphysis after calls, significant vs silence), R233.3 (Ca++-ATPase activity altered by Ca/Mg), R152.1 (5-HTP labelling in lizard) and the amine experiments on the pineal-paraphyseal complex (R243.1, R262.2, R274.1, R294.1). Cited markers (R226.2, R237.2, R245.2) show only that these three works report effects after paraphysectomy in Rana catesbeiana. The rest (hypocalcemia, parathyroid changes, complex removed in R245.1) is supported.",
+  "fix": "Los únicos experimentos de ablación de la paráfisis con efecto medido entre los registros leídos son los de paraphysectomía en la rana toro, con hipocalcemia y cambios paratiroideos [@R226.2; @R237.2; @R245.2], pero en uno de los trabajos se retiró el complejo paráfisis-plexo coroideo [@R245.1]."
+ },
+ {
+  "cid": "F-019",
+  "verdict": "ok_uncited",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "F-020",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ }
+]

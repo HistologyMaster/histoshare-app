@@ -1,0 +1,32 @@
+[
+ {
+  "cid": "S1-001",
+  "verdict": "ok_uncited",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-073",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "F-013",
+  "verdict": "needs_hedge",
+  "issue": "«en tres trabajos» is a corpus-wide count/exclusivity the three markers cannot support: the review itself cites a further report of Pax7 in the paraphysis (chick, Nomura et al., via Bandín) at R492.5/R492.m2. Each of R497.1, R492.1 and R511.2 is accurately reported (species, weak signal, 'mainly in anamniotes', no species itemised), but the number is not established by them.",
+  "fix": "Pax7 se informa en la paráfisis, o en estructuras membranosas que la contienen, al menos en tres trabajos del corpus: en *Pleurodeles waltl* [@R497.1], con señal débil en embriones de *Xenopus laevis* [@R492.1] y, sin detallar especies, «sobre todo en anamniotas» [@R511.2]; además, Bandín cita a Nomura et al. para el pollo [@R492.5]."
+ },
+ {
+  "cid": "F-018",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "F-024",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ }
+]

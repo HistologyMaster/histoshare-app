@@ -154,22 +154,27 @@ T_SEARCH = tbl(['Canal', 'Consultas registradas', 'Registros brutos aportados'],
  ['Búsqueda web (descubrimiento; resultados no verificados)', vals['N_Q_WEB'], pc['raw_by_source_db'].get('web', 0)],
  ['**Total**', vals['N_QUERIES'], pc['raw_records']],
 ])
-# verification table
-vrows = []
-tot_c = tot_f1 = tot_f2 = 0
-for s in SEC:
+# verification table (rounds: 1 = first draft; 3 = full pass over the near-final text; 4 = re-check of corrected claims)
+def vstats(sec, rnd):
+    k = bad = 0
+    pats = glob.glob(os.path.join(SY, 'verify', f'{sec}-r{rnd}-*.json')) if rnd < 4 else glob.glob(os.path.join(SY, 'verify', f'r{rnd}-*.json'))
+    for f in pats:
+        for x in json.load(open(f, encoding='utf-8')):
+            if rnd >= 4 and not x['cid'].startswith(sec + '-'): continue
+            k += 1
+            if x['verdict'] not in ('supported', 'ok_uncited'): bad += 1
+    return k, bad
+vrows = []; tot = collections.Counter()
+for s in SEC + ['F']:
     cf = os.path.join(SY, 'claims', f'{s}.json')
     if not os.path.exists(cf): continue
     n = len(json.load(open(cf, encoding='utf-8')))
-    def vc(r):
-        c = collections.Counter(); k = 0
-        for f in glob.glob(os.path.join(SY, 'verify', f'{s}-r{r}-*.json')):
-            for x in json.load(open(f, encoding='utf-8')): c[x['verdict']] += 1; k += 1
-        bad = sum(v for kk, v in c.items() if kk not in ('supported', 'ok_uncited'))
-        return k, bad
-    k1, b1 = vc(1); k2, b2 = vc(2)
-    vrows.append([s, n, f'{k1} / {b1}', (f'{k2} / {b2}' if k2 else '—')])
-T_VERIF = tbl(['Sección', 'Afirmaciones en el texto final', 'Ronda 1: verificadas / señaladas', 'Ronda 2: verificadas / señaladas'], vrows) if vrows else ''
+    r1 = vstats(s, 1) if s != 'F' else (0, 0); r3 = vstats(s, 3); r4 = vstats(s, 4); r5 = vstats(s, 5)
+    vrows.append([s if s != 'F' else 'F (intro., discusión, conclusiones, resúmenes)', n, f'{r1[0]} / {r1[1]}' if r1[0] else '—', f'{r3[0]} / {r3[1]}', f'{r4[0]} / {r4[1]}' if r4[0] else '—', f'{r5[0]} / {r5[1]}' if r5[0] else '—'])
+    tot['n'] += n; tot['r1k'] += r1[0]; tot['r1b'] += r1[1]; tot['r3k'] += r3[0]; tot['r3b'] += r3[1]; tot['r4k'] += r4[0]; tot['r4b'] += r4[1]; tot['r5k'] += r5[0]; tot['r5b'] += r5[1]
+vrows.append(['**Total**', tot['n'], f"{tot['r1k']} / {tot['r1b']}", f"{tot['r3k']} / {tot['r3b']}", f"{tot['r4k']} / {tot['r4b']}", f"{tot['r5k']} / {tot['r5b']}"])
+T_VERIF = tbl(['Sección', 'Afirmaciones en el texto final', 'Ronda 1 (borrador): verificadas / señaladas', 'Ronda 3 (pasada completa): verificadas / señaladas', 'Ronda 4 (reescritas): verificadas / señaladas', 'Ronda 5 (reescritas): verificadas / señaladas'], vrows)
+vals.update({'V_R3_N': tot['r3k'], 'V_R3_BAD': tot['r3b'], 'V_R4_N': tot['r4k'], 'V_R4_BAD': tot['r4b'], 'V_R5_N': tot['r5k'], 'V_R5_BAD': tot['r5b']})
 TABS = {'T_DEPTH': T_DEPTH, 'T_ABOUT': T_ABOUT, 'T_DEC': T_DEC, 'T_TAXA': T_TAXA, 'T_FLOW': T_FLOW, 'T_SEARCH': T_SEARCH, 'T_VERIF': T_VERIF}
 def fill_tabs(t):
     for k, v in TABS.items(): t = t.replace('{{' + k + '}}', v)
@@ -233,8 +238,8 @@ for rid, r in sorted(db.items(), key=lambda x: (x[1]['bib']['year'] or 9999, x[0
     n = order.index(ck) + 1 if ck in order else '—'
     rowsB.append([rid, n, (b['authors'] or '—').split(',')[0][:24], b['year'] or 's. f.', r['tier'], depth_label[e['data_depth']], lab.get(e['about_paraphysis'], e['about_paraphysis']), {'yes': 'núcleo', 'context_only': 'contexto', 'no': 'no usado'}.get(e['include_in_synthesis'], e['include_in_synthesis'])])
 AX_B = '## Anexo B. Registros con contenido extraído\n\nProfundidad real de lectura y uso en la síntesis. "N.º ref." remite a la lista de referencias (— = no citado en el texto).\n\n' + tbl(['ID', 'N.º ref.', 'Primer autor', 'Año', 'Nivel', 'Profundidad', 'Paráfisis en la fuente', 'Uso'], rowsB)
-AX_C = '## Anexo C. Verificación independiente de afirmaciones\n\nCada oración con contenido empírico fue contrastada por un verificador independiente (agente de IA distinto del redactor) con el hallazgo extraído, la cita literal y el texto fuente guardado. "Señaladas" son las afirmaciones con veredicto distinto de *supported* u *ok_uncited* (excesivas, parcialmente respaldadas, mal atribuidas, sin matiz o sin cita). Las secciones con afirmaciones señaladas se reescribieron y se verificaron de nuevo.\n\n' + T_VERIF
-final = body + '\n\n' + refs_md + '\n\n' + AX_A + '\n\n' + AX_B + '\n\n' + AX_C + '\n'
+AX_C = '## Anexo C. Verificación independiente de afirmaciones\n\nCada oración con contenido empírico fue contrastada por un verificador independiente (agente de IA distinto del redactor) con el hallazgo extraído, la cita literal y el texto fuente guardado. "Señaladas" son las afirmaciones con veredicto distinto de *supported* u *ok_uncited* (excesivas, parcialmente respaldadas, mal atribuidas, sin matiz o sin cita). El proceso tuvo cinco rondas: (1) verificación del borrador y reescritura de lo señalado; (2) reverificación de las secciones reescritas (parcialmente reejecutada por interrupciones de sesión, por lo que no se tabula); (3) pasada completa y limpia sobre el texto casi definitivo de todas las secciones y de las partes integradoras, con verificadores nuevos; y (4–5) reverificación de las afirmaciones reescritas tras la ronda 3 (la ronda 4 señaló {{V_R4_BAD}} de {{V_R4_N}} y la ronda 5, {{V_R5_BAD}} de {{V_R5_N}}). La ronda 3 señaló {{V_R3_BAD}} de {{V_R3_N}} afirmaciones, casi todas por exclusividad o cuantificación sin respaldo ("el único", "la mayor parte") o por generalizar de una especie al conjunto; todas se reescribieron. Tras la ronda 5, una afirmación (la del párrafo de ontogenia de la Discusión sobre Pax7, ahora «en al menos tres trabajos») se ajustó con la redacción sugerida por el propio verificador y no se sometió a una ronda adicional.\n\n' + T_VERIF + '\n'
+final = body + '\n\n' + refs_md + '\n\n' + AX_A + '\n\n' + AX_B + '\n\n' + fill(AX_C) + '\n'
 open(os.path.join(OUT, 'revision_paraphysis_cerebri.md'), 'w', encoding='utf-8').write(final)
 with open(os.path.join(OUT, 'referencias_mapa.csv'), 'w', newline='', encoding='utf-8') as fh:
     w = csv.writer(fh); w.writerow(['n', 'rid', 'pmid', 'doi', 'verificada'])

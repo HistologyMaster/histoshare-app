@@ -1,0 +1,122 @@
+[
+ {
+  "cid": "S1-001",
+  "verdict": "needs_citation",
+  "issue": "«Esta sección se apoya en 67 registros»: the 67/44/2/8/6/7/15-of-23 figures reproduce exactly from the extraction DB (records with a terminology finding, plus identified-only), but 8 of those 67 are never cited in S1 (R138, R155, R193, R270, R286, R327, R588, R651). With «Se citan además 19» this implies 86 cited records; S1 actually cites 78 (59 + 19).",
+  "fix": "Esta sección considera 67 registros con hallazgos de terminología sobre la paráfisis (59 de ellos citados en el texto): 44 conocidos solo por título y metadatos, 2 a texto completo, 8 a nivel de resumen, 6 como extractos parciales y 7 como fragmentos secundarios de resúmenes web, no verificados; 15 de los 23 registros con contenido son de contexto."
+ },
+ {
+  "cid": "S1-002",
+  "verdict": "ok_uncited",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-003",
+  "verdict": "ok_uncited",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-004",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-005",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-006",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-007",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-008",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-009",
+  "verdict": "ok_uncited",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-010",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-011",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-012",
+  "verdict": "ok_uncited",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-013",
+  "verdict": "ok_uncited",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-014",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-015",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-016",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-017",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-018",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-019",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-020",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ }
+]

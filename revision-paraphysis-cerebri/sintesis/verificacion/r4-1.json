@@ -1,0 +1,56 @@
+[
+ {
+  "cid": "S1-001",
+  "verdict": "partial",
+  "issue": "Counts reproduce from the DB (67 = 44 title-only + 23 with content; 59 cited; 15 of 23 context; 19 other-dimension), but the colon after \"59 de ellos citados en el texto: 44 conocidos solo por título..., 2..., 8..., 6..., 7...\" attaches the breakdown to the 59, while it sums to 67 (actual breakdown of the 59 cited: 43 title, 2 full text, 4 abstract, 5 excerpt, 5 secondary). Also \"67 registros con hallazgos de terminología\" includes 44 title-only records that have no findings.",
+  "fix": "Esta sección considera 67 registros: 23 con hallazgos de terminología sobre la paráfisis (2 a texto completo, 8 a nivel de resumen, 6 como extractos parciales y 7 como fragmentos secundarios de resúmenes web, no verificados; 15 de ellos de contexto) y 44 conocidos solo por título y metadatos; 59 de los 67 se citan en el texto."
+ },
+ {
+  "cid": "S1-030",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-099",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-045",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-073",
+  "verdict": "needs_hedge",
+  "issue": "\"de Ariens Kappers (1956) consta el título [@R074.t] y, de segunda mano, la posición citada por Joven (2012) [@R485.m1]\": presents Joven's reference as the same work as R074 (Prog Neurobiol 1956). The Joven excerpt prints only \"ArinsKappers, 1956\" with no reference details, and the corpus holds another 1956 Kappers work (R076, Scylliorhinus); the identification is an inference, not shown.",
+  "fix": "En esta revisión no se encontraron datos de contenido directos sobre varios trabajos clásicos conocidos solo por su título, como Ariëns-Kappers (1950) sobre urodelos [@R054.t] y Trost (1953) sobre tres reptiles [@R064.t]; de Ariens Kappers (1956, Progress in Neurobiology) consta el título [@R074.t]; aparte, Joven (2012) atribuye a «ArinsKappers, 1956» (tal como se imprime; el extracto no identifica la obra) la descripción del órgano telencefálico posterior adyacente al plexo coroideo [@R485.m1]."
+ },
+ {
+  "cid": "S3-003",
+  "verdict": "ok_uncited",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S3-048",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S4-003",
+  "verdict": "ok_uncited",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S5-076",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ }
+]

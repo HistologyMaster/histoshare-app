@@ -415,7 +415,7 @@
  {
   "cid": "S2-045",
   "kind": "cited",
-  "text": "A nivel de resumen, las observaciones de presencia o ausencia en peces con especie nombrada son dos: paráfisis en *Mustelus* y en los osteoglosomorfos *Osteoglossum* y *Gnathonemus* [@R246.1], y paráfisis presente en *Bathylagus wesethi* y ausente, junto con el saco dorsal, en *Nezumia liolepis* [@R160.1; @R160.2].",
+  "text": "En los resúmenes recuperados, las observaciones de presencia o ausencia de paráfisis en peces con especie nombrada proceden de dos trabajos: paráfisis en *Mustelus* y en los osteoglosomorfos *Osteoglossum* y *Gnathonemus* [@R246.1], y paráfisis presente en *Bathylagus wesethi* y ausente, junto con el saco dorsal, en *Nezumia liolepis* [@R160.1; @R160.2].",
   "refs": [
    "R246.1",
    "R160.1",
@@ -671,11 +671,12 @@
  {
   "cid": "S2-073",
   "kind": "cited",
-  "text": "En esta revisión no se encontraron datos de contenido sobre la mayor parte de la literatura clásica, conocida solo por su título, como Ariëns-Kappers (1950) sobre urodelos [@R054.t], Ariens Kappers (1956) [@R074.t] y Trost (1953) sobre tres reptiles [@R064.t].",
+  "text": "En esta revisión no se encontraron datos de contenido directos sobre varios trabajos clásicos conocidos solo por su título, como Ariëns-Kappers (1950) sobre urodelos [@R054.t] y Trost (1953) sobre tres reptiles [@R064.t]; de Ariens Kappers (1956, Progress in Neurobiology) consta el título [@R074.t]; aparte, Joven (2012) atribuye a «ArinsKappers, 1956» (tal como se imprime; el extracto no identifica la obra) la descripción del órgano telencefálico posterior adyacente al plexo coroideo [@R485.m1].",
   "refs": [
    "R054.t",
+   "R064.t",
    "R074.t",
-   "R064.t"
+   "R485.m1"
   ],
   "invalid_refs": []
  },

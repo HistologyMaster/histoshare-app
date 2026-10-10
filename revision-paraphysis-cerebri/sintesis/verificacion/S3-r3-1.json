@@ -1,0 +1,122 @@
+[
+ {
+  "cid": "S3-001",
+  "verdict": "ok_uncited",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S3-002",
+  "verdict": "ok_uncited",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S3-003",
+  "verdict": "needs_citation",
+  "issue": "\"casi toda la bibliografía clásica sobre el desarrollo de la paráfisis se conoce solo por el título\": corpus-wide frequency claim, uncited and not inferable from adjacent claims. The db has 16 title-only works (Tabla 2: 14 identified_only + R026 + R052) but also classic developmental works known through content fragments, not by title alone (R014 Dexter 1902, R017 Warren 1905, R031 Warren 1917 with observations in 21-48 mm embryos, R007 Burckhardt 1894), which the section itself reports later; \"casi toda\" and \"solo por el título\" are therefore not demonstrated.",
+  "fix": "...y advierte que buena parte de la bibliografía clásica sobre el desarrollo de la paráfisis recuperada se conoce solo por el título (Tabla 2) o por fragmentos de búsqueda no verificados, de modo que lo que sigue describe lo que el corpus recuperado permite afirmar..."
+ },
+ {
+  "cid": "S3-004",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S3-005",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S3-006",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S3-007",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S3-008",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S3-009",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S3-010",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S3-011",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S3-012",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S3-013",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S3-014",
+  "verdict": "ok_uncited",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S3-015",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S3-016",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S3-017",
+  "verdict": "ok_uncited",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S3-018",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S3-019",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S3-020",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ }
+]

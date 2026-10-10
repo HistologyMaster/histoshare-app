@@ -1,0 +1,122 @@
+[
+ {
+  "cid": "S4-001",
+  "verdict": "ok_uncited",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S4-002",
+  "verdict": "ok_uncited",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S4-003",
+  "verdict": "needs_hedge",
+  "issue": "\"los trabajos clásicos se conocen casi solo por su título\": corpus-wide frequency claim that overshoots the database. Of the 57 included records dated before 1970, 37 are title-only but 20 carry some content (snippets, excerpts, one full text), and S4 itself uses several of them (Gladstone 1940, Roofe, Wilder, Shuangshoti 1966, the 1954 case, Burckhardt and Selenka snippets). Title-only is about two thirds, not \"casi solo\".",
+  "fix": "los trabajos clásicos se conocen en su mayoría solo por su título"
+ },
+ {
+  "cid": "S4-004",
+  "verdict": "ok_uncited",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S4-005",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S4-006",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S4-007",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S4-008",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S4-009",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S4-010",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S4-011",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S4-012",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S4-013",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S4-014",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S4-015",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S4-016",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S4-017",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S4-018",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S4-019",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S4-020",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ }
+]

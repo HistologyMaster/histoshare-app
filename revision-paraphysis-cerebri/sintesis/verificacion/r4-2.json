@@ -1,0 +1,11 @@
+[
+{"cid":"F-001","verdict":"supported","issue":"","fix":""},
+{"cid":"F-005","verdict":"supported","issue":"","fix":""},
+{"cid":"F-009","verdict":"supported","issue":"","fix":""},
+{"cid":"F-010","verdict":"supported","issue":"","fix":""},
+{"cid":"F-013","verdict":"partial","issue":"Pax7 clause is supported (R497.1 Pleurodeles; R511.2 'mainly in anamniotes', not itemized), though R492.1 is only 'weak immunoreactivity ... in the membranous structures ... that contain the paraphysis' (R492.2/R492.3: continuity not assessable, inconsistent results), so 'se informa en la paráfisis' is soft for that work. But under the heading '**Ontogenia.**', 'el receptor V2 de arginina vasotocina [R467.1]' (newt Cynops, stage not stated) and 'la actividad Ca++-ATPasa [R233.1]' (Rana esculenta, stage not stated) are not developmental records; no taxon is given for any of the clauses.","fix":"**Ontogenia y marcadores.** Pax7 se informa en la paráfisis o en estructuras membranosas que la contienen en tres trabajos: en *Pleurodeles waltl* [@R497.1], con señal débil en embriones de *Xenopus laevis* [@R492.1] y, sin detallar especies, «sobre todo en anamniotas» [@R511.2]. (Move to the 'Anatomía, histología y fisiología' paragraph, stage not stated:) en el tritón *Cynops pyrrhogaster* solo se detectó el receptor V2 de arginina vasotocina [@R467.1] y en *Rana esculenta* actividad Ca++-ATPasa en las microvellosidades apicales [@R233.1]."},
+{"cid":"F-014","verdict":"supported","issue":"","fix":""},
+{"cid":"F-015","verdict":"ok_uncited","issue":"","fix":""},
+{"cid":"F-019","verdict":"supported","issue":"","fix":""},
+{"cid":"F-022","verdict":"supported","issue":"","fix":""}
+]

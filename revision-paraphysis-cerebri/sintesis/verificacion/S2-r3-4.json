@@ -1,0 +1,116 @@
+[
+ {
+  "cid": "S2-061",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-062",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-063",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-064",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-065",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-066",
+  "verdict": "ok_uncited",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-067",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-068",
+  "verdict": "ok_uncited",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-069",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-070",
+  "verdict": "ok_uncited",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-071",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-072",
+  "verdict": "ok_uncited",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-073",
+  "verdict": "partial",
+  "issue": "(1) \"la mayor parte de la literatura clasica\": corpus-wide quantifier that three .t markers cannot support and 'clasica' is undefined (DB: 42 of 84 records <=1970 are title-only; many are clinical cyst papers). (2) \"Ariens Kappers (1956) [@R074.t]\" is presented as known only by title, yet Joven 2012 (R485.m1, 'ArinsKappers, 1956 (as printed)') gives a second-hand description of the amphibian paraphysis (posterior telencephalic organ), which S1/S3 already use via R485.2; R054.t and R064.t are fine at title level.",
+  "fix": "En esta revision no se encontraron datos de contenido directos sobre varios trabajos clasicos conocidos solo por su titulo, como Ariens-Kappers (1950) sobre urodelos [@R054.t] y Trost (1953) sobre tres reptiles [@R064.t]; de Ariens Kappers (1956) consta el titulo [@R074.t] y, de segunda mano, la posicion citada por Joven (2012) [@R485.m1]."
+ },
+ {
+  "cid": "S2-074",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-075",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-076",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-077",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-078",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-079",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ }
+]

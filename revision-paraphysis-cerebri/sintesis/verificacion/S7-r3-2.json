@@ -1,120 +1,120 @@
 [
  {
-  "cid": "S1-021",
+  "cid": "S7-021",
   "verdict": "supported",
   "issue": "",
   "fix": ""
  },
  {
-  "cid": "S1-022",
+  "cid": "S7-022",
   "verdict": "supported",
   "issue": "",
   "fix": ""
  },
  {
-  "cid": "S1-023",
+  "cid": "S7-023",
   "verdict": "supported",
   "issue": "",
   "fix": ""
  },
  {
-  "cid": "S1-024",
+  "cid": "S7-024",
   "verdict": "supported",
   "issue": "",
   "fix": ""
  },
  {
-  "cid": "S1-025",
+  "cid": "S7-025",
   "verdict": "supported",
   "issue": "",
   "fix": ""
  },
  {
-  "cid": "S1-026",
+  "cid": "S7-026",
   "verdict": "supported",
   "issue": "",
   "fix": ""
  },
  {
-  "cid": "S1-027",
+  "cid": "S7-027",
   "verdict": "supported",
   "issue": "",
   "fix": ""
  },
  {
-  "cid": "S1-028",
+  "cid": "S7-028",
   "verdict": "supported",
   "issue": "",
   "fix": ""
  },
  {
-  "cid": "S1-029",
+  "cid": "S7-029",
   "verdict": "supported",
   "issue": "",
   "fix": ""
  },
  {
-  "cid": "S1-030",
-  "verdict": "needs_hedge",
-  "issue": "«la equivalencia entre estos dos descansa solo en el juicio de Tsuneki»: exclusivity claim about the whole corpus; R246.2 only shows Tsuneki's judgement, it cannot show that no other record makes the same equation (the finder note on R079 says the structure was 'later reinterpreted by some as dorsal sac'). The rest of the sentence (three labels, R005.1/R079.t/R246.2, corpus not showing coronarium equivalence) is supported.",
-  "fix": "...; el corpus recuperado no muestra que «coronarium» equivalga a «paraphysis» o «dorsal sac», y la equivalencia entre estos dos rótulos se apoya aquí en el juicio de Tsuneki (según el resumen)."
- },
- {
-  "cid": "S1-031",
+  "cid": "S7-030",
   "verdict": "supported",
   "issue": "",
   "fix": ""
  },
  {
-  "cid": "S1-032",
+  "cid": "S7-031",
   "verdict": "supported",
   "issue": "",
   "fix": ""
  },
  {
-  "cid": "S1-033",
+  "cid": "S7-032",
   "verdict": "supported",
   "issue": "",
   "fix": ""
  },
  {
-  "cid": "S1-034",
+  "cid": "S7-033",
   "verdict": "ok_uncited",
   "issue": "",
   "fix": ""
  },
  {
-  "cid": "S1-035",
+  "cid": "S7-034",
   "verdict": "supported",
   "issue": "",
   "fix": ""
  },
  {
-  "cid": "S1-036",
+  "cid": "S7-035",
   "verdict": "supported",
   "issue": "",
   "fix": ""
  },
  {
-  "cid": "S1-037",
-  "verdict": "ok_uncited",
-  "issue": "",
-  "fix": ""
- },
- {
-  "cid": "S1-038",
+  "cid": "S7-036",
   "verdict": "supported",
   "issue": "",
   "fix": ""
  },
  {
-  "cid": "S1-039",
+  "cid": "S7-037",
   "verdict": "supported",
   "issue": "",
   "fix": ""
  },
  {
-  "cid": "S1-040",
+  "cid": "S7-038",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S7-039",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S7-040",
   "verdict": "supported",
   "issue": "",
   "fix": ""

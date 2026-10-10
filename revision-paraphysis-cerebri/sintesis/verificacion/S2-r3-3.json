@@ -1,0 +1,122 @@
+[
+ {
+  "cid": "S2-041",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-042",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-043",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-044",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-045",
+  "verdict": "needs_hedge",
+  "issue": "\"las observaciones de presencia o ausencia en peces con especie nombrada son dos\": numeral/exclusividad sobre todo el corpus que R246.1, R160.1 y R160.2 no pueden respaldar; ademas el mismo resumen R246 aporta otra observacion con pez nombrado (el pez pulmonado, Lepidosiren, cuya llamada paraphysis es un saco dorsal, R246.2), de modo que 'dos' es ambiguo (dos trabajos, tres taxa en R246.1, cinco especies en total).",
+  "fix": "En los resumenes recuperados, las observaciones de presencia o ausencia de paraphysis en peces con especie nombrada proceden de dos trabajos: paráfisis en *Mustelus* y en los osteoglosomorfos *Osteoglossum* y *Gnathonemus* [@R246.1], y paráfisis presente en *Bathylagus wesethi* y ausente, junto con el saco dorsal, en *Nezumia liolepis* [@R160.1; @R160.2]."
+ },
+ {
+  "cid": "S2-046",
+  "verdict": "ok_uncited",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-047",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-048",
+  "verdict": "ok_uncited",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-049",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-050",
+  "verdict": "ok_uncited",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-051",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-052",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-053",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-054",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-055",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-056",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-057",
+  "verdict": "ok_uncited",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-058",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-059",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-060",
+  "verdict": "ok_uncited",
+  "issue": "",
+  "fix": ""
+ }
+]

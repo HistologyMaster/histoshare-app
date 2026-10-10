@@ -16,7 +16,7 @@
  {
   "cid": "S3-003",
   "kind": "interpretation",
-  "text": "Esta revisión usa además, señalándolo, hallazgos de otras dimensiones, y advierte que casi toda la bibliografía clásica sobre el desarrollo de la paráfisis se conoce solo por el título, de modo que lo que sigue describe lo que el corpus recuperado permite afirmar y no el estado completo del conocimiento.",
+  "text": "Esta revisión usa además, señalándolo, hallazgos de otras dimensiones, y advierte que buena parte de la bibliografía clásica sobre el desarrollo de la paráfisis recuperada se conoce solo por el título (Tabla 2) o por fragmentos de búsqueda no verificados, de modo que lo que sigue describe lo que el corpus recuperado permite afirmar y no el estado completo del conocimiento.",
   "refs": [],
   "invalid_refs": []
  },
@@ -420,7 +420,7 @@
  {
   "cid": "S3-048",
   "kind": "cited",
-  "text": "En el corpus recuperado, los datos ontogénicos directos sobre aves son fragmentos no verificados: según uno, Dexter (1902) informa en embriones del pollo que \"la cavidad\" se comunica con la del prosencéfalo y que su pared se engrosa en embriones mayores, sin que el fragmento muestre a qué estructura se refiere [@R014.2], y el mismo fragmento atribuye a Selenka la primera identificación de la paráfisis en pollos [@R014.m2].",
+  "text": "En el corpus recuperado, los datos ontogénicos directos sobre la morfología de la paráfisis de aves que se citan aquí provienen de fragmentos no verificados: según uno, Dexter (1902) informa en embriones del pollo que \"la cavidad\" se comunica con la del prosencéfalo y que su pared se engrosa en embriones mayores, sin que el fragmento muestre a qué estructura se refiere [@R014.2], y el mismo fragmento atribuye a Selenka la primera identificación de la paráfisis en pollos [@R014.m2].",
   "refs": [
    "R014.2",
    "R014.m2"

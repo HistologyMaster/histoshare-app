@@ -2,7 +2,7 @@
  {
   "cid": "S1-001",
   "kind": "uncited",
-  "text": "Esta sección se apoya en 67 registros sobre la paráfisis (paraphysis cerebri): 44 conocidos solo por título y metadatos, 2 a texto completo, 8 a nivel de resumen, 6 como extractos parciales y 7 como fragmentos secundarios de resúmenes web, no verificados; 15 de los 23 registros con contenido son de contexto.",
+  "text": "Esta sección considera 67 registros: 23 con hallazgos de terminología sobre la paráfisis (2 a texto completo, 8 a nivel de resumen, 6 como extractos parciales y 7 como fragmentos secundarios de resúmenes web, no verificados; 15 de ellos de contexto) y 44 conocidos solo por título y metadatos; 59 de los 67 se citan en el texto.",
   "refs": [],
   "invalid_refs": []
  },
@@ -258,7 +258,7 @@
  {
   "cid": "S1-030",
   "kind": "cited",
-  "text": "Interpretación de esta revisión: para los peces pulmonados la literatura recuperada emplea tres rótulos: «coronarium» (fragmento secundario no verificado que no menciona la paráfisis; la especie, *Protopterus annectens*, se toma del título) [@R005.1], «paraphysis» (solo título, sobre *Protopterus annectens*) [@R079.t] y «dorsal sac» (según el resumen de Tsuneki, sin género especificado) [@R246.2]; el corpus recuperado no muestra que «coronarium» equivalga a «paraphysis» o «dorsal sac», y la equivalencia entre estos dos descansa solo en el juicio de Tsuneki (según el resumen).",
+  "text": "Interpretación de esta revisión: para los peces pulmonados la literatura recuperada emplea tres rótulos: «coronarium» (fragmento secundario no verificado que no menciona la paráfisis; la especie, *Protopterus annectens*, se toma del título) [@R005.1], «paraphysis» (solo título, sobre *Protopterus annectens*) [@R079.t] y «dorsal sac» (según el resumen de Tsuneki, sin género especificado) [@R246.2]; el corpus recuperado no muestra que «coronarium» equivalga a «paraphysis» o «dorsal sac», y la equivalencia entre estos dos rótulos se apoya aquí en el juicio de Tsuneki (según el resumen).",
   "refs": [
    "R005.1",
    "R079.t",
@@ -899,7 +899,7 @@
  {
   "cid": "S1-099",
   "kind": "cited",
-  "text": "- Se desconocen el criterio de Tsuneki (1986) para separar paráfisis y saco dorsal, el contenido de Dorn (1957) y los límites del «complejo paraphyseal-plexo coroideo» [@R246.2; @R079.t; @R245.1].",
+  "text": "- En el material recuperado no constan el criterio de Tsuneki (1986) para separar paráfisis y saco dorsal (solo se leyó el resumen), el contenido de Dorn (1957) (solo título) ni los límites del «complejo paraphyseal-plexo coroideo» (el resumen de Sarras no los precisa) [@R246.2; @R079.t; @R245.1].",
   "refs": [
    "R246.2",
    "R079.t",

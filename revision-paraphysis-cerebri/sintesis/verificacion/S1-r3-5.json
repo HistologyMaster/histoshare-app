@@ -1,0 +1,122 @@
+[
+ {
+  "cid": "S1-081",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-082",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-083",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-084",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-085",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-086",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-087",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-088",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-089",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-090",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-091",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-092",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-093",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-094",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-095",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-096",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-097",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-098",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-099",
+  "verdict": "needs_hedge",
+  "issue": "\"Se desconocen el criterio de Tsuneki (1986)... el contenido de Dorn (1957) y los límites del «complejo paraphyseal-plexo coroideo»\": absence of evidence stated as absence. Evidence is abstract-only (R246: criterios 'may be in the full paper'), title-only (R079) and abstract-only (R245: no limits defined in the abstract); the items are unknown to this review, not shown to be unknown. Other bullets use 'en el corpus recuperado'/'no se resolvió'.",
+  "fix": "En el material recuperado no constan el criterio de Tsuneki (1986) para separar paráfisis y saco dorsal (solo se leyó el resumen), el contenido de Dorn (1957) (solo título) ni los límites del «complejo paraphyseal-plexo coroideo» (el resumen de Sarras et al. no los precisa)."
+ },
+ {
+  "cid": "S1-100",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ }
+]
