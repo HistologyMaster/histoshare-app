@@ -1,0 +1,6 @@
+RECORD R039 | Fulton JF, Bailey P | 1929
+TITLE (corpus record): Tumours in the region of the third ventricle; their diagnosis and relation to pathological sleep
+JOURNAL (corpus record): Journal of nervous and mental disease (volume/pages not obtained)
+ACCESS: web search snippet only; the excerpt is a sentence from Niknejad et al. 2015 (PMC4521314) about Fulton and Bailey, not text of the 1929 paper; no PMID
+PROVENANCE: Niknejad et al. 2015 (PMC4521314), excerpt taken from that paper
+STORED EXCERPT: This theory held state until the advent of the term “neuroepithelial cyst” in 1929 by Fulton and Bailey.

@@ -1,0 +1,428 @@
+[
+ {
+  "cid": "F-001",
+  "kind": "cited",
+  "text": "La paráfisis (*paraphysis cerebri*) es una estructura del techo del prosencéfalo que un caso clínico-patológico de 1954 describe como una evaginación del frente del tercer ventrículo vinculada a un derivado del epéndimo [@R065.4].",
+  "refs": [
+   "R065.4"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "F-002",
+  "kind": "cited",
+  "text": "Se enuncia que está bien desarrollada en anfibios y reptiles [@R280.1; @R560.3] y Niknejad (2015) la caracteriza, en el ser humano, como una estructura embrionaria vestigial y evanescente [@R517.2].",
+  "refs": [
+   "R280.1",
+   "R560.3",
+   "R517.2"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "F-003",
+  "kind": "cited",
+  "text": "Su identidad anatómica, sin embargo, es objeto de controversia: para algunos autores es un derivado telencefálico y para otros pertenece al techo del prosómero 3 [@R485.1]; además, el término se ha aplicado a lo que otros autores llaman saco dorsal [@R246.2] y a un divertículo epitalámico [@R455.1].",
+  "refs": [
+   "R485.1",
+   "R246.2",
+   "R455.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "F-004",
+  "kind": "uncited",
+  "text": "La paráfisis ha interesado por razones funcionales y clínicas.",
+  "refs": [],
+  "invalid_refs": []
+ },
+ {
+  "cid": "F-005",
+  "kind": "cited",
+  "text": "Se ha propuesto que interviene en la regulación del calcio y de la función paratiroidea [@R226.5; @R245.5] y en la producción o el intercambio del líquido cefalorraquídeo [@R320.2; @R467.2], y la hipótesis atribuida a Sjövall la vincula con el origen de los quistes coloides del tercer ventrículo [@R517.1], cuyo verdadero origen sigue en debate [@R517.6].",
+  "refs": [
+   "R226.5",
+   "R245.5",
+   "R320.2",
+   "R467.2",
+   "R517.1",
+   "R517.6"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "F-006",
+  "kind": "interpretation",
+  "text": "En esta revisión se busca ordenar lo que puede afirmarse, con evidencia verificable, sobre la filogenia, la ontogenia, la anatomía, la histología y la fisiología de la paráfisis; mostrar para cada afirmación en qué fuente se apoya y con qué profundidad se leyó esa fuente; y delimitar con claridad lo que no pudo establecerse con los canales bibliográficos disponibles.",
+  "refs": [],
+  "invalid_refs": []
+ },
+ {
+  "cid": "F-007",
+  "kind": "interpretation",
+  "text": "En esta revisión, la base de evidencia resultó antigua, heterogénea y poco profunda: de los 113 estudios específicos, solo siete se leyeron a texto completo y 44 se conocen únicamente por su título (sección 3.2).",
+  "refs": [],
+  "invalid_refs": []
+ },
+ {
+  "cid": "F-008",
+  "kind": "interpretation",
+  "text": "Interpretación de esta revisión: el resultado más sólido no es morfológico sino conceptual, porque «paráfisis» no designa de modo constante la misma estructura.",
+  "refs": [],
+  "invalid_refs": []
+ },
+ {
+  "cid": "F-009",
+  "kind": "cited",
+  "text": "Las fuentes la sitúan en el techo telencefálico, rostral al velum transversum [@R492.6], o bien en el techo diencefálico o en el prosómero 3 [@R110.2; @R497.2; @R447.1; @R599.1], y emplean el término también para un saco dorsal [@R246.2] o para un divertículo epitalámico izquierdo [@R455.1].",
+  "refs": [
+   "R492.6",
+   "R110.2",
+   "R497.2",
+   "R447.1",
+   "R599.1",
+   "R246.2",
+   "R455.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "F-010",
+  "kind": "cited",
+  "text": "Interpretación de esta revisión: como la discrepancia aparece incluso dentro de los anfibios (Kappers, según Joven 2012, frente a Joven 2013 y a Rivas-Manzano 2022) [@R485.2; @R497.2; @R599.1], no parece depender del taxón, y el corpus no contiene un estudio que la resuelva en un mismo taxón.",
+  "refs": [
+   "R485.2",
+   "R497.2",
+   "R599.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "F-011",
+  "kind": "cited",
+  "text": "**Filogenia.** Con esa salvedad, las fuentes leídas informan paráfisis en peces con especie nombrada (*Mustelus*, *Osteoglossum*, *Gnathonemus* [@R246.1] y *Bathylagus wesethi* [@R160.1]), en anfibios [@R320.1; @R497.1], en reptiles (tuatara y tortugas marinas [@R410.1; @R183.2]) y, en humanos, como estructura rudimentaria e inconstante [@R111.2].",
+  "refs": [
+   "R246.1",
+   "R160.1",
+   "R320.1",
+   "R497.1",
+   "R410.1",
+   "R183.2",
+   "R111.2"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "F-012",
+  "kind": "cited",
+  "text": "Interpretación de esta revisión: estas observaciones son puntuales, usan nomenclaturas distintas y no permiten construir una distribución filogenética por clases; además, los informes de ausencia (en *Nezumia liolepis* [@R160.2] y en el mamífero placentario [@R656.1]) no prueban ausencia.",
+  "refs": [
+   "R160.2",
+   "R656.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "F-013",
+  "kind": "cited",
+  "text": "**Ontogenia.** El único marcador molecular con datos en la paráfisis es Pax7 [@R497.1; @R492.1; @R511.2], con ubicaciones discrepantes entre trabajos [@R492.4; @R497.2], y la cronología humana difiere según la fuente: «apareciendo» en el estadio 18 [@R285.1], detectada al menos después de CS19 [@R501.1] o desarrollada en la séptima semana según un fragmento no verificado [@R370.1].",
+  "refs": [
+   "R497.1",
+   "R492.1",
+   "R511.2",
+   "R492.4",
+   "R497.2",
+   "R285.1",
+   "R501.1",
+   "R370.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "F-014",
+  "kind": "interpretation",
+  "text": "Interpretación de esta revisión: esas cifras no pueden armonizarse y, con la evidencia leída, la ontogenia no permite decidir el origen de la estructura.",
+  "refs": [],
+  "invalid_refs": []
+ },
+ {
+  "cid": "F-015",
+  "kind": "cited",
+  "text": "**Anatomía, histología y fisiología.** Los resúmenes ultraestructurales describen un epitelio con microvellosidades y mitocondrias apicales en *Natrix maura* [@R217.2; @R217.3] y en *Hyla versicolor* [@R281.2], sinusoides de endotelio fenestrado [@R217.5; @R280.6] y, en larvas de *Bufo bufo*, una glándula tubular ramificada [@R320.1].",
+  "refs": [
+   "R217.2",
+   "R217.3",
+   "R281.2",
+   "R217.5",
+   "R280.6",
+   "R320.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "F-016",
+  "kind": "cited",
+  "text": "Hay rasgos compartidos con el plexo coroideo [@R281.2], en línea con la conclusión de que sería un plexo coroideo modificado [@R110.1], aunque Bandín describe Pax7 en estructuras membranosas con la paráfisis, distintas del plexo coroideo [@R492.1], y un extracto recoge que, a diferencia del plexo, carece de mecanismos de captación del líquido cefalorraquídeo [@R485.3].",
+  "refs": [
+   "R281.2",
+   "R110.1",
+   "R492.1",
+   "R485.3"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "F-017",
+  "kind": "cited",
+  "text": "Las funciones propuestas (secreción de glicoproteína, transporte de fluidos y electrolitos, regulación del calcio del líquido cefalorraquídeo) son interpretaciones o hipótesis de los autores [@R320.2; @R320.3; @R233.4].",
+  "refs": [
+   "R320.2",
+   "R320.3",
+   "R233.4"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "F-018",
+  "kind": "cited",
+  "text": "El único conjunto experimental con efecto medido es la paraphysectomía en la rana toro, con hipocalcemia y cambios paratiroideos [@R226.2; @R237.2; @R245.2], pero en uno de los trabajos se retiró el complejo paráfisis-plexo coroideo [@R245.1].",
+  "refs": [
+   "R226.2",
+   "R237.2",
+   "R245.2",
+   "R245.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "F-019",
+  "kind": "interpretation",
+  "text": "Interpretación de esta revisión: con el texto leído, esos efectos no pueden atribuirse a la paráfisis aislada.",
+  "refs": [],
+  "invalid_refs": []
+ },
+ {
+  "cid": "F-020",
+  "kind": "cited",
+  "text": "**Correlatos clínicos.** La hipótesis parafisaria del quiste coloide sigue sin resolverse [@R517.6].",
+  "refs": [
+   "R517.6"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "F-021",
+  "kind": "cited",
+  "text": "Conviven trabajos que sugieren un origen endodérmico [@R298.2; @R313.3; @R628.1] y otros que, desde un caso o desde la inmunotinción PAX-7, interpretan el quiste como un resto de la paráfisis [@R471.1; @R619.1].",
+  "refs": [
+   "R298.2",
+   "R313.3",
+   "R628.1",
+   "R471.1",
+   "R619.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "F-022",
+  "kind": "cited",
+  "text": "Interpretación de esta revisión: los estudios de histogénesis que comparan el epitelio del quiste con tejidos neuroepiteliales no mencionan tejido de paráfisis en sus resúmenes [@R300.2; @R304.3; @R313.2], por lo que no permiten aceptar ni descartar un origen parafisario.",
+  "refs": [
+   "R300.2",
+   "R304.3",
+   "R313.2"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "F-023",
+  "kind": "interpretation",
+  "text": "Interpretación de esta revisión: para la docencia, conviene presentar la paráfisis como una estructura de definición variable y señalar en cada caso la fuente y el taxón en que se basa lo que se afirma, en lugar de transmitirla como una estructura de descripción uniforme.",
+  "refs": [],
+  "invalid_refs": []
+ },
+ {
+  "cid": "F-024",
+  "kind": "interpretation",
+  "text": "Interpretación de esta revisión: para la investigación, la prioridad es fijar una definición operativa, topográfica y de linaje, antes de comparar taxones; recuperar y leer a texto completo las obras clásicas, hoy conocidas casi solo por su título; diseñar experimentos de ablación que separen la paráfisis del plexo coroideo y cuenten con controles descritos; estudiar marcadores como Pax7 en especies y estadios explícitos; y, en el ámbito clínico, comparar el epitelio de los quistes coloides con tejido de paráfisis humana.",
+  "refs": [],
+  "invalid_refs": []
+ },
+ {
+  "cid": "F-025",
+  "kind": "cited",
+  "text": "La paráfisis ha sido descrita en peces, anfibios, reptiles y, de forma transitoria o rudimentaria, en humanos, pero las fuentes recuperadas no usan una definición común: la sitúan en el techo telencefálico o en el diencefálico y aplican el término también a un saco dorsal o a un divertículo epitalámico [@R492.6; @R110.2; @R246.2; @R455.1].",
+  "refs": [
+   "R492.6",
+   "R110.2",
+   "R246.2",
+   "R455.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "F-026",
+  "kind": "cited",
+  "text": "La evidencia verificable es escasa y poco profunda: la mayor parte de la literatura clásica solo se conoce por título, y los datos recientes sobre la paráfisis son pocos y a menudo tangenciales; por eso no puede establecerse una distribución filogenética por clases ni una cronología ontogénica homogénea [@R160.2; @R285.1; @R370.1; @R501.1].",
+  "refs": [
+   "R160.2",
+   "R285.1",
+   "R370.1",
+   "R501.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "F-027",
+  "kind": "cited",
+  "text": "Histología y ultraestructura describen un epitelio con rasgos compartidos con el plexo coroideo [@R281.2; @R110.1], y las funciones propuestas (secreción, transporte de fluidos y electrolitos, regulación del calcio) son interpretaciones o hipótesis de los autores [@R320.2; @R320.3; @R233.4]; el único experimento quirúrgico con efecto medido no separa la paráfisis del plexo coroideo [@R245.1].",
+  "refs": [
+   "R281.2",
+   "R110.1",
+   "R320.2",
+   "R320.3",
+   "R233.4",
+   "R245.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "F-028",
+  "kind": "cited",
+  "text": "La hipótesis de que los quistes coloides del tercer ventrículo derivan de la paráfisis sigue sin resolverse [@R517.6].",
+  "refs": [
+   "R517.6"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "F-029",
+  "kind": "interpretation",
+  "text": "Interpretación de esta revisión: el avance más urgente es de definición y de acceso: acordar qué estructura se llama paráfisis, recuperar las obras clásicas a texto completo y probar con marcadores y controles explícitos las hipótesis estructurales y funcionales.",
+  "refs": [],
+  "invalid_refs": []
+ },
+ {
+  "cid": "F-030",
+  "kind": "cited",
+  "text": "**Introducción.** La paráfisis (*paraphysis cerebri*) es una estructura del techo del prosencéfalo cuya identidad anatómica es discutida [@R485.1]. **Objetivo.** Sintetizar con evidencia verificable su filogenia, ontogenia, anatomía, histología y fisiología. **Métodos.** Revisión sistemática narrativa (PRISMA 2020 adaptado) con búsqueda en PubMed, Wiley Scholar Gateway y la web el 7 y 8 de octubre de 2026; cribado por dos revisores independientes (agentes de IA); extracción estructurada con citas literales; y verificación independiente de cada afirmación. **Resultados.** De {{N_UNIQUE}} registros únicos, 113 estudios específicos y 68 contextuales cumplieron los criterios; solo siete de los específicos se leyeron a texto completo y 44 se conocen únicamente por su título.",
+  "refs": [
+   "R485.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "F-031",
+  "kind": "cited",
+  "text": "Las fuentes asignan la paráfisis al techo telencefálico o al diencefálico y usan el término también para un saco dorsal o un divertículo epitalámico [@R492.6; @R110.2; @R246.2; @R455.1].",
+  "refs": [
+   "R492.6",
+   "R110.2",
+   "R246.2",
+   "R455.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "F-032",
+  "kind": "cited",
+  "text": "Se la informa en peces, anfibios y reptiles [@R246.1; @R320.1; @R410.1] y, en humanos, como rudimentaria e inconstante [@R111.2].",
+  "refs": [
+   "R246.1",
+   "R320.1",
+   "R410.1",
+   "R111.2"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "F-033",
+  "kind": "cited",
+  "text": "Su epitelio comparte rasgos con el plexo coroideo [@R281.2]; las funciones propuestas son interpretaciones o hipótesis [@R320.2; @R233.4], y el único experimento quirúrgico con efecto medido retiró el complejo paráfisis-plexo coroideo [@R245.1].",
+  "refs": [
+   "R281.2",
+   "R320.2",
+   "R233.4",
+   "R245.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "F-034",
+  "kind": "cited",
+  "text": "El origen parafisario de los quistes coloides sigue sin resolverse [@R517.6]. **Conclusiones.** El conocimiento verificable sobre la paráfisis es escaso, antiguo y de definición inestable; el avance más urgente es acordar su definición y recuperar a texto completo la literatura clásica.",
+  "refs": [
+   "R517.6"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "F-035",
+  "kind": "uncited",
+  "text": "**Palabras clave:** paráfisis cerebral; *paraphysis cerebri*; telencéfalo; plexo coroideo; saco dorsal; quiste coloide; revisión sistemática narrativa.",
+  "refs": [],
+  "invalid_refs": []
+ },
+ {
+  "cid": "F-036",
+  "kind": "cited",
+  "text": "**Background.** The paraphysis (*paraphysis cerebri*) is a structure of the forebrain roof whose anatomical identity is disputed [@R485.1]. **Objective.** To synthesise verifiable evidence on its phylogeny, ontogeny, anatomy, histology and physiology. **Methods.** Systematic narrative review (adapted PRISMA 2020) searching PubMed, Wiley Scholar Gateway and the web on 7–8 October 2026; title/abstract screening by two independent reviewers (AI agents); structured extraction with verbatim quotes; and independent verification of every claim. **Results.** Of {{N_UNIQUE}} unique records, 113 paraphysis-specific and 68 contextual studies were included; only seven specific studies were read in full text and 44 are known only by title.",
+  "refs": [
+   "R485.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "F-037",
+  "kind": "cited",
+  "text": "Sources assign the paraphysis to the telencephalic or the diencephalic roof and also use the term for a dorsal sac or an epithalamic diverticulum [@R492.6; @R110.2; @R246.2; @R455.1].",
+  "refs": [
+   "R492.6",
+   "R110.2",
+   "R246.2",
+   "R455.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "F-038",
+  "kind": "cited",
+  "text": "It is reported in fishes, amphibians and reptiles [@R246.1; @R320.1; @R410.1] and, in humans, as rudimentary and inconstant [@R111.2].",
+  "refs": [
+   "R246.1",
+   "R320.1",
+   "R410.1",
+   "R111.2"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "F-039",
+  "kind": "cited",
+  "text": "Its epithelium shares features with the choroid plexus [@R281.2]; proposed functions are authors' interpretations or hypotheses [@R320.2; @R233.4], and the only surgical experiment with a measured effect removed the paraphyseal–choroid plexus complex as a unit [@R245.1].",
+  "refs": [
+   "R281.2",
+   "R320.2",
+   "R233.4",
+   "R245.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "F-040",
+  "kind": "cited",
+  "text": "A paraphyseal origin of colloid cysts remains unresolved [@R517.6]. **Conclusions.** Verifiable knowledge of the paraphysis is scarce, old and of unstable definition; the most urgent advances are agreeing on its definition and recovering the classical literature in full text.",
+  "refs": [
+   "R517.6"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "F-041",
+  "kind": "uncited",
+  "text": "**Keywords:** paraphysis cerebri; telencephalon; choroid plexus; dorsal sac; colloid cyst; narrative systematic review.",
+  "refs": [],
+  "invalid_refs": []
+ }
+]

@@ -1,0 +1,272 @@
+{
+ "batch": "eA10",
+ "records": [
+  {
+   "rid": "R629",
+   "data_depth": "secondary_snippet",
+   "duplicate_of": "",
+   "about_paraphysis": "principal",
+   "study_type": "developmental_series",
+   "taxa": [
+    {
+     "name": "Correlophus ciliatus",
+     "group": "squamate"
+    }
+   ],
+   "stage": "different stages of embryonic development (individual stages not given in the text read)",
+   "methods": "Not stated in the snippet; the title indicates a description of paraphysis and epiphysis primordia across embryonic stages of the gecko.",
+   "findings": [
+    {
+     "id": "R629.1",
+     "dim": "ontogeny",
+     "statement": "The paraphysis and epiphysis primordia (per title) are described as evaginations of the roof of the diencephalon.",
+     "support": "These primordia are evaginations of the roof of diencephalon",
+     "locator": "excerpt",
+     "strength": "direct_observation",
+     "quote_verified": true
+    },
+    {
+     "id": "R629.2",
+     "dim": "anatomy",
+     "statement": "The primordia are localized on the anterior and posterior borders of the diencephalic roof; the snippet does not say which border corresponds to the paraphysis.",
+     "support": "localized on its anterior and posterior borders",
+     "locator": "excerpt",
+     "strength": "direct_observation",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Paraphysis (and epiphysis) primordia are assigned to the roof of the diencephalon (diencephalic, not telencephalic, roof) in the snippet's own wording; which of the two borders carries the paraphysis is not stated in the text read.",
+   "mentions": [],
+   "caveats": "Known only from a web-search snippet (AI-summary text, unverified); the stored excerpt is one sentence. Finder notes say the abstract places the paraphysis on the anterior border of the diencephalic roof, but that statement is NOT in the text read and is not recorded. Embryonic stages, n, methods and the comparison with turtles (finder notes) are not verifiable here. Russian-language paper. Same work as R662 (no DOI copy).",
+   "appraisal": {
+    "specimens": "not_assessable",
+    "methods": "not_assessable",
+    "claims_support": "not_assessable",
+    "note": "One-sentence web snippet only; specimens, stages, n and methods not visible."
+   },
+   "include_in_synthesis": "yes",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R644",
+   "data_depth": "secondary_snippet",
+   "duplicate_of": "",
+   "about_paraphysis": "principal",
+   "study_type": "other",
+   "taxa": [
+    {
+     "name": "Salmo gairdneri",
+     "group": "actinopterygian"
+    }
+   ],
+   "stage": "adult",
+   "methods": "Not stated in the stored excerpt (one sentence from a web-search summary of a Springer abstract).",
+   "findings": [
+    {
+     "id": "R644.1",
+     "dim": "anatomy",
+     "statement": "In adult Salmo gairdneri the paraphysis cerebri is a differentiated part of the pars impar telencephali of the telencephalic roof.",
+     "support": "The paraphysis cerebri of adult Salmo gairdneri is represented by a differentiated part of the pars impar telencephali of the telencephalic roof.",
+     "locator": "excerpt",
+     "strength": "direct_observation",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Uses 'paraphysis cerebri' for a differentiated part of the 'pars impar telencephali' of the telencephalic roof, i.e. a telencephalic (not diencephalic) assignment.",
+   "mentions": [],
+   "caveats": "Known only from a web-search snippet (AI-summary text, unverified). Title, authors, year and journal are not shown in the record; DOI 10.1007/bf00225570 has no PMID/PMC and could not be resolved here (a WebSearch for the DOI also returned no title/authors/year). Finder notes and the AI web summary suggest the abstract also covers epithelial structure, vascular supply, innervation and CSF-related functions, but none of that is in the stored excerpt, so it is not recorded. Study type unknown.",
+   "appraisal": {
+    "specimens": "not_assessable",
+    "methods": "not_assessable",
+    "claims_support": "not_assessable",
+    "note": "One-sentence web snippet only; no specimens, n or methods visible; bibliographic identity unresolved."
+   },
+   "include_in_synthesis": "yes",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R649",
+   "data_depth": "secondary_snippet",
+   "duplicate_of": "",
+   "about_paraphysis": "passing_mention",
+   "study_type": "review",
+   "taxa": [
+    {
+     "name": "not stated in the snippet (clinical radiology review of CNS developmental cysts)",
+     "group": "not_applicable"
+    }
+   ],
+   "stage": "not stated (developmental origin of cysts)",
+   "methods": "Review article on non-neoplastic CNS cystic lesions (Part 1: developmental cysts); no methods in the snippet.",
+   "findings": [
+    {
+     "id": "R649.1",
+     "dim": "clinical",
+     "statement": "Developmental cysts discussed in the review are attributed to abnormal folding of the neuroepithelial paraphysis during development.",
+     "support": "These cysts are the result of abnormal folding of the neuroepithelial paraphysis during development.",
+     "locator": "excerpt",
+     "strength": "secondary_report",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Uses 'neuroepithelial paraphysis' as the embryonic structure whose abnormal folding gives rise to the cysts; no location (telencephalic/diencephalic) is given in the text read.",
+   "mentions": [],
+   "caveats": "Known only from a web-search snippet (AI-summary text, unverified); one sentence, and 'these cysts' is not named in the snippet (finder notes say colloid cysts; not verified). Authors and year are not in the corpus record; an AI web summary names Kayder O, Kordbacheh H, Kilaru SS, Zak I (Applied Radiology, 14 July 2022) - identity hint only, unverified. Human subjects are implied by the clinical-radiology context but not stated in the snippet.",
+   "appraisal": {
+    "specimens": "not_assessable",
+    "methods": "not_assessable",
+    "claims_support": "not_assessable",
+    "note": "Secondary review sentence from a web snippet; no primary data or sources visible."
+   },
+   "include_in_synthesis": "context_only",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R655",
+   "data_depth": "secondary_snippet",
+   "duplicate_of": "",
+   "about_paraphysis": "passing_mention",
+   "study_type": "light_morphology",
+   "taxa": [
+    {
+     "name": "Xenentodon cancila (Ham.)",
+     "group": "actinopterygian"
+    }
+   ],
+   "stage": "not stated in the snippet",
+   "methods": "Not stated; title indicates a functional morphology and anatomy study of the brain including histology. PubMed lists no abstract for this paper.",
+   "findings": [
+    {
+     "id": "R655.1",
+     "dim": "anatomy",
+     "statement": "On the diencephalic roof of Xenentodon cancila there is 'some indication of the paraphysis' (hedged presence); the parapineal is absent.",
+     "support": "On the roof of diencephalon there is some indication of the paraphysis but parapineal is absent.",
+     "locator": "excerpt",
+     "strength": "direct_observation",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Places the paraphysis (or its indication) on the roof of the diencephalon; no telencephalic assignment is mentioned in the text read.",
+   "mentions": [],
+   "caveats": "Known only from a web-search snippet (AI-summary text, unverified). PubMed record located for identity only (PMID 4678331; Gupta OP, Shrivastava RK; Okajimas Folia Anat Jpn 1972;49(2):111-27) but its abstract is 'not available', so no further text was read. A single hedged sentence in a general brain description; stage and n not stated.",
+   "appraisal": {
+    "specimens": "not_assessable",
+    "methods": "not_assessable",
+    "claims_support": "not_assessable",
+    "note": "One-sentence web snippet; no specimen number, stage or technique visible, and no PubMed abstract."
+   },
+   "include_in_synthesis": "yes",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R659",
+   "data_depth": "excerpt_only",
+   "duplicate_of": "",
+   "about_paraphysis": "principal",
+   "study_type": "light_morphology",
+   "taxa": [
+    {
+     "name": "Amblystoma",
+     "group": "urodele"
+    }
+   ],
+   "stage": "adult (one female just previous to laying is mentioned)",
+   "methods": "Not stated in the stored Wiley excerpt; the title indicates a histological study of the paraphysis.",
+   "findings": [
+    {
+     "id": "R659.1",
+     "dim": "histology",
+     "statement": "The adult Amblystoma paraphysis consists of low columnar ependymal epithelium forming paraphyseal tubules that end blindly.",
+     "support": "The paraphysis of adult Amblystoma is made up of low columnar ependymal ... which forms the paraphyseal tubules which end blindly",
+     "locator": "excerpt",
+     "strength": "direct_observation",
+     "quote_verified": true
+    },
+    {
+     "id": "R659.2",
+     "dim": "anatomy",
+     "statement": "The paraphyseal tubules communicate with one another through a common mouth opening into the third ventricle.",
+     "support": "communicate with one another by a common mouth with the third ventricle",
+     "locator": "excerpt",
+     "strength": "direct_observation",
+     "quote_verified": true
+    },
+    {
+     "id": "R659.3",
+     "dim": "histology",
+     "statement": "Venous sinusoids lying between the tubules anastomose freely into a complicated rete and are built entirely of endothelium.",
+     "support": "Between the paraphyseal tubules venous sinusoids anastomose freely with one another forming a complicated rete. The sinusoids are made up entirely of endothelium.",
+     "locator": "excerpt",
+     "strength": "direct_observation",
+     "quote_verified": true
+    },
+    {
+     "id": "R659.4",
+     "dim": "anatomy",
+     "statement": "The blood supply to the paraphysis is entirely venous.",
+     "support": "The blood supply to the paraphysis is entirely venous.",
+     "locator": "excerpt",
+     "strength": "direct_observation",
+     "quote_verified": true
+    },
+    {
+     "id": "R659.5",
+     "dim": "histology",
+     "statement": "Mitochondria were very abundant in the paraphysis of one female just before laying, whereas other specimens showed very few; no interpretation is given in the excerpt.",
+     "support": "Mitochondria were found in great abundance in the paraphysis of one female just previous to laying. Other specimens showed very few present.",
+     "locator": "excerpt",
+     "strength": "direct_observation",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Uses 'paraphysis' with 'paraphyseal tubules' lined by ependymal epithelium opening by a common mouth into the third ventricle; the excerpt gives no telencephalic or diencephalic assignment.",
+   "mentions": [],
+   "caveats": "Only a ~600-character Wiley passage was read; the excerpt contains an OCR/typographic error ('epithelit m'). Publication year is absent from the Wiley record and the article was not found in PubMed lookup (year unconfirmed; Journal of Morphology vol. 59). Number of specimens, techniques and the rest of the paper are not visible; 'Amblystoma' is the source's genus name, species not stated.",
+   "appraisal": {
+    "specimens": "not_assessable",
+    "methods": "not_assessable",
+    "claims_support": "direct",
+    "note": "Excerpt reports descriptive histological observations (adult, one female noted) without n or technique; claims read as direct observation but cannot be fully appraised."
+   },
+   "include_in_synthesis": "yes",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R662",
+   "data_depth": "secondary_snippet",
+   "duplicate_of": "R629",
+   "about_paraphysis": "principal",
+   "study_type": "developmental_series",
+   "taxa": [
+    {
+     "name": "Correlophus ciliatus",
+     "group": "squamate"
+    }
+   ],
+   "stage": "different stages of embryonic development (individual stages not given in the text read)",
+   "methods": "Not stated in the snippet; the title indicates a description of paraphysis and epiphysis primordia across embryonic stages of the gecko.",
+   "findings": [
+    {
+     "id": "R662.1",
+     "dim": "ontogeny",
+     "statement": "The paraphysis and epiphysis primordia (per title) are evaginations of the roof of the diencephalon, localized on its anterior and posterior borders.",
+     "support": "These primordia are evaginations of the roof of diencephalon, localized on its anterior and posterior borders.",
+     "locator": "excerpt",
+     "strength": "direct_observation",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Same as R629: primordia assigned to the diencephalic roof; which border carries the paraphysis is not stated in the text read.",
+   "mentions": [],
+   "caveats": "Duplicate of R629 (same authors and title; this copy lacks journal, year and DOI). Web-search snippet only (AI-summary text, unverified). Finder note about a possible Russian Journal of Herpetology version is not verifiable here. Extract findings from R629 in the synthesis.",
+   "appraisal": {
+    "specimens": "not_assessable",
+    "methods": "not_assessable",
+    "claims_support": "not_assessable",
+    "note": "Duplicate record; one-sentence web snippet only."
+   },
+   "include_in_synthesis": "no",
+   "exclusion_reason": "Duplicate of R629 (same work, same snippet); findings counted once under R629."
+  }
+ ]
+}

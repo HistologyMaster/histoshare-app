@@ -1,0 +1,62 @@
+[
+ {
+  "cid": "S4-061",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S4-062",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S4-063",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S4-064",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S4-065",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S4-066",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S4-067",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S4-068",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S4-069",
+  "verdict": "needs_hedge",
+  "issue": "\"«paraphysis» se usa para estructuras distintas\" is stated as fact, but only Tsuneki (R246.2: \"so-called paraphysis of the lungfish is not a paraphysis, but a dorsal sac\") shows a different referent; for Khonsari (R455.1, excerpt-only) the excerpt \"does not address the telencephalic structure\", so that Khonsari's left epithalamic diverticulum is a different structure from the others is an inference of the review (the body of S4 itself says so), not a statement of the source.",
+  "fix": "«paraphysis» parece designar estructuras distintas: Tsuneki juzga que la llamada paráfisis del pez pulmonado es un saco dorsal [@R246.2], y Khonsari llama «paraphysis (or parietal)» al divertículo epitalámico izquierdo [@R455.1], aunque el extracto no aborda la estructura telencefálica (la diferencia es inferencia de esta revisión)."
+ },
+ {
+  "cid": "S4-070",
+  "verdict": "ok_uncited",
+  "issue": "",
+  "fix": ""
+ }
+]

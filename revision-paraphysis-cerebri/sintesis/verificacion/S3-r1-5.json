@@ -1,0 +1,62 @@
+[
+ {
+  "cid": "S3-081",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S3-082",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S3-083",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S3-084",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S3-085",
+  "verdict": "needs_hedge",
+  "issue": "\"los datos recuperados provienen de resúmenes ... y de fragmentos no verificados, sin estadios de desarrollo precisados\" is stated for all retrieved reptile and bird data, but the three markers cover only part of it: R152 (Lacerta vivipara abstract) gives embryonic stages 36-40 plus 3 days post-hatching for the paraphysis, R511 (full text) gives chick HH33-37 and turtle pre-hatching stages, and R410.1 itself specifies 'neonatal'. R410.4/R410.m1 come from a full-text excerpt, not an abstract or unverified fragment (the second clause does handle that one).",
+  "fix": "Reptiles y aves: los datos ontogénicos directos citados aquí provienen de resúmenes (tuatara neonatal; *Calotes versicolor*) y de fragmentos no verificados, en general sin estadios de desarrollo precisados [R410.1; R170.1; R014.2]; ..."
+ },
+ {
+  "cid": "S3-086",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S3-087",
+  "verdict": "ok_uncited",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S3-088",
+  "verdict": "needs_hedge",
+  "issue": "\"No se resolvió el origen telencefálico frente al diencefálico o p3\": R485.1 only records Joven (2012) saying the 'nature' of the paraphysis is 'controversial' (telencephalic derivative for some, roof of p3 for others). That the question was never resolved is the review's inference from the corpus (and Joven 2013, R497.2, proposes p3), phrased as a definitive fact.",
+  "fix": "Según Joven (2012), la naturaleza de la paráfisis (derivado telencefálico o parte del techo de p3) es controvertida [R485.1]; el corpus recuperado no contiene un estudio que la resuelva."
+ },
+ {
+  "cid": "S3-089",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S3-090",
+  "verdict": "ok_uncited",
+  "issue": "",
+  "fix": ""
+ }
+]

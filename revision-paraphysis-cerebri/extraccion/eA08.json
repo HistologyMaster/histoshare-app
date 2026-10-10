@@ -1,0 +1,499 @@
+{
+ "batch": "eA08",
+ "records": [
+  {
+   "rid": "R497",
+   "data_depth": "abstract",
+   "duplicate_of": "",
+   "about_paraphysis": "substantive",
+   "study_type": "molecular_expression",
+   "taxa": [
+    {
+     "name": "Pleurodeles waltl",
+     "group": "urodele"
+    }
+   ],
+   "stage": "embryos, larvae, and recently metamorphosed juveniles",
+   "methods": "Immunohistochemistry for Pax3, Pax6 and Pax7 in the CNS of embryos, larvae and recently metamorphosed juveniles; paraphysis data from the abstract and a short Discussion excerpt only.",
+   "findings": [
+    {
+     "id": "R497.1",
+     "dim": "histology",
+     "statement": "Pax7-immunoreactive cells were found in the paraphysis of the urodele Pleurodeles waltl, together with the intermediate lobe of the hypophysis and the basal plate of prosomere 3.",
+     "support": "Pax7 cells were also found in the paraphysis, intermediate lobe of the hypophysis, and basal plate of prosomere 3.",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    },
+    {
+     "id": "R497.2",
+     "dim": "ontogeny",
+     "statement": "Authors interpret the paraphysis as a roof plate derivative originating at the limit between p3 and the evaginated telencephalon, more likely belonging to p3.",
+     "support": "our present results suggest that the paraphysis is a roof plate derivative that originates at the limit between p3 and the evaginated telencephalon, more likely belonging to the first one",
+     "locator": "excerpt (Discussion)",
+     "strength": "authors_interpretation",
+     "quote_verified": true
+    },
+    {
+     "id": "R497.3",
+     "dim": "terminology",
+     "statement": "Authors state that the modified prosomeric model disregarded the paraphysis, considering only the choroid plexus as roof plate derivative of p3 and telencephalon.",
+     "support": "In the modified prosomeric model the paraphysis was disregarded, and the choroid plexus was the only derivative considered from the roof plate of p3 and telencephalon",
+     "locator": "excerpt (Discussion)",
+     "strength": "secondary_report",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Paraphysis treated as a roof plate derivative at the p3 / evaginated telencephalon limit (the authors say it more likely belongs to p3); distinguished from the choroid plexus in the modified prosomeric model.",
+   "mentions": [
+    {
+     "work": "Puelles and Rubenstein, 2003",
+     "claim": "Modified prosomeric model considered only the choroid plexus as roof plate derivative of p3 and telencephalon, disregarding the paraphysis.",
+     "quote": "In the modified prosomeric model the paraphysis was disregarded, and the choroid plexus was the only derivative considered from the roof plate of p3 and telencephalon",
+     "strength": "secondary_report"
+    }
+   ],
+   "caveats": "Only the complete abstract and a 415-character Discussion excerpt were read; no full text (no PMCID). Finder notes mention a discussion placing the urodele paraphysis rostral to the velum transversum, which is NOT in the text read and is not recorded. Stages and n for the paraphysis observation not given.",
+   "appraisal": {
+    "specimens": "partial",
+    "methods": "partial",
+    "claims_support": "mixed",
+    "note": "Species and stage classes stated; n and paraphysis-specific stages not seen. Pax7 detection is direct; roof-plate origin is interpretation from expression pattern."
+   },
+   "include_in_synthesis": "yes",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R499",
+   "data_depth": "full_text",
+   "duplicate_of": "",
+   "about_paraphysis": "passing_mention",
+   "study_type": "case_report",
+   "taxa": [
+    {
+     "name": "human (22-year-old male patient)",
+     "group": "human"
+    }
+   ],
+   "stage": "adult patient, 22 years old",
+   "methods": "Case report (MRI, surgical excision, histopathology) of suprasellar dermoid cyst with third-ventricle colloid cyst; paraphysis appears only in a Discussion recap of literature on colloid cyst origin.",
+   "findings": [
+    {
+     "id": "R499.1",
+     "dim": "clinical",
+     "statement": "Initial reports proposed a neuroepithelial origin of third-ventricle colloid cysts as derivatives of the paraphysis or of the ventricular ependyma.",
+     "support": "Initial reports suggested their neuroepithelial origin as the derivatives of paraphysis or ventricular ependyma",
+     "locator": "Discussion",
+     "strength": "secondary_report",
+     "quote_verified": true
+    },
+    {
+     "id": "R499.2",
+     "dim": "clinical",
+     "statement": "Nagaraju (2010) is reported to have reignited the debate by claiming that colloid cysts are paraphysis remnants in humans.",
+     "support": "Nagaraju.,[] in 2010 reignited the debate by claiming colloid cysts as paraphysis remnants in human.",
+     "locator": "Discussion",
+     "strength": "secondary_report",
+     "quote_verified": true
+    },
+    {
+     "id": "R499.3",
+     "dim": "ontogeny",
+     "statement": "Cheng's 'anterior neuropore corridor defects' theory: defective closure of the situs neuroporicus makes neuroepithelium adjacent to commissural plate derivatives form a vacuolated paraphysis that slowly grows as a colloid cyst.",
+     "support": "defective closure of situs neuroporicus promotes the neuroepithelium adjacent to commissural plate derivatives to form a vacuolated paraphysis growing slowly as colloid cyst of the third ventricle",
+     "locator": "Discussion",
+     "strength": "hypothesis",
+     "quote_verified": true
+    },
+    {
+     "id": "R499.4",
+     "dim": "clinical",
+     "statement": "Authors note that lack of substantial evidence is the main drawback of the paraphyseal-remnant theory, yet consider disordered embryogenesis the most plausible explanation for their case.",
+     "support": "Although lack of substantial evidence remained main drawback of this theory, disordered embryogenesis appears to be the most plausible explanation in our case",
+     "locator": "Discussion",
+     "strength": "authors_interpretation",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Uses 'paraphysis' and 'paraphysial remnants' for the presumed embryonic source of colloid cysts; 'vacuolated paraphysis' in Cheng's theory. No anatomical definition or location given.",
+   "mentions": [
+    {
+     "work": "Nagaraju, 2010",
+     "claim": "Claimed colloid cysts to be paraphysis remnants in human, supporting Cheng's hypothesis.",
+     "quote": "Similar derivation from paraphysial remnants was also reported by Nagaraju., in 2010 supporting Cheng's hypothesis.",
+     "strength": "secondary_report"
+    },
+    {
+     "work": "Cheng, 1999",
+     "claim": "Case of nasal dermoid sinus cyst with colloid cyst; proposed the 'anterior neuropore corridor defects' theory.",
+     "quote": "Cheng.,[] in 1999 reported a case of nasal dermoid sinus cyst associated with colloid cyst of third ventricle and proposed a fascinating theory of “anterior neuropore corridor defects”",
+     "strength": "secondary_report"
+    },
+    {
+     "work": "Mackenzie, 1991",
+     "claim": "Suggested endodermal derivation of colloid cysts on ultrastructural grounds (alternative to paraphyseal origin).",
+     "quote": "Mackenzie[] in 1991 suggested the endodermal derivation of these cysts on the basis of ultrastructural features",
+     "strength": "secondary_report"
+    }
+   ],
+   "caveats": "All paraphysis statements are literature recap (citations stripped in retrieved text); no original paraphysis data. The case itself does not examine the paraphysis.",
+   "appraisal": {
+    "specimens": "reported",
+    "methods": "partial",
+    "claims_support": "inference",
+    "note": "Single case reported; paraphysis claims are secondary reports and authors' inference, not observed in the case."
+   },
+   "include_in_synthesis": "context_only",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R501",
+   "data_depth": "excerpt_only",
+   "duplicate_of": "",
+   "about_paraphysis": "substantive",
+   "study_type": "developmental_series",
+   "taxa": [
+    {
+     "name": "human embryos (per title: 'Human Embryonic Period')",
+     "group": "human"
+    }
+   ],
+   "stage": "CS18 (cited, O'Rahilly and Mller), CS19 and CS20 (this study), as printed",
+   "methods": "Not described in the excerpt; title indicates a study of lateral choroid plexus morphogenesis in the human embryonic period. No PMID or PMC available.",
+   "findings": [
+    {
+     "id": "R501.1",
+     "dim": "ontogeny",
+     "statement": "Paraphysis was detected from at least CS19 at the roof of the DV; surrounding epithelium became thin and irregular while the stroma stayed undifferentiated.",
+     "support": "Paraphysis was detected at least after CS19 at the roof of the DV and the epithelium became thin and irregular around that, whereas the stroma remained undifferentiated.",
+     "locator": "excerpt",
+     "strength": "direct_observation",
+     "quote_verified": true
+    },
+    {
+     "id": "R501.2",
+     "dim": "terminology",
+     "statement": "The study could not determine whether structures around the paraphysis were choroid plexus of the DV or part of the paraphysis.",
+     "support": "This study did not determine whether structures around the paraphysis were CP of the DV or part of the paraphysis.",
+     "locator": "excerpt",
+     "strength": "authors_interpretation",
+     "quote_verified": true
+    },
+    {
+     "id": "R501.3",
+     "dim": "ontogeny",
+     "statement": "Authors suggest the choroid plexus of the DV and the paraphysis may arise around the JB, since the CP of LV and DV are continuous in the mammalian brain.",
+     "support": "The CP of the DV and paraphysis may arise around the JB because the CP of LV and DV are continuous in the mammalian brain",
+     "locator": "excerpt",
+     "strength": "hypothesis",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Abbreviations (CP, DV, LV, JB, CS) are not expanded in the excerpt and are kept as printed. Authors leave open whether tissue around the paraphysis is choroid plexus of the DV or part of the paraphysis.",
+   "mentions": [
+    {
+     "work": "O'Rahilly and Mller, 1990",
+     "claim": "Observed 'it' (referent not specified in the excerpt) at CS18 for the first time.",
+     "quote": "observed it at CS18 for the first time.",
+     "strength": "secondary_report"
+    },
+    {
+     "work": "Netsky and Shuangshoti, 1975; Dziegielewska et al., 2001",
+     "claim": "Cited for continuity of the choroid plexus of LV and DV in the mammalian brain.",
+     "quote": "because the CP of LV and DV are continuous in the mammalian brain",
+     "strength": "secondary_report"
+    }
+   ],
+   "caveats": "Excerpt only (657 characters from the Discussion): methods, n, abbreviation meanings and the referent of 'it' (O'Rahilly and Mller) cannot be verified. Species 'human' is taken from the title. Possible text-encoding loss in 'Mller'.",
+   "appraisal": {
+    "specimens": "partial",
+    "methods": "not_assessable",
+    "claims_support": "mixed",
+    "note": "CS19-20 stages named but n and methods not visible; detection of paraphysis is observational, common-origin statement is conjecture."
+   },
+   "include_in_synthesis": "yes",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R511",
+   "data_depth": "full_text",
+   "duplicate_of": "",
+   "about_paraphysis": "passing_mention",
+   "study_type": "molecular_expression",
+   "taxa": [
+    {
+     "name": "mice",
+     "group": "eutherian"
+    },
+    {
+     "name": "chickens",
+     "group": "bird"
+    },
+    {
+     "name": "turtles",
+     "group": "chelonian"
+    },
+    {
+     "name": "frogs",
+     "group": "anuran"
+    },
+    {
+     "name": "newts",
+     "group": "urodele"
+    },
+    {
+     "name": "lungfish",
+     "group": "dipnoan"
+    }
+   ],
+   "stage": "mice: embryonic and postnatal; chickens: 8-11 days (HH33-HH37); turtles: 1-2 weeks prehatching; frogs and newts: embryonic and larval; lungfish: stages 45-46",
+   "methods": "Pax6 and Pax7 immunohistofluorescence on free-floating sections (20-30 um), plus western blot and sequence (BLAST) comparison, in six sarcopterygian taxa.",
+   "findings": [
+    {
+     "id": "R511.1",
+     "dim": "histology",
+     "statement": "In the rostral prosencephalon, the only conspicuous Pax7 labeling was in the paraphysis, mainly in anamniotes, related to the choroid plexus extending between the telencephalic hemispheres.",
+     "support": "only a conspicuous labeling was identified in the paraphysis, mainly in anamniotes, in relation to the choroid plexus that extended between the telencephalic hemispheres",
+     "locator": "Results, Pattern of Pax7 expression, Forebrain",
+     "strength": "direct_observation",
+     "quote_verified": true
+    },
+    {
+     "id": "R511.2",
+     "dim": "phylogeny",
+     "statement": "Paraphyseal Pax7 labeling was reported mainly in anamniotes among the species studied; the text does not itemize which species showed it.",
+     "support": "only a conspicuous labeling was identified in the paraphysis, mainly in anamniotes",
+     "locator": "Results, Pattern of Pax7 expression, Forebrain",
+     "strength": "direct_observation",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "'Paraphysis' used without definition; located in the rostral prosencephalon in relation to the choroid plexus extending between the telencephalic hemispheres.",
+   "mentions": [],
+   "caveats": "Single-sentence mention in Results; the abstract does not name the paraphysis. Species are given only as common names in the retrieved text, per-species occurrence is not itemized, and figure references were stripped from the retrieved text. Species-level paraphysis labeling cannot be verified.",
+   "appraisal": {
+    "specimens": "partial",
+    "methods": "reported",
+    "claims_support": "direct",
+    "note": "Species and stages listed, n not seen; antibodies and procedures reported. Paraphysis result is a direct but unitemized statement with no visible figure reference."
+   },
+   "include_in_synthesis": "yes",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R517",
+   "data_depth": "full_text",
+   "duplicate_of": "",
+   "about_paraphysis": "substantive",
+   "study_type": "case_report",
+   "taxa": [
+    {
+     "name": "human (two adult brothers with familial colloid cyst; paraphysis discussed historically)",
+     "group": "human"
+    }
+   ],
+   "stage": "adult patients (43 and 39 years old); paraphysis discussed only in the Discussion historiography",
+   "methods": "Case report of two brothers with colloid cysts (MRI, DTI, surgery, histology) with literature review; paraphysis appears only in the Discussion section on origin of colloid cysts.",
+   "findings": [
+    {
+     "id": "R517.1",
+     "dim": "clinical",
+     "statement": "Sjovall is reported to have presumed that colloid cysts originated from the paraphysis cerebri.",
+     "support": "Sjovall presumed the cysts originated out of the paraphysis cerebri",
+     "locator": "Discussion, The origin of colloid cysts",
+     "strength": "secondary_report",
+     "quote_verified": true
+    },
+    {
+     "id": "R517.2",
+     "dim": "ontogeny",
+     "statement": "Paraphysis cerebri is characterised by the authors as an evanescent vestigial embryonic structure.",
+     "support": "the paraphysis cerebri, an evanescent vestigial embryonic structure",
+     "locator": "Discussion, The origin of colloid cysts",
+     "strength": "authors_interpretation",
+     "quote_verified": true
+    },
+    {
+     "id": "R517.3",
+     "dim": "clinical",
+     "statement": "Fulton and Bailey (1929) introduced 'neuroepithelial cyst' and held pathological and anatomical arguments against a paraphyseal origin (cilia, cyst contents, variable cyst location).",
+     "support": "holding both a pathological and an anatomical argument against a paraphyseal origin",
+     "locator": "Discussion, The origin of colloid cysts",
+     "strength": "secondary_report",
+     "quote_verified": true
+    },
+    {
+     "id": "R517.4",
+     "dim": "clinical",
+     "statement": "Kappers (1955) partly restored Sjovall's theory: ectopic cysts result from inclusion of peripheral paraphyseal anlagen of ependymal origin.",
+     "support": "Kappers partially restored Sjovall's theory by explaining that an ectopic location of the cyst results from inclusion of peripheral paraphyseal “anlagen,” which is of ependymal origin",
+     "locator": "Discussion, The origin of colloid cysts",
+     "strength": "secondary_report",
+     "quote_verified": true
+    },
+    {
+     "id": "R517.5",
+     "dim": "terminology",
+     "statement": "Shuangshoti, from literature review plus embryological and comparative anatomical studies, classified the paraphysis as the extraventricular choroid plexus.",
+     "support": "Based on a review of the literature combined with embryological and comparative anatomical studies, they classified the paraphysis as the extraventricular choroid plexus.",
+     "locator": "Discussion, The origin of colloid cysts",
+     "strength": "secondary_report",
+     "quote_verified": true
+    },
+    {
+     "id": "R517.6",
+     "dim": "clinical",
+     "statement": "Authors conclude that the true origin of colloid cysts (paraphyseal, ependymal or endodermal) remains a matter of debate.",
+     "support": "Still the true origin of the CC's remains a matter of debate.",
+     "locator": "Discussion, The origin of colloid cysts",
+     "strength": "authors_interpretation",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "'Paraphysis cerebri' / 'paraphyseal': an 'evanescent vestigial embryonic structure'; Shuangshoti's classification of the paraphysis as 'extraventricular choroid plexus' is reported. 'Anlagen' of paraphyseal tissue invoked for ectopic cysts.",
+   "mentions": [
+    {
+     "work": "Coxe and Luse, 1964",
+     "claim": "Electron microscopy led them to an ependymal epithelial origin of colloid cysts; findings based on a single case.",
+     "quote": "Electron microscopy allowed Coxe and Luse to subscribe an ependymal epithelial origin in 1964 though their findings were based on a single case.",
+     "strength": "secondary_report"
+    },
+    {
+     "work": "Ho and Garcia (with Tsuchida)",
+     "claim": "Ultrastructural finding of ciliated and goblet cells with desmosomes supported an endodermal lineage for colloid cysts (alternative to paraphyseal origin).",
+     "quote": "Concurrently Ho and Garcia found the presence of ciliated cells and goblet cells upon ultrastructural analysis of their specimens.",
+     "strength": "secondary_report"
+    }
+   ],
+   "caveats": "Historiographic recap only; citations stripped in retrieved text, so years for Sjovall and Shuangshoti are not stated in the text read. The authors' own cases do not examine the paraphysis. 'Shuangshotiintroduced' is a text-extraction artefact.",
+   "appraisal": {
+    "specimens": "not_assessable",
+    "methods": "not_assessable",
+    "claims_support": "inference",
+    "note": "Paraphysis statements are literature historiography with no original paraphysis observation; case description is unrelated to paraphysis morphology."
+   },
+   "include_in_synthesis": "yes",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R528",
+   "data_depth": "secondary_snippet",
+   "duplicate_of": "",
+   "about_paraphysis": "principal",
+   "study_type": "other",
+   "taxa": [
+    {
+     "name": "not stated in snippet",
+     "group": "not_applicable"
+    }
+   ],
+   "stage": "embryonic (as printed in the snippet)",
+   "methods": "Radiopaedia encyclopaedia entry (non-peer-reviewed); only a ~250-character web-search snippet was available.",
+   "findings": [
+    {
+     "id": "R528.1",
+     "dim": "anatomy",
+     "statement": "'Paraphysis elements' are described as embryonic structures appearing like a thin strand between the telencephalon and the anterior portions of the diencephalon.",
+     "support": "The so-called paraphysis elements are embryonic structures which appears like a thin strand between telencephalon and the anterior portions of diencephalon.",
+     "locator": "excerpt (web snippet)",
+     "strength": "secondary_report",
+     "quote_verified": true
+    },
+    {
+     "id": "R528.2",
+     "dim": "clinical",
+     "statement": "The structure is believed to give rise to colloid cysts of the third ventricle.",
+     "support": "It is believed to be the structure which results in colloid cysts of the third ventricle.",
+     "locator": "excerpt (web snippet)",
+     "strength": "secondary_report",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "'Paraphysis elements' ('so-called'), located as a thin strand between telencephalon and anterior diencephalon.",
+   "mentions": [],
+   "caveats": "Text is a web-search AI-summary snippet, not verified against the live page; encyclopaedic, non-peer-reviewed; year is last revision (May 2017) and the species is not stated. Not to be presented as verified.",
+   "appraisal": {
+    "specimens": "not_assessable",
+    "methods": "not_assessable",
+    "claims_support": "not_assessable",
+    "note": "Encyclopaedia snippet; no specimens, methods or primary data visible."
+   },
+   "include_in_synthesis": "context_only",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R534",
+   "data_depth": "excerpt_only",
+   "duplicate_of": "",
+   "about_paraphysis": "substantive",
+   "study_type": "comparative_anatomy",
+   "taxa": [
+    {
+     "name": "Hypsiboas pulchellus",
+     "group": "anuran"
+    },
+    {
+     "name": "P.sauvagii",
+     "group": "anuran"
+    },
+    {
+     "name": "P.boliviana",
+     "group": "anuran"
+    },
+    {
+     "name": "R. fernandezae",
+     "group": "anuran"
+    }
+   ],
+   "stage": "not stated in the excerpt",
+   "methods": "Not described in the excerpt; title indicates comparative frog brain anatomy in relation to locomotor ecology; paraphysis size compared across species in a figure (Fig. 6C-F).",
+   "findings": [
+    {
+     "id": "R534.1",
+     "dim": "anatomy",
+     "statement": "The paraphysis cerebri is described as a glandular organ at the level of the 3rd ventricle (citing Hinton et al. 1990).",
+     "support": "The paraphysis cerebri is a glandular organ developed in amphibians and nonavian reptiles at the level of the 3rd ventricle",
+     "locator": "excerpt",
+     "strength": "secondary_report",
+     "quote_verified": true
+    },
+    {
+     "id": "R534.2",
+     "dim": "phylogeny",
+     "statement": "Paraphysis cerebri is said to be developed in amphibians and nonavian reptiles.",
+     "support": "developed in amphibians and nonavian reptiles at the level of the 3rd ventricle",
+     "locator": "excerpt",
+     "strength": "secondary_report",
+     "quote_verified": true
+    },
+    {
+     "id": "R534.3",
+     "dim": "anatomy",
+     "statement": "Paraphysis size varies among frog species: bigger in P. sauvagii and P. boliviana than in Hypsiboas pulchellus, and less developed and cordon-like in R. fernandezae.",
+     "support": "Variations in the size of the paraphysis cerebri are evident among the climberjumper *Hypsiboas pulchellus* ... being bigger in the latter two species ... less developed and cordonlike in the hopperwalker *R. fernandezae*",
+     "locator": "excerpt",
+     "strength": "direct_observation",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "'Paraphysis cerebri' defined as a glandular organ at the level of the 3rd ventricle; ecomorph labels (climberjumper, climberwalkers, hopperwalker) accompany species names.",
+   "mentions": [
+    {
+     "work": "Hinton et al., 1990",
+     "claim": "Cited for the paraphysis cerebri as a glandular organ of amphibians and nonavian reptiles at the 3rd ventricle.",
+     "quote": "a glandular organ developed in amphibians and nonavian reptiles at the level of the 3rd ventricle",
+     "strength": "secondary_report"
+    }
+   ],
+   "caveats": "Excerpt only (536 characters): methods, n, life stage, figure content and any link to locomotor ecology cannot be verified. Genus abbreviations (P., R.) are kept as printed and not expanded. Finder note on relation to the choroid plexus is not in the text read and is not recorded.",
+   "appraisal": {
+    "specimens": "partial",
+    "methods": "not_assessable",
+    "claims_support": "mixed",
+    "note": "Species named but n and stage not visible; size differences refer to figures not seen; definition is a secondary citation."
+   },
+   "include_in_synthesis": "yes",
+   "exclusion_reason": ""
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+[
+ {
+  "cid": "S7-041",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S7-042",
+  "verdict": "needs_hedge",
+  "issue": "\"Isaacs (2025) recoge a la vez la formulación parafisaria y la endodérmica\" omits the non-contiguity caveat of R623 (fragments joined by '|' may come from different results; how the chapter relates the two models is unknown); \"Mansour (2023) ... favorece la endodérmica\": the source says impersonally 'migration of endodermal elements ... has been favored as a critical factor' and does not state the authors' own position.",
+  "fix": "Interpretación de esta revisión: en fragmentos secundarios no verificados y posiblemente no contiguos, Isaacs (2025) incluye tanto la formulación parafisaria como la endodérmica [@R623.1; @R623.2], mientras que Mansour (2023) presenta la parafisaria como idea anterior y la endodérmica como la hoy favorecida [@R604.1; @R604.2]."
+ },
+ {
+  "cid": "S7-043",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S7-044",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S7-045",
+  "verdict": "needs_hedge",
+  "issue": "\"los años de Sjövall y Shuangshoti no constan en el texto de Niknejad leído\": too categorical. The text read gives Sjövall as 'More than a century ago' and Shuangshoti as 'One year later' than Coxe and Luse 1964, so Shuangshoti's date (1965) is derivable and Sjövall's is approximate; neither appears as an explicit year.",
+  "fix": "... los años de Sjövall y Shuangshoti no constan como cifra explícita en el texto de Niknejad leído (que dice «hace más de un siglo» y «un año después» de 1964, respectivamente) [@R517.1; @R517.3; @R517.4; @R517.5; @R517.m1]."
+ },
+ {
+  "cid": "S7-046",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S7-047",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S7-048",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S7-049",
+  "verdict": "needs_hedge",
+  "issue": "\"detección de la paráfisis en embriones humanos desde CS19 [@R501.1]\": the excerpt says 'Paraphysis was detected at least after CS19', which is not the same as 'desde CS19' (literally, after CS19; the study's other stage named for the primordium is CS20). The rest of the claim (general, unsourced statements of 1954 and Armao; Armao hypothesis not naming the paraphysis; Nagaraju and Cevik as authors' interpretations without a paraphysis comparator) is supported.",
+  "fix": "... (p. ej., detección de la paráfisis en embriones humanos «al menos después de CS19» [@R501.1]; descrita como rudimentaria e inconstante en el hombre, sin estadio indicado [@R111.2])."
+ }
+]

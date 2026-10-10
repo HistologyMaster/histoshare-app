@@ -1,0 +1,62 @@
+[
+ {
+  "cid": "S7-041",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S7-042",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S7-043",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S7-044",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S7-045",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S7-046",
+  "verdict": "needs_hedge",
+  "issue": "«el corpus recuperado incluye extractos y un resumen»: implies a single Shuangshoti abstract, but the corpus holds two Shuangshoti abstracts (R153, 1975, cited; and R177, 1977, 'Multiple neuroepithelial (colloid) cysts', not cited anywhere in S7), plus the title-only R106. The cited findings themselves (R110.2, R111.1, R153.1, R106.t) are supported; only the inventory wording is inexact.",
+  "fix": "De Shuangshoti, en cambio, el corpus recuperado incluye extractos y resúmenes, de los que aquí se citan tres: en 1966 describe la paráfisis como plexo coroideo extraventricular... [@R110.2] ... [@R111.1], y en 1975 afirma, en el resumen, que los quistes coloides surgen del epéndimo y del plexo coroideo [@R153.1]; su trabajo de 1965 ... se conoce solo por título [@R106.t]."
+ },
+ {
+  "cid": "S7-047",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S7-048",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S7-049",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S7-050",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ }
+]

@@ -1,0 +1,122 @@
+[
+ {
+  "cid": "S6-041",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S6-042",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S6-043",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S6-044",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S6-045",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S6-046",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S6-047",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S6-048",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S6-049",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S6-050",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S6-051",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S6-052",
+  "verdict": "ok_uncited",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S6-053",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S6-054",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S6-055",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S6-056",
+  "verdict": "needs_citation",
+  "issue": "\"Esta revisión no encontró mediciones directas de secreción, captación o composición del LCR.\" is a corpus-wide negative with no marker and without the \"Interpretación de esta revisión:\" prefix; the DB confirms no such measurement exists (R320.2 and R467.2 are authors' interpretation/hypothesis, R485.3 is a secondary report), but the sentence does not point to that evidence as the neighbouring gap sentences do.",
+  "fix": "Interpretación de esta revisión: no se encontraron mediciones directas de secreción, captación o composición del LCR; lo disponible son interpretaciones o hipótesis de los autores [@R320.2; @R320.3] y un informe secundario [@R485.3]."
+ },
+ {
+  "cid": "S6-057",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S6-058",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S6-059",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S6-060",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ }
+]

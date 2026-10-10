@@ -1,0 +1,338 @@
+{
+ "batch": "eA01",
+ "records": [
+  {
+   "rid": "R004",
+   "data_depth": "secondary_snippet",
+   "duplicate_of": "",
+   "about_paraphysis": "passing_mention",
+   "study_type": "other",
+   "taxa": [
+    {
+     "name": "chicks",
+     "group": "bird"
+    }
+   ],
+   "stage": "not stated (snippet says only 'chicks')",
+   "methods": "Not available. Only a one-sentence statement about Selenka, taken from Dexter's later text (UNSW transcription) via a web-search summary; Selenka's own paper was not seen.",
+   "findings": [
+    {
+     "id": "R004.1",
+     "dim": "anatomy",
+     "statement": "Selenka is credited, in the later text quoted in the snippet, with being the first to identify the paraphysis in chicks.",
+     "support": "Selenka (12) was the first to identify the paraphysis in chicks.",
+     "locator": "excerpt",
+     "strength": "secondary_report",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "The paper's own title uses 'Stirnorgan' (frontal organ); the snippet (a later author's sentence) uses 'paraphysis'. No location or definition of the structure is given in the text read.",
+   "mentions": [],
+   "caveats": "AI-summary web-search text, unverified. The sentence is Dexter's attribution to Selenka, not Selenka's own text; that Dexter's reference (12) is this exact 1891 paper is not confirmed. The paper's content (and what it calls the structure) was not read; 'passing_mention' reflects only the snippet.",
+   "appraisal": {
+    "specimens": "not_assessable",
+    "methods": "not_assessable",
+    "claims_support": "not_assessable",
+    "note": "Only a secondhand one-line attribution was seen; the original paper cannot be appraised."
+   },
+   "include_in_synthesis": "context_only",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R005",
+   "data_depth": "secondary_snippet",
+   "duplicate_of": "",
+   "about_paraphysis": "none",
+   "study_type": "historical_monograph",
+   "taxa": [
+    {
+     "name": "Protopterus annectens",
+     "group": "dipnoan"
+    }
+   ],
+   "stage": "not stated",
+   "methods": "Not available. A single descriptive sentence from a later paper (Holmgren 1959, via web-search summary); the monograph was not seen.",
+   "findings": [
+    {
+     "id": "R005.1",
+     "dim": "terminology",
+     "statement": "Burckhardt (1890, 1892) named 'coronarium' a conspicuous structure lying interior to the pineal organ in the dorsal region of the brain; the snippet does not itself call it paraphysis.",
+     "support": "interior to that organ, a conspicuous structure which he named coronarium",
+     "locator": "excerpt",
+     "strength": "secondary_report",
+     "quote_verified": true
+    },
+    {
+     "id": "R005.2",
+     "dim": "anatomy",
+     "statement": "Burckhardt's brief description of the dorsal brain region indicated a pineal organ and, interior to it, a conspicuous structure.",
+     "support": "gave a brief description of the dorsal region of the brain, indicating the presence of a pineal organ and, interior to that organ, a conspicuous structure",
+     "locator": "excerpt",
+     "strength": "secondary_report",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "'coronarium' (Burckhardt's own name, as reported by the citing author) for a structure interior to the pineal organ; the text read never uses the word 'paraphysis'.",
+   "mentions": [
+    {
+     "work": "Burckhardt (1890)",
+     "claim": "Cited together with the 1892 work for the brief description of the dorsal brain region (pineal organ plus an inner conspicuous structure named coronarium).",
+     "quote": "Burckhardt (1890, 1892) gave a brief description of the dorsal region of the brain",
+     "strength": "secondary_report"
+    }
+   ],
+   "caveats": "AI-summary web-search text, unverified. The excerpt never mentions the paraphysis; relevance rests on the finder's notes (outside the excerpt) linking 'coronarium' to a structure later called paraphysis. Species is taken from the record title, not from the excerpt. Monograph itself not seen.",
+   "appraisal": {
+    "specimens": "not_assessable",
+    "methods": "not_assessable",
+    "claims_support": "not_assessable",
+    "note": "Only one secondhand descriptive sentence; the monograph cannot be appraised."
+   },
+   "include_in_synthesis": "context_only",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R007",
+   "data_depth": "secondary_snippet",
+   "duplicate_of": "",
+   "about_paraphysis": "passing_mention",
+   "study_type": "other",
+   "taxa": [
+    {
+     "name": "crow",
+     "group": "bird"
+    },
+    {
+     "name": "Petromyzon",
+     "group": "cyclostome"
+    }
+   ],
+   "stage": "embryo (crow); Petromyzon stage not stated",
+   "methods": "Not available. One sentence from a later paper citing 'Burckhardt (3)' (UNSW transcription via web-search summary); the 1894 paper itself was not seen.",
+   "findings": [
+    {
+     "id": "R007.1",
+     "dim": "ontogeny",
+     "statement": "In an embryo of the crow the paraphysis is shown as a small diverticulum (Burckhardt, as cited by a later author).",
+     "support": "Burckhardt (3) shows the paraphysis in an embryo of the crow as a small diverticulum",
+     "locator": "excerpt",
+     "strength": "secondary_report",
+     "quote_verified": true
+    },
+    {
+     "id": "R007.2",
+     "dim": "phylogeny",
+     "statement": "The crow-embryo paraphysis is described as not unlike that of Petromyzon.",
+     "support": "not unlike that of Petromyzon.",
+     "locator": "excerpt",
+     "strength": "secondary_report",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "'paraphysis' is used in the citing sentence; the title refers to the 'Zwischenhirndach' (diencephalic roof) but the snippet gives no telencephalic/diencephalic assignment for the paraphysis.",
+   "mentions": [],
+   "caveats": "AI-summary web-search text, unverified. The sentence cites 'Burckhardt (3)'; it is not confirmed that reference (3) is this exact 1894 paper (a similarly titled Burckhardt 1894 record, R006, exists in the corpus). Petromyzon appears only as a comparison in the sentence. Reptiles (in the title) are not covered by the snippet.",
+   "appraisal": {
+    "specimens": "not_assessable",
+    "methods": "not_assessable",
+    "claims_support": "not_assessable",
+    "note": "Secondhand one-sentence report; no specimen numbers or methods visible."
+   },
+   "include_in_synthesis": "context_only",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R014",
+   "data_depth": "secondary_snippet",
+   "duplicate_of": "",
+   "about_paraphysis": "principal",
+   "study_type": "developmental_series",
+   "taxa": [
+    {
+     "name": "common fowl",
+     "group": "bird"
+    }
+   ],
+   "stage": "embryos ('older embryos' in the text read; stages and numbers not stated)",
+   "methods": "Not available. Only two short passages of the text (transcribed on the UNSW Embryology wiki, seen through web-search summaries) were read; methods not shown.",
+   "findings": [
+    {
+     "id": "R014.1",
+     "dim": "phylogeny",
+     "statement": "Dexter reports that D'Erchia identified the paraphysis in fish and in mammalian embryos and considered it a constant structure in all vertebrates, without observations on birds.",
+     "support": "D'Erchia (5) identified the paraphysis in fish, and in mammalian embryos, and believes it to be a constant structure in all vertebrates, but reports no observations on birds.",
+     "locator": "excerpt",
+     "strength": "secondary_report",
+     "quote_verified": true
+    },
+    {
+     "id": "R014.2",
+     "dim": "ontogeny",
+     "statement": "'The cavity' communicates with that of the forebrain and its wall becomes distinctly thicker in older embryos; the snippet does not show to which structure 'the cavity' refers.",
+     "support": "The cavity communicates with that of the forebrain, and the wall becomes distinctly thicker in older embryos.",
+     "locator": "excerpt (taken from the duplicate record R015, same work)",
+     "strength": "direct_observation",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "'paraphysis' throughout; the text read gives no definition and no telencephalic/diencephalic location (only a communication of 'the cavity' with that of the forebrain).",
+   "mentions": [
+    {
+     "work": "D'Erchia (5)",
+     "claim": "Identified the paraphysis in fish and in mammalian embryos; regards it as constant in all vertebrates; no observations on birds.",
+     "quote": "D'Erchia (5) identified the paraphysis in fish, and in mammalian embryos, and believes it to be a constant structure in all vertebrates",
+     "strength": "secondary_report"
+    },
+    {
+     "work": "Selenka (12)",
+     "claim": "First to identify the paraphysis in chicks.",
+     "quote": "Selenka (12) was the first to identify the paraphysis in chicks.",
+     "strength": "secondary_report"
+    }
+   ],
+   "caveats": "AI-summary web-search text, unverified; the paper's full text was not read. 'principal' is judged from the title ('The development of the paraphysis in the common fowl'), not from the passages read. R014.2 comes from the stored excerpt of duplicate record R015; the referent of 'the cavity' is not visible. Year conflict: 1902 (Wiley, first published) vs 1903 (UNSW transcription).",
+   "appraisal": {
+    "specimens": "not_assessable",
+    "methods": "not_assessable",
+    "claims_support": "not_assessable",
+    "note": "Only two short passages seen; specimens, stages and methods cannot be judged."
+   },
+   "include_in_synthesis": "context_only",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R015",
+   "data_depth": "secondary_snippet",
+   "duplicate_of": "R014",
+   "about_paraphysis": "principal",
+   "study_type": "developmental_series",
+   "taxa": [
+    {
+     "name": "chicks",
+     "group": "bird"
+    }
+   ],
+   "stage": "embryos ('older embryos' in the text read; stages and numbers not stated)",
+   "methods": "Not available. Two short passages of the text (UNSW Embryology wiki transcription, via web-search summaries); methods not shown.",
+   "findings": [
+    {
+     "id": "R015.1",
+     "dim": "ontogeny",
+     "statement": "'The cavity' communicates with that of the forebrain and its wall becomes distinctly thicker in older embryos; the snippet does not show to which structure 'the cavity' refers.",
+     "support": "The cavity communicates with that of the forebrain, and the wall becomes distinctly thicker in older embryos.",
+     "locator": "excerpt",
+     "strength": "direct_observation",
+     "quote_verified": true
+    },
+    {
+     "id": "R015.2",
+     "dim": "anatomy",
+     "statement": "Selenka is credited in this text with being the first to identify the paraphysis in chicks.",
+     "support": "Selenka (12) was the first to identify the paraphysis in chicks.",
+     "locator": "excerpt",
+     "strength": "secondary_report",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "'paraphysis'; no definition or location given in the text read.",
+   "mentions": [
+    {
+     "work": "Selenka (12)",
+     "claim": "First to identify the paraphysis in chicks.",
+     "quote": "Selenka (12) was the first to identify the paraphysis in chicks.",
+     "strength": "secondary_report"
+    }
+   ],
+   "caveats": "Duplicate of R014 (same Dexter paper, UNSW transcription dated 1903 vs Wiley 1902); journal, volume and pages absent in this record. AI-summary web-search text, unverified; full text not read; 'principal' judged from the title. Referent of 'the cavity' not visible.",
+   "appraisal": {
+    "specimens": "not_assessable",
+    "methods": "not_assessable",
+    "claims_support": "not_assessable",
+    "note": "Two short passages only; cannot be appraised."
+   },
+   "include_in_synthesis": "no",
+   "exclusion_reason": "Duplicate of R014 (same work); its distinct passage is carried in R014."
+  },
+  {
+   "rid": "R016",
+   "data_depth": "secondary_snippet",
+   "duplicate_of": "",
+   "about_paraphysis": "passing_mention",
+   "study_type": "historical_monograph",
+   "taxa": [
+    {
+     "name": "not named in the stored excerpt",
+     "group": "not_applicable"
+    }
+   ],
+   "stage": "not stated",
+   "methods": "Not available. One sentence about Studnicka (1905) from a later paper, seen through a web-search summary; the handbook chapter was not seen.",
+   "findings": [
+    {
+     "id": "R016.1",
+     "dim": "terminology",
+     "statement": "Studnicka (1905) argued that 'the structure' should instead be called paraphysis; the structure and its earlier name are not given in the snippet.",
+     "support": "Studnička, in 1905, argued that the structure should be called paraphysis instead.",
+     "locator": "excerpt",
+     "strength": "secondary_report",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Proposal of 'paraphysis' as the name ('instead' of an earlier name not shown in the text read).",
+   "mentions": [],
+   "caveats": "AI-summary web-search text, unverified. The sentence comes from a later paper; the chapter's own treatment of the paraphysis was not read or confirmed. Which structure (and which earlier name) is meant is not in the excerpt; finder notes link it to Burckhardt's 'coronarium' in lungfish, but this is outside the text read.",
+   "appraisal": {
+    "specimens": "not_assessable",
+    "methods": "not_assessable",
+    "claims_support": "not_assessable",
+    "note": "Secondhand one-line attribution; the chapter cannot be appraised."
+   },
+   "include_in_synthesis": "context_only",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R017",
+   "data_depth": "secondary_snippet",
+   "duplicate_of": "",
+   "about_paraphysis": "principal",
+   "study_type": "developmental_series",
+   "taxa": [
+    {
+     "name": "Necturus maculatus",
+     "group": "urodele"
+    }
+   ],
+   "stage": "development (from the title); the excerpt itself refers to an adult brain (Osborn)",
+   "methods": "Not available. Only one introductory sentence about Osborn was read (web-search summary); methods of the study not shown.",
+   "findings": [
+    {
+     "id": "R017.1",
+     "dim": "anatomy",
+     "statement": "Osborn is reported to show the paraphysis in an adult brain, in comparison with the brains of other amphibia.",
+     "support": "Osborn shows the paraphysis in an adult brain in comparison with the brains of other amphibia.",
+     "locator": "excerpt",
+     "strength": "secondary_report",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "'paraphysis' (title: 'the paraphysis and the pineal region'); no definition or location in the text read.",
+   "mentions": [
+    {
+     "work": "Osborn",
+     "claim": "Shows the paraphysis in an adult brain compared with the brains of other amphibia.",
+     "quote": "Osborn shows the paraphysis in an adult brain in comparison with the brains of other amphibia.",
+     "strength": "secondary_report"
+    }
+   ],
+   "caveats": "AI-summary web-search text, unverified; the paper's own observations on Necturus were not read. 'principal' and study type are judged from the title only. Osborn's work is not dated in the excerpt. Page range and PubMed record not confirmed.",
+   "appraisal": {
+    "specimens": "not_assessable",
+    "methods": "not_assessable",
+    "claims_support": "not_assessable",
+    "note": "Only a quoted introduction sentence seen; the paper's own data cannot be appraised."
+   },
+   "include_in_synthesis": "context_only",
+   "exclusion_reason": ""
+  }
+ ]
+}

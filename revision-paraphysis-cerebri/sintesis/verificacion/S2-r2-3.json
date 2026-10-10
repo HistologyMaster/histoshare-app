@@ -1,0 +1,122 @@
+[
+ {
+  "cid": "S2-041",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-042",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-043",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-044",
+  "verdict": "needs_hedge",
+  "issue": "\"aparece en la séptima semana y desaparece hacia los 3,5 meses, solo a veces\": funde dos fragmentos secundarios de distinta generalidad y el alcance de \"solo a veces\" es ambiguo. R650.1 dice \"Sometimes, in humans, ... the paraphysis arises\" (sobre su aparición), mientras R370.2 dice que los \"paraphyseal rudiments normally disappear\" (se pierden \"normally\" y \"rudiments\"), de modo que \"desaparece\" queda más categórico que la fuente y \"solo a veces\" puede leerse como si la desaparición fuera ocasional.",
+  "fix": "según fuentes secundarias no verificadas, se desarrolla en la séptima semana y sus rudimentos normalmente desaparecen hacia los 3,5 meses [R370.1; R370.2], aunque otra fuente secundaria indica que solo a veces surge en humanos [R650.1]"
+ },
+ {
+  "cid": "S2-045",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-046",
+  "verdict": "ok_uncited",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-047",
+  "verdict": "needs_hedge",
+  "issue": "\"La generalización más repetida es que...\": el superlativo es una comparación de frecuencias en todo el corpus que los tres marcadores citados (R280.1, R560.3, R534.m1) no pueden respaldar; el contenido de la frase (bien desarrollada en anfibios y reptiles; Manzano cita a Hinton et al.) sí está en las fuentes.",
+  "fix": "Una generalización que se repite en tres de las fuentes leídas es que la paráfisis está bien desarrollada en anfibios y reptiles: ..."
+ },
+ {
+  "cid": "S2-048",
+  "verdict": "ok_uncited",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-049",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-050",
+  "verdict": "ok_uncited",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-051",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-052",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-053",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-054",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-055",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-056",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-057",
+  "verdict": "ok_uncited",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-058",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-059",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-060",
+  "verdict": "ok_uncited",
+  "issue": "",
+  "fix": ""
+ }
+]

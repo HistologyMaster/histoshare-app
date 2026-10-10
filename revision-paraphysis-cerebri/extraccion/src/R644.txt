@@ -1,0 +1,3 @@
+RECORD R644 | authors, title, year and journal not shown in the record | DOI 10.1007/bf00225570 (no PMID/PMC)
+ACCESS: web search snippet only; AI-summary text of the Springer abstract, unverified
+STORED EXCERPT: The paraphysis cerebri of adult Salmo gairdneri is represented by a differentiated part of the pars impar telencephali of the telencephalic roof.

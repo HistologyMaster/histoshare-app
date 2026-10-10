@@ -34,7 +34,7 @@ for rid, r in sorted(db.items()):
         qv = f.get('quote_verified')
         print(f"   - ({f['id']}) [{f['dim']}; {f['strength']}; quote_verified={qv}] {f['statement']}\n       \"{f.get('support','')}\" ({f.get('locator')})")
     for m in ms:
-        print(f"   * mentions {m.get('work')}: {m.get('claim')} | \"{m.get('quote','')}\" [secondary_report; quote_verified={m.get('quote_verified')}]")
+        print(f"   * ({m.get('id')}) mentions {m.get('work')}: {m.get('claim')} | \"{m.get('quote','')}\" [secondary_report; quote_verified={m.get('quote_verified')}]")
     if e.get('caveats'): print('   caveats:', e['caveats'])
     ap_ = e.get('appraisal') or {}
     print('   appraisal:', ap_.get('specimens'), '/', ap_.get('methods'), '/', ap_.get('claims_support'), '-', ap_.get('note', ''))

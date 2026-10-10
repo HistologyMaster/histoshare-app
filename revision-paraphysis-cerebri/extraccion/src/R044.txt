@@ -1,0 +1,5 @@
+RECORD R044 | Gladstone RJ, Wakeley CPG | 1940
+TITLE (corpus record): The Pineal Organ: the comparative anatomy of median and lateral eyes
+PUBLISHER (corpus record): Baillière, Tindall & Cox, London (xvi + 528 pp)
+ACCESS: web search snippet only (UNSW Embryology wiki page and Wellcome catalogue seen via WebSearch summary); no PMID/DOI/PMC; AI-summary text, unverified
+STORED EXCERPT: the dorsal sac and paraphysis are also present, in alligator

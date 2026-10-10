@@ -1,0 +1,491 @@
+{
+ "batch": "eA06",
+ "records": [
+  {
+   "rid": "R280",
+   "data_depth": "abstract",
+   "duplicate_of": "",
+   "about_paraphysis": "principal",
+   "study_type": "ultrastructure",
+   "taxa": [
+    {
+     "name": "Rana pipiens",
+     "group": "anuran"
+    },
+    {
+     "name": "Rana catesbeiana",
+     "group": "anuran"
+    }
+   ],
+   "stage": "not stated in abstract (perfusion-fixed paraphyses; age/stage not given)",
+   "methods": "Perfusion-fixed paraphyses cast with Microfil (macroscopic) or Batson's compound (SEM after tissue digestion), or processed for TEM; histofluorescence for monoaminergic innervation. Number of animals not stated in abstract.",
+   "findings": [
+    {
+     "id": "R280.1",
+     "dim": "phylogeny",
+     "statement": "Authors state the paraphysis cerebri is a glandular structure of the third ventricle of lower vertebrates, well developed in amphibians and reptiles (introductory statement, no citation in abstract).",
+     "support": "The paraphysis cerebri is a glandular structure found in the third ventricle of lower vertebrates. It is well-developed in amphibians and reptiles.",
+     "locator": "abstract",
+     "strength": "secondary_report",
+     "quote_verified": true
+    },
+    {
+     "id": "R280.2",
+     "dim": "physiology",
+     "statement": "Function of the paraphysis is described as not substantiated; it may play a role in calcium metabolism, and the study aimed to elucidate its possible endocrine role.",
+     "support": "The function of the gland is not substantiated, but may play a role in calcium metabolism. To further elucidate its possible endocrine role",
+     "locator": "abstract",
+     "strength": "hypothesis",
+     "quote_verified": true
+    },
+    {
+     "id": "R280.3",
+     "dim": "anatomy",
+     "statement": "In Rana, the paraphyseal capillary bed is a sinusoidal portal system that receives afferent blood from its associated choroid plexus.",
+     "support": "The paraphyseal capillary bed consists of a sinusoidal portal system which receives afferent blood from its associated choroid plexus.",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    },
+    {
+     "id": "R280.4",
+     "dim": "anatomy",
+     "statement": "Third-ventricle choroid plexus is supplied by arterioles from the posterior telencephalic artery; these arterioles run in the periphery of the paraphysis before branching to supply the choroid plexus.",
+     "support": "The choroid plexus of the third ventricle receives its blood supply via arterioles from the posterior telencephalic artery. These arterioles traverse in the periphery of the paraphysis to branch and supply the choroid plexus.",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    },
+    {
+     "id": "R280.5",
+     "dim": "anatomy",
+     "statement": "Venules leave the choroid plexus and drain into paraphyseal sinusoids; sinusoid venules appear to empty into a midline venous structure passing tangentially through the paraphysis.",
+     "support": "Numerous venules exit from the choroid plexus and drain into sinusoids of the paraphysis. The sinusoid venules appear to empty into a midline venous structure which passes tangentially through the paraphysis.",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    },
+    {
+     "id": "R280.6",
+     "dim": "histology",
+     "statement": "Paraphyseal sinusoids have fenestrated endothelium, which the authors take as indicative of transport vessels.",
+     "support": "The sinusoids consist of fenestrated endothelium which is indicative of transport vessels.",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    },
+    {
+     "id": "R280.7",
+     "dim": "histology",
+     "statement": "Nerve fibers occur in the paraphysis, but histofluorescence showed no monoaminergic sympathetic innervation of the paraphyseal vasculature.",
+     "support": "Nerve fibers were observed in the paraphysis, however, histofluorescence revealed no monoaminergic sympathetic innervation of the paraphyseal vasculature.",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Called 'paraphysis cerebri', a 'glandular structure found in the third ventricle'; its associated choroid plexus is the 'choroid plexus of the third ventricle', supplied by the 'posterior telencephalic artery'. The abstract does not state whether the roof of origin is telencephalic or diencephalic.",
+   "mentions": [],
+   "caveats": "Only the complete PubMed abstract was read (no PMC full text; no Wiley passage). Number of animals, sex/age, perfusion protocol and figures are not available. The endocrine/calcium role is proposed, not tested here.",
+   "appraisal": {
+    "specimens": "partial",
+    "methods": "reported",
+    "claims_support": "direct",
+    "note": "Abstract names species and casting/SEM/TEM techniques but gives no n or stage; vascular claims are direct observations, function is speculative."
+   },
+   "include_in_synthesis": "yes",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R281",
+   "data_depth": "abstract",
+   "duplicate_of": "",
+   "about_paraphysis": "principal",
+   "study_type": "ultrastructure",
+   "taxa": [
+    {
+     "name": "Hyla versicolor",
+     "group": "anuran"
+    }
+   ],
+   "stage": "not stated in abstract",
+   "methods": "Ultrastructural study of paraphysis, anterior choroid plexus, endolymphatic tubules and pineal organ of the treefrog (technique, fixation and n not given in the abstract).",
+   "findings": [
+    {
+     "id": "R281.1",
+     "dim": "physiology",
+     "statement": "From morphology and anatomical relationships, the authors suggest the paraphysis, anterior choroid plexus and endolymphatic tubules may act as one functional unit regulating CSF composition.",
+     "support": "The morphology and anatomical relationship of the paraphysis, anterior choroid plexus, and endolymphatic tubules of Hyla versicolor suggest that these structures may act as a functional unit to regulate composition of the cerebrospinal fluid (CSF).",
+     "locator": "abstract",
+     "strength": "hypothesis",
+     "quote_verified": true
+    },
+    {
+     "id": "R281.2",
+     "dim": "histology",
+     "statement": "Ependymal cells of the paraphysis (like those of the choroid plexus) show an extensive microvillar border, large intercellular spaces with amorphous material, and apically located mitochondria.",
+     "support": "Ependymal cells of both the paraphysis and the choroid plexus exhibit ultrastructural features (an extensive microvillar border, large intercellular spaces containing an amorphous material, and apically located mitochondria)",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    },
+    {
+     "id": "R281.3",
+     "dim": "physiology",
+     "statement": "The authors interpret these ependymal ultrastructural features as indicating active exchange between blood and CSF.",
+     "support": "ultrastructural features (an extensive microvillar border, large intercellular spaces containing an amorphous material, and apically located mitochondria) which indicate active exchange between the blood and CSF.",
+     "locator": "abstract",
+     "strength": "authors_interpretation",
+     "quote_verified": true
+    },
+    {
+     "id": "R281.4",
+     "dim": "histology",
+     "statement": "Mast cells, which may regulate vascular permeability, occur on the brush border (the abstract places this sentence after the paraphysis/choroid plexus ependyma description).",
+     "support": "Mast cells (which may play a role in regulating vascular permeability) also occur on the brush border.",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    },
+    {
+     "id": "R281.5",
+     "dim": "anatomy",
+     "statement": "Endolymphatic sac tubules lie in close relation with the dorsal portion of the paraphysis.",
+     "support": "The tubules of the endolymphatic sacs were found to lie in close relation with the dorsal portion of the paraphysis.",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    },
+    {
+     "id": "R281.6",
+     "dim": "physiology",
+     "statement": "Authors propose that the paraphysis-endolymphatic tubule association may be an important mechanism for ion regulation of CSF in amphibians.",
+     "support": "The association of the paraphysis with the endolymphatic tubules may therefore represent an important mechanism for ion regulation in the CSF of amphibians.",
+     "locator": "abstract",
+     "strength": "hypothesis",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Paraphysis is treated, with the choroid plexus, as a 'circumventricular organ' (title) with ependymal cells; the abstract does not state a telencephalic or diencephalic origin and does not mention a paraphyseal stalk or lumen.",
+   "mentions": [],
+   "caveats": "Complete PubMed abstract read; the stored Wiley excerpt duplicates the first part of the abstract; full text not read. Species, stage, n, fixation and magnifications unknown. Functional statements are inferences from morphology. Pineal results in the abstract are not about the paraphysis and were not extracted.",
+   "appraisal": {
+    "specimens": "partial",
+    "methods": "partial",
+    "claims_support": "mixed",
+    "note": "Abstract gives species but no n or stage and no technique details; ultrastructural descriptions are direct, functional-unit and ion-regulation claims are inferred."
+   },
+   "include_in_synthesis": "yes",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R320",
+   "data_depth": "abstract",
+   "duplicate_of": "",
+   "about_paraphysis": "principal",
+   "study_type": "ultrastructure",
+   "taxa": [
+    {
+     "name": "Bufo bufo",
+     "group": "anuran"
+    }
+   ],
+   "stage": "larvae (larval stages/Gosner numbers not given in abstract)",
+   "methods": "Ultrastructural (and functional) study of the paraphysis of Bufo bufo larvae; technique, fixation, number and stage of larvae not given in the abstract.",
+   "findings": [
+    {
+     "id": "R320.1",
+     "dim": "histology",
+     "statement": "In Bufo bufo larvae the paraphysis is a tubular-ramified gland of numerous tubules with monolayered epithelial walls, surrounded by connective tissue and sinusoids.",
+     "support": "The structure is a tubular-ramified gland made up of numerous tubules with monolayered epithelial walls surrounded by connective tissue and sinusoids.",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    },
+    {
+     "id": "R320.2",
+     "dim": "physiology",
+     "statement": "Authors report that the paraphysial epithelial cells secrete glycoprotein that contributes to production of the cephalorachidian fluid.",
+     "support": "The epithelial cells secrete glycoprotein to contribute to production of the cephalorachidian fluid.",
+     "locator": "abstract",
+     "strength": "authors_interpretation",
+     "quote_verified": true
+    },
+    {
+     "id": "R320.3",
+     "dim": "physiology",
+     "statement": "The authors discuss a role of the paraphysis in transporting fluids and electrolytes from blood to cephalorachidian fluid, regulating ionic and osmotic homeostasis.",
+     "support": "The role of the paraphysis in the transport of fluids and electrolytes from the blood to the cephalorachidian fluid in regulation of ionic and osmotic homeostasis is discussed.",
+     "locator": "abstract",
+     "strength": "hypothesis",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "'Paraphysis' defined functionally and structurally as a 'tubular-ramified gland'; CSF is called 'cephalorachidian fluid'. Roof of origin not stated in the abstract.",
+   "mentions": [],
+   "caveats": "Complete PubMed abstract read (stored Wiley excerpt equals the abstract); full text not read. No information on larval stage, n, fixation, cytochemical evidence for glycoprotein, or secretory-cycle detail.",
+   "appraisal": {
+    "specimens": "partial",
+    "methods": "partial",
+    "claims_support": "mixed",
+    "note": "Species and larval stage stated, but no n, stages or technique; gland architecture is direct, glycoprotein secretion basis not shown, ionic-regulation role is discussion only."
+   },
+   "include_in_synthesis": "yes",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R327",
+   "data_depth": "abstract",
+   "duplicate_of": "",
+   "about_paraphysis": "passing_mention",
+   "study_type": "case_series",
+   "taxa": [
+    {
+     "name": "human patients (6 cases of CNS cysts)",
+     "group": "human"
+    }
+   ],
+   "stage": "patient (clinical) cases; ages not stated in abstract",
+   "methods": "Immunohistochemistry (GFAP, S-100, EMA, CEA, keratin, vimentin) on 6 thin-walled CNS cysts: enterogenous, paraphyseal neuroepithelial, Rathke's cleft (3) and arachnoid cysts.",
+   "findings": [
+    {
+     "id": "R327.1",
+     "dim": "clinical",
+     "statement": "A neuroepithelial cyst classed by the authors as of paraphyseal origin was keratin- and S-100-positive in immunohistochemistry.",
+     "support": "The neuroepithelial cyst of paraphyseal origin was positive for KER and S-100.",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    },
+    {
+     "id": "R327.2",
+     "dim": "terminology",
+     "statement": "The authors list a 'paraphyseal neuroepithelial cyst' as one of the benign CNS cyst types characterized, alongside enterogenous, Rathke's cleft and arachnoid cysts.",
+     "support": "6 cases of thin-walled cysts in the central nervous system (enterogenous cyst, paraphyseal neuroepithelial cyst, Rathke's cleft cyst and arachnoid cyst)",
+     "locator": "abstract",
+     "strength": "authors_interpretation",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "'Paraphyseal neuroepithelial cyst' / 'neuroepithelial cyst of paraphyseal origin': a cyst type attributed to the paraphysis; the basis for assigning paraphyseal origin is not stated in the abstract.",
+   "mentions": [],
+   "caveats": "Abstract only (English abstract of a Japanese-journal paper). The paraphysis itself is not described; one cyst (apparently a single case) is labelled paraphyseal. How paraphyseal origin was established, and whether it corresponds to the colloid cyst of the third ventricle, is not stated.",
+   "appraisal": {
+    "specimens": "partial",
+    "methods": "partial",
+    "claims_support": "mixed",
+    "note": "Total n=6 and antibody panel reported; number, site and age of the paraphyseal cyst not given; immunophenotype is direct, paraphyseal origin is asserted without stated basis."
+   },
+   "include_in_synthesis": "context_only",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R361",
+   "data_depth": "secondary_snippet",
+   "duplicate_of": "",
+   "about_paraphysis": "principal",
+   "study_type": "ultrastructure",
+   "taxa": [
+    {
+     "name": "Trachemys scripta dorbigni",
+     "group": "chelonian"
+    }
+   ],
+   "stage": "not stated in the text read",
+   "methods": "Not stated in the text read; the title announces a structural and ultrastructural study of the turtle paraphysis (Master's dissertation).",
+   "findings": [
+    {
+     "id": "R361.1",
+     "dim": "anatomy",
+     "statement": "The paraphysis is described as a neuroepithelial structure, considered a circumventricular organ, located between the cerebral hemispheres (general statement as shown in a search summary).",
+     "support": "A paráfise é uma estrutura neuroepitelial, considerada como um órgão circunventricular, localizada entre os hemisférios cerebrais.",
+     "locator": "excerpt",
+     "strength": "secondary_report",
+     "quote_verified": true
+    },
+    {
+     "id": "R361.2",
+     "dim": "ontogeny",
+     "statement": "In humans the paraphysis is present only during a short embryonic period.",
+     "support": "No homem, a paráfise está presente durante um curto período embrionário",
+     "locator": "excerpt",
+     "strength": "secondary_report",
+     "quote_verified": true
+    },
+    {
+     "id": "R361.3",
+     "dim": "clinical",
+     "statement": "In some cases the human paraphysis is the site of colloid cysts of the third ventricle.",
+     "support": "em alguns casos é sede de cistos coloidais do III° ventrículo",
+     "locator": "excerpt",
+     "strength": "secondary_report",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "'Paráfise' = a neuroepithelial structure and circumventricular organ lying between the cerebral hemispheres; no statement on telencephalic vs diencephalic roof in the text read.",
+   "mentions": [],
+   "caveats": "Known only from web-search summary text (AI-written, unverified; two sentences, probably from the abstract/introduction). Author, year (1999 comes from one summary only) and results were not seen; the sentences are general background, not the dissertation's own findings. Possibly the thesis behind R411/R412 (Winkelmann et al. 2004), relationship unverified, so not marked as duplicate. Study type taken from title only.",
+   "appraisal": {
+    "specimens": "not_assessable",
+    "methods": "not_assessable",
+    "claims_support": "not_assessable",
+    "note": "Only two background sentences from an AI search summary were seen; no specimens, methods or results available."
+   },
+   "include_in_synthesis": "context_only",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R370",
+   "data_depth": "secondary_snippet",
+   "duplicate_of": "",
+   "about_paraphysis": "passing_mention",
+   "study_type": "case_report",
+   "taxa": [
+    {
+     "name": "human (colloid cyst patient; paraphyseal embryology)",
+     "group": "human"
+    }
+   ],
+   "stage": "human embryonic development (7th week; degeneration at ~3.5 months of age) per snippet; case patient's age not given in the abstract",
+   "methods": "Imaging-pathologic correlation (CT/MR, pathology) of one patient with a colloid cyst; paraphysis statements come only from a stored web-search summary of the full text.",
+   "findings": [
+    {
+     "id": "R370.1",
+     "dim": "ontogeny",
+     "statement": "Snippet states the human paraphysis develops in the 7th week as a pouchlike evagination of the diencephalic roof dorsal to the interventricular foramen.",
+     "support": "The human paraphysis develops as a pouchlike evagination of the diencephalic roof dorsal to the interventricular foramen in the 7th week of life.",
+     "locator": "excerpt",
+     "strength": "secondary_report",
+     "quote_verified": true
+    },
+    {
+     "id": "R370.2",
+     "dim": "ontogeny",
+     "statement": "Snippet states that paraphyseal rudiments normally disappear by total degeneration at about 3.5 months of age.",
+     "support": "Paraphyseal rudiments normally disappear by total degeneration at approximately 3.5 months of age.",
+     "locator": "excerpt",
+     "strength": "secondary_report",
+     "quote_verified": true
+    },
+    {
+     "id": "R370.3",
+     "dim": "clinical",
+     "statement": "Snippet states colloid cysts of the third ventricle may arise from detached, nondegenerating embryonic vesicular recesses (the paraphysis is not named in this sentence; it follows the paraphyseal rudiment sentence).",
+     "support": "Colloid cysts of the third ventricle may arise from detached, nondegenerating embryonic vesicular recesses.",
+     "locator": "excerpt",
+     "strength": "hypothesis",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Snippet places the human paraphysis on the 'diencephalic roof dorsal to the interventricular foramen' (printed so), and calls remnants 'paraphyseal rudiments' and 'embryonic vesicular recesses'.",
+   "mentions": [],
+   "caveats": "Paraphysis statements come only from AI-summary web-search text quoting the full text; the PubMed abstract does not mention the paraphysis and PMC full text returned empty, so the sentences could not be checked against the paper. The 'diencephalic roof' wording conflicts with R410, which describes the paraphysis as an evagination of the telencephalon. Paper is a case report, so embryology is background; not verified.",
+   "appraisal": {
+    "specimens": "not_assessable",
+    "methods": "not_assessable",
+    "claims_support": "not_assessable",
+    "note": "Paraphyseal statements are unverified secondary snippet text on embryological background; the case itself concerns a colloid cyst, not the paraphysis."
+   },
+   "include_in_synthesis": "context_only",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R410",
+   "data_depth": "abstract",
+   "duplicate_of": "",
+   "about_paraphysis": "substantive",
+   "study_type": "light_morphology",
+   "taxa": [
+    {
+     "name": "tuatara",
+     "group": "tuatara"
+    }
+   ],
+   "stage": "neonatal",
+   "methods": "Histological sections of the brain of a neonatal tuatara examined by light microscopy; findings compared with those of Dendy. Stains and fixation not given in the abstract or excerpt.",
+   "findings": [
+    {
+     "id": "R410.1",
+     "dim": "anatomy",
+     "statement": "In the neonatal tuatara the paraphysis, adjacent to the pineal eye, was a large, multisaccular organ.",
+     "support": "The adjacent paraphysis was a large, multisaccular organ and the pineal sac a very large saccular organ with a poorly differentiated retina.",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    },
+    {
+     "id": "R410.2",
+     "dim": "physiology",
+     "statement": "The paraphysis appeared to have a secretory function that is as yet undetermined.",
+     "support": "The paraphysis appeared to have a secretory function that is as yet undetermined",
+     "locator": "abstract",
+     "strength": "authors_interpretation",
+     "quote_verified": true
+    },
+    {
+     "id": "R410.3",
+     "dim": "anatomy",
+     "statement": "Authors define the paraphysis as an evagination from the lamina supraneuroporica of the telencephalon (cited to a reference).",
+     "support": "The paraphysis is an evagination from the *lamina supraneuroporica* of the telencephalon",
+     "locator": "excerpt",
+     "strength": "secondary_report",
+     "quote_verified": true
+    },
+    {
+     "id": "R410.4",
+     "dim": "ontogeny",
+     "statement": "The paraphysis has numerous lumens and originally opened into the third ventricle; according to Dendy the opening shifts above the commissura aberrans during embryonic development so that it opens into the dorsal sac.",
+     "support": "It has numerous lumens and originally opened into the third ventricle, but Dendy demonstrated that the opening shifts to above the *commissura aberrans* during embryologic development, such that it opens into the dorsal sac",
+     "locator": "excerpt",
+     "strength": "secondary_report",
+     "quote_verified": true
+    },
+    {
+     "id": "R410.5",
+     "dim": "physiology",
+     "statement": "Authors note little research has examined the biochemistry of the paraphysis, which appears to have a secretory function.",
+     "support": "It appears to have a secretory function although little research has been carried out examining its biochemistry",
+     "locator": "excerpt",
+     "strength": "secondary_report",
+     "quote_verified": true
+    },
+    {
+     "id": "R410.6",
+     "dim": "anatomy",
+     "statement": "The dorsal sac, into which the paraphysis opens, is an outpouching of the third ventricle and contains choroid plexus structurally identical to that of the lateral ventricles.",
+     "support": "The dorsal sac is an outpouching from the third ventricle and retains this connection. The dorsal sac contains choroid plexus with a structure identical to that of the choroid plexus of the lateral ventricles.",
+     "locator": "excerpt",
+     "strength": "secondary_report",
+     "quote_verified": true
+    },
+    {
+     "id": "R410.7",
+     "dim": "phylogeny",
+     "statement": "Authors state that some reptiles have a sophisticated pineal complex comprising a median pineal eye, a paraphysis and a pineal sac.",
+     "support": "Some reptiles have an anatomically sophisticated pineal complex with a median pineal eye, a paraphysis and a pineal sac.",
+     "locator": "abstract",
+     "strength": "secondary_report",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Paraphysis = 'evagination from the lamina supraneuroporica of the telencephalon' (telencephalic origin), originally opening into the third ventricle but, per Dendy, secondarily opening into the 'dorsal sac' (outpouching of the third ventricle with choroid plexus); part of the pineal complex with pineal eye and pineal sac.",
+   "mentions": [
+    {
+     "work": "Dendy (year not printed in the text read)",
+     "claim": "Dendy demonstrated that the paraphysis opening shifts above the commissura aberrans during embryonic development so that it opens into the dorsal sac; this study's findings were compared with Dendy's.",
+     "quote": "Dendy demonstrated that the opening shifts to above the *commissura aberrans* during embryologic development, such that it opens into the dorsal sac",
+     "strength": "secondary_report"
+    }
+   ],
+   "caveats": "Read the complete PubMed abstract plus the stored Wiley passage (partial full text); the rest of the full text was not read. Species printed only as 'tuatara' (no genus/species name in the text read). Single neonatal specimen apparently; staining, fixation and the paraphysis' own histology beyond 'multisaccular' are not in the text read. The sections attributed to Dendy and to the cited references are second-hand.",
+   "appraisal": {
+    "specimens": "partial",
+    "methods": "partial",
+    "claims_support": "mixed",
+    "note": "Species group and stage (neonatal) given, apparently one animal; light microscopy only, no stain details; structural claim direct, secretory function inferred, embryology cited from Dendy."
+   },
+   "include_in_synthesis": "yes",
+   "exclusion_reason": ""
+  }
+ ]
+}

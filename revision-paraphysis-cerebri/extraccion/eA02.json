@@ -1,0 +1,293 @@
+{
+ "batch": "eA02",
+ "records": [
+  {
+   "duplicate_of": "R021",
+   "mentions": [],
+   "exclusion_reason": "Probable duplicate of R021 (same Sjövall 1909 attribution, title not shown here); snippet only, no content on the paraphysis beyond the attribution.",
+   "appraisal": {
+    "specimens": "not_assessable",
+    "methods": "not_assessable",
+    "claims_support": "not_assessable"
+   },
+   "rid": "R020",
+   "data_depth": "secondary_snippet",
+   "about_paraphysis": "passing_mention",
+   "study_type": "other",
+   "taxa": [
+    {
+     "name": "not stated in snippet (cystic tumors)",
+     "group": "not_applicable"
+    }
+   ],
+   "stage": "not stated",
+   "methods": "Not available: one-sentence attribution of Sjövall (1909) quoted in a web-search summary of Glazer et al. 1956; Sjövall's own text not read.",
+   "findings": [
+    {
+     "id": "R020.1",
+     "dim": "clinical",
+     "statement": "The paraphyseal origin of 'these cystic tumors' is attributed to Sjövall (1909) as first proposer; the snippet gives no anatomical detail on the paraphysis.",
+     "support": "The paraphyseal origin of these cystic tumors was first suggested by Sjövall in 1909",
+     "locator": "excerpt",
+     "strength": "secondary_report",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Uses 'paraphyseal origin' of cystic tumors; paraphysis itself not defined or located.",
+   "caveats": "Web-search snippet text (AI-summary/secondary, unverified); original work not read. Title, journal and first name not shown; treated as probable duplicate of R021 (same surname, year and identical claim, both via Glazer et al. 1956); identity not independently verified. The snippet does not name the tumour type.",
+   "include_in_synthesis": "no"
+  },
+  {
+   "duplicate_of": "",
+   "mentions": [],
+   "exclusion_reason": "",
+   "appraisal": {
+    "specimens": "not_assessable",
+    "methods": "not_assessable",
+    "claims_support": "not_assessable"
+   },
+   "rid": "R021",
+   "data_depth": "secondary_snippet",
+   "about_paraphysis": "substantive",
+   "study_type": "case_report",
+   "taxa": [
+    {
+     "name": "not stated in snippet (third-ventricle ependymal cyst)",
+     "group": "not_applicable"
+    }
+   ],
+   "stage": "not stated",
+   "methods": "Not available: Sjövall's 1909 paper not read; only the printed title and a one-sentence attribution quoted in a web-search summary of Glazer et al. 1956.",
+   "findings": [
+    {
+     "id": "R021.1",
+     "dim": "clinical",
+     "statement": "Per a later source quoted in the snippet, the paraphysial origin of 'these cystic tumors' was first suggested by Sjövall in 1909; no morphological evidence is given in the snippet.",
+     "support": "The paraphysial origin of these cystic tumors was first suggested by Sjövall in 1909.",
+     "locator": "excerpt",
+     "strength": "secondary_report",
+     "quote_verified": true
+    },
+    {
+     "id": "R021.2",
+     "dim": "terminology",
+     "statement": "The printed title describes an ependymal cyst of embryonic character in the third ventricle and puts 'Paraphyse' in brackets with a question mark, i.e. the paraphysial identity is posed as a query.",
+     "support": "Ependymcyste embryonalen Charakters (Paraphyse?) im dritten Hirnventrikel",
+     "locator": "title",
+     "strength": "authors_interpretation",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Title: 'Ependymcyste embryonalen Charakters (Paraphyse?)' - tentative paraphysial identification of a third-ventricle ependymal cyst; later source says 'paraphysial origin'.",
+   "caveats": "Web-search snippet text (AI-summary/secondary, unverified); original work not read. Content judgement (about_paraphysis, study_type) rests on the printed title and one attributed sentence only; Sjövall's observations, specimen and arguments were not read. Year 1909 in most sources, 1910 in others (finder note). R020 is probably the same work.",
+   "include_in_synthesis": "context_only"
+  },
+  {
+   "duplicate_of": "",
+   "mentions": [],
+   "exclusion_reason": "",
+   "appraisal": {
+    "specimens": "not_assessable",
+    "methods": "not_assessable",
+    "claims_support": "not_assessable"
+   },
+   "rid": "R026",
+   "data_depth": "secondary_snippet",
+   "about_paraphysis": "principal",
+   "study_type": "developmental_series",
+   "taxa": [
+    {
+     "name": "Reptilia (as in title; species not stated)",
+     "group": "multiple"
+    }
+   ],
+   "stage": "not stated (title: 'development')",
+   "methods": "Not available: only a bibliographic citation string in a reference list (via a web-search summary); the paper itself was not read.",
+   "findings": [
+    {
+     "id": "R026.1",
+     "dim": "ontogeny",
+     "statement": "Warren (1911) is titled as a study of the development of the paraphysis and pineal region in Reptilia; the snippet reports no result, stage or species.",
+     "support": "The development of the paraphysis and pineal region in reptilia",
+     "locator": "excerpt",
+     "strength": "secondary_report",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Title pairs 'paraphysis' with 'pineal region'; no location or definition given in the snippet.",
+   "caveats": "Web-search snippet text (AI-summary/secondary, unverified); original work not read. Citation string only: no findings text. about_paraphysis=principal and study_type are inferred from the title alone. The finder note that Warren established a telencephalic position anterior to the velum transversum is not in the text read and was not recorded.",
+   "include_in_synthesis": "context_only"
+  },
+  {
+   "duplicate_of": "",
+   "mentions": [],
+   "exclusion_reason": "",
+   "appraisal": {
+    "specimens": "not_assessable",
+    "methods": "not_assessable",
+    "claims_support": "not_assessable"
+   },
+   "rid": "R031",
+   "data_depth": "secondary_snippet",
+   "about_paraphysis": "principal",
+   "study_type": "developmental_series",
+   "taxa": [
+    {
+     "name": "Mammalia (as in title; species not named in the snippet)",
+     "group": "multiple"
+    }
+   ],
+   "stage": "embryos of 21 mm up to 48 mm (species not stated in snippet)",
+   "methods": "Not available: three quoted fragments from a web-search result of the paper (UNSW Embryology transcription/Zenodo); full paper not read.",
+   "findings": [
+    {
+     "id": "R031.1",
+     "dim": "phylogeny",
+     "statement": "Snippet fragment: there has been much doubt as to the existence of 'it' in any members of 'this class of Vertebrates'; antecedents are not shown, the title concerns the paraphysis in mammalia.",
+     "support": "there has been much doubt as to its existence in any members of this class of Vertebrates",
+     "locator": "excerpt",
+     "strength": "secondary_report",
+     "quote_verified": true
+    },
+    {
+     "id": "R031.2",
+     "dim": "ontogeny",
+     "statement": "In practically every case studied, embryos from 21 mm up to 48 mm possess a distinct paraphysis (species not named in the snippet).",
+     "support": "these embryos in practically every case studied from 21 mm. up to 48 mm. possess a distinct paraphysis",
+     "locator": "excerpt",
+     "strength": "direct_observation",
+     "quote_verified": true
+    },
+    {
+     "id": "R031.3",
+     "dim": "phylogeny",
+     "statement": "In a few specimens 'it' is seen only as a very inconstant and relatively rudimentary structure compared with that of vertebrates below the Mammalia (referent of 'It' not shown in the snippet).",
+     "support": "It can be seen in a few specimens only as a very inconstant and a relatively rudimentary structure as compared with that of vertebrates below the mammalia.",
+     "locator": "excerpt",
+     "strength": "direct_observation",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "'paraphysis' (excerpt) and 'pineal region' (title); no telencephalic/diencephalic statement in the text read.",
+   "caveats": "Web-search snippet text (AI-summary/secondary, unverified); original work not read. Fragments are decontextualised: species, the referents of 'its' and 'It', and sample sizes are not given; the finder note identifies them as sheep and human embryos but this is not in the text read and was not recorded. Fragment order/joins by the search engine; page numbers not given.",
+   "include_in_synthesis": "context_only"
+  },
+  {
+   "duplicate_of": "",
+   "mentions": [],
+   "exclusion_reason": "",
+   "appraisal": {
+    "specimens": "not_assessable",
+    "methods": "not_assessable",
+    "claims_support": "not_assessable"
+   },
+   "rid": "R039",
+   "data_depth": "secondary_snippet",
+   "about_paraphysis": "none",
+   "study_type": "other",
+   "taxa": [
+    {
+     "name": "not stated in snippet",
+     "group": "not_applicable"
+    }
+   ],
+   "stage": "not stated",
+   "methods": "Not available: one sentence from Niknejad et al. 2015 about Fulton and Bailey (1929); the 1929 paper itself was not read.",
+   "findings": [
+    {
+     "id": "R039.1",
+     "dim": "terminology",
+     "statement": "The term 'neuroepithelial cyst' is attributed to Fulton and Bailey in 1929, ending the dominance of an unnamed earlier theory; the paraphysis is not named in the snippet.",
+     "support": "This theory held state until the advent of the term “neuroepithelial cyst” in 1929 by Fulton and Bailey.",
+     "locator": "excerpt",
+     "strength": "secondary_report",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Introduces/attributes the label 'neuroepithelial cyst'; the word paraphysis does not occur in the text read.",
+   "caveats": "Web-search snippet text (AI-summary/secondary, unverified); original work not read. The excerpt is Niknejad et al. 2015 text, not Fulton and Bailey's. The 'theory' is not identified in the snippet; the finder note reading it as the paraphyseal-origin theory comes from the note, not the text read. The identification of the 1929 title is an inference by the finder (journal listing); volume/pages unknown.",
+   "include_in_synthesis": "context_only"
+  },
+  {
+   "duplicate_of": "",
+   "mentions": [],
+   "exclusion_reason": "",
+   "appraisal": {
+    "specimens": "not_assessable",
+    "methods": "not_assessable",
+    "claims_support": "not_assessable"
+   },
+   "rid": "R043",
+   "data_depth": "secondary_snippet",
+   "about_paraphysis": "substantive",
+   "study_type": "historical_monograph",
+   "taxa": [
+    {
+     "name": "Urodela",
+     "group": "urodele"
+    }
+   ],
+   "stage": "not stated",
+   "methods": "Not available: a single sentence from the 1940 book as shown in a web-search summary of the UNSW Embryology transcription; book not read.",
+   "findings": [
+    {
+     "id": "R043.1",
+     "dim": "phylogeny",
+     "statement": "A paraphysis is stated to be usually well developed in the Urodela.",
+     "support": "A paraphysis is usually well developed in the Urodela",
+     "locator": "excerpt",
+     "strength": "secondary_report",
+     "quote_verified": true
+    },
+    {
+     "id": "R043.2",
+     "dim": "anatomy",
+     "statement": "It may appear as a simple tubular diverticulum, or be branched and glandular in appearance (stated for the Urodela in the same sentence).",
+     "support": "may appear as a simple tubular diverticulum or it may be branched and glandular in appearance",
+     "locator": "excerpt",
+     "strength": "secondary_report",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Uses 'paraphysis'; described as a 'tubular diverticulum' or 'branched and glandular'; no roof-region (telencephalic/diencephalic) statement in the snippet.",
+   "caveats": "Web-search snippet text (AI-summary/secondary, unverified); original work not read. One sentence only; species, stage, and whether this rests on the authors' own material or compiled literature are not stated. 'substantive' reflects the monograph's treatment per finder notes, not the text read. R044 is the same book.",
+   "include_in_synthesis": "yes"
+  },
+  {
+   "duplicate_of": "R043",
+   "mentions": [],
+   "exclusion_reason": "",
+   "appraisal": {
+    "specimens": "not_assessable",
+    "methods": "not_assessable",
+    "claims_support": "not_assessable"
+   },
+   "rid": "R044",
+   "data_depth": "secondary_snippet",
+   "about_paraphysis": "substantive",
+   "study_type": "historical_monograph",
+   "taxa": [
+    {
+     "name": "alligator",
+     "group": "crocodilian"
+    }
+   ],
+   "stage": "not stated",
+   "methods": "Not available: a sentence fragment from the 1940 book as shown in a web-search summary of the UNSW Embryology transcription; book not read.",
+   "findings": [
+    {
+     "id": "R044.1",
+     "dim": "anatomy",
+     "statement": "The dorsal sac and the paraphysis are stated to be present in the alligator ('also present' implies a preceding list not shown in the snippet).",
+     "support": "the dorsal sac and paraphysis are also present, in alligator",
+     "locator": "excerpt",
+     "strength": "secondary_report",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Lists 'dorsal sac and paraphysis' as two separate structures present together.",
+   "caveats": "Web-search snippet text (AI-summary/secondary, unverified); original work not read. Fragment only; the preceding list and whether the statement is adult or embryonic is unknown. Same book as R043 (full title variant); this record carries a different passage (crocodilian), so count the work once but keep both passages. Finder note adds a 25 mm-stage topography from a search summary; no quote available, not recorded.",
+   "include_in_synthesis": "yes"
+  }
+ ]
+}

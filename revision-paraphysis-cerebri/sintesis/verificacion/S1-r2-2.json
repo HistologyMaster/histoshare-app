@@ -1,0 +1,122 @@
+[
+ {
+  "cid": "S1-021",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-022",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-023",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-024",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-025",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-026",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-027",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-028",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-029",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-030",
+  "verdict": "needs_hedge",
+  "issue": "\"el corpus no establece su equivalencia\": absence stated categorically, yet the cited R246.2 (Tsuneki abstract) itself judges that \"The so-called paraphysis of the lungfish is not a paraphysis, but a dorsal sac\", i.e. it does equate two of the three labels (as the author's interpretation). What the corpus lacks is any link of \"coronarium\" (R005.1: snippet never mentions paraphysis) to the other labels.",
+  "fix": "...; el corpus recuperado no muestra que «coronarium» equivalga a «paraphysis» o «dorsal sac», y la equivalencia entre estos dos descansa solo en el juicio de Tsuneki (según el resumen)."
+ },
+ {
+  "cid": "S1-031",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-032",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-033",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-034",
+  "verdict": "ok_uncited",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-035",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-036",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-037",
+  "verdict": "ok_uncited",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-038",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-039",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-040",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ }
+]

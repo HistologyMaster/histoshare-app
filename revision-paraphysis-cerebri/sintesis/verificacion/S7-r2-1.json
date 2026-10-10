@@ -1,0 +1,122 @@
+[
+ {
+  "cid": "S7-001",
+  "verdict": "ok_uncited",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S7-002",
+  "verdict": "ok_uncited",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S7-003",
+  "verdict": "ok_uncited",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S7-004",
+  "verdict": "ok_uncited",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S7-005",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S7-006",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S7-007",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S7-008",
+  "verdict": "needs_hedge",
+  "issue": "«formada por un derivado del epéndimo»: el texto fuente (R065.4) dice «out-pouching from the front of the 3rd ventricle ... by a derivative of ependyma»; la palabra que enlaza ambas frases es ilegible, de modo que «formada» es una reconstrucción. La cautela general «texto escaneado parcialmente ilegible» no localiza la laguna (en S7-016 sí se indica el verbo ilegible).",
+  "fix": "...como una evaginación de la parte anterior del tercer ventrículo, con una palabra ilegible antes de «por un derivado del epéndimo» [@R065.4]."
+ },
+ {
+  "cid": "S7-009",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S7-010",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S7-011",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S7-012",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S7-013",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S7-014",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S7-015",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S7-016",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S7-017",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S7-018",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S7-019",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S7-020",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ }
+]

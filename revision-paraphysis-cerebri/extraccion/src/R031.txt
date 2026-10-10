@@ -1,0 +1,6 @@
+RECORD R031 | Warren J | 1917
+TITLE (corpus record): The development of the paraphysis and pineal region in mammalia
+JOURNAL (corpus record): Journal of Comparative Neurology 28(1):75-134, DOI 10.1002/cne.900280103
+ACCESS: web search snippet only (quoted fragments in WebSearch results); no PMID/PMC; AI-summary text, unverified
+PROVENANCE: WebSearch summaries of the UNSW Embryology wiki transcription and of Zenodo record 2228516
+STORED EXCERPT: there has been much doubt as to its existence in any members of this class of Vertebrates | these embryos in practically every case studied from 21 mm. up to 48 mm. possess a distinct paraphysis | It can be seen in a few specimens only as a very inconstant and a relatively rudimentary structure as compared with that of vertebrates below the mammalia.

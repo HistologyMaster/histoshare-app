@@ -1,0 +1,425 @@
+{
+ "batch": "eA09",
+ "records": [
+  {
+   "rid": "R545",
+   "data_depth": "excerpt_only",
+   "duplicate_of": "",
+   "about_paraphysis": "passing_mention",
+   "study_type": "other",
+   "taxa": [
+    {
+     "name": "Xenopus laevis",
+     "group": "anuran"
+    }
+   ],
+   "stage": "adult (from the title: 'adult pipid frog')",
+   "methods": "Scanning electron microscopy of vascular corrosion casts of the whole brain (per title). Only a results sentence plus a figure legend were read; n, resin and casting details not seen.",
+   "findings": [
+    {
+     "id": "R545.1",
+     "dim": "anatomy",
+     "statement": "In the Xenopus brain casts, the diencephalic artery (right or left) issues only the choroidal artery, which is stated to feed the paraphysis and the choroid plexus of the third ventricle.",
+     "support": "The right or the left diencephalic artery only issues the choroidal artery which feeds the paraphysis and choroid plexus of the third ventricle",
+     "locator": "excerpt",
+     "strength": "direct_observation",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Excerpt names the structure 'paraphysis' and lists it together with 'choroid plexus of the third ventricle'; no definition and no statement of its position (telencephalic or diencephalic roof) or of a dorsal sac.",
+   "mentions": [],
+   "caveats": "Only the stored 700-character Wiley excerpt (one results sentence and a Figure 18 legend) was read; the full paper was not accessible, so any other paraphysis passages (e.g. venous drainage, mentioned in the finder note) are unverified here. Not clear from the sentence whether 'of the third ventricle' qualifies the paraphysis as well. Figure 19 is cited but not seen.",
+   "appraisal": {
+    "specimens": "not_assessable",
+    "methods": "not_assessable",
+    "claims_support": "not_assessable",
+    "note": "Single sentence from the results; no methods, n or figure content seen. Statement reads as a direct cast observation but cannot be checked."
+   },
+   "include_in_synthesis": "yes",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R560",
+   "data_depth": "full_text",
+   "duplicate_of": "",
+   "about_paraphysis": "substantive",
+   "study_type": "experimental",
+   "taxa": [
+    {
+     "name": "Northern leopard frogs (species name not retained in the text read; PubMed MeSH: Rana pipiens)",
+     "group": "anuran"
+    }
+   ],
+   "stage": "not stated explicitly; eight frogs (six females, two males), body weight 52.4-93.9 g",
+   "methods": "In vivo manganese-enhanced MRI (7T, T1-weighted, 125 um isotropic) after i.p. MnCl2 and 30 h of conspecific calls, band-limited noise or silence; each frog in all three conditions; voxel-wise analysis plus ROI segmentation (ITK-Snap) including the paraphysis.",
+   "findings": [
+    {
+     "id": "R560.1",
+     "dim": "physiology",
+     "statement": "Paraphysis is one of three regions (with torus semicircularis and habenula) showing the greatest MEMRI signal-intensity change in frogs exposed to conspecific calls, per the abstract.",
+     "support": "We found the greatest change in signal intensity within the torus semicircularis (the principal central auditory region), the habenula, and the paraphysis of frogs that had been exposed to conspecific calls",
+     "locator": "abstract",
+     "strength": "experimental_result",
+     "quote_verified": true
+    },
+    {
+     "id": "R560.2",
+     "dim": "physiology",
+     "statement": "In the ROI analysis the paraphysis signal was significantly higher after calls than after silence (0.006 reported; test symbol missing in the text); call versus noise was not significant (all >0.3) and noise versus silence was not significant for the paraphysis (0.1).",
+     "support": "significant signal intensity enhancement in frogs that received the socially relevant call compared to silence across all three ROIs ... no statistically significant difference was found between “call” and “noise” ... but not the PP",
+     "locator": "Results",
+     "strength": "experimental_result",
+     "quote_verified": true
+    },
+    {
+     "id": "R560.3",
+     "dim": "anatomy",
+     "statement": "The authors describe the paraphysis (PP) as a glandular structure found in the third ventricle of lower vertebrates, well developed in amphibians and reptiles (unnamed citation, stripped from the text read).",
+     "support": "The PP is a glandular structure found in the third ventricle of lower vertebrates and is well developed in amphibians and reptiles.",
+     "locator": "Discussion",
+     "strength": "secondary_report",
+     "quote_verified": true
+    },
+    {
+     "id": "R560.4",
+     "dim": "physiology",
+     "statement": "The authors state that the function of the paraphysis (gland) is not well understood but may play a vital role in calcium metabolism (cited work not identifiable in the text read).",
+     "support": "The function of the gland is not well understood, but it may play a vital role in calcium metabolism",
+     "locator": "Discussion",
+     "strength": "secondary_report",
+     "quote_verified": true
+    },
+    {
+     "id": "R560.5",
+     "dim": "physiology",
+     "statement": "Because manganese was used as a calcium analogue, the authors suggest the call-related increase in paraphysis signal could reflect higher blood pressure and thus more Mn transport into the paraphysis, caused by generalized arousal (also in line with the habenula).",
+     "support": "the significant increase in signal intensity in the PP after stimulation with conspecific calls could possibly be due to an overall increase in blood pressure ... caused by a generalized increase in arousal",
+     "locator": "Discussion",
+     "strength": "hypothesis",
+     "quote_verified": true
+    },
+    {
+     "id": "R560.6",
+     "dim": "physiology",
+     "statement": "Authors consider that blood-brain-barrier permeability differences near the paraphysis could cause Mn accumulation, but as enhancement occurred only with sound stimulation they exclude a sole methodological or anatomical explanation; BBB features in the anuran brain need further study.",
+     "support": "differences in the permeability of the blood-brain-barrier (BBB) close to the PP could have led to an accumulation ... we can exclude a sole methodological or anatomical explanation for the increased signal in the PP",
+     "locator": "Discussion",
+     "strength": "authors_interpretation",
+     "quote_verified": true
+    },
+    {
+     "id": "R560.7",
+     "dim": "anatomy",
+     "statement": "The paraphysis was manually segmented as a region of interest on the MR images (alongside torus semicircularis and habenula) using ITK-Snap, following a published frog brain atlas (atlas citation not retained in the text read).",
+     "support": "Manual brain extraction and segmentation of certain regions-of-interest as identified by the whole-brain analysis, for example the torus semicircularis (TS), habenula (HB), and paraphysis (PP) were performed using the software ITK-Snap",
+     "locator": "Materials and Methods, Image processing and analysis",
+     "strength": "direct_observation",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Abbreviated PP; called 'paraphysis' and 'glandular structure found in the third ventricle of lower vertebrates'. No statement on telencephalic versus diencephalic roof, no mention of dorsal sac; identification in MRI relies on a published atlas.",
+   "mentions": [],
+   "caveats": "Species name and in-text citations were stripped in the PMC text read (italics/references lost), so the species rests on PubMed MeSH (Rana pipiens) and the works cited for paraphysis anatomy/function and the atlas cannot be identified. Abstract says call response differed 'compared with noise or silence', but Results report call versus noise not significant (all >0.3); only call versus silence was significant for the paraphysis. Paraphysis identity on MRI not confirmed histologically. Function statements are speculative.",
+   "appraisal": {
+    "specimens": "reported",
+    "methods": "reported",
+    "claims_support": "mixed",
+    "note": "n=8 (6 F, 2 M), sex/weight and MEMRI/ROI methods reported; signal change is measured directly, but physiological interpretation of paraphysis signal (blood pressure, calcium) is inferred."
+   },
+   "include_in_synthesis": "yes",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R588",
+   "data_depth": "excerpt_only",
+   "duplicate_of": "",
+   "about_paraphysis": "passing_mention",
+   "study_type": "comparative_anatomy",
+   "taxa": [
+    {
+     "name": "dogfish (Squalus acanthias)",
+     "group": "chondrichthyan"
+    },
+    {
+     "name": "American bullfrog (Rana catesbeiana)",
+     "group": "anuran"
+    },
+    {
+     "name": "green iguana (Iguana iguana)",
+     "group": "squamate"
+    }
+   ],
+   "stage": "not stated in the excerpt",
+   "methods": "Per title and Figure 5 legend: high-resolution micro-CT of arteries, dissection and radiography of radiopaque contrast-filled cerebral ventricles. Only an abbreviation key and a figure legend were read.",
+   "findings": [
+    {
+     "id": "R588.1",
+     "dim": "terminology",
+     "statement": "A figure legend in this paper defines 'pa' as paraphysis and 'DS' as dorsal sac as separate labels, alongside velum transversum (VT), diencephalon and ventricle labels; which species the figure shows is not stated in the excerpt.",
+     "support": "Di, diencephalon; DS, dorsal sac ... pa, paraphysis; SV, saccus vasculosus; VT, velum transversum",
+     "locator": "excerpt (figure legend abbreviation key)",
+     "strength": "authors_interpretation",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Paraphysis (pa) and dorsal sac (DS) are listed as separate labelled structures in the same abbreviation key, together with velum transversum (VT) and diencephalon (Di); no definition or description of either structure appears in the excerpt.",
+   "mentions": [],
+   "caveats": "Only the stored excerpt (an abbreviation key and a Figure 5 legend naming a dissected dogfish brain) was read; the key precedes the Figure 5 legend and its species is not identifiable from the excerpt. Finder note says the paraphysis and dorsal sac are labelled in dogfish, bullfrog and iguana, which the excerpt does not support. Taxa are taken from the title. Full text not accessible.",
+   "appraisal": {
+    "specimens": "not_assessable",
+    "methods": "not_assessable",
+    "claims_support": "not_assessable",
+    "note": "Only a figure-legend abbreviation key was read; no text describing the paraphysis."
+   },
+   "include_in_synthesis": "context_only",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R599",
+   "data_depth": "abstract",
+   "duplicate_of": "",
+   "about_paraphysis": "principal",
+   "study_type": "developmental_series",
+   "taxa": [
+    {
+     "name": "Ambystoma mexicanum",
+     "group": "urodele"
+    }
+   ],
+   "stage": "larvae, 'various development stages' (specific stages not given in the abstract)",
+   "methods": "Parasagittal sections of the larval epithalamus examined across developmental stages (staining and n not stated in the abstract).",
+   "findings": [
+    {
+     "id": "R599.1",
+     "dim": "anatomy",
+     "statement": "The authors describe the paraphysis cerebri as the circumventricular structure of the roof of the diencephalon, studied across developmental stages in A. mexicanum.",
+     "support": "We describe the circumventricular structure of the diencephalon roof (paraphysis cerebri) during the various development stages of Ambystoma mexicanum.",
+     "locator": "abstract",
+     "strength": "authors_interpretation",
+     "quote_verified": true
+    },
+    {
+     "id": "R599.2",
+     "dim": "ontogeny",
+     "statement": "Larval epithalamus sections show, besides the epiphysis, two dorsal primordia in nearby areas, extraventricular saccular evaginations of different origin that give rise to the anterior (AEP) and posterior (PEP) extraventricular choroid plexuses.",
+     "support": "two dorsal primordia in nearby areas, which appear to be extraventricular saccular evaginations of different origin that give rise to two structures we define as the anterior extraventricular choroid plexus (AEP) and posterior extraventricular choroid plexus (PEP)",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    },
+    {
+     "id": "R599.3",
+     "dim": "ontogeny",
+     "statement": "During larval development the two primordia arise perpendicular to each other, grow and show luminal folds and invaginations.",
+     "support": "During larvae development, the primordia arise perpendicular to each other, grow and show luminal folds and invaginations.",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    },
+    {
+     "id": "R599.4",
+     "dim": "ontogeny",
+     "statement": "The two evaginations are separate units that later become interrelated; the growing PEP covers the AEP dorsally and the borders between them are hard to define.",
+     "support": "Later, the two extraventricular evaginations, which are separate units, become interrelated. As the PEP grows, it covers the AEP dorsally, but it is difficult to define the borders of these organs.",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    },
+    {
+     "id": "R599.5",
+     "dim": "histology",
+     "statement": "The AEP consists of alveolar-acinar epithelial aggregates with evidence of secretion-like content.",
+     "support": "AEP is formed by alveolar-acinar epithelial aggregates with evidence of secretion-like content.",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    },
+    {
+     "id": "R599.6",
+     "dim": "anatomy",
+     "statement": "The PEP is structured like a choroid plexus but lies extraventricularly, dorsal to the AEP and between the AEP and the meninges.",
+     "support": "PEP structure is like a choroid plexus, but its position is extraventricular and dorsal to the AEP. The PEP is always between the AEP and the meninges",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    },
+    {
+     "id": "R599.7",
+     "dim": "anatomy",
+     "statement": "The authors conclude that in A. mexicanum the paraphysis cerebri consists of two adjacent organs (AEP and PEP) from two primordia arising almost simultaneously.",
+     "support": "the paraphysis cerebri is made up of two adjacent organs, which arise almost simultaneously from two different primordia (the AEP and the PEP)",
+     "locator": "abstract",
+     "strength": "authors_interpretation",
+     "quote_verified": true
+    },
+    {
+     "id": "R599.8",
+     "dim": "phylogeny",
+     "statement": "The authors suggest AEP and PEP are homologous to the paraphysis cerebri and to the dorsal sac, respectively.",
+     "support": "we suggest that AEP and PEP are homologous to paraphysis cerebri and the dorsal sac, respectively.",
+     "locator": "abstract",
+     "strength": "authors_interpretation",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Paraphysis cerebri is defined as the circumventricular structure of the diencephalon roof and is first said to consist of two adjacent organs (AEP + PEP); the conclusion then homologizes AEP with the paraphysis cerebri and PEP with the dorsal sac. 'Extraventricular choroid plexus' is used for both. Keywords include dorsal sac and circumventricular organ.",
+   "mentions": [],
+   "caveats": "Abstract only; full text (stages, staining, n, figures) not read. The abstract is internally ambiguous: the paraphysis cerebri is described as made up of both AEP and PEP, while the conclusion equates AEP alone with the paraphysis cerebri and PEP with the dorsal sac. Position relative to the telencephalon/velum transversum not stated.",
+   "appraisal": {
+    "specimens": "not_assessable",
+    "methods": "not_assessable",
+    "claims_support": "not_assessable",
+    "note": "Abstract only; stages, n, staining and figures unseen."
+   },
+   "include_in_synthesis": "yes",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R604",
+   "data_depth": "full_text",
+   "duplicate_of": "",
+   "about_paraphysis": "passing_mention",
+   "study_type": "case_report",
+   "taxa": [
+    {
+     "name": "62-year-old man (case patient)",
+     "group": "human"
+    }
+   ],
+   "stage": "adult patient (62 years)",
+   "methods": "Single case report (CT, MRI, transcortical transventricular resection, histology of the cyst) with a narrative evidence-based review of colloid cyst theories and management; no paraphysis specimen examined.",
+   "findings": [
+    {
+     "id": "R604.1",
+     "dim": "clinical",
+     "statement": "Colloid cysts were formerly thought to arise from neuroectodermal elements of the paraphysis cerebri (stated as background; citations not visible in the text read).",
+     "support": "Colloid cysts were thought to originate from the neuroectodermal elements of the paraphysis cerebri",
+     "locator": "Case discussion",
+     "strength": "secondary_report",
+     "quote_verified": true
+    },
+    {
+     "id": "R604.2",
+     "dim": "clinical",
+     "statement": "The authors state that recent immunohistochemistry has challenged the neuroepithelial origin of colloid cysts because of the mixed cell types lining the capsule, favoring an endodermal origin.",
+     "support": "recent immunohistochemistry studies have challenged the notion of the neuroepithelial origin of colloid cysts by the presence of several different cell types lining the cyst capsule",
+     "locator": "Case discussion",
+     "strength": "secondary_report",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "'Paraphysis cerebri' is used only as the putative neuroectodermal source of colloid cysts; no definition or location is given.",
+   "mentions": [],
+   "caveats": "The paraphysis appears in a single sentence of the Case discussion; cited authorities were stripped from the text read (empty brackets), so the supporting works cannot be named. The paper makes no observation on the paraphysis itself; it is a radiological case report.",
+   "appraisal": {
+    "specimens": "not_assessable",
+    "methods": "not_assessable",
+    "claims_support": "not_assessable",
+    "note": "The paraphysis remark is an uncited-in-text background statement; no paraphysis data in the case."
+   },
+   "include_in_synthesis": "context_only",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R619",
+   "data_depth": "abstract",
+   "duplicate_of": "",
+   "about_paraphysis": "substantive",
+   "study_type": "case_series",
+   "taxa": [
+    {
+     "name": "patients with third-ventricle colloid cysts (80 operations on 76 patients)",
+     "group": "human"
+    }
+   ],
+   "stage": "patients (ages not stated in the abstract)",
+   "methods": "Surgical outcome series (anterior transcallosal approach, single surgeon, 37 years) plus immunohistochemistry (cytokeratin, S100, PAX-7) comparing ependyma, choroid plexus and colloid cyst specimens; stain scoring not described in the abstract.",
+   "findings": [
+    {
+     "id": "R619.1",
+     "dim": "clinical",
+     "statement": "From clear PAX-7 staining in the colloid cyst specimens, the authors infer that the colloid cyst is a remnant of the paraphysis.",
+     "support": "In pathological study, the clear staining with PAX-7 points to this pathology being a remnant of the paraphysis.",
+     "locator": "abstract",
+     "strength": "authors_interpretation",
+     "quote_verified": true
+    },
+    {
+     "id": "R619.2",
+     "dim": "histology",
+     "statement": "Ependyma, choroid plexus and colloid cyst specimens were compared by cytokeratin, S100 and PAX-7 immunostaining; no paraphysis tissue is listed among the compared specimens in the abstract.",
+     "support": "ependyma, choroid plexus, and colloid cyst specimen have been compared using immunohistological staining with cytokeratin, S100, and PAX-7",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    },
+    {
+     "id": "R619.3",
+     "dim": "clinical",
+     "statement": "The authors frame the origin of colloid cysts as still debated, which they address with immunohistochemistry.",
+     "support": "the origin of these colloid cysts remains a topic of debate",
+     "locator": "abstract",
+     "strength": "secondary_report",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "'Paraphysis' (also a keyword) is used for the presumed embryonic structure whose remnant gives rise to the colloid cyst; the abstract gives no definition or location.",
+   "mentions": [],
+   "caveats": "Abstract only; the book-chapter text (staining results, n per stain, controls, reference to any paraphysis tissue) was not accessible. The PAX-7 result and its paraphyseal interpretation are the authors' inference; the abstract does not say whether PAX-7 is expressed in the normal paraphysis. Substantive rating rests on the abstract.",
+   "appraisal": {
+    "specimens": "not_assessable",
+    "methods": "not_assessable",
+    "claims_support": "not_assessable",
+    "note": "Abstract only; stain details, number of cysts stained and controls not seen. Paraphysis origin is an inference from PAX-7 positivity."
+   },
+   "include_in_synthesis": "yes",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R623",
+   "data_depth": "secondary_snippet",
+   "duplicate_of": "",
+   "about_paraphysis": "passing_mention",
+   "study_type": "review",
+   "taxa": [
+    {
+     "name": "human (colloid cysts of the third ventricle; embryonic origin discussed)",
+     "group": "human"
+    }
+   ],
+   "stage": "embryonic (per snippet: 'embryonic' recesses and foldings)",
+   "methods": "Not available: only two snippet fragments from web-search summaries of a book chapter were seen.",
+   "findings": [
+    {
+     "id": "R623.1",
+     "dim": "ontogeny",
+     "statement": "Snippet text says colloid cysts likely originate from detached embryonic diencephalic vesicular recesses or from remnants of the paraphysis cerebri.",
+     "support": "these cysts likely originate from detached embryonic diencephalic vesicular recesses or remnants of the paraphysis cerebri",
+     "locator": "excerpt",
+     "strength": "hypothesis",
+     "quote_verified": true
+    },
+    {
+     "id": "R623.2",
+     "dim": "ontogeny",
+     "statement": "A second snippet fragment attributes colloid cyst origin to abnormal embryonic foldings that trap endodermal elements; this sentence does not name the paraphysis.",
+     "support": "An anatomical and histopathological examination attributes the origins of colloid cysts to abnormal embryonic foldings that trap endodermal elements",
+     "locator": "excerpt",
+     "strength": "secondary_report",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "'Paraphysis cerebri' is named as one candidate source (with 'embryonic diencephalic vesicular recesses') of colloid cysts; no definition or location of the paraphysis is given in the snippet.",
+   "mentions": [],
+   "caveats": "AI-summary web-search text, unverified: two fragments joined by a vertical bar may come from different results and are not necessarily contiguous in the chapter. Chapter text not read (not in PubMed; the DOI is the Thieme book DOI). How the chapter defines or reconciles the paraphyseal and endodermal models is unknown.",
+   "appraisal": {
+    "specimens": "not_assessable",
+    "methods": "not_assessable",
+    "claims_support": "not_assessable",
+    "note": "Two AI-summarized snippet fragments only; the chapter itself cannot be appraised."
+   },
+   "include_in_synthesis": "context_only",
+   "exclusion_reason": ""
+  }
+ ]
+}

@@ -1,0 +1,9 @@
+**93. Paraphysis (absent=0, present=1)**
+
+The epithalamus is formed by the habenular nucleus and two diverticula  a left paraphysis (or parietal) and a right epiphysis (or pineal). Lampreys display both neural diverticula but chondrichthyans have retained only the right, pineal one, whereas actinopterygians and sarcopterygians exhibit both organs.
+
+Surprisingly, hagfishes do not show any trace of a pineal organ, although a topological homologue of the habenular nucleus is described.
+
+The left habenular nucleus and left fasciculus retroflexus are larger than the right ones in all craniates.
+
+**94.

@@ -1,0 +1,122 @@
+[
+ {
+  "cid": "S2-041",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-042",
+  "verdict": "needs_hedge",
+  "issue": "\"estructura inconstante y rudimentaria\" drops the source's \"relatively\" and its comparison (\"as compared with that of vertebrates below the mammalia\"); \"mucha duda sobre su existencia en la clase\" gives the pronoun referent ('its', 'It') and the class as if known, although R031 caveats say antecedents/species are not shown (class taken from the title only).",
+  "fix": "... en pocos ejemplares, una estructura muy inconstante y relativamente rudimentaria respecto de la de vertebrados inferiores (referentes de los pronombres no visibles; taxón tomado del título)."
+ },
+ {
+  "cid": "S2-043",
+  "verdict": "needs_hedge",
+  "issue": "\"detectada desde al menos CS19 en el techo del DV\": the quoted source says \"Paraphysis was detected at least after CS19 at the roof of the DV\" (after CS19), not 'from CS19'; the review rewrites the onset stage.",
+  "fix": "... detectada \"at least after CS19\" (formulacion literal del extracto, tras CS19) en el techo del DV, abreviatura tal como se imprime (Shiraishi 2013)."
+ },
+ {
+  "cid": "S2-044",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-045",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-046",
+  "verdict": "ok_uncited",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-047",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-048",
+  "verdict": "ok_uncited",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-049",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-050",
+  "verdict": "ok_uncited",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-051",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-052",
+  "verdict": "needs_hedge",
+  "issue": "\"desde al menos CS19 segun un extracto [R501.1]\": the extract reads \"detected at least after CS19\" (after CS19); 'from CS19' is a reinterpretation, and it is used here to compare onset stages across sources.",
+  "fix": "... y detectada \"at least after CS19\" (tras CS19, segun la formulacion literal) segun un extracto [@R501.1] ..."
+ },
+ {
+  "cid": "S2-053",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-054",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-055",
+  "verdict": "needs_hedge",
+  "issue": "\"inmunorreactividad débil para Pax7 en estructuras membranosas que contienen la paráfisis, distinta del plexo coroideo\": the source reads \"weak immunoreactivity was observed in the membranous structures between the telencephalic hemispheres that contain the paraphysis, distinct from the choroid plexus\"; the appositive \"distinct from the choroid plexus\" attaches ambiguously (to the immunoreactive membranous structures or to the paraphysis), and the review resolves it onto the paraphysis alone (the Table 1 row itself uses plural \"distintas\"). The authors elsewhere speak of \"membranous formations of the choroid plexus and the adhered paraphysis\", so their own wording does not state the paraphysis is a separate organ from the choroid plexus.",
+  "fix": "... inmunorreactividad débil para Pax7 en estructuras membranosas, distintas del plexo coroideo, que contienen la paráfisis."
+ },
+ {
+  "cid": "S2-056",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-057",
+  "verdict": "ok_uncited",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-058",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-059",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-060",
+  "verdict": "ok_uncited",
+  "issue": "",
+  "fix": ""
+ }
+]

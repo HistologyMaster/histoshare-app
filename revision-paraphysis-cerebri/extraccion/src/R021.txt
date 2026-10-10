@@ -1,0 +1,6 @@
+RECORD R021 | Sjövall E | 1909
+TITLE (corpus record): Über eine Ependymcyste embryonalen Charakters (Paraphyse?) im dritten Hirnventrikel mit tödlichem Ausgang
+JOURNAL (corpus record): Beiträge zur Pathologischen Anatomie 47:248-269
+ACCESS: web search snippet only (no PMID/DOI/PMC); AI-summary text, unverified
+PROVENANCE: WebSearch summary of Glazer et al. 1956 (pubs.rsna.org/doi/10.1148/67.3.351; PMID 13359714) and later reference lists
+STORED EXCERPT: The paraphysial origin of these cystic tumors was first suggested by Sjövall in 1909.

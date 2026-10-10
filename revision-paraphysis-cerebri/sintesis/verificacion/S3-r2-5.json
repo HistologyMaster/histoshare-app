@@ -1,0 +1,104 @@
+[
+ {
+  "cid": "S3-081",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S3-082",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S3-083",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S3-084",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S3-085",
+  "verdict": "needs_hedge",
+  "issue": "\"se conocen solo por título\" is categorical for Kappers (1955): the corpus also holds a second-hand report of its content, R517.4 (Niknejad 2015: \"In 1955 Kappers partially restored Sjovall's theory ... peripheral paraphyseal anlagen\"), which this same section cites in the cysts paragraph. The other works (Chiarugi, Warren via R026.1, Kappers 1956 R076, Stockem 1965/66) are title-only. The conclusion on chronology/stages/regression is not contradicted.",
+  "fix": "Chiarugi (1906), Warren (1911), Kappers (1955, 1956) y Stockem (1965, 1966) se conocen por título (en el caso de Warren 1911, por un fragmento no verificado que solo lo reproduce; de Kappers 1955 hay además una referencia de segunda mano a su explicación de los quistes ectópicos [@R517.4]), de modo que su cronología, estadios y datos de regresión de la paráfisis no están en el corpus recuperado [@R018.t; @R026.t; @R026.1; @R070.t; @R076.t; @R107.t; @R113.t]."
+ },
+ {
+  "cid": "S3-086",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S3-087",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S3-088",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S3-089",
+  "verdict": "ok_uncited",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S3-090",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S3-091",
+  "verdict": "ok_uncited",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S3-092",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S3-093",
+  "verdict": "ok_uncited",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S3-094",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S3-095",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S3-096",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S3-097",
+  "verdict": "needs_hedge",
+  "issue": "\"la persistencia de la paráfisis en adultos descansa, en el corpus recuperado, en un informe de caso\" is an exclusivity claim the corpus does not bear out: R619.1 (Cevik 2025, series of 76 patients; \"the clear staining with PAX-7 points to this pathology being a remnant of the paraphysis\") and, as unverified snippets, R361.3 (\"em alguns casos [a paráfise humana] é sede de cistos coloidais\") and R623.1 (cysts \"likely originate from ... remnants of the paraphysis cerebri\") also posit adult paraphyseal remnants, all by authors' inference. R471.1/R471.2 do support the case-report half (\"which we believe corresponds\"; \"consistent with\").",
+  "fix": "En el ser humano, la persistencia de la paráfisis en adultos se apoya, entre las fuentes citadas en esta sección, en un informe de caso cuyos autores creen que el remanente corresponde a la paráfisis [@R471.1; @R471.2]; otro resumen del corpus solo infiere, por la tinción PAX-7, que el quiste coloide es un remanente de la paráfisis [@R619.1]."
+ }
+]

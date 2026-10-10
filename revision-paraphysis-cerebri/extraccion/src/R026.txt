@@ -1,0 +1,6 @@
+RECORD R026 | Warren J | 1911
+TITLE (corpus record): The development of the paraphysis and pineal region in Reptilia
+JOURNAL (corpus record): American Journal of Anatomy 11:313-392
+ACCESS: web search snippet only (citation string in a reference list; paper itself not retrieved); no PMID/DOI/PMC
+PROVENANCE: Reference list of a gecko paper (Correlophus ciliatus) as reproduced in a WebSearch summary
+STORED EXCERPT: Warren J. The development of the paraphysis and pineal region in reptilia // Am. Jour of Anat. 1911. V. 11. P. 313–392.

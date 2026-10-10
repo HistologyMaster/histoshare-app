@@ -1,0 +1,4 @@
+RECORD R020 | Sjövall | 1909 | title, journal and first name not shown in the record
+ACCESS: web search snippet only (no PMID/DOI/PMC); AI-summary text, unverified
+PROVENANCE: Glazer NM, Hauser H, Slade HW. Radiology 1956;67:351-8, as quoted in WebSearch summaries
+STORED EXCERPT: The paraphyseal origin of these cystic tumors was first suggested by Sjövall in 1909

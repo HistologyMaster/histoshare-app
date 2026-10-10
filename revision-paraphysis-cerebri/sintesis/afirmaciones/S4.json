@@ -1,0 +1,663 @@
+[
+ {
+  "cid": "S4-001",
+  "kind": "interpretation",
+  "text": "Esta revisión reunió para esta sección 81 registros sobre la paráfisis (paraphysis cerebri) con contenido anatómico o identificados por título: 44 conocidos solo por título y metadatos, 3 a texto completo, 14 a nivel de resumen, 8 como extractos parciales y 12 como fragmentos secundarios de resúmenes web, no verificados; 13 de los 37 registros con contenido son de contexto y no constituyen evidencia central.",
+  "refs": [],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S4-002",
+  "kind": "interpretation",
+  "text": "Esta revisión cita además 11 registros de otras dimensiones (4 a nivel de resumen, 4 como extractos y 3 como fragmentos secundarios no verificados).",
+  "refs": [],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S4-003",
+  "kind": "interpretation",
+  "text": "En esta revisión, la topografía y la forma proceden sobre todo de resúmenes, extractos, rótulos de figuras o menciones de pasada; los trabajos clásicos se conocen casi solo por su título.",
+  "refs": [],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S4-004",
+  "kind": "interpretation",
+  "text": "Esta revisión no encontró, en el corpus recuperado, medidas absolutas de la paráfisis, y el único atlas mencionado se cita sin que su referencia pueda identificarse.",
+  "refs": [],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S4-005",
+  "kind": "cited",
+  "text": "Un caso clínico-patológico de 1954 describe la paráfisis, en observaciones no referenciadas del patólogo, como una evaginación del frente del tercer ventrículo vinculada a «un derivado del epéndimo» (la palabra que los une es ilegible en el OCR; el registro la restituye como «formada por») [@R065.4].",
+  "refs": [
+   "R065.4"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S4-006",
+  "kind": "cited",
+  "text": "Manzano (2017), que cita a Hinton y colaboradores (1990), la describe como un órgano glandular de anfibios y reptiles no aviares a nivel del tercer ventrículo [@R534.1; @R534.m1].",
+  "refs": [
+   "R534.1",
+   "R534.m1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S4-007",
+  "kind": "cited",
+  "text": "En embriones tempranos de *Xenopus laevis*, Bandín (2013) observó inmunorreactividad débil a Pax7 en estructuras membranosas entre los hemisferios telencefálicos que contienen la paráfisis, distintas del plexo coroideo [@R492.1].",
+  "refs": [
+   "R492.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S4-008",
+  "kind": "cited",
+  "text": "Sobre la sede en el techo prosencefálico, Joven (2012) afirma, según el extracto, que para unos autores es un derivado telencefálico y para otros parte del techo del prosómero 3 (p3) [@R485.1].",
+  "refs": [
+   "R485.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S4-009",
+  "kind": "cited",
+  "text": "Bandín (2013) recoge que la paráfisis fue descrita dentro del telencéfalo porque, según Warren, queda rostral al velum transversum [@R492.6].",
+  "refs": [
+   "R492.6"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S4-010",
+  "kind": "cited",
+  "text": "En sentido contrario, Shuangshoti (1966), en su trabajo sobre vertebrados inferiores, interpreta las evaginaciones del extremo rostral del techo diencefálico como plexos coroideos extraventriculares del diencéfalo (la paráfisis) y el velum transversum como un límite arbitrario [@R110.2; @R110.3]; Pombero (2008) afirma, según el extracto, que yace en p3 [@R447.1]; Joven (2013) interpreta que se origina en el límite entre p3 y el telencéfalo evaginado, más probablemente en p3 [@R497.2]; y Rivas-Manzano (2022) describe, en *Ambystoma mexicanum*, la paraphysis cerebri como la estructura circunventricular del techo del diencéfalo [@R599.1].",
+  "refs": [
+   "R110.2",
+   "R110.3",
+   "R447.1",
+   "R497.2",
+   "R599.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S4-011",
+  "kind": "cited",
+  "text": "Interpretación de esta revisión: el desacuerdo aparece dentro de los anfibios (Kappers, según Joven (2012), que recoge la descripción de la paráfisis de anfibios como órgano telencefálico posterior [@R485.2; @R485.m1], frente a Joven (2013) en *Pleurodeles waltl* [@R497.2] y Rivas-Manzano (2022) en *Ambystoma mexicanum* [@R599.1]), por lo que no parece depender del taxón; la discusión terminológica de fondo se trata en otra sección.",
+  "refs": [
+   "R485.2",
+   "R485.m1",
+   "R497.2",
+   "R599.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S4-012",
+  "kind": "cited",
+  "text": "Se rotula aparte el saco dorsal, que Wilder (s.f.) define, según el extracto, como evaginación en bolsa de la diatela situada entre la epífisis y la paráfisis en muchos vertebrados inferiores [@R663.1].",
+  "refs": [
+   "R663.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S4-013",
+  "kind": "cited",
+  "text": "|Tuatara neonato|Paráfisis adyacente al ojo pineal; los autores la definen, con cita, como evaginación de la *lamina supraneuroporica* del telencéfalo y recogen que, según Dendy, su abertura, originalmente al tercer ventrículo, pasa a dar al saco dorsal, que según el extracto es una evaginación del tercer ventrículo con plexo coroideo idéntico al de los ventrículos laterales|Resumen y extracto, en parte secundaria [@R410.1; @R410.3; @R410.4; @R410.6]|",
+  "refs": [
+   "R410.1",
+   "R410.3",
+   "R410.4",
+   "R410.6"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S4-014",
+  "kind": "cited",
+  "text": "|Tortugas marinas (*Chelonia mydas*, *Caretta caretta*)|Complejo pineal-parafisario grande, proyectado dorsal y anteriormente sobre el prosencéfalo; paráfisis extensamente fusionada a la porción distal del cuerpo pineal; no se observó conducto entre la luz pineal y el tercer ventrículo|Resumen [@R183.1; @R183.2; @R183.4]|",
+  "refs": [
+   "R183.1",
+   "R183.2",
+   "R183.4"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S4-015",
+  "kind": "cited",
+  "text": "|*Hyla versicolor*|Túbulos de los sacos endolinfáticos en estrecha relación con la porción dorsal de la paráfisis|Resumen [@R281.5]|",
+  "refs": [
+   "R281.5"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S4-016",
+  "kind": "cited",
+  "text": "|*Ambystoma mexicanum* (larvas)|El plexo extraventricular posterior (PEP) yace dorsal al anterior (AEP), siempre entre este y las meninges; los autores concluyen que la paráfisis consta de ambos órganos y, en otro punto del mismo resumen, sugieren que AEP y PEP son homólogos de la paráfisis y del saco dorsal, respectivamente|Resumen [@R599.2; @R599.6; @R599.7; @R599.8]|",
+  "refs": [
+   "R599.2",
+   "R599.6",
+   "R599.7",
+   "R599.8"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S4-017",
+  "kind": "cited",
+  "text": "|*Amblystoma* (adulto)|Túbulos parafisarios que se comunican entre sí por una boca común con el tercer ventrículo|Extracto [@R659.2]|",
+  "refs": [
+   "R659.2"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S4-018",
+  "kind": "cited",
+  "text": "|*Salmo gairdneri* (adulto)|Paráfisis representada por una parte diferenciada de la *pars impar telencephali* del techo telencefálico|Fragmento secundario no verificado, sin autoría [@R644.1]|",
+  "refs": [
+   "R644.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S4-019",
+  "kind": "cited",
+  "text": "|*Xenentodon cancila*|«Alguna indicación» de la paráfisis en el techo del diencéfalo; parapineal ausente|Fragmento secundario no verificado [@R655.1]|",
+  "refs": [
+   "R655.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S4-020",
+  "kind": "cited",
+  "text": "|*Trachemys scripta dorbigni*|Según una frase general de una tesis, estructura neuroepitelial y órgano circunventricular situado entre los hemisferios cerebrales|Fragmento secundario no verificado; contexto [@R361.1]|",
+  "refs": [
+   "R361.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S4-021",
+  "kind": "cited",
+  "text": "|Sin taxón indicado (embrión)|Según una entrada enciclopédica en línea (Gaillard 2017), los «paraphysis elements» aparecen como una hebra delgada entre el telencéfalo y las porciones anteriores del diencéfalo|Fragmento web no verificado; contexto [@R528.1]|",
+  "refs": [
+   "R528.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S4-022",
+  "kind": "cited",
+  "text": "|Humano (embrión)|Evaginación en bolsa del techo diencefálico dorsal al foramen interventricular, en la séptima semana|Fragmento secundario no verificado [@R370.1]|",
+  "refs": [
+   "R370.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S4-023",
+  "kind": "cited",
+  "text": "|Humano|Los rudimentos parafisarios normalmente desaparecen por degeneración total hacia los 3,5 meses de edad|Fragmento secundario no verificado [@R370.2]|",
+  "refs": [
+   "R370.2"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S4-024",
+  "kind": "cited",
+  "text": "|Humano (embrión)|Paráfisis detectada «at least after CS19» en el techo del «DV» (según el extracto, como mínimo tras CS19; no aclara si incluye CS19; abreviatura «DV» no expandida en el extracto); no se pudo determinar si las estructuras circundantes eran plexo coroideo del DV o parte de la paráfisis|Extracto [@R501.1; @R501.2]|",
+  "refs": [
+   "R501.1",
+   "R501.2"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S4-025",
+  "kind": "cited",
+  "text": "La presencia varía entre taxones: McNulty (1976) halló paráfisis y saco dorsal en *Bathylagus wesethi* y ambos ausentes en *Nezumia liolepis* [@R160.1; @R160.2].",
+  "refs": [
+   "R160.1",
+   "R160.2"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S4-026",
+  "kind": "cited",
+  "text": "Tsuneki (1986) refiere, según el resumen, paráfisis en el dogfish *Mustelus* y en los teleósteos osteoglosomorfos *Osteoglossum* y *Gnathonemus* [@R246.1], y juzga que la llamada paráfisis del pez pulmonado no lo es, sino un saco dorsal [@R246.2].",
+  "refs": [
+   "R246.1",
+   "R246.2"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S4-027",
+  "kind": "cited",
+  "text": "Herring (s.f.) afirma, según el extracto, que la paráfisis, probablemente glandular en algunos vertebrados inferiores, no está representada en el encéfalo del mamífero placentario [@R656.1], y Shuangshoti (1966), en su trabajo sobre el plexo coroideo humano, la describe como rudimentaria e inconstante en el hombre [@R111.2].",
+  "refs": [
+   "R656.1",
+   "R111.2"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S4-028",
+  "kind": "cited",
+  "text": "En el corpus recuperado, las diferencias de tamaño entre especies nombradas solo se documentan de forma explícita en ranas: según el extracto de Manzano (2017), la paráfisis es mayor en *P. sauvagii* y *P. boliviana* que en *Hypsiboas pulchellus*, y menos desarrollada y en forma de cordón en *R. fernandezae* (abreviaturas de género tal como se imprimen) [@R534.3].",
+  "refs": [
+   "R534.3"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S4-029",
+  "kind": "cited",
+  "text": "Khonsari (2009), según el extracto, llama «paraphysis (or parietal)» al divertículo epitalámico izquierdo y «epiphysis (or pineal)» al derecho [@R455.1], y los autores interpretan que los condrictios conservan solo el derecho, pineal [@R455.2].",
+  "refs": [
+   "R455.1",
+   "R455.2"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S4-030",
+  "kind": "interpretation",
+  "text": "Interpretación de esta revisión: Khonsari parece usar «paraphysis» para un referente distinto del de las demás fuentes de esta sección, pero el extracto no aborda la estructura telencefálica, por lo que la diferencia es una inferencia de esta revisión y no una afirmación de la fuente.",
+  "refs": [],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S4-031",
+  "kind": "interpretation",
+  "text": "Interpretación de esta revisión: la afirmación de Khonsari sobre los condrictios no puede conciliarse con la de Tsuneki sobre *Mustelus* sin conocer la definición que cada autor da, porque el resumen de Tsuneki no define la estructura y Khonsari usa «paraphysis» para un divertículo epitalámico izquierdo; ambas lecturas se mantienen separadas.",
+  "refs": [],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S4-032",
+  "kind": "cited",
+  "text": "|Urodelos|Según Gladstone (1940), la estructura puede aparecer como divertículo tubular simple o ser ramificada y de aspecto glandular|Fragmento secundario no verificado [@R043.2]|",
+  "refs": [
+   "R043.2"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S4-033",
+  "kind": "cited",
+  "text": "|*Amblystoma* (adulto)|Epitelio ependimario bajo-columnar que forma túbulos parafisarios de fondo ciego|Extracto [@R659.1]|",
+  "refs": [
+   "R659.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S4-034",
+  "kind": "cited",
+  "text": "|*Bufo bufo* (larvas)|Glándula tubular-ramificada de numerosos túbulos de pared monoestratificada|Resumen [@R320.1]|",
+  "refs": [
+   "R320.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S4-035",
+  "kind": "cited",
+  "text": "|Tuatara neonato|Órgano grande y multisacular (observación de los autores); el texto añade, citando literatura, que tiene numerosas luces|Resumen y extracto, en parte secundaria [@R410.1; @R410.4]|",
+  "refs": [
+   "R410.1",
+   "R410.4"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S4-036",
+  "kind": "cited",
+  "text": "|*Calotes versicolor* (embriones)|Estructura simple (el resumen escribe «papaphysis»)|Resumen [@R170.1]|",
+  "refs": [
+   "R170.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S4-037",
+  "kind": "cited",
+  "text": "|Reptiles (aligátor)|Según Gladstone (1940), el saco dorsal y la paráfisis «también están presentes» en el aligátor («alligator»); el fragmento no muestra la lista previa|Fragmento secundario no verificado [@R044.1]|",
+  "refs": [
+   "R044.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S4-038",
+  "kind": "cited",
+  "text": "|Dipnoos (según el título del registro)|Un fragmento secundario atribuye a Burckhardt (1890, 1892) una breve descripción de la región dorsal del encéfalo con un órgano pineal y, en su interior, una estructura conspicua que llamó «coronarium»; el fragmento no nombra la especie (la monografía de 1892 trata de *Protopterus annectens* según el título del registro) ni la llama paráfisis|Fragmento secundario no verificado [@R005.1; @R005.2]|",
+  "refs": [
+   "R005.1",
+   "R005.2"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S4-039",
+  "kind": "cited",
+  "text": "|Dipnoos|El título de Dorn (1957) trata de la estructura fina de la «paraphysis» de *Protopterus annectens*|Solo título [@R079.t]|",
+  "refs": [
+   "R079.t"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S4-040",
+  "kind": "cited",
+  "text": "|Condrictios|El título de Chiarugi (1906) habla de la región parafisaria del telencéfalo en embriones de *Torpedo ocellata*; el de Kappers (1956), del desarrollo de la paráfisis en *Scyliorhinus canicula*|Solo título [@R018.t; @R076.t]|",
+  "refs": [
+   "R018.t",
+   "R076.t"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S4-041",
+  "kind": "cited",
+  "text": "|Reptiles (gecos)|El título de Melchers (1899) nombra «Epi-, Para- und Hypophyse» del gecko, y el de Stemmler (1900) trata del desarrollo de los apéndices del techo del diencéfalo del gecko|Solo título [@R012.t; @R013.t]|",
+  "refs": [
+   "R012.t",
+   "R013.t"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S4-042",
+  "kind": "cited",
+  "text": "|Aves|Un texto posterior (de Dexter, según las notas del registro) acredita a «Selenka (12)» como el primero en identificar la paráfisis en «chicks» (polluelos); no está confirmado que la referencia citada corresponda al trabajo de Selenka de 1891|Fragmento secundario no verificado; contexto [@R004.1]|",
+  "refs": [
+   "R004.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S4-043",
+  "kind": "cited",
+  "text": "|Aves|El título de Stockem (1966) trata de la embriología comparada de la paráfisis en aves|Solo título [@R113.t]|",
+  "refs": [
+   "R113.t"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S4-044",
+  "kind": "cited",
+  "text": "El caso clínico-patológico de 1954 describe la paráfisis humana, en observaciones no referenciadas, como una estructura transitoria presente cuando el embrión mide 19 a 32 mm [@R065.5].",
+  "refs": [
+   "R065.5"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S4-045",
+  "kind": "cited",
+  "text": "Según el resumen de O'Rahilly (1990), la paráfisis «está apareciendo» en el estadio 18, pero el resumen no indica dónde yace [@R285.1].",
+  "refs": [
+   "R285.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S4-046",
+  "kind": "cited",
+  "text": "Ciric (1975) describe dos quistes neuroepiteliales (coloides) sobre el techo diencefálico, entre los dos fórnices y las dos hojas del septo pelúcido, pero su resumen no menciona la paráfisis [@R149.1].",
+  "refs": [
+   "R149.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S4-047",
+  "kind": "cited",
+  "text": "Otros registros, en la parte leída, fijan términos vecinos (el resumen de Müller 1988 está truncado en origen): en embriones humanos del estadio 14 (Müller 1988) el límite ventral entre el *telencephalon medium* y el diencéfalo es el receso preóptico, y el sitio del velum transversum se indica por un cambio de grosor del techo del prosencéfalo [@R261.1; @R261.2]; y en la rata, a E13, el área central entre las vesículas telencefálicas pareadas se denomina *telencephalon impar* (Alicelebić 2004) [@R405.1].",
+  "refs": [
+   "R261.1",
+   "R261.2",
+   "R405.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S4-048",
+  "kind": "interpretation",
+  "text": "Interpretación de esta revisión: estos registros no mencionan la paráfisis en lo leído, por lo que no permiten ubicarla respecto de esos límites.",
+  "refs": [],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S4-049",
+  "kind": "cited",
+  "text": "Hinton (1990) describe, según el resumen, en *Rana pipiens* y *Rana catesbeiana* un lecho capilar parafisario que es un sistema porta sinusoidal que recibe sangre aferente del plexo coroideo asociado [@R280.3]; las arteriolas de la arteria telencefálica posterior que irrigan el plexo coroideo del tercer ventrículo recorren la periferia de la paráfisis antes de ramificarse [@R280.4], y las vénulas sinusoidales parecen vaciarse en una estructura venosa de la línea media que atraviesa tangencialmente la paráfisis [@R280.5].",
+  "refs": [
+   "R280.3",
+   "R280.4",
+   "R280.5"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S4-050",
+  "kind": "cited",
+  "text": "En *Xenopus laevis*, el extracto de Lametschwandtner (2018) indica que la arteria diencefálica emite solo la arteria coroidea, que irriga la paráfisis y el plexo coroideo del tercer ventrículo [@R545.1].",
+  "refs": [
+   "R545.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S4-051",
+  "kind": "interpretation",
+  "text": "Interpretación de esta revisión: Hinton atribuye el origen de las arteriolas a una arteria telencefálica posterior y Lametschwandtner a una diencefálica, pero las especies difieren (*Rana*; *Xenopus*) y ambas fuentes se leyeron solo como resumen o extracto, por lo que no es posible decidir si se trata de nomenclatura o de una diferencia anatómica.",
+  "refs": [],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S4-052",
+  "kind": "cited",
+  "text": "Según una fuente secundaria no verificada, Winkelmann y colaboradores (2004) describen la paráfisis de la tortuga *Trachemys (scripta) dorbigni* como muy vascularizada [@R411.1], y la administración intraarterial de azul de Evans mostró ausencia de barrera hematoencefálica [@R412.1], probablemente relacionada con un endotelio fenestrado [@R412.2].",
+  "refs": [
+   "R411.1",
+   "R412.1",
+   "R412.2"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S4-053",
+  "kind": "cited",
+  "text": "Dos registros de 1965, que las notas de búsqueda identifican como el mismo capítulo, constan con títulos distintos: uno, en una redacción de catálogo no literal, habla de irrigación de epífisis y «paraphysis» en reptiles, y el otro (título verificado en PubMed) de «para-epiphysis» [@R099.t; @R103.t].",
+  "refs": [
+   "R099.t",
+   "R103.t"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S4-054",
+  "kind": "cited",
+  "text": "|*Rana pipiens*, *Rana catesbeiana*|Vénulas del plexo coroideo drenan en sinusoides parafisarios con endotelio fenestrado, que los autores toman como indicio de vasos de transporte; hay fibras nerviosas, pero no inervación simpática monoaminérgica de la vasculatura|Resumen [@R280.5; @R280.6; @R280.7]|",
+  "refs": [
+   "R280.5",
+   "R280.6",
+   "R280.7"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S4-055",
+  "kind": "cited",
+  "text": "|*Xenopus laevis* (adulto)|La arteria diencefálica derecha o izquierda emite solo la arteria coroidea; el extracto no aclara si «del tercer ventrículo» califica también a la paráfisis|Extracto [@R545.1]|",
+  "refs": [
+   "R545.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S4-056",
+  "kind": "cited",
+  "text": "|*Amblystoma* (adulto)|Aporte sanguíneo enteramente venoso; sinusoides venosos entre los túbulos que se anastomosan en un rete complejo formado solo por endotelio|Extracto [@R659.3; @R659.4]|",
+  "refs": [
+   "R659.3",
+   "R659.4"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S4-057",
+  "kind": "cited",
+  "text": "|*Natrix maura*|La capa de tejido conectivo contiene sinusoides fenestrados, fibrocitos y escasas fibras nerviosas amielínicas envueltas por células de Schwann|Resumen [@R217.5]|",
+  "refs": [
+   "R217.5"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S4-058",
+  "kind": "cited",
+  "text": "|*Bufo bufo* (larvas)|Túbulos rodeados de tejido conectivo y sinusoides|Resumen [@R320.1]|",
+  "refs": [
+   "R320.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S4-059",
+  "kind": "cited",
+  "text": "|*Pseudemys scripta elegans*|Relaciones vasculares de la pineal con saco dorsal, paráfisis y plexo coroideo del tercer ventrículo estudiadas por corrosión y microscopía electrónica de barrido en 10 ejemplares; el resumen no da resultado específico de la paráfisis; las vénulas de la superficie ventral de la pineal se unen a las del plexo coroideo del tercer ventrículo y drenan al seno sagital|Resumen [@R332.1; @R332.2]|",
+  "refs": [
+   "R332.1",
+   "R332.2"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S4-060",
+  "kind": "cited",
+  "text": "Ringler (2019) segmentó manualmente la paráfisis como región de interés en imágenes de resonancia magnética con ITK-Snap, siguiendo un atlas publicado de encéfalo cuya especie y cita no se conservaron en el texto leído [@R560.7].",
+  "refs": [
+   "R560.7"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S4-061",
+  "kind": "cited",
+  "text": "Según el resumen, la paráfisis fue una de las tres regiones con mayor cambio de intensidad de señal MEMRI en ranas leopardo del norte expuestas a cantos de conespecíficos [@R560.1]; los autores consideran que diferencias de permeabilidad de la barrera hematoencefálica cerca de la paráfisis podrían explicar la acumulación de manganeso, aunque excluyen una explicación solo metodológica o anatómica [@R560.6].",
+  "refs": [
+   "R560.1",
+   "R560.6"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S4-062",
+  "kind": "cited",
+  "text": "Kier (2022) rotula «pa» (paráfisis) y «DS» (saco dorsal) como etiquetas separadas, junto con velum transversum y diencéfalo, en una leyenda de figura de un trabajo sobre morfología arterial y ventricular de dogfish, rana toro e iguana; el extracto no indica la especie de la figura [@R588.1].",
+  "refs": [
+   "R588.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S4-063",
+  "kind": "cited",
+  "text": "Los títulos de Glazer (1956) y Danziger (1974) hablan de quistes parafisarios del tercer ventrículo; su contenido no se leyó [@R075.t; @R143.t].",
+  "refs": [
+   "R075.t",
+   "R143.t"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S4-064",
+  "kind": "cited",
+  "text": "- Dimensiones: en el corpus recuperado no se encontraron medidas absolutas de la paráfisis en ningún taxón; la única comparación de tamaño entre especies con datos explícitos es cualitativa y entre ranas [@R534.3]; otras fuentes solo ofrecen valoraciones cualitativas del grado de desarrollo, sin medidas (p. ej., «rudimentaria e inconstante» en el hombre según Shuangshoti, 1966) [@R111.2].",
+  "refs": [
+   "R534.3",
+   "R111.2"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S4-065",
+  "kind": "cited",
+  "text": "- Descripciones clásicas: las monografías cuyo título anuncia la estructura o el desarrollo de la paráfisis en urodelos, en el hombre y en vertebrados en general se conocen solo por título, y su contenido topográfico no pudo establecerse [@R054.t; @R070.t; @R011.t].",
+  "refs": [
+   "R054.t",
+   "R070.t",
+   "R011.t"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S4-066",
+  "kind": "cited",
+  "text": "- Posición: la sede (telencefálica o diencefálica) es objeto de controversia entre autores [@R485.1] y en el corpus recuperado no se pudo resolver; en el hombre, un fragmento secundario no verificado la sitúa en el techo diencefálico [@R370.1], un extracto en el techo del «DV» (abreviatura no expandida) [@R501.1] y un resumen no precisa dónde yace [@R285.1].",
+  "refs": [
+   "R485.1",
+   "R370.1",
+   "R501.1",
+   "R285.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S4-067",
+  "kind": "cited",
+  "text": "- Irrigación: en el corpus recuperado no se encontraron datos sobre la irrigación de la paráfisis en aves, peces ni humanos; la de reptiles se conoce solo por datos fragmentarios: un resumen sobre *Natrix maura* con sinusoides fenestrados en la capa de tejido conectivo [@R217.5], fragmentos secundarios no verificados sobre *Trachemys* [@R411.1; @R412.1], un resumen sin resultado específico de la paráfisis [@R332.1] y un capítulo conocido solo por título [@R099.t].",
+  "refs": [
+   "R217.5",
+   "R411.1",
+   "R412.1",
+   "R332.1",
+   "R099.t"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S4-068",
+  "kind": "cited",
+  "text": "- Imagen: en el corpus recuperado no se encontraron descripciones por imagen de la paráfisis normal en humanos; la única segmentación hallada es la de Ringler (2019), hecha manualmente en imágenes de resonancia magnética de ranas siguiendo un atlas publicado de encéfalo cuya cita y especie no se conservaron en el texto leído, y en el texto leído no se informa confirmación histológica de la identidad [@R560.7].",
+  "refs": [
+   "R560.7"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S4-069",
+  "kind": "cited",
+  "text": "- Terminología: «paraphysis» parece designar estructuras distintas: Tsuneki juzga que la llamada paráfisis del pez pulmonado es un saco dorsal [@R246.2], y Khonsari llama «paraphysis (or parietal)» al divertículo epitalámico izquierdo [@R455.1], aunque el extracto no aborda la estructura telencefálica (la diferencia es inferencia de esta revisión).",
+  "refs": [
+   "R246.2",
+   "R455.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S4-070",
+  "kind": "interpretation",
+  "text": "Interpretación de esta revisión: esto puede dificultar la comparación entre taxones de los registros que usan el término sin definirlo.",
+  "refs": [],
+  "invalid_refs": []
+ }
+]

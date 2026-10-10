@@ -1,0 +1,508 @@
+{
+ "batch": "eA05",
+ "records": [
+  {
+   "rid": "R217",
+   "data_depth": "abstract",
+   "duplicate_of": "",
+   "about_paraphysis": "principal",
+   "study_type": "ultrastructure",
+   "taxa": [
+    {
+     "name": "Natrix maura",
+     "group": "squamate"
+    }
+   ],
+   "stage": "not stated in abstract",
+   "methods": "Light and electron microscopy of the paraphyseal epithelium; no specimen number, fixation or sampling details given in the abstract.",
+   "findings": [
+    {
+     "id": "R217.1",
+     "dim": "histology",
+     "statement": "Paraphyseal epithelial cells are polarised: apical pole faces the third ventricle, basal pole rests on a connective tissue layer surrounding the whole organ.",
+     "support": "They showed a clear polarity apically related to the third ventricle and, basally, to a connective tissue layer which surrounded the whole organ.",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    },
+    {
+     "id": "R217.2",
+     "dim": "histology",
+     "statement": "The apical surface is joined by junctional complexes and bears many microvilli, scarce cilia and some pinocytotic coated vesicles.",
+     "support": "The apical surface of the cells, attached by junctional complexes, showed many microvilli, scarce cilia, and some pinocytotic coated vesicles.",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    },
+    {
+     "id": "R217.3",
+     "dim": "histology",
+     "statement": "Apical cytoplasm contains many mitochondria, a well-developed Golgi apparatus and endoplasmic reticulum; lamellar bodies are abundant and related to mitochondria; glycogen particles absent.",
+     "support": "In their apical cytoplasm many mitochondria and a well-developed golgi apparatus and endoplasmic reticulum were observed. Whereas lamellar bodies were abundant and closely related with mitochondria, glycogen particles were absent.",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    },
+    {
+     "id": "R217.4",
+     "dim": "histology",
+     "statement": "The basal cell membrane shows infoldings in which pinocytotic coated vesicles were detected.",
+     "support": "Basal cell membrane showed infoldings where pinocytotic coated vesicles were detected.",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    },
+    {
+     "id": "R217.5",
+     "dim": "anatomy",
+     "statement": "The connective tissue layer contains fenestrated sinusoids, fibrocytes and rare unmyelinated nerve fibres engulfed by Schwann cells.",
+     "support": "In the connective tissue layer, fenestrated sinusoids and fibrocytes, as well as rare unmyelinated nerve fibers engulfed by Schwann cells, were present.",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    },
+    {
+     "id": "R217.6",
+     "dim": "physiology",
+     "statement": "The authors discuss a possible active role of the paraphyseal cells in exchange of substances between cerebrospinal fluid and blood.",
+     "support": "The possible active role of paraphyseal cells in exchanging substances between cerebrospinal fluid and blood is discussed.",
+     "locator": "abstract",
+     "strength": "hypothesis",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Organ named 'paraphysis cerebri' (title) and its cells 'paraphyseal epithelial cells'; apical pole related to the third ventricle. The abstract does not state whether the roof is telencephalic or diencephalic.",
+   "mentions": [],
+   "caveats": "Only the complete PubMed abstract was read (no PMC full text; Wiley passage not used). Specimen number, age/sex, fixation and magnifications are not available. Functional statement is a discussion point, not tested.",
+   "appraisal": {
+    "specimens": "not_assessable",
+    "methods": "partial",
+    "claims_support": "direct",
+    "note": "Abstract only: techniques named (light and electron microscopy) but no n, stage or protocol; structural claims are direct observations, function is speculative."
+   },
+   "include_in_synthesis": "yes",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R224",
+   "data_depth": "abstract",
+   "duplicate_of": "",
+   "about_paraphysis": "passing_mention",
+   "study_type": "case_series",
+   "taxa": [
+    {
+     "name": "human (75 anatomo-clinical cases of colloid cyst of the 3rd ventricle)",
+     "group": "human"
+    }
+   ],
+   "stage": "not stated in abstract",
+   "methods": "Series of 75 anatomo-clinical cases of colloid cyst of the third ventricle; symptom enumeration, macroscopic and microscopic morphological analysis, statistical analysis, comparison with literature.",
+   "findings": [
+    {
+     "id": "R224.1",
+     "dim": "terminology",
+     "statement": "Colloid cyst of the third ventricle is also called the 'paraphysis cyst'; its etiology remains imprecise despite many investigations.",
+     "support": "Known as the paraphysis cyst, or the colloid cyst of the third ventricle, the lesion described in this study continues to have an unprecise etiology in spite of a great number of investigations.",
+     "locator": "abstract",
+     "strength": "authors_interpretation",
+     "quote_verified": true
+    },
+    {
+     "id": "R224.2",
+     "dim": "ontogeny",
+     "statement": "The author states that the embryologic investigations and hypotheses cited do not clarify the origin of these cysts.",
+     "support": "The embryologic investigations mentioned and the hypotheses to which they lead do not shed light on the origin of these cysts.",
+     "locator": "abstract",
+     "strength": "authors_interpretation",
+     "quote_verified": true
+    },
+    {
+     "id": "R224.3",
+     "dim": "clinical",
+     "statement": "In this series the cyst (the 'paraphysis cyst') is far more frequent in males; the author considers colloid cysts a cerebral anomaly related to sex.",
+     "support": "The mathematical analysis indicates a difference in frequency between both sexes, with a far greater frequency in males.",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Uses 'paraphysis cyst' as a synonym of colloid cyst of the third ventricle (title: 'so-called cyst of the paraphysis'). The paraphysis itself is not described in the abstract.",
+   "mentions": [],
+   "caveats": "Abstract only (English abstract of a French-language paper). The paraphysis appears only as an eponymous label of the cyst; no statement about the normal paraphysis. Statements are about the cyst, not the paraphysis.",
+   "appraisal": {
+    "specimens": "partial",
+    "methods": "partial",
+    "claims_support": "mixed",
+    "note": "Abstract gives n=75 but no age/sex counts or histological detail; epidemiological claim is direct, the statement on embryologic hypotheses is a literature judgment."
+   },
+   "include_in_synthesis": "context_only",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R226",
+   "data_depth": "abstract",
+   "duplicate_of": "",
+   "about_paraphysis": "principal",
+   "study_type": "experimental",
+   "taxa": [
+    {
+     "name": "bullfrog (Rana catesbeiana)",
+     "group": "anuran"
+    }
+   ],
+   "stage": "frogs (age or developmental stage not stated in abstract)",
+   "methods": "Surgical removal of the paraphysis (paraphysectomy); observation of hypocalcemia, tetany and weakness; histology of the spinal cord. Number of operated animals, controls and calcium assay not given in abstract.",
+   "findings": [
+    {
+     "id": "R226.1",
+     "dim": "physiology",
+     "statement": "The authors state that the paraphysis has been studied extensively but that its function is unknown.",
+     "support": "The paraphysis has been studied extensively but its function is unknown.",
+     "locator": "abstract",
+     "strength": "authors_interpretation",
+     "quote_verified": true
+    },
+    {
+     "id": "R226.2",
+     "dim": "physiology",
+     "statement": "Surgical removal of the paraphysis in bullfrogs produced hypocalcemia and tetany in 35 frogs, about 40% of those operated.",
+     "support": "Surgical removal of the paraphysis in the bullfrog (Rana catesbeiana) resulted in hypocalcemia and tetany in 35 frogs, about 40% of those operated upon.",
+     "locator": "abstract",
+     "strength": "experimental_result",
+     "quote_verified": true
+    },
+    {
+     "id": "R226.3",
+     "dim": "physiology",
+     "statement": "About 8 days post-operatively, one to two days after onset of tetany, progressive weakness began in the hind limbs.",
+     "support": "One or two days after the onset of tetany (about 8 days postoperative), progressive weakness was observed, beginning in the hind limbs.",
+     "locator": "abstract",
+     "strength": "experimental_result",
+     "quote_verified": true
+    },
+    {
+     "id": "R226.4",
+     "dim": "histology",
+     "statement": "In afflicted paraphysectomized frogs the caudal spinal cord was discoloured green and lumbar motor neurons were swollen, vacuolated and had reduced processes.",
+     "support": "histologically motor neurons in the lumbar spinal cord were swollen, indented with vacuoles, and had reduced processes.",
+     "locator": "abstract",
+     "strength": "experimental_result",
+     "quote_verified": true
+    },
+    {
+     "id": "R226.5",
+     "dim": "physiology",
+     "statement": "The authors conclude that the paraphysis appears to play a role in calcium regulation; motor neuron degeneration may be secondary to altered calcium metabolism.",
+     "support": "The paraphysis appears to play a role in calcium regulation in the bullfrog; the motor neuron degenerative changes observed may be secondary to the altered calcium metabolism.",
+     "locator": "abstract",
+     "strength": "authors_interpretation",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "'Paraphysis' and 'paraphysectomized' used without specifying its position in the brain; the abstract does not mention whether the choroid plexus was also removed.",
+   "mentions": [],
+   "caveats": "Abstract only. Total number of operated frogs, control group, serum calcium values and extent of tissue removed are not stated, so the specificity of the effect to the paraphysis cannot be assessed.",
+   "appraisal": {
+    "specimens": "partial",
+    "methods": "partial",
+    "claims_support": "mixed",
+    "note": "Abstract reports 35 afflicted frogs (~40% of operated) but no total n, controls or surgical extent; causal link is worded as 'appears' and 'may be'."
+   },
+   "include_in_synthesis": "yes",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R233",
+   "data_depth": "abstract",
+   "duplicate_of": "",
+   "about_paraphysis": "principal",
+   "study_type": "histochemistry",
+   "taxa": [
+    {
+     "name": "frog, Rana esculenta",
+     "group": "anuran"
+    }
+   ],
+   "stage": "not stated in abstract",
+   "methods": "Ultracytochemical localisation of Ca++-ATPase in the paraphysis cerebri; incubation media with Ca++ varied from 0.1 mM to 100 mM and Ca replaced by Mg for controls; comparison with adjacent choroid plexus.",
+   "findings": [
+    {
+     "id": "R233.1",
+     "dim": "histology",
+     "statement": "Ca++-ATPase reaction is intense on the plasmalemma of apical microvilli of paraphyseal cells and only slight on the basolateral plasmalemma.",
+     "support": "An intense reaction was demonstrated on the plasmalemma of the microvilli at the apical pole of paraphyseal cells; in contrast, the basolateral plasmalemma showed only a slight staining.",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    },
+    {
+     "id": "R233.2",
+     "dim": "histology",
+     "statement": "Mitochondria, gap junctions, cilia and cytoplasmic elements such as microfilaments of paraphyseal cells also show Ca++-ATPase activity.",
+     "support": "In addition, mitochondria, gap junctions, cilia, and cytoplasmic elements (e.g., microfilaments) displayed Ca++-ATPase activity.",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    },
+    {
+     "id": "R233.3",
+     "dim": "physiology",
+     "statement": "Varying Ca++ concentration (0.1-100 mM) altered organelle Ca++-ATPase activity; replacing Ca by Mg markedly decreased activity, especially on the apical plasmalemma.",
+     "support": "Variation of the Ca++-concentration in the incubation medium from 0.1 mM to 100 mM altered the Ca++-ATPase activity of the cell organelles. The substitution of Ca- by Mg-ions resulted in a conspicuous decrease in the enzyme activity, especially on the apical plasmalemma.",
+     "locator": "abstract",
+     "strength": "experimental_result",
+     "quote_verified": true
+    },
+    {
+     "id": "R233.4",
+     "dim": "physiology",
+     "statement": "Compared with the adjacent choroid plexus epithelium, the paraphyseal epithelial cell is thought to be a principal Ca-ion regulator of cerebrospinal fluid in frogs.",
+     "support": "In comparison to the epithelium of the adjacent choroid plexus the paraphyseal epithelial cell is thought to be a principal Ca-ion regulator of the cerebrospinal fluid in frogs.",
+     "locator": "abstract",
+     "strength": "authors_interpretation",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Organ called 'paraphysis cerebri'; cells called 'paraphyseal epithelial cells'; described as adjacent to the choroid plexus. The abstract does not state the telencephalic or diencephalic origin.",
+   "mentions": [
+    {
+     "work": "Ando et al. 1981",
+     "claim": "Ultracytochemical Ca++-ATPase method followed (cf.) for the present paraphysis study.",
+     "quote": "Ca++-ATPase activity was studied ultracytochemically (cf. Ando et al. 1981) in the paraphysis cerebri of the frog.",
+     "strength": "secondary_report"
+    }
+   ],
+   "caveats": "Abstract only. Number of animals, fixation and quantification not available; the role as principal Ca regulator of CSF is an interpretation from enzyme localisation, and no direct comparison data with choroid plexus appear in the abstract.",
+   "appraisal": {
+    "specimens": "not_assessable",
+    "methods": "partial",
+    "claims_support": "mixed",
+    "note": "Abstract only: species and technique named, no n or protocol details; localisation direct, CSF Ca-regulator role inferred from enzyme distribution."
+   },
+   "include_in_synthesis": "yes",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R237",
+   "data_depth": "abstract",
+   "duplicate_of": "",
+   "about_paraphysis": "principal",
+   "study_type": "experimental",
+   "taxa": [
+    {
+     "name": "bullfrog (Rana catesbeiana)",
+     "group": "anuran"
+    }
+   ],
+   "stage": "tadpoles at paraphysectomy; frogs examined 22 months later",
+   "methods": "Paraphysectomy of bullfrog tadpoles with controls; weight, bone development (X-rays of tibia-fibulas and femurs), parathyroid histology and femur dry weight and calcium assessed 22 months later. n not stated in abstract.",
+   "findings": [
+    {
+     "id": "R237.1",
+     "dim": "physiology",
+     "statement": "Controls and paraphysectomized frogs developed similarly until 6 months; thereafter operated frogs showed greater weight gain that persisted to 22 months.",
+     "support": "Development was similar in control and paraphysectomized frogs until 6 months when the experimental frogs began to show greater weight gain which persisted for the remaining 16 months.",
+     "locator": "abstract",
+     "strength": "experimental_result",
+     "quote_verified": true
+    },
+    {
+     "id": "R237.2",
+     "dim": "physiology",
+     "statement": "Parathyroid glands of paraphysectomized frogs were enlarged 22 months after surgery, with tenfold wet weight and sevenfold dry weight increases.",
+     "support": "the parathyroid glands of the experimental frogs were enlarged with a tenfold increase in wet weight and a sevenfold increase in dry weight.",
+     "locator": "abstract",
+     "strength": "experimental_result",
+     "quote_verified": true
+    },
+    {
+     "id": "R237.3",
+     "dim": "histology",
+     "statement": "Parathyroids of paraphysectomized frogs contained numerous cysts filled with eosinophilic material; cell nuclei were rounded and cytoplasm vesiculated.",
+     "support": "The glands from experimental frogs had numerous cysts filled with eosinophilic staining material; histologically the cell nuclei were rounded and the cytoplasm was vesiculated.",
+     "locator": "abstract",
+     "strength": "experimental_result",
+     "quote_verified": true
+    },
+    {
+     "id": "R237.4",
+     "dim": "physiology",
+     "statement": "Paraphysectomized frogs had knoblike long-bone deformities due to callus around spontaneous fractures shown by X-ray.",
+     "support": "These deformities were due to callus formation around spontaneous bone fractures as revealed by X-rays of the tibia-fibulas and femurs.",
+     "locator": "abstract",
+     "strength": "experimental_result",
+     "quote_verified": true
+    },
+    {
+     "id": "R237.5",
+     "dim": "physiology",
+     "statement": "Femurs from paraphysectomized frogs had greater dry weight but lower calcium content.",
+     "support": "The dry weight was greater but calcium content less in femurs from experimental frogs.",
+     "locator": "abstract",
+     "strength": "experimental_result",
+     "quote_verified": true
+    },
+    {
+     "id": "R237.6",
+     "dim": "physiology",
+     "statement": "The authors conclude that the paraphysis plays a role in calcium metabolism, possibly by producing a factor necessary for calcium action on cells.",
+     "support": "These findings indicate the paraphysis plays a role in calcium metabolism, possibly by producing a factor necessary for calcium action on cells.",
+     "locator": "abstract",
+     "strength": "hypothesis",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "'Amphibian paraphysis'; 'paraphysectomized frogs'. The abstract does not define the structure or state whether the choroid plexus was spared.",
+   "mentions": [],
+   "caveats": "Abstract only (Wiley passage not used). Sample sizes, extent of tissue removed and sham controls not stated; parathyroid and bone effects are indirect consequences, the proposed paraphyseal factor is hypothetical.",
+   "appraisal": {
+    "specimens": "not_assessable",
+    "methods": "partial",
+    "claims_support": "mixed",
+    "note": "Abstract only: controls and 22-month design stated, no n or surgical detail; end-organ effects are direct, the paraphyseal calcium factor is inferred."
+   },
+   "include_in_synthesis": "yes",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R245",
+   "data_depth": "abstract",
+   "duplicate_of": "",
+   "about_paraphysis": "principal",
+   "study_type": "experimental",
+   "taxa": [
+    {
+     "name": "frogs (Rana catesbeiana)",
+     "group": "anuran"
+    }
+   ],
+   "stage": "adult / mature frogs; parathyroids examined 7-28 days and 12 months after surgery",
+   "methods": "Surgical removal of the paraphyseal-choroid plexus complex; light microscopy and morphometry of parathyroids, PTH immunofluorescence, radioimmunoassay and SDS-PAGE of cystic fluid. n not stated in abstract.",
+   "findings": [
+    {
+     "id": "R245.1",
+     "dim": "terminology",
+     "statement": "The surgically removed structure is termed the 'paraphyseal-choroid plexus complex', and its removal is called paraphysectomy.",
+     "support": "surgical removal of the paraphyseal-choroid plexus complex (paraphysectomy)",
+     "locator": "abstract",
+     "strength": "authors_interpretation",
+     "quote_verified": true
+    },
+    {
+     "id": "R245.2",
+     "dim": "physiology",
+     "statement": "Total parathyroid volume, cell volume and vascular volume doubled by 7-28 days after paraphysectomy.",
+     "support": "Light microscopy and morphometric analysis indicated that total parathyroid gland volume, cell volume and vascular volume doubled by 7-28 days after surgical removal of the paraphyseal-choroid plexus complex (paraphysectomy).",
+     "locator": "abstract",
+     "strength": "experimental_result",
+     "quote_verified": true
+    },
+    {
+     "id": "R245.3",
+     "dim": "histology",
+     "statement": "The parathyroid enlargement correlated with large Golgi-associated vesicles, more cytoplasmic dense-core granules and immunofluorescent PTH within parenchymal cells.",
+     "support": "This increase correlated with the appearance of large Golgi-associated vesicles, an increase in the apparent number of cytoplasmic dense-core granules, and PTH within the parenchymal cells as monitored by immunofluorescence.",
+     "locator": "abstract",
+     "strength": "experimental_result",
+     "quote_verified": true
+    },
+    {
+     "id": "R245.4",
+     "dim": "histology",
+     "statement": "Twelve months after paraphysectomy parathyroids were cystic, with a central fluid-filled cavity lined by stratified cuboidal cells.",
+     "support": "Twelve months after paraphysectomy, parathyroid glands became cystic with a central fluid-filled cavity surrounded by a stratified cuboidal cell layer.",
+     "locator": "abstract",
+     "strength": "experimental_result",
+     "quote_verified": true
+    },
+    {
+     "id": "R245.5",
+     "dim": "physiology",
+     "statement": "The authors conclude paraphysectomy stimulates the parathyroid glands and suggest a role for the paraphyseal-choroid plexus complex in regulating amphibian parathyroid function.",
+     "support": "The results of this study indicate that paraphysectomy induces stimulation of the parathyroid glands and suggest a role for the paraphyseal-choroid plexus complex in the regulation of amphibian parathyroid gland function.",
+     "locator": "abstract",
+     "strength": "authors_interpretation",
+     "quote_verified": true
+    },
+    {
+     "id": "R245.6",
+     "dim": "terminology",
+     "statement": "The title frames the result as evidence for telencephalic regulation of parathyroid gland function.",
+     "support": "evidence for telencephalic regulation of parathyroid gland function",
+     "locator": "title",
+     "strength": "authors_interpretation",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Uses 'paraphyseal-choroid plexus complex' for the removed structure and 'paraphysectomy' for the operation; title links it to the telencephalon ('telencephalic regulation').",
+   "mentions": [],
+   "caveats": "Abstract and title only. Because the operation removes the paraphyseal-choroid plexus complex as a unit, effects cannot be attributed to the paraphysis alone on the basis of the text read. n, controls and sham surgery not stated.",
+   "appraisal": {
+    "specimens": "not_assessable",
+    "methods": "partial",
+    "claims_support": "mixed",
+    "note": "Abstract only: techniques listed, no n or controls; parathyroid changes direct, role of the paraphysis confounded by removal of the whole complex."
+   },
+   "include_in_synthesis": "yes",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R246",
+   "data_depth": "abstract",
+   "duplicate_of": "",
+   "about_paraphysis": "passing_mention",
+   "study_type": "comparative_anatomy",
+   "taxa": [
+    {
+     "name": "dogfish (Mustelus)",
+     "group": "chondrichthyan"
+    },
+    {
+     "name": "osteoglossomorphous teleosts (Osteoglossum and Gnathonemus)",
+     "group": "actinopterygian"
+    },
+    {
+     "name": "lungfish",
+     "group": "dipnoan"
+    },
+    {
+     "name": "31 species of vertebrates from cyclostomes to mammals",
+     "group": "multiple"
+    }
+   ],
+   "stage": "not stated in abstract",
+   "methods": "Comparative survey of the occurrence of about 17 circumventricular organs in 31 vertebrate species; techniques not stated in the abstract.",
+   "findings": [
+    {
+     "id": "R246.1",
+     "dim": "phylogeny",
+     "statement": "A paraphysis is reported in the dogfish Mustelus and in the osteoglossomorph teleosts Osteoglossum and Gnathonemus.",
+     "support": "The paraphysis is found in the dogfish (Mustelus) and the osteoglossomorphous teleosts (Osteoglossum and Gnathonemus).",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    },
+    {
+     "id": "R246.2",
+     "dim": "terminology",
+     "statement": "The so-called paraphysis of the lungfish is judged not to be a paraphysis but a dorsal sac.",
+     "support": "The so-called paraphysis of the lungfish is not a paraphysis, but a dorsal sac.",
+     "locator": "abstract",
+     "strength": "authors_interpretation",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Distinguishes a true 'paraphysis' (dogfish, osteoglossomorphs) from the lungfish structure traditionally called paraphysis, which the author calls a 'dorsal sac'; no formal definition given in the abstract.",
+   "mentions": [],
+   "caveats": "Abstract only: the paraphysis is covered in two sentences among about 17 organs; the full paper may say more (criteria, other species, histology) that could not be read. The abstract does not say whether the paraphysis was sought and absent in the other species. Lungfish genus for the dorsal sac statement not specified (Lepidosiren appears elsewhere in the abstract).",
+   "appraisal": {
+    "specimens": "partial",
+    "methods": "not_assessable",
+    "claims_support": "mixed",
+    "note": "Abstract gives 31 species but no n or techniques; occurrence statements direct, the dorsal sac versus paraphysis ruling is an interpretive judgment."
+   },
+   "include_in_synthesis": "yes",
+   "exclusion_reason": ""
+  }
+ ]
+}

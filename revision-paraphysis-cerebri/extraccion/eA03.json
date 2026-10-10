@@ -1,0 +1,355 @@
+{
+ "batch": "eA03",
+ "records": [
+  {
+   "rid": "R052",
+   "data_depth": "secondary_snippet",
+   "duplicate_of": "",
+   "about_paraphysis": "passing_mention",
+   "study_type": "historical_monograph",
+   "taxa": [
+    {
+     "name": "amphibien",
+     "group": "multiple"
+    }
+   ],
+   "stage": "not stated (only the title is available)",
+   "methods": "Not available. Only a bibliographic reference string (from a reference list, via a web-search summary); the monograph itself was not seen.",
+   "findings": [
+    {
+     "id": "R052.1",
+     "dim": "ontogeny",
+     "statement": "The monograph's title announces a treatment of the development, determination and significance of the epiphysis and the paraphysis in amphibians; no content is available.",
+     "support": "Over de ontwikkeling, de determinatie en de betekenis van de epiphyse en de paraphyse van de amphibien",
+     "locator": "excerpt",
+     "strength": "secondary_report",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Dutch 'paraphyse' (as printed in the title, paired with 'epiphyse'); no definition or location of the structure is given in the text read.",
+   "mentions": [],
+   "caveats": "AI-summary web-search text, unverified: the item is only a reference string, so the monograph's content was not read and 'passing_mention' reflects only that. The single 'finding' is the scope announced by the title, not a result. Distinct from the shorter 1949 Ned Tijdschr Geneeskd paper (PMID 18147572, corpus R053), so not marked duplicate.",
+   "appraisal": {
+    "specimens": "not_assessable",
+    "methods": "not_assessable",
+    "claims_support": "not_assessable",
+    "note": "Only a reference string was seen; no specimens, methods or claims are available to appraise."
+   },
+   "include_in_synthesis": "context_only",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R065",
+   "data_depth": "full_text",
+   "duplicate_of": "",
+   "about_paraphysis": "substantive",
+   "study_type": "case_report",
+   "taxa": [
+    {
+     "name": "man (human case; paraphysis discussed for human embryos)",
+     "group": "human"
+    },
+    {
+     "name": "frogs, some fishes, sturgeon",
+     "group": "multiple"
+    }
+   ],
+   "stage": "adult patient (this man was 29; autopsy case); paraphysis discussed for human embryos of 19-32 mm in length",
+   "methods": "Clinico-pathological conference transcript (Bristol, 2 March 1954) on one autopsied third-ventricle colloid cyst; gross post-mortem and brief histology (cyst lining) described; the paraphysis remarks are general background, not observed.",
+   "findings": [
+    {
+     "id": "R065.1",
+     "dim": "clinical",
+     "statement": "Third-ventricle cysts have been variously ascribed to the choroid plexus, the ependyma or the paraphysis.",
+     "support": "These cysts have been variously described as arising from the choroid plexus, ependyma or the paraphysis.",
+     "locator": "passage (post-mortem findings)",
+     "strength": "secondary_report",
+     "quote_verified": true
+    },
+    {
+     "id": "R065.2",
+     "dim": "clinical",
+     "statement": "Because these cysts occur only in the third ventricle, the pathologist considers a choroid-plexus or ependymal derivation less likely (the linking verb is illegible in the OCR).",
+     "support": "They only occur in the 3rd ventricle and this fact ... their derivation from choroid plexus and ependyma less likely.",
+     "locator": "passage (post-mortem findings)",
+     "strength": "authors_interpretation",
+     "quote_verified": true
+    },
+    {
+     "id": "R065.3",
+     "dim": "phylogeny",
+     "statement": "The paraphysis is described as a structure found in certain lower vertebrates: frogs, some fishes and, the speaker believes (text garbled), prominently in the sturgeon.",
+     "support": "structure found in certain lower vertebrates?frogs, some fishes and prominen /y believe, in the sturgeon",
+     "locator": "passage (post-mortem findings)",
+     "strength": "secondary_report",
+     "quote_verified": true
+    },
+    {
+     "id": "R065.4",
+     "dim": "anatomy",
+     "statement": "The paraphysis is described as an out-pouching from the front of the third ventricle, formed by a derivative of ependyma (one word between the two phrases is illegible).",
+     "support": "It is an out-pouching from the front of the 3rd ventricle ... by a derivative of ependyma.",
+     "locator": "passage (post-mortem findings)",
+     "strength": "secondary_report",
+     "quote_verified": true
+    },
+    {
+     "id": "R065.5",
+     "dim": "ontogeny",
+     "statement": "In man the paraphysis is described as a transient structure present while the embryo is 19-32 mm in length.",
+     "support": "In man it is a transient structure which is present ... while the embryo is from 19-32 mm. in length.",
+     "locator": "passage (post-mortem findings)",
+     "strength": "secondary_report",
+     "quote_verified": true
+    },
+    {
+     "id": "R065.6",
+     "dim": "histology",
+     "statement": "The colloid cyst's inner lining is a single layer of cuboidal epithelium (garbled word 'in P*' before 'ciliated'), the epithelial feature later used to favour a paraphysial origin.",
+     "support": "The inner lining has a single layer of cuboidal epithelium, in P* ciliated.",
+     "locator": "passage (post-mortem findings)",
+     "strength": "direct_observation",
+     "quote_verified": true
+    },
+    {
+     "id": "R065.7",
+     "dim": "clinical",
+     "statement": "Histology of this cyst did not settle the question, but ciliated epithelium is recognizable and the pathologist gives the paraphysis as the likely origin of the cyst.",
+     "support": "Histology of this particular cyst^t not definitely decide the matter but ciliated epithelium is recognizable and the likely origin is from the paraphysis.",
+     "locator": "passage (post-mortem findings)",
+     "strength": "authors_interpretation",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "'Paraphysis' defined as an out-pouching from the front of the third ventricle formed by a derivative of ependyma; no telencephalic or diencephalic assignment stated; the cyst is treated as a candidate paraphysial derivative.",
+   "mentions": [],
+   "caveats": "Scanned-OCR text with many garbled characters and illegible words (e.g. the verb linking third-ventricle restriction to 'less likely'; 'prominen /y believe'). The speaker is Dr. P. C. Farrant in the transcript (the PubMed record names no authors). Paraphysis statements are unreferenced background remarks by the pathologist, not original observations; the 19-32 mm human stage and the frog/fish/sturgeon distribution have no source cited. The cyst-lining finding concerns the cyst, not the paraphysis.",
+   "appraisal": {
+    "specimens": "partial",
+    "methods": "partial",
+    "claims_support": "inference",
+    "note": "One autopsy case with brief histology; the paraphysis claims are unreferenced general statements and the cyst-origin conclusion is explicitly inferential ('likely')."
+   },
+   "include_in_synthesis": "yes",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R087",
+   "data_depth": "secondary_snippet",
+   "duplicate_of": "",
+   "about_paraphysis": "none",
+   "study_type": "other",
+   "taxa": [
+    {
+     "name": "Protopterus annectens (Owen)",
+     "group": "dipnoan"
+    }
+   ],
+   "stage": "not stated in the text read",
+   "methods": "Not available from the snippet. Finder notes (unverified, from other web-search summaries) mention five specimens, Bouin or formol-alcohol fixation, celloidin and paraffin sections.",
+   "findings": [],
+   "terminology": "The snippet records Burckhardt's term 'coronarium' for a prominent inner structure of the dorsal brain region; the text read does not name the paraphysis nor equate 'coronarium' with it.",
+   "mentions": [
+    {
+     "work": "Burckhardt (1890, 1892)",
+     "claim": "Short account of the brain's dorsal region noting a pineal organ and a prominent inner structure that Burckhardt called the 'coronarium'.",
+     "quote": "Burckhardt's 1890 and 1892 publications offered a short account of the brain's dorsal region. They noted a pineal organ and a prominent inner structure that Burckhardt called the \"coronarium.\"",
+     "strength": "secondary_report"
+    }
+   ],
+   "caveats": "AI-summary web-search text, unverified. The stored excerpt never mentions the paraphysis, so no finding could be recorded and 'none' reflects only the text read. Finder notes claim the full Holmgren paper judges a structure in front of the velum transversum to be a true paraphysis cerebri belonging to the telencephalon; this is NOT verified here and must be checked in the BHL/BioStor scan before the record is used or dropped. Do not exclude on the basis of this extraction alone.",
+   "appraisal": {
+    "specimens": "not_assessable",
+    "methods": "not_assessable",
+    "claims_support": "not_assessable",
+    "note": "Only a one-sentence secondhand snippet about Burckhardt was seen; the Holmgren paper itself cannot be appraised."
+   },
+   "include_in_synthesis": "context_only",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R110",
+   "data_depth": "excerpt_only",
+   "duplicate_of": "",
+   "about_paraphysis": "principal",
+   "study_type": "comparative_anatomy",
+   "taxa": [
+    {
+     "name": "lower vertebrates (title); PubMed MeSH lists Amphibians, Reptiles, Sharks, Caudata",
+     "group": "multiple"
+    }
+   ],
+   "stage": "not stated in the text read",
+   "methods": "Not stated in the excerpt (PubMed abstract unavailable). The excerpt refers to common neuroepithelial origin and similar histochemical properties; PubMed MeSH lists Histocytochemistry and Anatomy, Comparative.",
+   "findings": [
+    {
+     "id": "R110.1",
+     "dim": "histology",
+     "statement": "From a common neuroepithelial origin and similar histochemical properties with choroid plexus, the authors conclude that the paraphysis is a modified choroid plexus.",
+     "support": "Based on a common neuroepithelial origin and similar histochemical properties, we conclude that the paraphysis is a modified choroid plexus.",
+     "locator": "excerpt",
+     "strength": "authors_interpretation",
+     "quote_verified": true
+    },
+    {
+     "id": "R110.2",
+     "dim": "anatomy",
+     "statement": "Neuroepithelial infoldings at the rostral end of the diencephalic roof are intraventricular choroid plexuses, whereas the outpouchings in this region, the paraphysis, are extraventricular choroid plexuses of the diencephalon.",
+     "support": "All neuroepithelial infoldings at the rostral end of the diencephalic roof including the velum transversum are intraventricular choroid plexuses; the neuroepithelial outpouchings in this region are the extraventricular choroid plexuses (paraphysis) of the diencephalon.",
+     "locator": "excerpt",
+     "strength": "authors_interpretation",
+     "quote_verified": true
+    },
+    {
+     "id": "R110.3",
+     "dim": "anatomy",
+     "statement": "The velum transversum is regarded as an arbitrary diencephalic-telencephalic boundary that is itself formed of choroid plexus.",
+     "support": "The velum transversum is an arbitrary boundary between diencephalon and telencephalon, and is itself formed of choroid plexus.",
+     "locator": "excerpt",
+     "strength": "authors_interpretation",
+     "quote_verified": true
+    },
+    {
+     "id": "R110.4",
+     "dim": "anatomy",
+     "statement": "The medial telencephalic ventricle is held to be the rostral portion of the third ventricle.",
+     "support": "The medial telencephalic ventricle is the rostral portion of the third ventricle.",
+     "locator": "excerpt",
+     "strength": "authors_interpretation",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Paraphysis = extraventricular choroid plexus (a neuroepithelial outpouching) of the diencephalon, at the rostral end of the diencephalic roof; the velum transversum is called an arbitrary diencephalon/telencephalon boundary, i.e. the paraphysis is assigned to the diencephalon, not the telencephalon.",
+   "mentions": [],
+   "caveats": "Only the stored Wiley passage (conclusion-type sentences) was read; the PubMed abstract is '[Abstract not available]'. Taxa and methods rest on the title and PubMed MeSH indexing, not on the text; species, stages and specimen numbers are unknown. The excerpt contains the authors' conclusions only, not the supporting observations.",
+   "appraisal": {
+    "specimens": "not_assessable",
+    "methods": "not_assessable",
+    "claims_support": "not_assessable",
+    "note": "Excerpt-only: conclusions are visible but specimens, species, stages and methods are not."
+   },
+   "include_in_synthesis": "yes",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R111",
+   "data_depth": "excerpt_only",
+   "duplicate_of": "",
+   "about_paraphysis": "substantive",
+   "study_type": "histochemistry",
+   "taxa": [
+    {
+     "name": "man (title: 'in man')",
+     "group": "human"
+    }
+   ],
+   "stage": "not stated in the text read",
+   "methods": "Not stated in the excerpt (PubMed abstract unavailable). PubMed MeSH lists Histocytochemistry, Glycogen and Photomicrography; study type is inferred from this indexing.",
+   "findings": [
+    {
+     "id": "R111.1",
+     "dim": "histology",
+     "statement": "The paraphysis is reemphasized as an extraventricular choroid plexus on the basis of a common neuroepithelial origin.",
+     "support": "The paraphysis is reemphasized as an extraventricular choroid plexus on the basis of a common neuroepithelial origin.",
+     "locator": "excerpt",
+     "strength": "authors_interpretation",
+     "quote_verified": true
+    },
+    {
+     "id": "R111.2",
+     "dim": "anatomy",
+     "statement": "In man the paraphysis is described as rudimentary and inconstant.",
+     "support": "It is rudimentary and inconstant in man.",
+     "locator": "excerpt",
+     "strength": "authors_interpretation",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Paraphysis = extraventricular choroid plexus (same classification as the authors' companion lower-vertebrate paper); no telencephalic/diencephalic assignment is stated in the text read.",
+   "mentions": [],
+   "caveats": "Only a two-sentence stored excerpt was read (PubMed abstract unavailable). The paper is mainly on human choroid plexus histogenesis, so the share of the paper devoted to the paraphysis is unknown; no specimens, ages or observations behind 'rudimentary and inconstant' are visible. Study type is inferred from MeSH indexing.",
+   "appraisal": {
+    "specimens": "not_assessable",
+    "methods": "not_assessable",
+    "claims_support": "not_assessable",
+    "note": "Excerpt-only: two conclusion sentences; specimens, stages, methods and observations are not visible."
+   },
+   "include_in_synthesis": "yes",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R132",
+   "data_depth": "secondary_snippet",
+   "duplicate_of": "",
+   "about_paraphysis": "passing_mention",
+   "study_type": "developmental_series",
+   "taxa": [
+    {
+     "name": "Liolaemus gravenhorsti (Cray)",
+     "group": "squamate"
+    }
+   ],
+   "stage": "not stated in the text read",
+   "methods": "Not available from the snippet. Study type is inferred only from the title ('Morfogenesis del complejo epifisial').",
+   "findings": [
+    {
+     "id": "R132.1",
+     "dim": "terminology",
+     "statement": "The snippet shows the abbreviation PAR attached to 'paraepifisis' in one fragment and to 'parafisis' in another; the text read does not state that both denote the same structure.",
+     "support": "órgano parietal, epífisis (EP) y paraepífisis (PAR) | la glándula pineal (GP) y la paráfisis (PAR)",
+     "locator": "excerpt",
+     "strength": "secondary_report",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Both 'paraepífisis (PAR)' and 'paráfisis (PAR)' appear in the fragments, the latter beside 'glándula pineal (GP)'; the paper's own definition and position of PAR are not in the text read.",
+   "mentions": [],
+   "caveats": "AI-summary web-search fragments from an OCR scan, unverified. The two fragments come from different places (text vs. probably a figure legend per finder notes) and a second summary could not confirm 'paráfisis'; whether the paper uses one or both terms for a single structure must be checked in the Boletin MNHN scan. Title spelling 'Cray' is OCR for Gray.",
+   "appraisal": {
+    "specimens": "not_assessable",
+    "methods": "not_assessable",
+    "claims_support": "not_assessable",
+    "note": "Two label fragments only; specimens, stages and methods are not visible."
+   },
+   "include_in_synthesis": "context_only",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R139",
+   "data_depth": "secondary_snippet",
+   "duplicate_of": "",
+   "about_paraphysis": "passing_mention",
+   "study_type": "case_report",
+   "taxa": [
+    {
+     "name": "man (case report)",
+     "group": "human"
+    }
+   ],
+   "stage": "not stated in the excerpt (finder notes, from the snippet summary, mention a 21-year-old man)",
+   "methods": "Not available. Only one abstract sentence was seen; case-report type and partial removal come from finder notes, not from the text read.",
+   "findings": [
+    {
+     "id": "R139.1",
+     "dim": "clinical",
+     "statement": "A neuroepithelial (colloid) cyst is described as a benign congenital tumour arising from the anlage of the paraphysis, located in the anterior superior part of the third ventricle.",
+     "support": "Neuroepithelial (Colloid) cyst is a benign con-genital tumor which arises from the anlage of the paraphysis, and located in the anterior superior part of the third ventricle.",
+     "locator": "excerpt",
+     "strength": "authors_interpretation",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "'Anlage of the paraphysis' used as the origin of the colloid cyst; no definition or position of the paraphysis itself is given in the text read.",
+   "mentions": [],
+   "caveats": "AI-summary web-search text, unverified; title and authors absent from the corpus record. An identity-only web search suggests the DOI is a 1973 Igaku-Shoin article 'Colloid Cysts of the Third Ventricle' (Kageyama et al., pp. 1197-1202), whose search summary did not confirm the paraphysis sentence; treat that identification as unverified. The paraphysis sentence reads as general background, not as the case's own finding.",
+   "appraisal": {
+    "specimens": "not_assessable",
+    "methods": "not_assessable",
+    "claims_support": "not_assessable",
+    "note": "Single secondhand abstract sentence; specimen, methods and observations not visible."
+   },
+   "include_in_synthesis": "context_only",
+   "exclusion_reason": ""
+  }
+ ]
+}

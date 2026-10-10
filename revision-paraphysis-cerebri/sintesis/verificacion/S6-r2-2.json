@@ -1,0 +1,122 @@
+[
+ {
+  "cid": "S6-021",
+  "verdict": "ok_uncited",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S6-022",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S6-023",
+  "verdict": "needs_hedge",
+  "issue": "\"Ueno (1984) la compara con el epitelio del plexo adyacente\": the abstract only says that, \"in comparison to the epithelium of the adjacent choroid plexus\", the paraphyseal cell \"is thought to be\" a principal Ca regulator; it reports Ca++-ATPase only in paraphyseal cells and gives no comparative data with the plexus (R233 caveat). Also \"un extracto de Joven (2012) la contrasta con el plexo\" is a secondary report in the excerpt (clause cited there to Jansen and Diederen 1987, R485.m2), not Joven's own contrast.",
+  "fix": "Ueno (1984) piensa, a partir de la localizacion de la Ca++-ATPasa y en comparacion con el epitelio del plexo adyacente, que la celula parafisaria seria un regulador principal del calcio del LCR en ranas, sin datos comparativos con el plexo en el resumen [@R233.4]; un extracto de Joven (2012) recoge, como informe secundario (la clausula parece provenir de Jansen y Diederen 1987), que a diferencia del plexo carece de mecanismos de captacion del LCR [@R485.3]."
+ },
+ {
+  "cid": "S6-024",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S6-025",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S6-026",
+  "verdict": "ok_uncited",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S6-027",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S6-028",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S6-029",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S6-030",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S6-031",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S6-032",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S6-033",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S6-034",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S6-035",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S6-036",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S6-037",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S6-038",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S6-039",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S6-040",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ }
+]

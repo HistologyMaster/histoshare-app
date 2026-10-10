@@ -1,0 +1,92 @@
+[
+ {
+  "cid": "S5-061",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S5-062",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S5-063",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S5-064",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S5-065",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S5-066",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S5-067",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S5-068",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S5-069",
+  "verdict": "overstated",
+  "issue": "\"secreción glucoproteica en *Bufo bufo* [@R320.2]\": the source (Farnesi 1994) studies Bufo bufo larvae only (title and abstract), and the claim drops the stage, generalising from larvae to the species.",
+  "fix": "solo consta la afirmación de los autores de secreción glucoproteica en larvas de *Bufo bufo* [@R320.2] y, según el resumen de un estudio ultraestructural, la ausencia de partículas de glucógeno en el citoplasma apical de *Natrix maura* [@R217.3]."
+ },
+ {
+  "cid": "S5-070",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S5-071",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S5-072",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S5-073",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S5-074",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S5-075",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ }
+]

@@ -1,0 +1,640 @@
+{
+ "batch": "eB05",
+ "records": [
+  {
+   "rid": "R313",
+   "data_depth": "abstract",
+   "duplicate_of": "",
+   "about_paraphysis": "none",
+   "study_type": "histochemistry",
+   "taxa": [
+    {
+     "name": "Humans (PubMed MeSH term; abstract does not name species)",
+     "group": "human"
+    }
+   ],
+   "stage": "not stated in abstract (21 colloid cysts, 8 Rathke's cleft cysts, 25 pituitaries with pars intermedia follicular cysts, 4 enterogenous cysts, 15 normal choroid plexus, 12 choroid plexus papillomas)",
+   "methods": "Immunohistochemistry for a panel of antigens (cytokeratins, EMA, vimentin, GFAP, S-100, etc.), Clara-cell antigen and surfactant antibodies on 5 colloid cysts, Ulex and Ricinus lectins; pituitary hormones in selected cysts.",
+   "findings": [
+    {
+     "id": "R313.1",
+     "dim": "histology",
+     "statement": "Colloid-cyst epithelium has an immunophenotype similar to other cysts with endodermal or ectodermal differentiation and to respiratory tract mucosa.",
+     "support": "the immunophenotype of epithelium lining colloid cysts is similar to that of other cysts showing endodermal or ectodermal differentiation and to respiratory tract mucosa",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    },
+    {
+     "id": "R313.2",
+     "dim": "histology",
+     "statement": "Colloid-cyst epithelium differs immunohistochemically from normal and neoplastic choroid plexus (a secretory comparator of the third-ventricle roof).",
+     "support": "Epithelium of colloid cysts is immunohistochemically different from that of normal or neoplastic choroid plexus.",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    },
+    {
+     "id": "R313.3",
+     "dim": "ontogeny",
+     "statement": "Authors conclude an endodermal rather than neuroepithelial nature for colloid cysts.",
+     "support": "These findings indicate an endodermal rather than neuroepithelial nature for colloid cysts.",
+     "locator": "abstract",
+     "strength": "authors_interpretation",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "'Colloid cyst' of the third ventricle compared with 'neuraxis cysts' (Rathke's cleft, pars intermedia follicular, enterogenous); the paraphysis is not mentioned.",
+   "mentions": [],
+   "caveats": "Abstract only; the paraphysis is not mentioned in the abstract. Species taken from MeSH terms. Specimen ages, sites and cyst provenance not stated in the abstract. Context for colloid-cyst histogenesis only.",
+   "appraisal": {
+    "specimens": "partial",
+    "methods": "partial",
+    "claims_support": "inference",
+    "note": "Abstract-only. Specimen numbers per cyst type given; protocols not. Endodermal origin is inferred from immunophenotypic similarity, not from developmental data."
+   },
+   "include_in_synthesis": "context_only",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R318",
+   "data_depth": "abstract",
+   "duplicate_of": "",
+   "about_paraphysis": "none",
+   "study_type": "histochemistry",
+   "taxa": [
+    {
+     "name": "Humans (PubMed MeSH term; abstract does not name species)",
+     "group": "human"
+    }
+   ],
+   "stage": "not stated in abstract (MeSH lists adult and preschool child)",
+   "methods": "Immunohistochemistry for cytokeratin expression in a variety of CNS epithelial cysts (colloid, Rathke's cleft, spinal canal, enterogenous, neuroectodermal); numbers not given in abstract.",
+   "findings": [
+    {
+     "id": "R318.1",
+     "dim": "histology",
+     "statement": "Colloid cysts show a cytokeratin pattern similar to upper respiratory tract epithelium, described as endodermal in origin.",
+     "support": "Colloid cysts showed a pattern of cytokeratins similar to that of upper respiratory tract which is endodermal in origin.",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    },
+    {
+     "id": "R318.2",
+     "dim": "histology",
+     "statement": "Rathke's cleft cysts show a cytokeratin pattern similar to adenohypophysis and salivary gland, described as ectodermal in origin (contrast with colloid cysts).",
+     "support": "Rathke's cleft cysts showed a pattern of cytokeratins similar to that of the adenohypophysis and salivary gland which are ectodermal in origin.",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    },
+    {
+     "id": "R318.3",
+     "dim": "histology",
+     "statement": "Enterogenous and neuroectodermal cysts expressed only simple-type cytokeratins, unlike colloid and Rathke's cleft cysts.",
+     "support": "enterogenous cysts and neuroectodermal cysts showed only simple type cytokeratins",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Colloid cyst of the third ventricle; origin framed as endodermal versus ectodermal; the paraphysis is not mentioned.",
+   "mentions": [],
+   "caveats": "Abstract only (English abstract of a Japanese-journal paper); the paraphysis is not mentioned. Species from MeSH. Specimen numbers not in abstract. Context for colloid-cyst histogenesis only.",
+   "appraisal": {
+    "specimens": "not_assessable",
+    "methods": "partial",
+    "claims_support": "inference",
+    "note": "Abstract-only; no n reported there. Origin is inferred from cytokeratin similarity to adult tissues."
+   },
+   "include_in_synthesis": "context_only",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R331",
+   "data_depth": "abstract",
+   "duplicate_of": "",
+   "about_paraphysis": "none",
+   "study_type": "case_report",
+   "taxa": [
+    {
+     "name": "Humans (PubMed MeSH term; abstract does not name species)",
+     "group": "human"
+    }
+   ],
+   "stage": "not stated in abstract (two cases of entirely suprasellar cysts; MeSH lists adult)",
+   "methods": "Report of two suprasellar cysts, total surgical removal, pathological and immunohistochemical profiling; imaging per MeSH (CT, MRI).",
+   "findings": [
+    {
+     "id": "R331.1",
+     "dim": "histology",
+     "statement": "The authors state that suprasellar neurenteric, Rathke's cleft and colloid cysts are admitted to share similar histological and immunohistological features.",
+     "support": "It is now admitted that these three kinds of cysts share similar histological and immunohistological features.",
+     "locator": "abstract",
+     "strength": "secondary_report",
+     "quote_verified": true
+    },
+    {
+     "id": "R331.2",
+     "dim": "ontogeny",
+     "statement": "Authors hypothesise a common embryological origin of the three cyst types from endodermal remnants.",
+     "support": "We propose an hypothesis of common embryological origin from endodermal remnants.",
+     "locator": "abstract",
+     "strength": "hypothesis",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Colloid cyst grouped with suprasellar neurenteric and Rathke's cleft cysts as possibly one entity of endodermal-remnant origin; the paraphysis is not mentioned.",
+   "mentions": [],
+   "caveats": "Abstract only. The two reported cases were suprasellar; colloid cyst is addressed only through literature-based comparison. The paraphysis is not mentioned. Context for colloid-cyst histogenesis only.",
+   "appraisal": {
+    "specimens": "partial",
+    "methods": "partial",
+    "claims_support": "inference",
+    "note": "Abstract-only; two cases without detail. Common endodermal origin is a stated hypothesis, not demonstrated."
+   },
+   "include_in_synthesis": "context_only",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R332",
+   "data_depth": "abstract",
+   "duplicate_of": "",
+   "about_paraphysis": "passing_mention",
+   "study_type": "other",
+   "taxa": [
+    {
+     "name": "Pseudemys scripta elegans",
+     "group": "chelonian"
+    }
+   ],
+   "stage": "not stated in abstract (10 specimens of the freshwater turtle)",
+   "methods": "Scanning electron microscopy of microvascular corrosion casts in 10 specimens; light microscopy of one transverse and one longitudinal section series to assign cast territories to structures.",
+   "findings": [
+    {
+     "id": "R332.1",
+     "dim": "anatomy",
+     "statement": "The paraphysis is listed with the dorsal sac and third-ventricle choroid plexus as a structure whose vascular relations to the turtle pineal were examined; the abstract gives no paraphysis-specific result.",
+     "support": "its vascular relations with associated structures (dorsal sac, paraphysis, choroid plexus of the third ventricle) were studied by scanning electron microscopy of microvascular corrosion casts in 10 specimens of the freshwater turtle, Pseudemys scripta elegans",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    },
+    {
+     "id": "R332.2",
+     "dim": "anatomy",
+     "statement": "Venules draining the ventral pineal surface join those of the third-ventricle choroid plexus and drain to the sagittal sinus (vascular comparator for the dorsal-diencephalic/telencephalic roof).",
+     "support": "Venules draining the ventral surface of the pineal gland body join those coming from the choroid plexus of the third ventricle and drain into the sagittal sinus.",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "'Paraphysis' and 'dorsal sac' are named as separate structures associated with the pineal in the turtle; no definition or location given in the abstract.",
+   "mentions": [],
+   "caveats": "Only the abstract was read (Wiley full text unavailable); the abstract does not report any vascular finding specific to the paraphysis, which may be treated in the full text. Study type set to other (vascular corrosion casting SEM).",
+   "appraisal": {
+    "specimens": "partial",
+    "methods": "partial",
+    "claims_support": "not_assessable",
+    "note": "Abstract-only; 10 specimens of named species, age/sex not stated. No paraphysis-specific claim is available to appraise."
+   },
+   "include_in_synthesis": "context_only",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R344",
+   "data_depth": "abstract",
+   "duplicate_of": "",
+   "about_paraphysis": "none",
+   "study_type": "case_series",
+   "taxa": [
+    {
+     "name": "Humans (children)",
+     "group": "human"
+    }
+   ],
+   "stage": "children (six cases of colloid cyst of the third ventricle)",
+   "methods": "Histology and scanning electron microscopy of six paediatric colloid cysts; aspiration of cyst contents in three patients.",
+   "findings": [
+    {
+     "id": "R344.1",
+     "dim": "histology",
+     "statement": "Paediatric colloid cysts were lined by cuboidal, pseudostratified or columnar ciliated and mucous-secreting epithelium.",
+     "support": "Histologically they were lined by cuboidal, pseudostratified or columnar ciliated and mucous-secreting epithelial cells.",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    },
+    {
+     "id": "R344.2",
+     "dim": "histology",
+     "statement": "The outermost layer was a glial-ependymal envelope, which the authors consider in keeping with a postulated supraventricular origin of colloid cysts.",
+     "support": "The outermost layer consisted of a glial-ependymal envelope, in keeping with the postulated supraventricular origin of colloid cysts.",
+     "locator": "abstract",
+     "strength": "authors_interpretation",
+     "quote_verified": true
+    },
+    {
+     "id": "R344.3",
+     "dim": "histology",
+     "statement": "Scanning electron microscopy showed 10-40% ciliated cells and no ballooning of non-ciliated cells.",
+     "support": "Scanning electron microscopy showed 10-40% ciliated cells, and no ballooning of non-ciliated cells.",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "'Supraventricular origin' is postulated for colloid cysts (no structure named in the abstract); the paraphysis is not mentioned.",
+   "mentions": [],
+   "caveats": "Abstract only. 'Supraventricular origin' is cited as postulated without a source or structure named in the abstract; the paraphysis is not mentioned. Context for colloid-cyst histogenesis only.",
+   "appraisal": {
+    "specimens": "partial",
+    "methods": "partial",
+    "claims_support": "mixed",
+    "note": "Abstract-only; six paediatric cases, histology and SEM reported. Origin is a postulate the findings are said to fit, not tested."
+   },
+   "include_in_synthesis": "context_only",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R358",
+   "data_depth": "abstract",
+   "duplicate_of": "",
+   "about_paraphysis": "none",
+   "study_type": "histochemistry",
+   "taxa": [
+    {
+     "name": "Humans (PubMed MeSH term; abstract does not name species)",
+     "group": "human"
+    }
+   ],
+   "stage": "not stated in abstract (colloid cyst contents; one cyst-wall biopsy)",
+   "methods": "ELISA of cyst contents with monoclonal antibodies to carbohydrate epitopes and an antimucin antiserum; immunohistochemistry of one cyst-wall sample; carbohydrate composition of one sample after gel filtration.",
+   "findings": [
+    {
+     "id": "R358.1",
+     "dim": "histology",
+     "statement": "Colloid-cyst contents reacted strongly for the sulfo-Lewis epitope and with an antimucin antiserum.",
+     "support": "The cyst contents reacted strongly with the monoclonal antibody for the sulfo-Lewis epitope, and with the antimucin polyclonal antiserum.",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    },
+    {
+     "id": "R358.2",
+     "dim": "ontogeny",
+     "statement": "Authors consider the carbohydrate epitopes, also reported for mucins of salivary gland, cervix, gall bladder and colon, not inconsistent with an endodermal origin of colloid cysts.",
+     "support": "have also been reported for the mucins of salivary glands, uterine cervix, gall bladder and colon, and therefore, are not inconsistent with the assumption of an endodermal origin of colloid cysts",
+     "locator": "abstract",
+     "strength": "authors_interpretation",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Colloid cyst of the third ventricle; endodermal origin assumed; the paraphysis is not mentioned.",
+   "mentions": [],
+   "caveats": "Abstract only; the paraphysis is not mentioned. Number of cysts not stated in the abstract (cyst-wall findings rest on one biopsy sample). Context for colloid-cyst histogenesis only.",
+   "appraisal": {
+    "specimens": "partial",
+    "methods": "partial",
+    "claims_support": "inference",
+    "note": "Abstract-only; very small sample (one wall biopsy, one compositional sample). Origin is only 'not inconsistent', an inference from mucin epitopes."
+   },
+   "include_in_synthesis": "context_only",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R391",
+   "data_depth": "abstract",
+   "duplicate_of": "",
+   "about_paraphysis": "none",
+   "study_type": "experimental",
+   "taxa": [
+    {
+     "name": "Mice (PubMed MeSH terms; abstract text does not name species)",
+     "group": "eutherian"
+    }
+   ],
+   "stage": "embryonic stages not specified in abstract",
+   "methods": "CRE/loxP conditional disruption of Bmpr1a in the telencephalon; analysis of BMP signalling and of dorsal telencephalic fates, including choroid plexus specification, in mutants.",
+   "findings": [
+    {
+     "id": "R391.1",
+     "dim": "ontogeny",
+     "statement": "In Bmpr1a telencephalic mutants BMP signalling was compromised throughout the dorsal telencephalon but only the most dorsomedial derivative, the choroid plexus, failed to be specified or differentiate.",
+     "support": "In mutants, BMP signaling was compromised throughout the dorsal telencephalon, but only the most dorsalmedial derivative, the choroid plexus, failed to be specified or differentiate.",
+     "locator": "abstract",
+     "strength": "experimental_result",
+     "quote_verified": true
+    },
+    {
+     "id": "R391.2",
+     "dim": "ontogeny",
+     "statement": "Choroid plexus precursors stayed proliferative and did not adopt the fate of lateral telencephalic neighbours.",
+     "support": "Choroid plexus precursors remained proliferative and did not adopt the fate of their lateral telencephalic neighbors.",
+     "locator": "abstract",
+     "strength": "experimental_result",
+     "quote_verified": true
+    },
+    {
+     "id": "R391.3",
+     "dim": "ontogeny",
+     "statement": "Authors conclude BMP signalling is required locally for the most dorsal telencephalic derivative, the choroid plexus, and for patterning the dorsal midline.",
+     "support": "BMP signaling is required for the formation of the most dorsal telencephalic derivative, the choroid plexus, and that BMP signaling plays an essential role in locally patterning the dorsal midline",
+     "locator": "abstract",
+     "strength": "authors_interpretation",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "'Dorsal telencephalic midline'; choroid plexus called the most dorsomedial / most dorsal telencephalic derivative; the paraphysis is not mentioned.",
+   "mentions": [],
+   "caveats": "Abstract only; the paraphysis is not mentioned. Species taken from MeSH terms. Relevance limited to molecular patterning of the dorsal telencephalic midline (choroid plexus), not to the paraphysis itself.",
+   "appraisal": {
+    "specimens": "partial",
+    "methods": "partial",
+    "claims_support": "direct",
+    "note": "Abstract-only; no n or stages. Genetic approach named; conclusions on choroid plexus are experimental but say nothing about the paraphysis."
+   },
+   "include_in_synthesis": "context_only",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R405",
+   "data_depth": "abstract",
+   "duplicate_of": "",
+   "about_paraphysis": "none",
+   "study_type": "developmental_series",
+   "taxa": [
+    {
+     "name": "rat (Fisher inbred rats)",
+     "group": "eutherian"
+    }
+   ],
+   "stage": "embryonic days E12 to E16 of gestation",
+   "methods": "Serial frontal sections of rat embryonic heads at E12-E16, paraffin and plastic histological sections inspected for morphogenetic changes of telencephalon and diencephalon; number of embryos not stated in abstract.",
+   "findings": [
+    {
+     "id": "R405.1",
+     "dim": "anatomy",
+     "statement": "At E13 the central area between the paired telencephalic vesicles is termed the telencephalon impar.",
+     "support": "Central area between paired vesicles is a telencephalon impar.",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    },
+    {
+     "id": "R405.2",
+     "dim": "ontogeny",
+     "statement": "At E14 the telencephalic vesicles spread above the telencephalon impar and above the diencephalon, and the sulcus telodiencephalicus appears.",
+     "support": "telencephalic vesicles spread above telencephalon impar into rostral direction and above diencephalon in rostrodorsal direction ... Sulcus telodiencephalicus appears.",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    },
+    {
+     "id": "R405.3",
+     "dim": "ontogeny",
+     "statement": "At E15 the origins of the choroid plexus appear as fingerlike processes in the area of the telencephalon impar.",
+     "support": "E15: the main event is the appearance of the origins of plexus choroideus in the area of telencephalon impar as fingerlike processes.",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "'Telencephalon impar' = central area between the paired telencephalic vesicles; 'sulcus telodiencephalicus' marks the telencephalon-diencephalon boundary; epithalamus listed as a diencephalic enlargement. The paraphysis is not named.",
+   "mentions": [],
+   "caveats": "PMC record returned an empty full text, so only the abstract was read. The paraphysis is not mentioned; the work offers only staging and adjacent-structure terminology (telencephalon impar, choroid plexus origins) in the rat.",
+   "appraisal": {
+    "specimens": "partial",
+    "methods": "partial",
+    "claims_support": "direct",
+    "note": "Abstract-only. Strain and stages given, n not stated. Descriptive staging is direct observation; no paraphysis claim."
+   },
+   "include_in_synthesis": "context_only",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R415",
+   "data_depth": "abstract",
+   "duplicate_of": "",
+   "about_paraphysis": "none",
+   "study_type": "experimental",
+   "taxa": [
+    {
+     "name": "Mice (PubMed MeSH terms; abstract refers to normal and Gdf7 transgenic embryos)",
+     "group": "eutherian"
+    }
+   ],
+   "stage": "embryos; ablation at neural tube stages (other stages not specified in abstract)",
+   "methods": "Gdf7 (Bmp12) transgenic embryos used to fate-map or ablate dorsal midline cells; analysis of choroid plexus epithelium formation, apoptosis patterns and Bmp signalling.",
+   "findings": [
+    {
+     "id": "R415.1",
+     "dim": "ontogeny",
+     "statement": "Telencephalic choroid plexus epithelium has a small anterior Gdf7-lineage domain and a large posterior domain devoid of Gdf7 lineages.",
+     "support": "In the telencephalon, Gdf7 cell lineages were found in the small anterior domain of telencephalic CPe (tCPe), but its large posterior domain was devoid of these lineages.",
+     "locator": "abstract",
+     "strength": "experimental_result",
+     "quote_verified": true
+    },
+    {
+     "id": "R415.2",
+     "dim": "ontogeny",
+     "statement": "Anterior and posterior telencephalic CPe domains arise in a contiguous field separate from diencephalic CPe and show different apoptosis patterns.",
+     "support": "Anterior and posterior tCPe domains, which arise within a contiguous field separate from diencephalic CPe, also exhibited different patterns of apoptosis.",
+     "locator": "abstract",
+     "strength": "experimental_result",
+     "quote_verified": true
+    },
+    {
+     "id": "R415.3",
+     "dim": "ontogeny",
+     "statement": "Ablation of Gdf7-expressing dorsal midline cells prevented formation of the posterior tCPe domain despite its lacking Gdf7 lineages.",
+     "support": "Despite lacking Gdf7 cell lineages, the posterior tCPe domain failed to form after ablating Gdf7-expressing DM cells at neural tube stages.",
+     "locator": "abstract",
+     "strength": "experimental_result",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Dorsal midline (DM) as CNS patterning centre; telencephalic CPe (tCPe) anterior and posterior domains versus diencephalic CPe. The paraphysis is not mentioned.",
+   "mentions": [],
+   "caveats": "Abstract only; the paraphysis is not mentioned. Species taken from MeSH terms. Comparator for dorsal-midline patterning and choroid plexus domains, not for the paraphysis.",
+   "appraisal": {
+    "specimens": "partial",
+    "methods": "partial",
+    "claims_support": "direct",
+    "note": "Abstract-only; genetic fate-map and ablation described, no n or stages. Findings on choroid plexus domains are experimental; nothing on paraphysis."
+   },
+   "include_in_synthesis": "context_only",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R416",
+   "data_depth": "abstract",
+   "duplicate_of": "",
+   "about_paraphysis": "none",
+   "study_type": "molecular_expression",
+   "taxa": [
+    {
+     "name": "mouse",
+     "group": "eutherian"
+    }
+   ],
+   "stage": "embryonic day E9 to E12.5 and postnatal day 2",
+   "methods": "In situ hybridization for Zic4 mRNA during mouse embryogenesis (E9, E10.5, E12.5) and at postnatal day 2.",
+   "findings": [
+    {
+     "id": "R416.1",
+     "dim": "ontogeny",
+     "statement": "By E10.5 Zic4 is up-regulated in the forebrain dorsal midline with a strong expanded domain at the diencephalon-telencephalon boundary, the septum and the lamina terminalis.",
+     "support": "by E10.5, expression was up-regulated in the dorsal midline of the forebrain with a strong, expanded expression domain at the boundary between the diencephalon and telencephalon, the septum, and the lamina terminalis",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    },
+    {
+     "id": "R416.2",
+     "dim": "ontogeny",
+     "statement": "The third-ventricle choroid plexus expresses Zic4; the dorsal spinal neural tube expresses it except the roof plate.",
+     "support": "The choroid plexus of the third ventricle expresses Zic4, as does the dorsal part of the spinal neural tube, excluding the roof plate.",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "'Dorsal midline of the forebrain', 'boundary between the diencephalon and telencephalon', 'lamina terminalis'; the paraphysis is not mentioned.",
+   "mentions": [],
+   "caveats": "Abstract only; the paraphysis is not named. The finder note linking this territory to paraphysis formation is not stated in the source. Expression pattern only; no function or fate data.",
+   "appraisal": {
+    "specimens": "partial",
+    "methods": "partial",
+    "claims_support": "direct",
+    "note": "Abstract-only; in situ hybridization stages given, n not stated. Expression localisation is direct observation; no paraphysis claim."
+   },
+   "include_in_synthesis": "context_only",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R426",
+   "data_depth": "abstract",
+   "duplicate_of": "",
+   "about_paraphysis": "none",
+   "study_type": "experimental",
+   "taxa": [
+    {
+     "name": "mice",
+     "group": "eutherian"
+    },
+    {
+     "name": "human HPE patients",
+     "group": "human"
+    }
+   ],
+   "stage": "not stated in abstract (mouse embryos; human holoprosencephaly patients)",
+   "methods": "Cellular ablation of roof plate cells in mice; midline gene expression and Bmp activity analysis; dissociated cells and mutant explants with exogenous Bmp4; confirmation of predicted defects in human HPE patients.",
+   "findings": [
+    {
+     "id": "R426.1",
+     "dim": "ontogeny",
+     "statement": "Roof plate cell ablation in mice caused failed midline induction and holoprosencephaly in the dorsal telencephalon.",
+     "support": "Using cellular ablations in mice, we show that roof plate cell loss causes failed midline induction and HPE in the dorsal telencephalon.",
+     "locator": "abstract",
+     "strength": "experimental_result",
+     "quote_verified": true
+    },
+    {
+     "id": "R426.2",
+     "dim": "ontogeny",
+     "statement": "Exogenous Bmp4 mimics roof plate selectivity in midline gene regulation and rescues roof plate-dependent midline patterning in cells and explants.",
+     "support": "exogenous Bmp4 is sufficient to mimic roof plate selectivity in midline gene regulation and to rescue roof plate-dependent midline patterning",
+     "locator": "abstract",
+     "strength": "experimental_result",
+     "quote_verified": true
+    },
+    {
+     "id": "R426.3",
+     "dim": "ontogeny",
+     "statement": "Bmps are described as the major signals produced by the roof plate, whose ablation reduced the Bmp activity gradient and midline gene expression.",
+     "support": "a reduced activity gradient for bone morphogenetic proteins (Bmps), the major signals produced by the roof plate",
+     "locator": "abstract",
+     "strength": "experimental_result",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "'Roof plate' as a CNS signalling centre; 'dorsal telencephalic midline'; the paraphysis is not mentioned.",
+   "mentions": [],
+   "caveats": "PMC returned an empty full text; only the abstract was read. The paraphysis is not mentioned; the finder note calling it a roof-plate derivative in anamniotes is not stated in the source. Relevant only as molecular patterning of the telencephalic roof/midline.",
+   "appraisal": {
+    "specimens": "partial",
+    "methods": "partial",
+    "claims_support": "direct",
+    "note": "Abstract-only; mouse ablation and Bmp4 rescue reported, no n or stages. Findings concern roof plate and dorsal telencephalon, not the paraphysis."
+   },
+   "include_in_synthesis": "context_only",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R455",
+   "data_depth": "excerpt_only",
+   "duplicate_of": "",
+   "about_paraphysis": "substantive",
+   "study_type": "comparative_anatomy",
+   "taxa": [
+    {
+     "name": "Lampreys",
+     "group": "cyclostome"
+    },
+    {
+     "name": "chondrichthyans",
+     "group": "chondrichthyan"
+    },
+    {
+     "name": "actinopterygians",
+     "group": "actinopterygian"
+    },
+    {
+     "name": "sarcopterygians",
+     "group": "multiple"
+    },
+    {
+     "name": "hagfishes",
+     "group": "cyclostome"
+    }
+   ],
+   "stage": "not stated in excerpt",
+   "methods": "Craniate character matrix (character 93, 'Paraphysis', coded absent=0, present=1) in a study of agnathan brain anatomy and craniate phylogeny; only the stored excerpt was read.",
+   "findings": [
+    {
+     "id": "R455.1",
+     "dim": "terminology",
+     "statement": "The authors define the epithalamus as habenular nucleus plus two diverticula: a left 'paraphysis (or parietal)' and a right epiphysis (or pineal), using 'paraphysis' for the left epithalamic diverticulum.",
+     "support": "The epithalamus is formed by the habenular nucleus and two diverticula  a left paraphysis (or parietal) and a right epiphysis (or pineal).",
+     "locator": "excerpt",
+     "strength": "authors_interpretation",
+     "quote_verified": true
+    },
+    {
+     "id": "R455.2",
+     "dim": "phylogeny",
+     "statement": "Lampreys display both diverticula; chondrichthyans retain only the right pineal one; actinopterygians and sarcopterygians exhibit both.",
+     "support": "Lampreys display both neural diverticula but chondrichthyans have retained only the right, pineal one, whereas actinopterygians and sarcopterygians exhibit both organs.",
+     "locator": "excerpt",
+     "strength": "authors_interpretation",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "'Paraphysis (or parietal)' = left epithalamic diverticulum, paired with the right 'epiphysis (or pineal)'; this differs from the telencephalic paraphysis and the source does not address the telencephalic structure in the excerpt.",
+   "mentions": [],
+   "caveats": "Only the stored 700-character excerpt was read; the excerpt ends at the start of character 94. Hagfish paraphysis state is not given in the excerpt (it only says hagfishes show no trace of a pineal organ). Sources for the character coding are not shown. Terminology conflicts with classical telencephalic paraphysis usage and must be flagged, not merged.",
+   "appraisal": {
+    "specimens": "not_assessable",
+    "methods": "not_assessable",
+    "claims_support": "not_assessable",
+    "note": "Excerpt-only; no specimens, methods or sources visible for the character coding."
+   },
+   "include_in_synthesis": "yes",
+   "exclusion_reason": ""
+  }
+ ]
+}

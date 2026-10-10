@@ -1,0 +1,593 @@
+{
+ "batch": "eB04",
+ "records": [
+  {
+   "rid": "R285",
+   "data_depth": "abstract",
+   "duplicate_of": "",
+   "about_paraphysis": "passing_mention",
+   "study_type": "developmental_series",
+   "taxa": [
+    {
+     "name": "staged human embryos",
+     "group": "human"
+    }
+   ],
+   "stage": "stages 11-23 (4-8 postovulatory weeks)",
+   "methods": "Serial sections and graphic reconstructions of staged human embryos; the abstract describes the sequence of ventricular system and choroid plexus development.",
+   "findings": [
+    {
+     "id": "R285.1",
+     "dim": "ontogeny",
+     "statement": "In staged human embryos the paraphysis is reported as appearing at stage 18; the abstract gives this in the same sentence as the areae membranaceae of the fourth-ventricle roof but does not state where the paraphysis lies.",
+     "support": "The areae membranaceae rostralis and caudalis are visible in the roof of the fourth ventricle at stage 18, and the paraphysis is appearing.",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    },
+    {
+     "id": "R285.2",
+     "dim": "ontogeny",
+     "statement": "Staging context for the telencephalon: the telencephalon medium cavity is discernible at stage 13, and the future cerebral hemispheres and lateral ventricles begin at stage 14.",
+     "support": "the cavity of the telencephalon medium is discernible at stage 13. At stage 14 the future cerebral hemispheres and lateral ventricles begin",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    },
+    {
+     "id": "R285.3",
+     "dim": "ontogeny",
+     "statement": "Choroid plexus of the third ventricle and the suprapineal recess are listed as not apparent until the fetal period; pineal recess is listed among third-ventricle recesses developing in the embryonic period.",
+     "support": "Features of the ventricular system that do not become apparent until the fetal period include the posterior horn of the lateral ventricle, choroid plexus of the third ventricle, suprapineal recess",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Abstract uses 'paraphysis' without definition or location; the 'telencephalon medium' cavity and the third-ventricle recesses (optic, infundibular, pineal) are named separately.",
+   "mentions": [],
+   "caveats": "Only the complete PubMed abstract was read (no PMC full text; the paper is not open in PMC). The abstract has a single clause on the paraphysis; it gives neither its position, morphology nor its stage-18 relationships, which the full paper may contain. Stage numbers are 'stages' as printed; the abstract does not itself say 'Carnegie'.",
+   "appraisal": {
+    "specimens": "partial",
+    "methods": "partial",
+    "claims_support": "direct",
+    "note": "Abstract-only: stage range and sectioning/reconstruction method given, number of embryos not reported; paraphysis stated as observed at stage 18."
+   },
+   "include_in_synthesis": "yes",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R286",
+   "data_depth": "abstract",
+   "duplicate_of": "",
+   "about_paraphysis": "none",
+   "study_type": "case_series",
+   "taxa": [
+    {
+     "name": "Humans (PubMed MeSH term; not stated in abstract text)",
+     "group": "human"
+    }
+   ],
+   "stage": "not stated in the abstract (adult and paediatric patients per MeSH age terms)",
+   "methods": "Immunohistochemistry (cytokeratin KL 1, EMA, S 100, GFAP) on 14 colloid cysts and 2 other third-ventricle cysts, plus a literature review of third-ventricle cysts.",
+   "findings": [
+    {
+     "id": "R286.1",
+     "dim": "clinical",
+     "statement": "Fourteen colloid cysts showed epithelial immunoreactivity clearly different from neuroepithelium, which the authors take as supporting the earlier presumed bronchogenic origin of colloid cysts.",
+     "support": "Fourteen colloid cysts showed clear reaction differences of their epithelium in relation to neuroepithelium, which render feasible the verification of the earlier presumed bronchogenic origin of the former.",
+     "locator": "abstract",
+     "strength": "authors_interpretation",
+     "quote_verified": true
+    },
+    {
+     "id": "R286.2",
+     "dim": "terminology",
+     "statement": "Third-ventricle cysts with an epithelial lining are often grouped as ependymal or neuroepithelial cysts, but the authors call the group heterogeneous and a histogenetic classification difficult.",
+     "support": "Cysts of the third ventricle, predominantly being of congenital origin, are often summarized under the heading of ependymal or neuroepithelial cysts, if they contain an epithelial covering.",
+     "locator": "abstract",
+     "strength": "authors_interpretation",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Uses 'ependymal or neuroepithelial cysts' versus colloid cysts of presumed 'bronchogenic origin'; the paraphysis is not named in the abstract.",
+   "mentions": [],
+   "caveats": "Abstract only. The paraphysis is not mentioned in the abstract; whether the full text discusses it was not checked. Which antibody gave which pattern is not given in the abstract.",
+   "appraisal": {
+    "specimens": "partial",
+    "methods": "partial",
+    "claims_support": "inference",
+    "note": "Abstract-only: n=14 and antibodies listed; histogenesis is inferred from immunoreactivity differences; no paraphysis data."
+   },
+   "include_in_synthesis": "context_only",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R288",
+   "data_depth": "abstract",
+   "duplicate_of": "",
+   "about_paraphysis": "none",
+   "study_type": "histochemistry",
+   "taxa": [
+    {
+     "name": "Humans (PubMed MeSH term; not stated in abstract text)",
+     "group": "human"
+    }
+   ],
+   "stage": "not stated in the abstract",
+   "methods": "Immunohistochemistry for simple-, stratified- and skin-type cytokeratins and GFAP on 19 CNS epithelial cysts (6 colloid, 7 Rathke's cleft, 2 enterogenous, 2 spinal canal, 2 neuroectodermal).",
+   "findings": [
+    {
+     "id": "R288.1",
+     "dim": "histology",
+     "statement": "Third-ventricle colloid cysts expressed complex-type cytokeratins, like Rathke's cleft and spinal epithelial cysts, whereas enterogenous and neuroectodermal cysts showed only simple-type cytokeratins.",
+     "support": "Colloid cysts of the third ventricle, Rathke's cleft cysts in the sella and epithelial cysts in the spinal canal expressed complex type cytokeratins while enterogenous cysts and neuro-ectodermal cysts showed only simple type cytokeratins.",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Categories used: colloid, Rathke's cleft, enterogenous, spinal epithelial and neuroectodermal cysts; no mention of the paraphysis.",
+   "mentions": [],
+   "caveats": "Abstract only. The abstract says the cytokeratin patterns are 'discussed with regard to their origins' but does not state the authors' conclusion on colloid-cyst origin. The paraphysis is not mentioned.",
+   "appraisal": {
+    "specimens": "partial",
+    "methods": "partial",
+    "claims_support": "not_assessable",
+    "note": "Abstract-only: case numbers by cyst type and markers given; origin conclusion not stated, so claims cannot be appraised."
+   },
+   "include_in_synthesis": "context_only",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R293",
+   "data_depth": "abstract",
+   "duplicate_of": "",
+   "about_paraphysis": "none",
+   "study_type": "case_series",
+   "taxa": [
+    {
+     "name": "Humans (PubMed MeSH term; not stated in abstract text)",
+     "group": "human"
+    }
+   ],
+   "stage": "not stated in the abstract",
+   "methods": "Light microscopy and immunohistochemistry (cytokeratin, EMA, CEA, S-100, vimentin, GFAP) of 5 third-ventricle colloid cysts versus 2 spinal enterogenous cysts, plus a fourth-ventricle case.",
+   "findings": [
+    {
+     "id": "R293.1",
+     "dim": "histology",
+     "statement": "All colloid and enterogenous cysts had cuboidal/columnar epithelium with mucus, goblet cells and cilia, and were cytokeratin, EMA and CEA positive.",
+     "support": "All the lesions showed cuboidal and columnar epithelium with mucus containing goblet cells and cilia. Immunohistochemistry for cytokeratin, EMA and CEA was positive in all the colloid cyst and enterogenous cyst epithelium.",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    },
+    {
+     "id": "R293.2",
+     "dim": "clinical",
+     "statement": "The authors infer from the shared features and from identical lesions along the neuraxis (including an illustrative fourth-ventricle cyst) that colloid and enterogenous cysts derive from primitive foregut endoderm.",
+     "support": "the similarities between colloid and enterogenous cysts and the presence of identical lesions along the neuroaxis indicate that these structures are derived from primitive foregut endoderm.",
+     "locator": "abstract",
+     "strength": "authors_interpretation",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Uses 'colloid cyst' and 'enterogenous cyst' and 'primitive foregut endoderm'; the paraphysis is not mentioned in the abstract.",
+   "mentions": [],
+   "caveats": "PMC record PMC1014422 returned an empty full_text, so only the abstract was read. The corpus finder note says the paper contrasts with paraphyseal hypotheses; this is not verifiable from the abstract, which never names the paraphysis.",
+   "appraisal": {
+    "specimens": "partial",
+    "methods": "partial",
+    "claims_support": "inference",
+    "note": "Abstract-only: n=5 plus 2 and markers listed; endodermal origin is inferred from similarity, not shown directly; no paraphysis data."
+   },
+   "include_in_synthesis": "context_only",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R294",
+   "data_depth": "abstract",
+   "duplicate_of": "",
+   "about_paraphysis": "passing_mention",
+   "study_type": "experimental",
+   "taxa": [
+    {
+     "name": "soft-shelled turtles (Lissemys turtles)",
+     "group": "chelonian"
+    }
+   ],
+   "stage": "adult",
+   "methods": "Adult turtles given hyperosmotic NaCl (3.6%, acute and 7-day chronic) or 7-day dehydration; pineal(-paraphyseal) and adrenal amine and corticosterone contents were compared with controls.",
+   "findings": [
+    {
+     "id": "R294.1",
+     "dim": "physiology",
+     "statement": "Hyperosmotic stress changed serotonin, 5-HIAA, norepinephrine and epinephrine concentrations of the pineal-paraphyseal tissue; the paraphysis is not measured separately from the pineal.",
+     "support": "hyperosmotic stress has a definite influence on pineal-paraphyseal serotonin, 5-hydroxyindoleacetic acid, norepinephrine and epinephrine concentrations",
+     "locator": "abstract",
+     "strength": "experimental_result",
+     "quote_verified": true
+    },
+    {
+     "id": "R294.2",
+     "dim": "physiology",
+     "statement": "Seven days of dehydration also modulated serotonin, norepinephrine and epinephrine concentrations of the pineal-paraphyseal tissue in Lissemys.",
+     "support": "Dehydration stress also modulates pineal-paraphyseal serotonin, norepinephrine and epinephrine concentrations.",
+     "locator": "abstract",
+     "strength": "experimental_result",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Combined term 'pineal-paraphyseal' in the conclusions; the results items speak only of 'pineal' serotonin/amines, so the abstract does not say how the two parts were handled.",
+   "mentions": [],
+   "caveats": "Abstract only. The paraphysis is never analysed on its own; any effect cannot be attributed to the paraphysis rather than the pineal. The results list 'pineal serotonin' but the conclusion says 'pineal-paraphyseal': tissue definition unverified. Group size, direction of change and statistics are not in the abstract.",
+   "appraisal": {
+    "specimens": "partial",
+    "methods": "partial",
+    "claims_support": "not_assessable",
+    "note": "Abstract-only: species, adult stage and treatments given; n, dissection and assay not reported; the paraphysis contribution cannot be separated."
+   },
+   "include_in_synthesis": "context_only",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R298",
+   "data_depth": "abstract",
+   "duplicate_of": "",
+   "about_paraphysis": "passing_mention",
+   "study_type": "ultrastructure",
+   "taxa": [
+    {
+     "name": "Humans (PubMed MeSH term; not stated in abstract text)",
+     "group": "human"
+    }
+   ],
+   "stage": "not stated in the abstract",
+   "methods": "Electron microscopy of the lining epithelium of four third-ventricle colloid cysts, compared descriptively with normal respiratory epithelium and intraspinal bronchogenic cyst epithelium.",
+   "findings": [
+    {
+     "id": "R298.1",
+     "dim": "clinical",
+     "statement": "The authors state that colloid-cyst histogenesis is unsettled and list two candidate origins; the paraphysis is named within the neuroepithelial candidate group with ependyma, choroid plexus and tela chorioidea.",
+     "support": "possible origins: (a) neuroepithelium, including paraphysis, ependyma, choroid plexus and tela chorioidea; and (b) endoderm, including respiratory and enteric epithelium.",
+     "locator": "abstract",
+     "strength": "secondary_report",
+     "quote_verified": true
+    },
+    {
+     "id": "R298.2",
+     "dim": "histology",
+     "statement": "Six epithelial cell types (ciliated, non-ciliated microvillous, goblet, basal, dense-core granule-bearing, undifferentiated) matched normal respiratory epithelium, and the authors regard endoderm, most likely respiratory epithelium, as the origin.",
+     "support": "The observations made in the present study are compatible with the hypothesis that colloid cysts of the third ventricle originate from the endoderm, most likely the respiratory epithelium.",
+     "locator": "abstract",
+     "strength": "authors_interpretation",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Lists 'paraphysis' as one component of 'neuroepithelium' among candidate origins of colloid cysts; no definition or location of the paraphysis.",
+   "mentions": [],
+   "caveats": "Abstract only. The paraphysis appears only in a list of earlier-proposed origins; the abstract names no authors for those proposals and gives no paraphysis data of its own. Whether the full text discusses the paraphysis was not checked.",
+   "appraisal": {
+    "specimens": "partial",
+    "methods": "partial",
+    "claims_support": "inference",
+    "note": "Abstract-only: n=4 and cell types described; origin is inferred from similarity to respiratory epithelium; paraphysis only cited as a hypothesis."
+   },
+   "include_in_synthesis": "context_only",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R300",
+   "data_depth": "abstract",
+   "duplicate_of": "",
+   "about_paraphysis": "none",
+   "study_type": "histochemistry",
+   "taxa": [
+    {
+     "name": "Humans (PubMed MeSH term; not stated in abstract text)",
+     "group": "human"
+    }
+   ],
+   "stage": "not stated in the abstract",
+   "methods": "Immunohistochemistry with 16 mono- and polyclonal antibodies on 11 third-ventricle colloid cysts, compared with choroid plexus epithelium and ependyma.",
+   "findings": [
+    {
+     "id": "R300.1",
+     "dim": "histology",
+     "statement": "Colloid cyst epithelium, choroid plexus epithelium and ependyma had different immunoprofiles, with constant differences for several cytokeratins and for transthyretin.",
+     "support": "Colloid cyst epithelium, choroid plexus epithelium and ependyma showed different immunohistochemical profiles. In particular, antibodies to different cytokeratins and to transthyretin revealed considerable and constant differences of immunoreactivity.",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    },
+    {
+     "id": "R300.2",
+     "dim": "clinical",
+     "statement": "The authors consider a common derivation of colloid cyst, choroid plexus and ependyma unlikely and favour a non-neuroepithelial origin of third-ventricular colloid cysts.",
+     "support": "Therefore, common derivation of the three tissues seems unlikely. Our findings are interpreted in favour of the non-neuroepithelial origin of third ventricular colloid cysts.",
+     "locator": "abstract",
+     "strength": "authors_interpretation",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Contrasts 'neuroepithelial' (choroid plexus, ependyma) with 'non-neuroepithelial' colloid cyst; the paraphysis is not mentioned.",
+   "mentions": [],
+   "caveats": "Complete PubMed abstract read (stored Wiley excerpt covered most of it). The paraphysis is not mentioned in the abstract; the corpus finder note says the same. Individual antibody results are not listed.",
+   "appraisal": {
+    "specimens": "partial",
+    "methods": "partial",
+    "claims_support": "inference",
+    "note": "Abstract-only: n=11 and 16 antibodies reported; origin inferred from profile differences; no paraphysis data."
+   },
+   "include_in_synthesis": "context_only",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R301",
+   "data_depth": "abstract",
+   "duplicate_of": "",
+   "about_paraphysis": "none",
+   "study_type": "ultrastructure",
+   "taxa": [
+    {
+     "name": "Humans (PubMed MeSH term; not stated in abstract text)",
+     "group": "human"
+    }
+   ],
+   "stage": "not stated in the abstract",
+   "methods": "Electron microscopy of 13 colloid cysts, 4 Rathke cleft cysts, 3 pituitary follicular cysts, 4 enterogenous cysts, 3 normal choroid plexi, 3 choroid plexus papillomas, bronchial mucosa and ependyma.",
+   "findings": [
+    {
+     "id": "R301.1",
+     "dim": "histology",
+     "statement": "Most colloid cysts were ultrastructurally indistinguishable from Rathke cleft, pituitary follicular and enterogenous cysts and from normal bronchial mucosa.",
+     "support": "The ultrastructure of most of the CC was indistinguishable from that of RCC, FCP, EC, and normal bronchial mucosa in demonstrating nonciliated and ciliated epithelial cells, goblet cells, basal cells, and intermediate forms",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    },
+    {
+     "id": "R301.2",
+     "dim": "histology",
+     "statement": "Ependymal lining, choroid plexus and choroid plexus papilloma consisted of a single villous cell type with few cilia and no keratinization, mucin production or glycocalyx (neuroepithelial comparator).",
+     "support": "ependymal lining, CP, and CPP were composed of a single cell type, one with numerous villi, few cilia, and no signs of keratinization, mucin production, or glycocalyx coating.",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    },
+    {
+     "id": "R301.3",
+     "dim": "clinical",
+     "statement": "The authors found no ultrastructural similarity between colloid cyst and neuroepithelium and support an enterogenous origin, with similarity to Rathke cleft cysts.",
+     "support": "No ultrastructural similarities were observed between CC and normal or neoplastic neuroepithelium. These ultrastructural findings support the concept of an enterogenous origin of colloid cysts",
+     "locator": "abstract",
+     "strength": "authors_interpretation",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Uses 'enterogenous origin' and 'neuroepithelium'; the paraphysis is not mentioned in the abstract.",
+   "mentions": [],
+   "caveats": "Abstract only. The paraphysis is not mentioned in the abstract. The age and source of the normal ependyma, choroid plexus and bronchial samples are not stated.",
+   "appraisal": {
+    "specimens": "partial",
+    "methods": "partial",
+    "claims_support": "inference",
+    "note": "Abstract-only: case numbers per group given; origin is inferred from ultrastructural similarity; no paraphysis data."
+   },
+   "include_in_synthesis": "context_only",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R302",
+   "data_depth": "abstract",
+   "duplicate_of": "",
+   "about_paraphysis": "passing_mention",
+   "study_type": "experimental",
+   "taxa": [
+    {
+     "name": "soft-shelled turtle (Lissemys punctata punctata)",
+     "group": "chelonian"
+    }
+   ],
+   "stage": "juvenile males",
+   "methods": "Six steroids injected intramuscularly (0.1 mg per 100 g bw) for seven consecutive days into juvenile male turtles; serotonin, norepinephrine and epinephrine of the pineal-paraphyseal complex measured spectrofluorometrically 24 h later.",
+   "findings": [
+    {
+     "id": "R302.1",
+     "dim": "physiology",
+     "statement": "Amine contents were measured for the pineal-paraphyseal complex as a single sample (spectrofluorometry), so no value is given for the paraphysis alone.",
+     "support": "Serotonin, norepinephrine and epinephrine contents of the pineal-paraphyseal complex were measured spectrofluorometrically 24 h after the last injection.",
+     "locator": "abstract",
+     "strength": "experimental_result",
+     "quote_verified": true
+    },
+    {
+     "id": "R302.2",
+     "dim": "physiology",
+     "statement": "Testosterone and oestrogen lowered, and progesterone raised serotonin (while lowering norepinephrine and epinephrine), in the pineal-paraphyseal complex.",
+     "support": "Testosterone and oestrogen decreased serotonin, norepinephrine and epinephrine levels. Progesterone treatment resulted in an increase of serotonin level and a fall in norepinephrine and epinephrine levels.",
+     "locator": "abstract",
+     "strength": "experimental_result",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "'Pineal-paraphyseal complex' used as one measured unit; no separate paraphysis values.",
+   "mentions": [],
+   "caveats": "Abstract only. The paraphysis is not analysed separately, so steroid effects cannot be assigned to it. Group sizes, controls and statistics are not in the abstract.",
+   "appraisal": {
+    "specimens": "partial",
+    "methods": "partial",
+    "claims_support": "not_assessable",
+    "note": "Abstract-only: species, stage, doses and assay reported; n not reported; paraphysis cannot be separated from pineal."
+   },
+   "include_in_synthesis": "context_only",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R304",
+   "data_depth": "abstract",
+   "duplicate_of": "",
+   "about_paraphysis": "none",
+   "study_type": "histochemistry",
+   "taxa": [
+    {
+     "name": "Humans (PubMed MeSH term; not stated in abstract text)",
+     "group": "human"
+    }
+   ],
+   "stage": "colloid cysts of unstated patient age; comparison tissues were fetal and adult",
+   "methods": "Immunohistochemistry for cytokeratins, GST-pi, GST-mu and GFAP on four colloid cysts, compared with fetal and adult choroid plexus, ependyma and nasal mucosa.",
+   "findings": [
+    {
+     "id": "R304.1",
+     "dim": "histology",
+     "statement": "All four colloid cysts were positive for cytokeratins and GST-pi but negative for GST-mu and GFAP, matching fetal and adult nasal mucosa.",
+     "support": "The epithelium lining all four CCs showed positive immunostaining for the CKs and GST-pi but not for GST-mu or glial fibrillary acidic protein.",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    },
+    {
+     "id": "R304.2",
+     "dim": "histology",
+     "statement": "Fetal and adult choroid plexus were GST-pi and low-molecular-weight CK positive but negative for the AE1/AE3 mixture, and fetal and adult ependyma were negative for CKs and GST-pi (neuroepithelial comparators).",
+     "support": "fetal and adult choroid plexus tissue showed positive immunostaining for GST-pi and low molecular weight CKs but not for the CK mixture (AE1/AE3). Fetal and adult ependyma were negative for both CKs and GST-pi.",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    },
+    {
+     "id": "R304.3",
+     "dim": "clinical",
+     "statement": "The authors conclude that colloid cysts differentiate along nonneural lines distinct from the neuroepithelial differentiation of choroid plexus and ependyma.",
+     "support": "These results suggest that CCs differentiate along nonneural lines distinct from the neuroepithelial differentiation of the choroid plexus and ependyma.",
+     "locator": "abstract",
+     "strength": "authors_interpretation",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Uses 'nonneuroepithelial/nonneural' differentiation for colloid cysts versus 'neuroepithelial differentiation' for choroid plexus and ependyma; the paraphysis is not mentioned.",
+   "mentions": [],
+   "caveats": "Abstract only. The paraphysis is not mentioned in the abstract. Only four cysts were examined. Fetal gestational ages of the comparison tissue are not stated.",
+   "appraisal": {
+    "specimens": "partial",
+    "methods": "partial",
+    "claims_support": "inference",
+    "note": "Abstract-only: n=4 cysts, antibodies and comparison tissues listed; origin inferred from immunophenotype; no paraphysis data."
+   },
+   "include_in_synthesis": "context_only",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R309",
+   "data_depth": "abstract",
+   "duplicate_of": "",
+   "about_paraphysis": "none",
+   "study_type": "histochemistry",
+   "taxa": [
+    {
+     "name": "Humans (PubMed MeSH term; not stated in abstract text)",
+     "group": "human"
+    }
+   ],
+   "stage": "not stated in the abstract",
+   "methods": "Immunohistochemistry (GFAP, cytokeratins, S-100, EMA, vimentin, NSE, neurofilament, prealbumin) on 11 intracranial cysts: 2 ependymal, 3 colloid, 4 choroidal, 2 Rathke's cleft.",
+   "findings": [
+    {
+     "id": "R309.1",
+     "dim": "histology",
+     "statement": "Choroidal cyst epithelium showed strong prealbumin and cytokeratin reactivity like normal choroid plexus epithelium, and ependymal cysts showed GFAP and S-100 like normal ependyma.",
+     "support": "The epithelium of choroidal cysts, showed strong immunoreactivity for Prealbumin and cytokeratins, similar to the normal choroid plexus epithelium.",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    },
+    {
+     "id": "R309.2",
+     "dim": "histology",
+     "statement": "Colloid and Rathke's cleft cysts expressed epithelial markers (cytokeratins, EMA) but no neuroepithelial markers, resembling cysts of endodermal nature.",
+     "support": "the epithelial wall of colloid cysts and Rathke's cleft cyst, expressed epithelial markers (cytokeratins and EMA) but no neuroepithelial markers, with a immuno-phenotype similar to that of other cysts of endodermal nature.",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    },
+    {
+     "id": "R309.3",
+     "dim": "clinical",
+     "statement": "The authors conclude a neuroepithelial origin for choroid and ependymal cysts and an endodermal nature for colloid and Rathke's cleft cysts.",
+     "support": "This finding supports the neuroepithelial origin for choroid and ependymal cysts, and an endodermal nature for colloid and Rathke's cleft cysts.",
+     "locator": "abstract",
+     "strength": "authors_interpretation",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Uses 'neuroepithelial' (choroidal, ependymal cysts) versus 'endodermal nature' (colloid, Rathke's cleft cysts); the paraphysis is not mentioned.",
+   "mentions": [],
+   "caveats": "Abstract only. Only three colloid cysts were studied. The paraphysis is not mentioned.",
+   "appraisal": {
+    "specimens": "partial",
+    "methods": "partial",
+    "claims_support": "inference",
+    "note": "Abstract-only: n per cyst type and antibodies reported; origin inferred from immunophenotype; no paraphysis data."
+   },
+   "include_in_synthesis": "context_only",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R310",
+   "data_depth": "abstract",
+   "duplicate_of": "",
+   "about_paraphysis": "none",
+   "study_type": "case_report",
+   "taxa": [
+    {
+     "name": "male with XYY-Syndrom (intra-uterine diagnosis)",
+     "group": "human"
+    }
+   ],
+   "stage": "intra-uterine diagnosis; age at histology not stated in the abstract",
+   "methods": "Single case: histology and immunohistology of a third-ventricle colloid cyst in a male with XYY syndrome; sonographic findings mentioned.",
+   "findings": [
+    {
+     "id": "R310.1",
+     "dim": "clinical",
+     "statement": "A third-ventricle colloid cyst was diagnosed intra-uterine in a male with XYY syndrome.",
+     "support": "Case presentation of an intra-uterine diagnosed third ventricle colloid cyst in a male with XYY-Syndrom.",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    },
+    {
+     "id": "R310.2",
+     "dim": "histology",
+     "statement": "The cyst lining was flat or cuboidal to columnar epithelium, ciliated in some areas.",
+     "support": "The inner cellular cover of cyst was composed by flat or cuboidal to columnar epithelium, which beared cilia in some areas.",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    },
+    {
+     "id": "R310.3",
+     "dim": "clinical",
+     "statement": "The authors suggest, immunohistologically, that this cyst arose from primitive neuroepithelial structures.",
+     "support": "The histogenesis of this cyst was suggested immunohistologically from primitive neuroepithelial structures.",
+     "locator": "abstract",
+     "strength": "authors_interpretation",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Uses 'primitive neuroepithelial structures' for the suggested origin; the paraphysis is not mentioned in the abstract.",
+   "mentions": [],
+   "caveats": "Abstract only; single case. The antibodies and the neuroepithelial markers used are not given, and the paraphysis is not mentioned. The source does not say whether the XYY karyotype relates to the cyst.",
+   "appraisal": {
+    "specimens": "partial",
+    "methods": "not_reported",
+    "claims_support": "inference",
+    "note": "Abstract-only single case; immunohistology not specified; histogenesis only 'suggested'; no paraphysis data."
+   },
+   "include_in_synthesis": "context_only",
+   "exclusion_reason": ""
+  }
+ ]
+}

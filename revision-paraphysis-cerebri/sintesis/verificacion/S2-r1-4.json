@@ -1,0 +1,116 @@
+[
+ {
+  "cid": "S2-061",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-062",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-063",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-064",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-065",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-066",
+  "verdict": "ok_uncited",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-067",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-068",
+  "verdict": "ok_uncited",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-069",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-070",
+  "verdict": "ok_uncited",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-071",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-072",
+  "verdict": "ok_uncited",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-073",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-074",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-075",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-076",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-077",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-078",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-079",
+  "verdict": "needs_citation",
+  "issue": "\"tampoco se encontraron análisis filogenéticos formales\" is a factual absence claim about the corpus with no marker, and R455 (Khonsari 2009, 'Agnathan brain anatomy and craniate phylogeny') is a character coding for a craniate phylogeny that includes \"93. Paraphysis (absent=0, present=1)\" with per-class states (lampreys both, chondrichthyans only pineal, actinopterygians/sarcopterygians both). It is a formal phylogenetic matrix, although 'paraphysis' there is the epithalamic diverticulum.",
+  "fix": "Interpretación de esta revisión: no pudo establecerse una distribución filogenética por clases de la paráfisis telencefálica, porque las observaciones con especie nombrada son escasas, usan nomenclaturas distintas y, si informan ausencia, no la prueban; el único análisis filogenético recuperado, Khonsari (2009), codifica como 'paraphysis' el divertículo epitalámico izquierdo [@R455.1]."
+ }
+]

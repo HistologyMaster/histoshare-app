@@ -1,0 +1,575 @@
+{
+ "batch": "eB03",
+ "records": [
+  {
+   "rid": "R193",
+   "data_depth": "abstract",
+   "duplicate_of": "",
+   "about_paraphysis": "none",
+   "study_type": "developmental_series",
+   "taxa": [
+    {
+     "name": "human brain (Carnegie Collection embryos)",
+     "group": "human"
+    }
+   ],
+   "stage": "Carnegie stages 7-12 (neural plate to closure of neuropores), as printed in the abstract",
+   "methods": "Account of early human brain development compiled from Carnegie Collection data plus published information from other sources; details of sample not given in the abstract.",
+   "findings": [
+    {
+     "id": "R193.1",
+     "dim": "terminology",
+     "statement": "The authors stress that the telencephalon medium appears early in the human embryo, before cerebral vesicles form, and discuss the consequences of this for the terminology of brain subdivisions.",
+     "support": "The early appearance of the telencephalon medium (before cerebral vesicles have formed) is stressed, and the terminological implications for the subdivisions of the brain are discussed.",
+     "locator": "abstract",
+     "strength": "authors_interpretation",
+     "quote_verified": true
+    },
+    {
+     "id": "R193.2",
+     "dim": "ontogeny",
+     "statement": "In the human embryo the major brain subdivisions arise as enlargements of the open neural folds at stage 9, not as vesicles.",
+     "support": "It is emphasized that the major subdivisions of the human brain do not begin as vesicles, but as enlargements of the open neural folds at stage 9.",
+     "locator": "abstract",
+     "strength": "authors_interpretation",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Uses the term 'telencephalon medium' for the early median telencephalic part of the human brain; the abstract does not define it further and does not mention the paraphysis.",
+   "mentions": [],
+   "caveats": "Abstract only; the paraphysis is not mentioned in the abstract. The definition of telencephalon medium and its terminological implications are not stated in the abstract and could not be verified. Relevance is as adjacent-structure/terminology context only.",
+   "appraisal": {
+    "specimens": "not_assessable",
+    "methods": "partial",
+    "claims_support": "not_assessable",
+    "note": "Abstract states the data source (Carnegie Collection plus published information) but no specimen numbers; claims about the paraphysis cannot be appraised because none are made."
+   },
+   "include_in_synthesis": "context_only",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R221",
+   "data_depth": "abstract",
+   "duplicate_of": "",
+   "about_paraphysis": "none",
+   "study_type": "ultrastructure",
+   "taxa": [
+    {
+     "name": "human (three colloid cysts of the third ventricle; species not stated in abstract text, PubMed MeSH: Humans)",
+     "group": "human"
+    }
+   ],
+   "stage": "Adult patients (PubMed MeSH: Adult, Aged); not stated in the abstract text",
+   "methods": "Three colloid cysts of the third ventricle examined by transmission (TEM) and scanning (SEM) electron microscopy.",
+   "findings": [
+    {
+     "id": "R221.1",
+     "dim": "histology",
+     "statement": "SEM of three third-ventricle colloid cysts showed a morphologically diverse cyst surface with both ciliated and non-ciliated cells.",
+     "support": "There was morphological diversity of the cyst surface on SEM, with ciliated and non-ciliated cells present.",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    },
+    {
+     "id": "R221.2",
+     "dim": "histology",
+     "statement": "On TEM the non-ciliated cells appeared to have exocrine and apocrine activity (secretory comparator for the cyst epithelium).",
+     "support": "The non-ciliated cells appeared to have both exocrine and apocrine activity.",
+     "locator": "abstract",
+     "strength": "authors_interpretation",
+     "quote_verified": true
+    },
+    {
+     "id": "R221.3",
+     "dim": "histology",
+     "statement": "The cyst surface resembled a normal ventricular surface, which the authors link to the evaluation of the cysts' possible derivation.",
+     "support": "The appearance of the surface was similar to a normal ventricular surface.",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Colloid cyst of the third ventricle; the abstract does not name a specific origin and does not mention the paraphysis.",
+   "mentions": [],
+   "caveats": "Abstract only; the paraphysis is not mentioned. The abstract speaks of 'possible derivation' without stating a conclusion about origin. Colloid-cyst histogenesis comparator only.",
+   "appraisal": {
+    "specimens": "partial",
+    "methods": "partial",
+    "claims_support": "not_assessable",
+    "note": "Abstract gives n=3 and the techniques (TEM, SEM) but no patient details; no claim about the paraphysis is made."
+   },
+   "include_in_synthesis": "context_only",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R234",
+   "data_depth": "abstract",
+   "duplicate_of": "",
+   "about_paraphysis": "none",
+   "study_type": "case_report",
+   "taxa": [
+    {
+     "name": "human (20-year-old man)",
+     "group": "human"
+    }
+   ],
+   "stage": "Adult, 20-year-old man",
+   "methods": "Ultrastructural observation of a single colloid cyst of the third ventricle; the clinico-pathology is compared with other epithelial CNS cysts, especially Rathke's cyst.",
+   "findings": [
+    {
+     "id": "R234.1",
+     "dim": "histology",
+     "statement": "The lining of a third-ventricle colloid cyst contained two epithelial cell types, stratified squamous cells and mucin-containing columnar cells.",
+     "support": "The lining epithelia of the cyst were composed of two different types of epithelial cells; stratified squamous cells and mucin-containing columnar cells.",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    },
+    {
+     "id": "R234.2",
+     "dim": "ontogeny",
+     "statement": "From the presence of squamous and glandular cells, the authors conclude that in this case the colloid cyst derived from a non-neuroepithelial source.",
+     "support": "The presence of both squamous and glandular cells in the cyst wall supports the contention that the colloid cyst in the present case derived from an non-neuroepithelial source.",
+     "locator": "abstract",
+     "strength": "authors_interpretation",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Colloid cyst of the third ventricle compared with Rathke's cyst; the abstract does not mention the paraphysis.",
+   "mentions": [],
+   "caveats": "Abstract only; single case; the authors' conclusion applies explicitly to 'the present case'. The paraphysis is not mentioned. Colloid-cyst histogenesis comparator only.",
+   "appraisal": {
+    "specimens": "partial",
+    "methods": "not_assessable",
+    "claims_support": "not_assessable",
+    "note": "Abstract gives a single case (20-year-old man) but no technical detail; no claim about the paraphysis is made."
+   },
+   "include_in_synthesis": "context_only",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R242",
+   "data_depth": "abstract",
+   "duplicate_of": "",
+   "about_paraphysis": "none",
+   "study_type": "developmental_series",
+   "taxa": [
+    {
+     "name": "human embryos",
+     "group": "human"
+    }
+   ],
+   "stage": "Carnegie stage 11 (24 days)",
+   "methods": "Twenty stage-11 embryos studied in detail; graphic reconstructions of twelve of them prepared.",
+   "findings": [
+    {
+     "id": "R242.1",
+     "dim": "anatomy",
+     "statement": "At stage 11 the brain consists of the telencephalon medium, represented by the embryonic lamina terminalis, plus a series of neuromeres (two forebrain neuromeres D1 and D2).",
+     "support": "The brain comprises telencephalon medium (represented by the embryonic lamina terminalis) and a series of neuromeres: 2 for the forebrain (D1 and D2)",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    },
+    {
+     "id": "R242.2",
+     "dim": "ontogeny",
+     "statement": "The rostral neuropore closes towards the end of stage 11, bidirectionally and faster in the roof region, producing the embryonic lamina terminalis and the future commissural plate basally.",
+     "support": "The rostral neuropore closes towards the end of stage 11. The closure is basically bidirectional, being more rapid in the roof region and producing the embryonic lamina terminalis and future commissural plate in the basal region.",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Telencephalon medium defined as represented by the embryonic lamina terminalis at stage 11; the abstract does not mention the paraphysis.",
+   "mentions": [],
+   "caveats": "Abstract only; the paraphysis and the telencephalic roof plate are not mentioned. Used only for staging and for the authors' definition of telencephalon medium.",
+   "appraisal": {
+    "specimens": "reported",
+    "methods": "partial",
+    "claims_support": "not_assessable",
+    "note": "Abstract gives n=20 embryos (12 reconstructed) at one stage; no claim about the paraphysis is made."
+   },
+   "include_in_synthesis": "context_only",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R243",
+   "data_depth": "abstract",
+   "duplicate_of": "",
+   "about_paraphysis": "passing_mention",
+   "study_type": "experimental",
+   "taxa": [
+    {
+     "name": "soft-shelled turtle (Lissemys punctata punctata)",
+     "group": "chelonian"
+    }
+   ],
+   "stage": "Adult male",
+   "methods": "Serotonin, norepinephrine and epinephrine levels measured at four times of day (06:00, 12:00, 18:00, 24:00 hr) in adult male turtles; the abstract does not state the assay or the sample size.",
+   "findings": [
+    {
+     "id": "R243.1",
+     "dim": "physiology",
+     "statement": "The authors report a circadian rhythm in serotonin, norepinephrine and epinephrine content of the pineal-paraphyseal complex of adult male soft-shelled turtles; the complex is measured as a whole.",
+     "support": "The findings reveal that there is a distinct circadian rhythm in serotonin, norepinephrine, and epinephrine contents of the pineal-paraphyseal complex in adult male soft-shelled turtles.",
+     "locator": "abstract",
+     "strength": "experimental_result",
+     "quote_verified": true
+    },
+    {
+     "id": "R243.2",
+     "dim": "physiology",
+     "statement": "Serotonin was higher by day and lower at night, whereas norepinephrine and epinephrine showed the reverse pattern.",
+     "support": "The serotonin level increased during day and decreased during night. But the norepinephrine and epinephrine levels showed reverse changes.",
+     "locator": "abstract",
+     "strength": "experimental_result",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Uses 'pineal-paraphyseal complex' for the tissue measured; the abstract methods sentence refers only to 'pineal' levels. The paraphysis is not analysed separately.",
+   "mentions": [],
+   "caveats": "Abstract only. Amine contents refer to the combined pineal-paraphyseal complex (or, in the methods sentence, 'pineal'); no paraphysis-specific data can be extracted. Whether the paraphysis was dissected with the pineal is not stated in the abstract.",
+   "appraisal": {
+    "specimens": "partial",
+    "methods": "partial",
+    "claims_support": "not_assessable",
+    "note": "Abstract gives species, sex and sampling times but no n or assay; paraphysis-specific claims cannot be assessed because the tissue is combined."
+   },
+   "include_in_synthesis": "context_only",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R251",
+   "data_depth": "abstract",
+   "duplicate_of": "",
+   "about_paraphysis": "passing_mention",
+   "study_type": "experimental",
+   "taxa": [
+    {
+     "name": "soft-shelled turtles (Lissemys punctata punctata)",
+     "group": "chelonian"
+    }
+   ],
+   "stage": "Not stated in the abstract (age and sex not given)",
+   "methods": "Turtles injected intramuscularly with reserpine (0.5 mg/100 g) or chlorpromazine (10 mg/100 g), sacrificed at 6, 12 and 24 hr; amines measured spectrofluorometrically.",
+   "findings": [
+    {
+     "id": "R251.1",
+     "dim": "physiology",
+     "statement": "After reserpine and chlorpromazine, amine contents of the pineal-paraphyseal complex fell at 6 hr, rose at 12 hr and fell again at 24 hr; the complex was measured as a whole.",
+     "support": "The spectrofluorometric findings revealed that the serotonin, norepinephrine, and epinephrine contents of the pineal-paraphyseal complex decreased at 6 hr, increased at 12 hr, and declined again at 24 hr after the treatments.",
+     "locator": "abstract",
+     "strength": "experimental_result",
+     "quote_verified": true
+    },
+    {
+     "id": "R251.2",
+     "dim": "physiology",
+     "statement": "The authors suggest the drugs act largely by favouring release, with transient resynthesis, of these amines in the pineal-paraphyseal complex.",
+     "support": "It is suggested that reserpine and chlorpromazine act largely by favoring release with transient resynthesis of these amines in the pineal-paraphyseal complex of soft-shelled turtles.",
+     "locator": "abstract",
+     "strength": "authors_interpretation",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Uses 'pineal-paraphyseal complex' as a single measured unit; the paraphysis is not analysed separately.",
+   "mentions": [],
+   "caveats": "Abstract only. No paraphysis-specific data: amines were measured in the combined complex. Sex, age and n are not stated in the abstract.",
+   "appraisal": {
+    "specimens": "not_reported",
+    "methods": "partial",
+    "claims_support": "not_assessable",
+    "note": "Abstract gives drug doses, sampling times and the spectrofluorometric method but no n, sex or age; paraphysis-specific claims cannot be assessed."
+   },
+   "include_in_synthesis": "context_only",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R253",
+   "data_depth": "abstract",
+   "duplicate_of": "",
+   "about_paraphysis": "none",
+   "study_type": "histochemistry",
+   "taxa": [
+    {
+     "name": "human (surgically excised colloid cysts; species not stated in abstract text, PubMed MeSH: Humans)",
+     "group": "human"
+    }
+   ],
+   "stage": "Surgical specimens from adult patients (PubMed MeSH: Adult, Aged, Middle Aged); not stated in the abstract text",
+   "methods": "Immunoperoxidase on paraffin sections of 8 colloid cysts (7 third ventricle, 1 sella) and 2 similar epithelial cysts, using antisera to EMA, TPA, epidermal keratin and S-100.",
+   "findings": [
+    {
+     "id": "R253.1",
+     "dim": "histology",
+     "statement": "In colloid-cyst epithelium the apical membrane and surface microstructures were EMA-positive, columnar cells showed cytoplasmic TPA staining and basal cells expressed epidermal keratin.",
+     "support": "The apical plasma membrane, surface microstructures were consistently EMA positive. Columnar cells demonstrated cytoplasmic staining for TPA. Basal cells of lining epithelia expressed EK.",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    },
+    {
+     "id": "R253.2",
+     "dim": "histology",
+     "statement": "All epithelia examined were negative for S-100 protein.",
+     "support": "All epithelia studied were negative for S-100 protein.",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    },
+    {
+     "id": "R253.3",
+     "dim": "ontogeny",
+     "statement": "From this marker profile the authors suggest an endodermal origin of colloid cysts.",
+     "support": "These findings suggest an endodermal origin of colloid cysts.",
+     "locator": "abstract",
+     "strength": "authors_interpretation",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Colloid cyst; origin of the lining epithelium proposed as endodermal. The abstract does not mention the paraphysis.",
+   "mentions": [],
+   "caveats": "Abstract only (English abstract of a Japanese-language paper). The paraphysis is not mentioned. Colloid-cyst histogenesis comparator; the endodermal-origin conclusion conflicts with the neuroectodermal conclusion of R270.",
+   "appraisal": {
+    "specimens": "partial",
+    "methods": "partial",
+    "claims_support": "not_assessable",
+    "note": "Abstract gives case numbers and antisera but no patient or staining details; no claim about the paraphysis is made."
+   },
+   "include_in_synthesis": "context_only",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R261",
+   "data_depth": "abstract",
+   "duplicate_of": "",
+   "about_paraphysis": "none",
+   "study_type": "developmental_series",
+   "taxa": [
+    {
+     "name": "human embryos",
+     "group": "human"
+    }
+   ],
+   "stage": "Carnegie stage 14 (32 days)",
+   "methods": "Thirty-five stage-14 embryos studied in detail; graphic reconstructions of four of them prepared.",
+   "findings": [
+    {
+     "id": "R261.1",
+     "dim": "anatomy",
+     "statement": "At stage 14 the ventral boundary between telencephalon medium and diencephalon is the preoptic recess.",
+     "support": "The ventral boundary between telencephalon medium and diencephalon is the preoptic recess.",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    },
+    {
+     "id": "R261.2",
+     "dim": "anatomy",
+     "statement": "A velum transversum is not yet distinguishable as the dorsal boundary at stage 14, but its site is indicated by a change in the thickness of the forebrain roof.",
+     "support": "Although a velum transversum is not yet distinguishable as a dorsal boundary, its site is indicated by a change in the thickness of the roof of the forebrain.",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Defines telencephalon medium as bounded ventrally by the preoptic recess and dorsally (by site) by the velum transversum; the abstract does not mention the paraphysis.",
+   "mentions": [],
+   "caveats": "The PubMed abstract is truncated by PubMed at 400 words, so the full abstract was not read, and no full text was available. The paraphysis is not mentioned in the part read. Used only for definition of the adjacent boundary (velum transversum site).",
+   "appraisal": {
+    "specimens": "reported",
+    "methods": "partial",
+    "claims_support": "not_assessable",
+    "note": "Abstract gives n=35 embryos (4 reconstructed) at one stage; the abstract is truncated and no claim about the paraphysis is made."
+   },
+   "include_in_synthesis": "context_only",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R262",
+   "data_depth": "abstract",
+   "duplicate_of": "",
+   "about_paraphysis": "passing_mention",
+   "study_type": "experimental",
+   "taxa": [
+    {
+     "name": "soft-shelled turtles (Lissemys punctata punctata)",
+     "group": "chelonian"
+    }
+   ],
+   "stage": "Juvenile turtles (circadian rhythm); adult turtles (photoperiod experiments)",
+   "methods": "Serotonin, norepinephrine and epinephrine levels measured at four times of day in juveniles; photoperiod regimes (continuous light, long, short photoperiod, continuous dark) tested in adults. Sample size not given in the abstract.",
+   "findings": [
+    {
+     "id": "R262.1",
+     "dim": "physiology",
+     "statement": "The authors suggest that juvenile turtles show circadian rhythms in pineal-paraphyseal amines and indoleamine like those of adults.",
+     "support": "It is suggested that circadian rhythms exist in pineal-paraphyseal amines and indoleamine in juvenile turtles like that of adult turtles.",
+     "locator": "abstract",
+     "strength": "authors_interpretation",
+     "quote_verified": true
+    },
+    {
+     "id": "R262.2",
+     "dim": "physiology",
+     "statement": "Long photoperiod or continuous light raised serotonin and lowered norepinephrine, whereas short photoperiod or continuous darkness produced the reverse changes.",
+     "support": "Continuous light (24L:0D) or long photoperiod (22L:2D) resulted in an elevation of serotonin level and diminution of norepinephrine level, but continuous darkness (0L:24D) or short photoperiod (2L:22D) showed reverse changes.",
+     "locator": "abstract",
+     "strength": "experimental_result",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Uses 'pineal-paraphyseal complex' and 'pineal-paraphyseal amines' for the tissue measured, and 'pineal activities' for the photoperiod experiment; the paraphysis is not analysed separately.",
+   "mentions": [],
+   "caveats": "Abstract only. Amines were measured in the combined pineal-paraphyseal complex; no paraphysis-specific data can be extracted. Whether the paraphysis was dissected with the pineal is not stated in the abstract.",
+   "appraisal": {
+    "specimens": "partial",
+    "methods": "partial",
+    "claims_support": "not_assessable",
+    "note": "Abstract gives species, age classes, sampling times and photoperiod regimes but no n or assay; paraphysis-specific claims cannot be assessed."
+   },
+   "include_in_synthesis": "context_only",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R270",
+   "data_depth": "abstract",
+   "duplicate_of": "",
+   "about_paraphysis": "passing_mention",
+   "study_type": "histochemistry",
+   "taxa": [
+    {
+     "name": "human (12 cases of neuroepithelial (colloid) cysts; species not stated in abstract text, PubMed MeSH: Humans)",
+     "group": "human"
+    }
+   ],
+   "stage": "Surgical cyst specimens; patient age not stated in the abstract",
+   "methods": "Monoclonal and polyclonal antisera (cytokeratin, vimentin, neurofilament, GFAP, EMA, lu-5) applied to 12 colloid cysts to define the antigenic profile of the cyst epithelium.",
+   "findings": [
+    {
+     "id": "R270.1",
+     "dim": "terminology",
+     "statement": "The authors list the embryonic paraphysis among the proposed origins of colloid cysts, alongside detachment of neuroepithelium from the tela choroidea and respiratory epithelium remnants.",
+     "support": "Theories raised to explain the etiology of colloid cysts have included derivation from the embryonic paraphysis, detachments of developing neuroepithelium from the tela choroidea, and remnants of respiratory epithelium",
+     "locator": "abstract",
+     "strength": "secondary_report",
+     "quote_verified": true
+    },
+    {
+     "id": "R270.2",
+     "dim": "histology",
+     "statement": "Colloid-cyst epithelium had an antigenic profile unlike that of choroid plexus or glial tissue.",
+     "support": "demonstrated that colloid cyst epithelium has a unique antigenic profile in contrast to that of choroid plexus or glial tissue.",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    },
+    {
+     "id": "R270.3",
+     "dim": "ontogeny",
+     "statement": "The authors conclude that colloid cysts at any ventricular site are a developmental anomaly of primitive neuroectoderm in the embryo.",
+     "support": "This finding supports the conclusion that colloid cysts in any ventricular location represent a developmental anomaly of primitive neuroectoderm in the embryo, which remains unique from other products of neuroectodermal derivation.",
+     "locator": "abstract",
+     "strength": "authors_interpretation",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Uses 'neuroepithelial (colloid) cysts' and refers to the 'embryonic paraphysis' only as one proposed origin; no definition or location of the paraphysis is given in the abstract.",
+   "mentions": [],
+   "caveats": "Abstract only. The paraphysis theory is listed without authors or dates in the abstract, and the study does not test it. The conclusion (primitive neuroectoderm) conflicts with the endodermal origin proposed by R253 and the non-neuroepithelial origin in R234.",
+   "appraisal": {
+    "specimens": "partial",
+    "methods": "partial",
+    "claims_support": "not_assessable",
+    "note": "Abstract gives n=12 and the marker panel; the paraphysis theory is cited, not tested, so claims about it cannot be appraised."
+   },
+   "include_in_synthesis": "context_only",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R273",
+   "data_depth": "abstract",
+   "duplicate_of": "",
+   "about_paraphysis": "none",
+   "study_type": "developmental_series",
+   "taxa": [
+    {
+     "name": "human embryos",
+     "group": "human"
+    }
+   ],
+   "stage": "Carnegie stage 17 (title); embryo numbers and age not given in the abstract",
+   "methods": "Descriptive study of the human brain at stage 17; specimen numbers and techniques are not given in the abstract.",
+   "findings": [
+    {
+     "id": "R273.1",
+     "dim": "histology",
+     "statement": "At stage 17 the future choroid plexus begins in the roof of the telencephalon medium, with blood vessel formation, necrotic changes and rostral growth of the anterior choroid artery.",
+     "support": "The beginning of the future choroid plexus consists in the formation of blood vessels and necrotic changes in the roof of the telencephalon medium and in rostral growth of the anterior choroid artery.",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    },
+    {
+     "id": "R273.2",
+     "dim": "anatomy",
+     "statement": "Growth of the cerebral hemispheres deepens the interlongitudinal fissure, in which capillaries for the future choroid plexus develop.",
+     "support": "The growth of the cerebral hemispheres rostrally and caudodorsally brings about a deepening of the interlongitudinal fissure, in which blood capillaries for the future choroid plexus develop.",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Locates the first choroid plexus anlage in the 'roof of the telencephalon medium'; the abstract does not mention the paraphysis.",
+   "mentions": [],
+   "caveats": "Abstract only; the paraphysis is not mentioned. Used only as a comparator for roof differentiation (choroid plexus) in the human telencephalon medium.",
+   "appraisal": {
+    "specimens": "not_reported",
+    "methods": "not_reported",
+    "claims_support": "not_assessable",
+    "note": "Abstract gives no specimen numbers or techniques; no claim about the paraphysis is made."
+   },
+   "include_in_synthesis": "context_only",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R274",
+   "data_depth": "abstract",
+   "duplicate_of": "",
+   "about_paraphysis": "passing_mention",
+   "study_type": "experimental",
+   "taxa": [
+    {
+     "name": "soft-shelled turtle (Lissemys punctata punctata)",
+     "group": "chelonian"
+    }
+   ],
+   "stage": "Not stated in the abstract (age and sex not given)",
+   "methods": "Turtles exposed for 7 days to 10 or 32 degrees (12L:12D) versus controls at 25 degrees; amine content of the pineal-paraphyseal complex measured. Sample size not given in the abstract.",
+   "findings": [
+    {
+     "id": "R274.1",
+     "dim": "physiology",
+     "statement": "Exposure to low and high ambient temperature significantly altered serotonin, norepinephrine and epinephrine content of the pineal-paraphyseal complex, which was measured as a whole.",
+     "support": "The findings revealed that ambient temperatures significantly altered serotonin, norepinephrine, and epinephrine content in the pineal-paraphyseal complex of turtles.",
+     "locator": "abstract",
+     "strength": "experimental_result",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Uses 'pineal-paraphyseal complex' as a single measured unit, and 'pineal' in the concluding sentence; the paraphysis is not analysed separately.",
+   "mentions": [],
+   "caveats": "Abstract only. No paraphysis-specific data: amines were measured in the combined complex. The direction of the temperature effect and the sample size are not stated in the abstract.",
+   "appraisal": {
+    "specimens": "not_reported",
+    "methods": "partial",
+    "claims_support": "not_assessable",
+    "note": "Abstract gives temperatures, duration and photoperiod but no n, sex or age; paraphysis-specific claims cannot be assessed."
+   },
+   "include_in_synthesis": "context_only",
+   "exclusion_reason": ""
+  }
+ ]
+}

@@ -1,0 +1,122 @@
+[
+ {
+  "cid": "S2-021",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-022",
+  "verdict": "needs_hedge",
+  "issue": "Taxon cell \"Pez pulmonado *Protopterus annectens*\": the excerpt (a later author's sentence, \"Burckhardt (1890, 1892) gave a brief description of the dorsal region of the brain...\") never names the animal; Protopterus annectens comes only from the title of the 1892 monograph (R005 caveat: \"Species is taken from the record title, not from the excerpt\"), and the 1890 work is not identified. The content (coronarium, interior to pineal organ, fragment does not call it paraphysis) is otherwise faithful.",
+  "fix": "Pez pulmonado (*Protopterus annectens*, según el título de la monografía de 1892; el fragmento no nombra el taxón) | Según una fuente secundaria no verificada, Burckhardt (1890, 1892) nombró \"coronarium\" una estructura conspicua interior al órgano pineal; el fragmento no la llama paráfisis"
+ },
+ {
+  "cid": "S2-023",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-024",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-025",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-026",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-027",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-028",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-029",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-030",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-031",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-032",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-033",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-034",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-035",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-036",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-037",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-038",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-039",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S2-040",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ }
+]

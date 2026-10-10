@@ -1,0 +1,4 @@
+RECORD R649 | authors and year not shown in the record | Applied Radiology (web article, appliedradiology.com) | no DOI/PMID/PMC
+TITLE: Non-neoplastic Cystic Lesions of the Central Nervous System, Part 1: Developmental Cysts
+ACCESS: web search snippet only; AI-summary text, unverified
+STORED EXCERPT: These cysts are the result of abnormal folding of the neuroepithelial paraphysis during development.

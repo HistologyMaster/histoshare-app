@@ -1,0 +1,122 @@
+[
+ {
+  "cid": "S7-021",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S7-022",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S7-023",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S7-024",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S7-025",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S7-026",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S7-027",
+  "verdict": "partial",
+  "issue": "«y un tipo de quiste junto a los enterógenos, de Rathke y aracnoideos [@R327.2]»: R327.2 (Morimura) lista un «paraphyseal neuroepithelial cyst», no un tipo «neuroepitelial» sin calificar; la frase omite «parafisario» y, tal como está construida tras «al favorecer un origen no neuroepitelial», puede leerse como si Kuchelmeister favoreciera ese tipo de quiste. El resto (término aplicado a la lesión por Ciric y Palacios; Kuchelmeister considera improbable la derivación común) está respaldado.",
+  "fix": "El término «neuroepitelial» designa además la lesión [@R164.1; @R149.2], una hipótesis de origen cuya derivación común con plexo coroideo y epéndimo Kuchelmeister (1992) considera improbable, al favorecer un origen no neuroepitelial [@R300.2]; Morimura (1994) lista un «quiste neuroepitelial parafisario» como un tipo de quiste junto a los enterógenos, de Rathke y aracnoideos [@R327.2]."
+ },
+ {
+  "cid": "S7-028",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S7-029",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S7-030",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S7-031",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S7-032",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S7-033",
+  "verdict": "ok_uncited",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S7-034",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S7-035",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S7-036",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S7-037",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S7-038",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S7-039",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S7-040",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ }
+]

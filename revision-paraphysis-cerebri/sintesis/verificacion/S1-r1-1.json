@@ -1,0 +1,122 @@
+[
+ {
+  "cid": "S1-001",
+  "verdict": "ok_uncited",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-002",
+  "verdict": "ok_uncited",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-003",
+  "verdict": "ok_uncited",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-004",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-005",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-006",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-007",
+  "verdict": "needs_hedge",
+  "issue": "\"uno dice «paraphysis»\": the R099 title is flagged in the DB as 'catalogue-summary wording, not verbatim' (title field 'Vascular supply of the epiphysis and paraphysis in reptiles', content unverified); only R103 ('PARA-EPIPHYSIS', PubMed English rendering of a German title) is a verified title. The apparent discrepancy may be an artefact of the catalogue wording.",
+  "fix": "Dos registros descritos por la curaduría como el mismo capítulo de 1965 difieren en el título registrado: uno, en una redacción de catálogo no literal, nombra «paraphysis» [@R099.t] y otro, en el título de PubMed, «para-epiphysis» [@R103.t]."
+ },
+ {
+  "cid": "S1-008",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-009",
+  "verdict": "ok_uncited",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-010",
+  "verdict": "needs_hedge",
+  "issue": "\"formada por un derivado del epéndimo\": in the OCR source the verb between \"front of the 3rd ventricle\" and \"by a derivative of ependyma\" is illegible (\"^ ?\"); 'formed' is a restoration (it could equally be 'lined by'). The DB finding R065.4 carries this caveat, the sentence drops it.",
+  "fix": "... describe la paráfisis, en observaciones no referenciadas del patólogo, como una evaginación del frente del tercer ventrículo relacionada con «un derivado del epéndimo» (palabra intermedia ilegible en el OCR) [@R065.4]."
+ },
+ {
+  "cid": "S1-011",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-012",
+  "verdict": "ok_uncited",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-013",
+  "verdict": "ok_uncited",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-014",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-015",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-016",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-017",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-018",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-019",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-020",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ }
+]

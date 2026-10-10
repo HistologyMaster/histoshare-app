@@ -20,6 +20,9 @@ for rid, fin in F.items():
         rec['extraction'] = {'rid': rid, 'data_depth': 'metadata_only', 'about_paraphysis': 'title_only', 'study_type': 'unknown', 'findings': [], 'mentions': [], 'include_in_synthesis': 'identified_only', 'caveats': 'Only bibliographic metadata (title/authors/year/journal) available; content NOT verified. May be cited as an identified work, never for findings.', 'duplicate_of': ''}
     else:
         rec['extraction'] = None
+    e = rec['extraction']
+    if e:
+        for i, mm in enumerate(e.get('mentions', []), 1): mm['id'] = f'{rid}.m{i}'
     db[rid] = rec
 json.dump(db, open(os.path.join(WS, 'extract', 'db.json'), 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
 import collections

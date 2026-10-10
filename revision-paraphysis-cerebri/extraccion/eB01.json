@@ -1,0 +1,353 @@
+{
+ "batch": "eB01",
+ "records": [
+  {
+   "rid": "R006",
+   "data_depth": "excerpt_only",
+   "duplicate_of": "",
+   "about_paraphysis": "none",
+   "study_type": "comparative_anatomy",
+   "taxa": [
+    {
+     "name": "niederen Vertebraten (title)",
+     "group": "multiple"
+    }
+   ],
+   "stage": "not stated (no text read)",
+   "methods": "Not available: no abstract, excerpt or full text could be read.",
+   "findings": [],
+   "terminology": "",
+   "mentions": [],
+   "caveats": "No text of any kind was read (metadata only, no PubMed record, no excerpt). 'none' for about_paraphysis only reflects the absence of accessible text, NOT the content of the paper. Study type and taxa are taken from the title only. The corpus finder note (unverified) says it treats epiphysis, paraphysis and dorsal sac; this was not checked.",
+   "appraisal": {
+    "specimens": "not_assessable",
+    "methods": "not_assessable",
+    "claims_support": "not_assessable",
+    "note": "No text read; nothing to appraise."
+   },
+   "include_in_synthesis": "no",
+   "exclusion_reason": "No accessible text (metadata/title only); nothing extractable. Not a judgement on relevance: the original (Anat Anz 9:152) would need to be read to be usable."
+  },
+  {
+   "rid": "R019",
+   "data_depth": "secondary_snippet",
+   "duplicate_of": "",
+   "about_paraphysis": "none",
+   "study_type": "comparative_anatomy",
+   "taxa": [
+    {
+     "name": "vertebrates (title)",
+     "group": "multiple"
+    }
+   ],
+   "stage": "not stated in the text read",
+   "methods": "Not available. Only a one-line fragment from a web-search summary of a UNSW Embryology page was read; the 1909 paper itself was not seen.",
+   "findings": [
+    {
+     "id": "R019.1",
+     "dim": "anatomy",
+     "statement": "A snippet fragment lists a membranous roof, a tela chorioidea and one or two epiphyses; the fragment does not show which structure or taxon it describes and does not mention the paraphysis.",
+     "support": "a membranous roof, tela chorioidea, and one or two epiphyses",
+     "locator": "excerpt",
+     "strength": "secondary_report",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Fragment uses 'tela chorioidea' and 'epiphyses' (one or two); no paraphysis, dorsal sac or lamina terminalis term appears in the text read.",
+   "mentions": [],
+   "caveats": "AI-summary web-search text, unverified. The excerpt is a sentence fragment without subject, so what is described (taxon, vesicle part) cannot be stated. The paraphysis is not mentioned in anything read; 'none' reflects only the text read. The corpus finder note (not verified) places the paraphysis/dorsal-sac discussion possibly in Johnston 1923, not in this paper.",
+   "appraisal": {
+    "specimens": "not_assessable",
+    "methods": "not_assessable",
+    "claims_support": "not_assessable",
+    "note": "Only a one-line fragment was seen; the paper cannot be appraised."
+   },
+   "include_in_synthesis": "context_only",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R024",
+   "data_depth": "excerpt_only",
+   "duplicate_of": "",
+   "about_paraphysis": "none",
+   "study_type": "historical_monograph",
+   "taxa": [
+    {
+     "name": "tuatara (Sphenodon punctatus) (title)",
+     "group": "tuatara"
+    }
+   ],
+   "stage": "not stated (no text read)",
+   "methods": "Not available: no abstract, excerpt or full text could be read.",
+   "findings": [],
+   "terminology": "",
+   "mentions": [],
+   "caveats": "No text of any kind was read (metadata only, no PubMed record, no excerpt). 'none' for about_paraphysis only reflects the absence of accessible text, NOT the content of the monograph. Taxon and study type come from the title and corpus notes only. The corpus finder notes say none of the retrieved snippets addressed the paraphysis.",
+   "appraisal": {
+    "specimens": "not_assessable",
+    "methods": "not_assessable",
+    "claims_support": "not_assessable",
+    "note": "No text read; nothing to appraise."
+   },
+   "include_in_synthesis": "no",
+   "exclusion_reason": "No accessible text (metadata/title only); nothing extractable. Not a judgement on relevance: the monograph (Phil Trans B 201:227-331) would need to be read to be usable."
+  },
+  {
+   "rid": "R027",
+   "data_depth": "secondary_snippet",
+   "duplicate_of": "",
+   "about_paraphysis": "passing_mention",
+   "study_type": "review",
+   "taxa": [
+    {
+     "name": "lower vertebrates",
+     "group": "multiple"
+    },
+    {
+     "name": "human embryo (inferred from the book title 'Manual of Human Embryology' only)",
+     "group": "human"
+    }
+   ],
+   "stage": "not stated in the text read",
+   "methods": "Not available. A single sentence from a web-search summary (reported in the corpus record as quoted in Bailey 1916) was read; the Streeter chapter itself was not seen.",
+   "findings": [
+    {
+     "id": "R027.1",
+     "dim": "phylogeny",
+     "statement": "The snippet sentence states that the anterior choroidal pouch has been homologized with the paraphysis of the lower vertebrates; no location, stage or taxon of the pouch is given in the text read.",
+     "support": "The anterior choroidal pouch has been homologized with the paraphysis of the lower vertebrates.",
+     "locator": "excerpt",
+     "strength": "secondary_report",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Uses 'anterior choroidal pouch' for the structure homologized with the 'paraphysis of the lower vertebrates'; the text read gives no definition or position (e.g. relation to lamina terminalis) for either.",
+   "mentions": [],
+   "caveats": "AI-summary web-search text, unverified. Per the corpus record the sentence is known second-hand from Bailey 1916 (UNSW transcription); it cannot be confirmed that it is Streeter's own wording, nor whether it is Streeter's own homology or the view of earlier authors. Stage, species and evidence for the homology are not given. Check against Bailey 1916 and Streeter 1912 before use.",
+   "appraisal": {
+    "specimens": "not_assessable",
+    "methods": "not_assessable",
+    "claims_support": "not_assessable",
+    "note": "Only a one-sentence second-hand snippet was seen; the chapter cannot be appraised."
+   },
+   "include_in_synthesis": "context_only",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R028",
+   "data_depth": "secondary_snippet",
+   "duplicate_of": "",
+   "about_paraphysis": "none",
+   "study_type": "developmental_series",
+   "taxa": [
+    {
+     "name": "human embryo",
+     "group": "human"
+    }
+   ],
+   "stage": "not stated in the text read",
+   "methods": "Not available. Only one descriptive sentence from a web-search summary of a UNSW Embryology page was read; the 1916 paper itself was not seen.",
+   "findings": [
+    {
+     "id": "R028.1",
+     "dim": "ontogeny",
+     "statement": "The snippet describes the paper as an early description of the roof plate of the fore-brain and the lateral choroid plexuses in the human embryo; it says nothing about the paraphysis.",
+     "support": "This first historic 1916 paper by Bailey is an early description of the roof plate of the fore-brain and the lateral choroid plexuses in the human embryo.",
+     "locator": "excerpt",
+     "strength": "secondary_report",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "'roof plate of the fore-brain' and 'lateral choroid plexuses' as named in the snippet; the paraphysis is not named and no telencephalic/diencephalic assignment of the roof is given.",
+   "mentions": [],
+   "caveats": "AI-summary web-search text (editorial description on a wiki page, not the paper's own words), unverified. The snippet only states the scope of the paper; no morphological result, stage or paraphysis content was read. 'none' reflects only the text read. Corpus notes say the paper bears on the roof region from which the paraphysis arises, but that is not stated in the text read.",
+   "appraisal": {
+    "specimens": "not_assessable",
+    "methods": "not_assessable",
+    "claims_support": "not_assessable",
+    "note": "Only a one-sentence descriptive snippet was seen; the paper cannot be appraised."
+   },
+   "include_in_synthesis": "context_only",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R030",
+   "data_depth": "excerpt_only",
+   "duplicate_of": "",
+   "about_paraphysis": "none",
+   "study_type": "developmental_series",
+   "taxa": [
+    {
+     "name": "human embryos (title)",
+     "group": "human"
+    }
+   ],
+   "stage": "not stated (no text read)",
+   "methods": "Not available: no abstract, excerpt or full text could be read.",
+   "findings": [],
+   "terminology": "",
+   "mentions": [],
+   "caveats": "No text of any kind was read (metadata only, no PubMed record, no excerpt); journal of publication unknown. 'none' for about_paraphysis only reflects the absence of accessible text, NOT the content. Taxon and study type come from the title only.",
+   "appraisal": {
+    "specimens": "not_assessable",
+    "methods": "not_assessable",
+    "claims_support": "not_assessable",
+    "note": "No text read; nothing to appraise."
+   },
+   "include_in_synthesis": "no",
+   "exclusion_reason": "No accessible text (metadata/title only); nothing extractable. Not a judgement on relevance."
+  },
+  {
+   "rid": "R034",
+   "data_depth": "excerpt_only",
+   "duplicate_of": "",
+   "about_paraphysis": "none",
+   "study_type": "other",
+   "taxa": [
+    {
+     "name": "man (title: 'in Man')",
+     "group": "human"
+    }
+   ],
+   "stage": "not stated (no text read)",
+   "methods": "Not available: no abstract, excerpt or full text could be read.",
+   "findings": [],
+   "terminology": "",
+   "mentions": [],
+   "caveats": "PubMed abstract field reads '[Abstract not available]' and PMC full-text retrieval (PMC1262943) returned an empty full_text, so nothing was read. 'none' for about_paraphysis only reflects the absence of accessible text. The corpus finder note (secondary, via the UNSW transcription, unverified) mentions a 'telencephalon medium' divided by the angulus terminalis into terminal plate and roof; this was NOT verified in any text read and cannot be recorded.",
+   "appraisal": {
+    "specimens": "not_assessable",
+    "methods": "not_assessable",
+    "claims_support": "not_assessable",
+    "note": "No text read; nothing to appraise."
+   },
+   "include_in_synthesis": "no",
+   "exclusion_reason": "No accessible text (PubMed abstract not available; PMC full text empty); nothing extractable. Not a judgement on relevance."
+  },
+  {
+   "rid": "R036",
+   "data_depth": "excerpt_only",
+   "duplicate_of": "",
+   "about_paraphysis": "none",
+   "study_type": "developmental_series",
+   "taxa": [
+    {
+     "name": "Sphenodon punctatum (title)",
+     "group": "tuatara"
+    }
+   ],
+   "stage": "not stated (no text read)",
+   "methods": "Not available: no abstract, excerpt or full text could be read.",
+   "findings": [],
+   "terminology": "",
+   "mentions": [],
+   "caveats": "No text of any kind was read (metadata only, no PubMed record, no excerpt). 'none' for about_paraphysis only reflects the absence of accessible text, NOT the content of the paper. The corpus notes record conflicting web-search summaries on whether a caudal midline outpocketing is identified as the paraphysis; this conflict is unresolved and must be checked in the original/UNSW transcription.",
+   "appraisal": {
+    "specimens": "not_assessable",
+    "methods": "not_assessable",
+    "claims_support": "not_assessable",
+    "note": "No text read; nothing to appraise."
+   },
+   "include_in_synthesis": "no",
+   "exclusion_reason": "No accessible text (metadata/title only); nothing extractable. Not a judgement on relevance: a priority record to verify in the original (J Comp Neurol 35:483-536) because of the unresolved paraphysis conflict."
+  },
+  {
+   "rid": "R040",
+   "data_depth": "excerpt_only",
+   "duplicate_of": "",
+   "about_paraphysis": "none",
+   "study_type": "other",
+   "taxa": [],
+   "stage": "not stated (no text read)",
+   "methods": "Not available: no abstract, excerpt or full text could be read.",
+   "findings": [],
+   "terminology": "",
+   "mentions": [],
+   "caveats": "No text of any kind was read (metadata only, no PubMed record, no excerpt). 'none' for about_paraphysis only reflects the absence of accessible text. The title speaks of an 'ependymal cyst of the third ventricle'; whether it is a single case or series and whether the paraphysis is discussed is unknown. The corpus note (unverified) calls it an alternative to the paraphysial theory of colloid cysts.",
+   "appraisal": {
+    "specimens": "not_assessable",
+    "methods": "not_assessable",
+    "claims_support": "not_assessable",
+    "note": "No text read; nothing to appraise."
+   },
+   "include_in_synthesis": "no",
+   "exclusion_reason": "No accessible text (metadata/title only); nothing extractable. Not a judgement on relevance."
+  },
+  {
+   "rid": "R067",
+   "data_depth": "excerpt_only",
+   "duplicate_of": "",
+   "about_paraphysis": "none",
+   "study_type": "other",
+   "taxa": [
+    {
+     "name": "Humans (PubMed MeSH term; not text of the paper)",
+     "group": "human"
+    }
+   ],
+   "stage": "not stated (no text read)",
+   "methods": "Not available: no abstract, excerpt or full text could be read.",
+   "findings": [],
+   "terminology": "",
+   "mentions": [],
+   "caveats": "PubMed abstract field reads '[Abstract not available]'; no PMCID, no excerpt, so nothing was read. 'none' for about_paraphysis only reflects the absence of accessible text. Study type is not determinable from the title; the title refers to mucus-secreting cells in colloid cysts of the third ventricle.",
+   "appraisal": {
+    "specimens": "not_assessable",
+    "methods": "not_assessable",
+    "claims_support": "not_assessable",
+    "note": "No text read; nothing to appraise."
+   },
+   "include_in_synthesis": "no",
+   "exclusion_reason": "No accessible text (PubMed abstract not available); nothing extractable. Not a judgement on relevance."
+  },
+  {
+   "rid": "R096",
+   "data_depth": "excerpt_only",
+   "duplicate_of": "",
+   "about_paraphysis": "none",
+   "study_type": "ultrastructure",
+   "taxa": [],
+   "stage": "not stated (no text read)",
+   "methods": "Not available: no abstract, excerpt or full text could be read.",
+   "findings": [],
+   "terminology": "",
+   "mentions": [],
+   "caveats": "PubMed abstract field reads '[Abstract not available]'; no PMCID, no excerpt, so nothing was read. Study type 'ultrastructure' comes only from the title ('An electron microscopic study'). 'none' for about_paraphysis only reflects the absence of accessible text. The attribution of an ependymal-epithelial origin to this paper (corpus note, from Niknejad et al. 2015) was not verified in any text read.",
+   "appraisal": {
+    "specimens": "not_assessable",
+    "methods": "not_assessable",
+    "claims_support": "not_assessable",
+    "note": "No text read; nothing to appraise."
+   },
+   "include_in_synthesis": "no",
+   "exclusion_reason": "No accessible text (PubMed abstract not available); nothing extractable. Not a judgement on relevance: relevance-voted record whose content must be verified elsewhere."
+  },
+  {
+   "rid": "R106",
+   "data_depth": "excerpt_only",
+   "duplicate_of": "",
+   "about_paraphysis": "none",
+   "study_type": "other",
+   "taxa": [
+    {
+     "name": "Humans (PubMed MeSH term; not text of the paper)",
+     "group": "human"
+    }
+   ],
+   "stage": "not stated (no text read)",
+   "methods": "Not available: no abstract, excerpt or full text could be read.",
+   "findings": [],
+   "terminology": "",
+   "mentions": [],
+   "caveats": "PubMed abstract field reads '[Abstract not available]'; no PMCID, no excerpt, so nothing was read. 'none' for about_paraphysis only reflects the absence of accessible text. The corpus note (secondary, via Niknejad et al. 2015, unverified) says these authors classified the paraphysis as extraventricular choroid plexus; this was NOT verified in any text read and cannot be recorded.",
+   "appraisal": {
+    "specimens": "not_assessable",
+    "methods": "not_assessable",
+    "claims_support": "not_assessable",
+    "note": "No text read; nothing to appraise."
+   },
+   "include_in_synthesis": "no",
+   "exclusion_reason": "No accessible text (PubMed abstract not available); nothing extractable. Not a judgement on relevance: relevance-voted record whose content must be verified elsewhere."
+  }
+ ]
+}

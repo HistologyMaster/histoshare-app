@@ -1,0 +1,6 @@
+RECORD R659 | Roofe PG | year absent in Wiley record | Journal of Morphology 59:1-10 | DOI 10.1002/jmor.1050590102 (no PMID/PMC; not found in PubMed lookup)
+TITLE: The histology of the paraphysis of Amblystoma
+ACCESS: Wiley passage (stored excerpt) only
+STORED EXCERPT: The paraphysis of adult Amblystoma is made up of low columnar ependymal epithelit m which forms the paraphyseal tubules which end blindly and which communicate with one another by a common mouth with the third ventricle. Between the paraphyseal tubules venous sinusoids anastomose freely with one another forming a complicated rete. The sinusoids are made up entirely of endothelium. The blood supply to the paraphysis is entirely venous.
+
+Mitochondria were found in great abundance in the paraphysis of one female just previous to laying. Other specimens showed very few present.

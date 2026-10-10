@@ -1,0 +1,122 @@
+[
+ {
+  "cid": "S3-061",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S3-062",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S3-063",
+  "verdict": "ok_uncited",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S3-064",
+  "verdict": "overstated",
+  "issue": "\"no determinó si las estructuras alrededor de la paráfisis eran plexo coroideo\" and \"ambos pueden originarse alrededor de la 'JB'\": the source (R501.2/R501.3) says \"CP of the DV\" (plexo coroideo de la 'DV', abbreviation unexpanded), not choroid plexus in general; the paper's title concerns the lateral choroid plexus, so the unqualified wording broadens the structure.",
+  "fix": "Shiraishi (2013) señala que su estudio no determinó si las estructuras alrededor de la paráfisis eran plexo coroideo de la \"DV\" (abreviatura no desarrollada) o parte de la paráfisis [@R501.2], y sugiere que el plexo coroideo de la \"DV\" y la paráfisis pueden originarse alrededor de la \"JB\" (abreviatura no desarrollada) [@R501.3]."
+ },
+ {
+  "cid": "S3-065",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S3-066",
+  "verdict": "overstated",
+  "issue": "\"según Ung (2004) este, en el que desemboca la paráfisis, es una evaginación del tercer ventrículo que contiene plexo coroideo\" and Wilder \"lo define como evaginación de la diatela entre la epífisis y la paráfisis\": no taxon given. Ung (R410.6/R410.4) describes the neonatal tuatara, and the opening of the paraphysis into the dorsal sac is Dendy's demonstration relayed second-hand; Wilder (R663.1) says \"in many of the lower vertebrates\" (excerpt only). As written both read as general statements.",
+  "fix": "Respecto del saco dorsal, según Ung (2004) en el tuatara este, en el que según Dendy (citado por Ung) se abre la paráfisis, es una evaginación del tercer ventrículo que contiene plexo coroideo [@R410.6], y Wilder (sin fecha en el registro) lo define, en muchos vertebrados inferiores, como evaginación de la diatela entre la epífisis y la paráfisis [@R663.1]."
+ },
+ {
+  "cid": "S3-067",
+  "verdict": "needs_hedge",
+  "issue": "\"sin datos sobre la paráfisis, los resúmenes de Müller describen...\": the stage-14 abstract (R261) is truncated by PubMed (\"ABSTRACT TRUNCATED AT 400 WORDS\"), so absence of paraphysis data is verified only for the part read; the stage-11 and stage-17 abstracts are complete. Absence of evidence phrased as absence. The three stage statements themselves (R242.2, R261.2, R273.1) are accurate.",
+  "fix": "Como contexto, sin mención de la paráfisis en lo leído de los resúmenes de Müller (el del estadio 14 está truncado por PubMed), estos describen en el embrión humano..."
+ },
+ {
+  "cid": "S3-068",
+  "verdict": "ok_uncited",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S3-069",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S3-070",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S3-071",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S3-072",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S3-073",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S3-074",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S3-075",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S3-076",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S3-077",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S3-078",
+  "verdict": "ok_uncited",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S3-079",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S3-080",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ }
+]

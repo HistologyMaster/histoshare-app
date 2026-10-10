@@ -1,0 +1,520 @@
+{
+ "batch": "eB02",
+ "records": [
+  {
+   "rid": "R122",
+   "data_depth": "excerpt_only",
+   "duplicate_of": "",
+   "about_paraphysis": "none",
+   "study_type": "terminology",
+   "taxa": [],
+   "stage": "not stated (title only)",
+   "methods": "Not assessable: PubMed lists no abstract; only the title and bibliographic metadata were read.",
+   "findings": [
+    {
+     "id": "R122.1",
+     "dim": "terminology",
+     "statement": "By its title, the paper offers morphogenetic, tectogenetic and architectonic definitions of telencephalon 'impar', 'semipar' and 'totopar'; the content of these definitions was not read.",
+     "support": "Telencephalon \"impar\", \"semipar\" and \"totopar\". (Morphogenetic, tectogenetic and architectonic definitions).",
+     "locator": "title",
+     "strength": "authors_interpretation",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Title uses the terms telencephalon impar / semipar / totopar; no definition or relation to the paraphysis could be read.",
+   "mentions": [],
+   "caveats": "PubMed abstract not available and no stored excerpt: only the title was read. Nothing about the paraphysis, the telencephalon medium or the roof plate can be extracted; the finder note on 'classical terminology source' could not be verified from text. Full text would need manual retrieval.",
+   "appraisal": {
+    "specimens": "not_assessable",
+    "methods": "not_assessable",
+    "claims_support": "not_assessable",
+    "note": "No abstract or text available; title only."
+   },
+   "include_in_synthesis": "no",
+   "exclusion_reason": "No abstract or full text accessible; only the title was read, so no usable content on the paraphysis or adjacent structures could be extracted (flag for manual retrieval if the terminology source is needed)."
+  },
+  {
+   "rid": "R140",
+   "data_depth": "excerpt_only",
+   "duplicate_of": "",
+   "about_paraphysis": "none",
+   "study_type": "ultrastructure",
+   "taxa": [
+    {
+     "name": "Humans (PubMed MeSH index term only; title does not state species)",
+     "group": "human"
+    }
+   ],
+   "stage": "not stated (title only)",
+   "methods": "Not assessable: no abstract; title indicates an ultrastructural study of a third ventricle colloid cyst.",
+   "findings": [],
+   "terminology": "",
+   "mentions": [],
+   "caveats": "PubMed abstract not available (German-language paper) and no stored excerpt: only the title and bibliographic metadata were read. The finder note about ciliated epithelium and mucin comes from MeSH index terms (Cilia, Mucins), not from author text, and was not verified.",
+   "appraisal": {
+    "specimens": "not_assessable",
+    "methods": "not_assessable",
+    "claims_support": "not_assessable",
+    "note": "No abstract or text available; title only."
+   },
+   "include_in_synthesis": "no",
+   "exclusion_reason": "No abstract or full text accessible; the title alone gives no findings relevant to the paraphysis or to colloid-cyst histogenesis."
+  },
+  {
+   "rid": "R145",
+   "data_depth": "excerpt_only",
+   "duplicate_of": "",
+   "about_paraphysis": "none",
+   "study_type": "ultrastructure",
+   "taxa": [
+    {
+     "name": "Humans (PubMed MeSH index term only; title does not state species)",
+     "group": "human"
+    }
+   ],
+   "stage": "not stated (title only)",
+   "methods": "Not assessable: no abstract; title indicates a fine-structure (electron microscopic) study of colloid cysts of the third ventricle.",
+   "findings": [],
+   "terminology": "",
+   "mentions": [],
+   "caveats": "PubMed abstract not available and no stored excerpt: only the title and bibliographic metadata were read. The MeSH terms (Endoderm, Choroid Plexus, Cilia) are indexer terms, not author statements, and were not used as findings. The authors' conclusion on origin is not verified.",
+   "appraisal": {
+    "specimens": "not_assessable",
+    "methods": "not_assessable",
+    "claims_support": "not_assessable",
+    "note": "No abstract or text available; title only."
+   },
+   "include_in_synthesis": "no",
+   "exclusion_reason": "No abstract or full text accessible; the title alone gives no findings relevant to the paraphysis or to colloid-cyst histogenesis."
+  },
+  {
+   "rid": "R149",
+   "data_depth": "abstract",
+   "duplicate_of": "",
+   "about_paraphysis": "none",
+   "study_type": "case_series",
+   "taxa": [
+    {
+     "name": "patients (two cases)",
+     "group": "human"
+    }
+   ],
+   "stage": "not stated in abstract",
+   "methods": "Two surgically treated cases (right transventricular-transseptal approach) with clinical, neurological and neuroradiological description; pathogenesis discussed in light of developmental anatomy.",
+   "findings": [
+    {
+     "id": "R149.1",
+     "dim": "anatomy",
+     "statement": "Two neuroepithelial (colloid) cysts lay above the diencephalic roof, between the two fornices and the two leaves of the septum pellucidum; the authors found no previous report in this location.",
+     "support": "two cases of neuroepithelial (colloid) cysts found above the diencephalic roof, occupying the space between the two fornices and the two leaves of the septum pellucidum",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    },
+    {
+     "id": "R149.2",
+     "dim": "ontogeny",
+     "statement": "Authors derive colloid cysts from diencephalic-roof neuroepithelium, by invagination into the third ventricle or evagination into the velum interpositum, and propose the term neuroepithelial cysts.",
+     "support": "In view of their origin from the neuroepithelium in the diencephalic roof, whether by a process of invagination into the third ventricle or by evagination into the velum interpositum, the so-called colloid cysts are more appropriately termed neuroepithelial cysts.",
+     "locator": "abstract",
+     "strength": "authors_interpretation",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Calls the cysts 'neuroepithelial (colloid) cysts' and places their origin in the diencephalic roof (not telencephalic); the abstract does not use the word paraphysis.",
+   "mentions": [],
+   "caveats": "Abstract only; the abstract never mentions the paraphysis, so any link to paraphyseal derivation is not stated in the text read. The developmental-anatomy argument itself (full text) was not read.",
+   "appraisal": {
+    "specimens": "partial",
+    "methods": "not_assessable",
+    "claims_support": "not_assessable",
+    "note": "Abstract gives n=2 and location but no age or sex; the pathogenic argument is not visible in the abstract."
+   },
+   "include_in_synthesis": "context_only",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R151",
+   "data_depth": "abstract",
+   "duplicate_of": "",
+   "about_paraphysis": "none",
+   "study_type": "ultrastructure",
+   "taxa": [
+    {
+     "name": "human CNS epithelial cysts (three types; species not stated in abstract)",
+     "group": "human"
+    }
+   ],
+   "stage": "not stated in abstract",
+   "methods": "Electron microscopic (fine structure) examination of three types of single-cell-lined cysts within the central nervous system, including a third-ventricle colloid cyst.",
+   "findings": [
+    {
+     "id": "R151.1",
+     "dim": "histology",
+     "statement": "A third-ventricle colloid cyst had fine structure almost identical to a spinal subarachnoid cyst lined by ciliated and nonciliated secretory cells; both were considered of endodermal origin.",
+     "support": "The second type was a colloid cyst of the third ventricle and its fine structural features were almost identical to those of the first type. It was, therefore, likewise considered to be of endodermal origin.",
+     "locator": "abstract",
+     "strength": "authors_interpretation",
+     "quote_verified": true
+    },
+    {
+     "id": "R151.2",
+     "dim": "histology",
+     "statement": "An intracerebral epithelial cyst had lining cells resembling ependymal cells, in contrast to the endodermal-type cysts.",
+     "support": "The third type was an intracerebral epithelial cyst in which the lining cells more closely resembled ependymal cells.",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Uses 'colloid cyst of the third ventricle' and 'endodermal origin'; no mention of paraphysis.",
+   "mentions": [],
+   "caveats": "Abstract only (Japanese-language paper with English abstract); the number of colloid cysts examined is not stated; the paraphysis is not mentioned.",
+   "appraisal": {
+    "specimens": "partial",
+    "methods": "partial",
+    "claims_support": "not_assessable",
+    "note": "Abstract states electron microscopy and three cyst types, but no n per type, age or preparation details."
+   },
+   "include_in_synthesis": "context_only",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R153",
+   "data_depth": "abstract",
+   "duplicate_of": "",
+   "about_paraphysis": "none",
+   "study_type": "case_report",
+   "taxa": [
+    {
+     "name": "22-year-old woman",
+     "group": "human"
+    }
+   ],
+   "stage": "adult (22-year-old woman)",
+   "methods": "Single case report of a combined neuroepithelial cyst and xanthogranuloma of the choroid plexus in the third ventricle; the abstract does not state the techniques used.",
+   "findings": [
+    {
+     "id": "R153.1",
+     "dim": "histology",
+     "statement": "The authors state that colloid cysts originate from neuroepithelium, arising from both ependyma and choroid plexus.",
+     "support": "The origin of \"colloid\" cysts is from neuroepithelium; these cysts arise from both ependyma and choroid plexus.",
+     "locator": "abstract",
+     "strength": "authors_interpretation",
+     "quote_verified": true
+    },
+    {
+     "id": "R153.2",
+     "dim": "ontogeny",
+     "statement": "Cysts in or near the third-ventricle floor may arise from stomodeal epithelium, but the authors say this cannot be distinguished from neuroepithelial cysts with the methods then available.",
+     "support": "Those cysts arising in or near the floor of the third ventricle may originate in stomodeal epithelium, but a distinction cannot be made from neuroepithelial cysts by presently available methods.",
+     "locator": "abstract",
+     "strength": "authors_interpretation",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Uses 'neuroepithelial (colloid) cyst'; origin attributed to ependyma and choroid plexus; no mention of paraphysis.",
+   "mentions": [],
+   "caveats": "Abstract only; the origin statements are general conclusions in the abstract, not demonstrated for the single case. The paraphysis is not mentioned.",
+   "appraisal": {
+    "specimens": "partial",
+    "methods": "not_assessable",
+    "claims_support": "not_assessable",
+    "note": "Single case with age and sex given; techniques and the evidence behind the origin statements are not visible in the abstract."
+   },
+   "include_in_synthesis": "context_only",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R168",
+   "data_depth": "abstract",
+   "duplicate_of": "",
+   "about_paraphysis": "none",
+   "study_type": "ultrastructure",
+   "taxa": [
+    {
+     "name": "surgically excised colloid cyst (one cyst; patient species not stated in abstract)",
+     "group": "human"
+    }
+   ],
+   "stage": "not stated in abstract",
+   "methods": "Electron microscopy (fine structure) of one surgically excised third-ventricle colloid cyst.",
+   "findings": [
+    {
+     "id": "R168.1",
+     "dim": "histology",
+     "statement": "The cyst was lined by ciliated and nonciliated columnar cells; nonciliated cells held secretory material and a surface coating, and a smaller third cell type with tonofilaments and desmosomes lay against the basement membrane.",
+     "support": "The cyst was lined by ciliated and nonciliated columnar cells. The nonciliated cells contained secretory material and had a surface coating.",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    },
+    {
+     "id": "R168.2",
+     "dim": "ontogeny",
+     "statement": "Authors judge the lining to resemble upper respiratory epithelium rather than neuroepithelium, supporting an endodermal source for colloid cysts.",
+     "support": "The cyst lining closely resembled the upper respiratory epithelium rather than neuroepithelium, thus supporting the contention that colloid cysts are derived from an endodermal source.",
+     "locator": "abstract",
+     "strength": "authors_interpretation",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Uses 'colloid cyst' and contrasts upper respiratory epithelium with neuroepithelium; the abstract does not mention the paraphysis.",
+   "mentions": [],
+   "caveats": "Abstract only; single cyst. The finder note linking this to arguing against a paraphyseal origin is not stated in the abstract (paraphysis not mentioned).",
+   "appraisal": {
+    "specimens": "partial",
+    "methods": "partial",
+    "claims_support": "not_assessable",
+    "note": "Abstract states one excised cyst and electron microscopy; no patient details or preparation. The origin claim is an interpretation of one case."
+   },
+   "include_in_synthesis": "context_only",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R171",
+   "data_depth": "abstract",
+   "duplicate_of": "",
+   "about_paraphysis": "none",
+   "study_type": "light_morphology",
+   "taxa": [
+    {
+     "name": "Rathke's cysts and cysts of the foramen of Monro (species not stated in abstract)",
+     "group": "human"
+    }
+   ],
+   "stage": "not stated in abstract",
+   "methods": "Histological structure of Rathke's cyst compared with colloid cysts of the third ventricle; the abstract gives no further methods or n.",
+   "findings": [
+    {
+     "id": "R171.1",
+     "dim": "histology",
+     "statement": "Rathke's cyst wall (mono- or multilayer epithelium with glands and mucus-secreting cells) is taken to indicate stomodaeal origin; these cysts are said to resemble cysts of the foramen of Monro (third-ventricle colloid cysts).",
+     "support": "The histological structure of Rathke's cyst having an epithelial mono- or multiple layer wall with glands and mucous secreting cells is indicative of their origin from the stomodaeum.",
+     "locator": "abstract",
+     "strength": "authors_interpretation",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Equates 'so-called cysts of the foramen of Monro' with 'colloid cysts of the third ventricle'.",
+   "mentions": [
+    {
+     "work": "Stochdorph (no year given in abstract)",
+     "claim": "Stochdorph attributes the origin of the foramen of Monro (colloid) cysts to ectopic cerebral inclusions of the upper respiratory tract.",
+     "quote": "According to Stochdorph, the origin of the latter cysts is from ectopic cerebral inclusions of the upper respiratory tract.",
+     "strength": "secondary_report"
+    }
+   ],
+   "caveats": "Abstract only (German-language paper); the abstract contains a typo ('simialr') and no paraphysis data. Stochdorph's work is cited only secondhand.",
+   "appraisal": {
+    "specimens": "not_assessable",
+    "methods": "not_assessable",
+    "claims_support": "not_assessable",
+    "note": "Abstract gives no n, stage or technique; the similarity claim cannot be checked."
+   },
+   "include_in_synthesis": "context_only",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R177",
+   "data_depth": "abstract",
+   "duplicate_of": "",
+   "about_paraphysis": "none",
+   "study_type": "case_report",
+   "taxa": [
+    {
+     "name": "4-year-old boy",
+     "group": "human"
+    }
+   ],
+   "stage": "4-year-old boy",
+   "methods": "Case report of three neuroepithelial cysts (one in the third ventricle, two in the supratentorial subarachnoid space) with associated congenital anomalies, plus review of the literature; techniques not stated in the abstract.",
+   "findings": [
+    {
+     "id": "R177.1",
+     "dim": "ontogeny",
+     "statement": "Authors conclude the cysts originated from neuroepithelium including ectopic ependyma-lined structures; cysts at or near the third-ventricle floor may instead derive from the cleft of Rathke's pouch.",
+     "support": "The cysts originated from neuroepithelium including ectopic ependyma-lined structures. The exception may be those cysts arising in or near the floor of the third ventricle; these cysts could be derived from the cleft of Rathke's pouch, an endodermal derivative.",
+     "locator": "abstract",
+     "strength": "authors_interpretation",
+     "quote_verified": true
+    },
+    {
+     "id": "R177.2",
+     "dim": "ontogeny",
+     "statement": "Proposed mode of formation of most colloid cysts is folding of neuroepithelium in contact with mesenchyma or neuroglial tissue.",
+     "support": "Folding of the neuroepithelium in contact with mesenchyma or neuroglial tissue is proposed as the mode of formation of most \"colloid\" cysts.",
+     "locator": "abstract",
+     "strength": "hypothesis",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Uses 'neuroepithelial (colloid) cysts'; distinguishes cysts near the third-ventricle floor (possible Rathke's pouch derivation) from the rest; no mention of paraphysis.",
+   "mentions": [],
+   "caveats": "Abstract only; the folding mechanism is a proposal, not demonstrated in the abstract; the paraphysis is not mentioned.",
+   "appraisal": {
+    "specimens": "partial",
+    "methods": "not_assessable",
+    "claims_support": "not_assessable",
+    "note": "Case age and sex given; techniques and evidence for the origin and folding proposals are not visible in the abstract."
+   },
+   "include_in_synthesis": "context_only",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R179",
+   "data_depth": "excerpt_only",
+   "duplicate_of": "",
+   "about_paraphysis": "none",
+   "study_type": "case_report",
+   "taxa": [
+    {
+     "name": "Humans (PubMed MeSH index term only; title does not state species)",
+     "group": "human"
+    }
+   ],
+   "stage": "not stated (title only)",
+   "methods": "Not assessable: no abstract; title indicates an autopsy case of a colloid cyst of the 3rd ventricle with anatomic, clinical and histogenetic considerations.",
+   "findings": [],
+   "terminology": "",
+   "mentions": [],
+   "caveats": "PubMed abstract not available (Italian-language paper) and no stored excerpt: only the title and bibliographic metadata were read. Whether the 'histogenetic considerations' discuss the paraphysis is unknown.",
+   "appraisal": {
+    "specimens": "not_assessable",
+    "methods": "not_assessable",
+    "claims_support": "not_assessable",
+    "note": "No abstract or text available; title only."
+   },
+   "include_in_synthesis": "no",
+   "exclusion_reason": "No abstract or full text accessible; the title alone gives no findings relevant to the paraphysis or to colloid-cyst histogenesis."
+  },
+  {
+   "rid": "R185",
+   "data_depth": "abstract",
+   "duplicate_of": "",
+   "about_paraphysis": "passing_mention",
+   "study_type": "comparative_anatomy",
+   "taxa": [
+    {
+     "name": "amphioxus",
+     "group": "not_applicable"
+    },
+    {
+     "name": "lamprey",
+     "group": "cyclostome"
+    },
+    {
+     "name": "dogfish",
+     "group": "chondrichthyan"
+    },
+    {
+     "name": "goldfish",
+     "group": "actinopterygian"
+    },
+    {
+     "name": "lungfish",
+     "group": "dipnoan"
+    },
+    {
+     "name": "frog",
+     "group": "anuran"
+    },
+    {
+     "name": "salamander",
+     "group": "urodele"
+    },
+    {
+     "name": "turtle",
+     "group": "chelonian"
+    },
+    {
+     "name": "pigeon",
+     "group": "bird"
+    },
+    {
+     "name": "mouse",
+     "group": "eutherian"
+    }
+   ],
+   "stage": "not stated in abstract",
+   "methods": "Serial histological sections of the brain in situ with its membranes and the skull after mainly intracardiac fixation, in ten taxa; the CSF system compared across animals.",
+   "findings": [
+    {
+     "id": "R185.1",
+     "dim": "phylogeny",
+     "statement": "The paraphysis is listed among the ependymal derivatives (with the choroid plexuses) compared across amphioxus, lamprey, dogfish, goldfish, lungfish, frog, salamander, turtle, pigeon and mouse; the abstract reports no paraphysis result.",
+     "support": "the ependyma with its various derivatives, including the choroid plexuses and paraphysis, and the relationship between the various CSF compartments and the cerebrovascular system have all been compared in these animals",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    },
+    {
+     "id": "R185.2",
+     "dim": "physiology",
+     "statement": "The author derives the hypothesis that the CSF system mainly serves to maintain the chemical environment of CNS cells, including neuroendocrine pathways.",
+     "support": "The hypothesis has been derived that the CSF system is primarily developed to maintain the chemical environment necessary to the function of the cells of the central nervous system, including the neuroendocrine pathways.",
+     "locator": "abstract",
+     "strength": "hypothesis",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Uses 'paraphysis' as an ependymal derivative within the CSF system; no definition or location given in the abstract.",
+   "caveats": "Abstract only. PMC2492219 full_text field returned empty (scanned images only), so any species-level paraphysis observations in the paper could not be read; full text needs manual retrieval. Which of the ten taxa show a paraphysis is unknown. 'Amphioxus' coded not_applicable because no group fits.",
+   "mentions": [],
+   "appraisal": {
+    "specimens": "partial",
+    "methods": "partial",
+    "claims_support": "not_assessable",
+    "note": "Abstract lists ten taxa and the serial-section technique but no n or stages; paraphysis-specific claims are absent from the abstract."
+   },
+   "include_in_synthesis": "context_only",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R188",
+   "data_depth": "abstract",
+   "duplicate_of": "",
+   "about_paraphysis": "none",
+   "study_type": "case_report",
+   "taxa": [
+    {
+     "name": "40-year-old man",
+     "group": "human"
+    }
+   ],
+   "stage": "adult (40-year-old man)",
+   "methods": "Case report: pneumoencephalography showed a third-ventricular cyst and empty sella; the cyst lining was examined histologically (technique not detailed in the abstract).",
+   "findings": [
+    {
+     "id": "R188.1",
+     "dim": "histology",
+     "statement": "The third-ventricle colloid cyst was lined by foregut epithelium, probably of respiratory-tract origin, with dense connective tissue.",
+     "support": "The colloid cyst was lined by foregut epithelium, probably originating in the respiratory tract, and dense connective tissue.",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    },
+    {
+     "id": "R188.2",
+     "dim": "ontogeny",
+     "statement": "Authors conclude that suprasellar colloid cysts may arise from endoderm, ectoderm, neuroepithelium or a combination of these epithelia.",
+     "support": "It is concluded that suprasellar colloid cysts may arise from endoderm, ectoderm, neuroepithelium, or a combination of these epithelia.",
+     "locator": "abstract",
+     "strength": "authors_interpretation",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Uses 'suprasellar colloid cyst' / 'third ventricle cysts' and 'foregut (respiratory) origin'; no mention of paraphysis.",
+   "mentions": [],
+   "caveats": "Abstract only; the broad multi-source origin conclusion is a general statement, not shown from one case. The empty-sella and CSF pulsation material is clinical and not relevant to the paraphysis.",
+   "appraisal": {
+    "specimens": "partial",
+    "methods": "not_assessable",
+    "claims_support": "not_assessable",
+    "note": "Single case with age and sex; histological methods are not described in the abstract; origin conclusion is interpretive."
+   },
+   "include_in_synthesis": "context_only",
+   "exclusion_reason": ""
+  }
+ ]
+}

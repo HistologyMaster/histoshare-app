@@ -1,0 +1,4 @@
+RECORD R655 | Gupta; Shrivastava | Okajimas Folia Anatomica Japonica 49(2-3) | no DOI in record
+TITLE: Studies on the Functional Morphology and Anatomy of the Central Nervous System of Xenentodon cancila (Ham.) including its Histology 1. The Brain
+ACCESS: web search snippet only; AI-summary text, unverified. PubMed lookup (identity only): PMID 4678331, Gupta OP, Shrivastava RK, Okajimas Folia Anat Jpn 1972 Sep;49(2):111-27, DOI 10.2535/ofaj1936.49.2-3_111; PubMed abstract: [Abstract not available]; MeSH: Animals, Brain, Diencephalon, Fishes, Mesencephalon, Telencephalon.
+STORED EXCERPT: On the roof of diencephalon there is some indication of the paraphysis but parapineal is absent.

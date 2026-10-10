@@ -1,0 +1,122 @@
+[
+ {
+  "cid": "S1-061",
+  "verdict": "ok_uncited",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-062",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-063",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-064",
+  "verdict": "needs_hedge",
+  "issue": "«Selenka, «Das Stirnorgan der Wirbeltiere»: Dexter le atribuye la primera identificación…»: el texto leído solo dice «Selenka (12) was the first to identify the paraphysis in chicks» (frase de Dexter); la DB indica que la identidad de la ref. (12) de Dexter con esta obra de 1891 está solo inferida y no confirmada (R004 caveats/screen_reason). La fila presenta el título como la obra atribuida.",
+  "fix": "Selenka (1891), «Das Stirnorgan der Wirbeltiere» (identificación inferida, no confirmada, con la ref. (12) de Dexter): Dexter atribuye a «Selenka (12)» la primera identificación de la paráfisis en pollos | fragmento secundario no verificado"
+ },
+ {
+  "cid": "S1-065",
+  "verdict": "needs_hedge",
+  "issue": "«1894 | Burckhardt muestra la paráfisis de un embrión de cuervo…»: la frase proviene de un texto posterior (cita «Burckhardt (3)»); la DB señala que no está confirmado que la ref. (3) sea este trabajo de 1894 (existe R006, otro Burckhardt 1894). Año y autoría de la observación se presentan sin esa reserva.",
+  "fix": "Un texto posterior (Dexter) cita a «Burckhardt (3)», quien muestra la paráfisis de un embrión de cuervo como un pequeño divertículo, «not unlike» la de Petromyzon; la correspondencia de esa referencia con Burckhardt 1894 no está confirmada"
+ },
+ {
+  "cid": "S1-066",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-067",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-068",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-069",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-070",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-071",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-072",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-073",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-074",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-075",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-076",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-077",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-078",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-079",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-080",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ }
+]

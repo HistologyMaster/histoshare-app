@@ -1,0 +1,434 @@
+{
+ "batch": "eA07",
+ "records": [
+  {
+   "rid": "R411",
+   "data_depth": "secondary_snippet",
+   "duplicate_of": "",
+   "about_paraphysis": "principal",
+   "study_type": "light_morphology",
+   "taxa": [
+    {
+     "name": "Trachemys dorbigni",
+     "group": "chelonian"
+    }
+   ],
+   "stage": "not stated in the snippet",
+   "methods": "Only a two-sentence web-search summary was available: a 'microscopic investigation' of the paraphysis. Technique, number of animals and stage are not stated in the text read.",
+   "findings": [
+    {
+     "id": "R411.1",
+     "dim": "histology",
+     "statement": "The turtle paraphysis is described as a highly vascular neuroepithelial structure lined by a simple cuboidal epithelium.",
+     "support": "The paraphysis is a highly vascular neuroepithelial structure lined by a simple cuboidal epithelium.",
+     "locator": "excerpt",
+     "strength": "secondary_report",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Called 'paraphysis' and characterised as a 'neuroepithelial structure'; no location (telencephalic vs diencephalic roof) or definition is given in the text read.",
+   "mentions": [],
+   "caveats": "AI-written web-search summary (secondary_snippet), unverified; not in PubMed; the paper itself was not read. Authorship conflict between sources (Winkelmann et al. vs another author list for the same title and pages). Same work as R412 (same journal, volume, pages and title).",
+   "appraisal": {
+    "specimens": "not_assessable",
+    "methods": "not_assessable",
+    "claims_support": "not_assessable",
+    "note": "Only a two-sentence AI-summary snippet was available; the original paper cannot be appraised."
+   },
+   "include_in_synthesis": "yes",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R412",
+   "data_depth": "secondary_snippet",
+   "duplicate_of": "R411",
+   "about_paraphysis": "principal",
+   "study_type": "experimental",
+   "taxa": [
+    {
+     "name": "Trachemys (scripta) dorbigni",
+     "group": "chelonian"
+    }
+   ],
+   "stage": "not stated in the snippet",
+   "methods": "Only a web-search summary fragment was available: intra-arterial administration of Evans blue. Number of animals, stage and other techniques are not stated in the text read.",
+   "findings": [
+    {
+     "id": "R412.1",
+     "dim": "physiology",
+     "statement": "Intra-arterial Evans blue administration showed no blood-brain barrier in the turtle paraphysis (per the snippet).",
+     "support": "Intra-arterial administration of Evans blue showed the absence of the blood-brain barrier.",
+     "locator": "excerpt",
+     "strength": "experimental_result",
+     "quote_verified": true
+    },
+    {
+     "id": "R412.2",
+     "dim": "histology",
+     "statement": "The absence of the blood-brain barrier is probably related to a fenestrated endothelium (the snippet's wording).",
+     "support": "This is probably related to the presence of a fenestrated endothelium",
+     "locator": "excerpt",
+     "strength": "authors_interpretation",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Called 'paraphysis' (title); the snippet does not locate or define the structure.",
+   "mentions": [],
+   "caveats": "AI-written web-search summary (secondary_snippet), unverified; the fragment is truncated and the text before it is missing, so the referent of 'This' is inferred from the preceding sentence. Not in PubMed; the paper itself was not read. Same work as R411; findings of the two records should be merged. Authorship metadata conflict between sources.",
+   "appraisal": {
+    "specimens": "not_assessable",
+    "methods": "not_assessable",
+    "claims_support": "not_assessable",
+    "note": "Only a truncated AI-summary fragment was available; the original paper cannot be appraised."
+   },
+   "include_in_synthesis": "yes",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R447",
+   "data_depth": "excerpt_only",
+   "duplicate_of": "",
+   "about_paraphysis": "passing_mention",
+   "study_type": "experimental",
+   "taxa": [
+    {
+     "name": "quail-chick chimeras",
+     "group": "bird"
+    }
+   ],
+   "stage": "neurulation (as in the title)",
+   "methods": "Only the stored excerpt (Wiley passage) was read: quail-chick chimeras (title); the passage mentions the prospective pallium territory in the neural plate and after neural tube closure.",
+   "findings": [
+    {
+     "id": "R447.1",
+     "dim": "anatomy",
+     "statement": "The paraphysis is stated to lie in prosomere 3 (p3), with the velum transversum presumably separating the roof of p3 from p2.",
+     "support": "The velum transversum presumably limits at the roof of the prosomer 3 (p3) from the prosomer 2 (p2), and the paraphysis lies in p3.",
+     "locator": "excerpt",
+     "strength": "authors_interpretation",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Locates the paraphysis in p3 (prosomeric model, diencephalon) and not in the telencephalon; the structure is not defined further in the passage.",
+   "mentions": [],
+   "caveats": "Only a 700-character excerpt was read; whether the sentence is the authors' own fate-mapping result or a restatement of earlier work is not shown. The 'presumably' hedge applies to the velum transversum clause. The second paragraph of the excerpt (pallium territory) does not mention the paraphysis. Species not named beyond 'quail-chick'.",
+   "appraisal": {
+    "specimens": "not_assessable",
+    "methods": "not_assessable",
+    "claims_support": "not_assessable",
+    "note": "One sentence of excerpt only; whether the placement of the paraphysis in p3 is observed or inferred cannot be told."
+   },
+   "include_in_synthesis": "yes",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R467",
+   "data_depth": "abstract",
+   "duplicate_of": "",
+   "about_paraphysis": "substantive",
+   "study_type": "molecular_expression",
+   "taxa": [
+    {
+     "name": "newt Cynops pyrrhogaster",
+     "group": "urodele"
+    }
+   ],
+   "stage": "not stated in the abstract",
+   "methods": "In situ hybridization and immunohistochemistry for V1a-, V2- and V3/V1b-type arginine vasotocin receptors in brain and pituitary (abstract only).",
+   "findings": [
+    {
+     "id": "R467.1",
+     "dim": "histology",
+     "statement": "In the newt paraphysis only V2-type AVT receptor mRNA signal and immunoreactivity were detected (the other two receptor types are not reported there).",
+     "support": "In the paraphysis (possibly the main site of cerebrospinal fluid production), only V2-type receptor mRNA signal and immunoreactivity were detected.",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    },
+    {
+     "id": "R467.2",
+     "dim": "physiology",
+     "statement": "The authors qualify the paraphysis as possibly the main site of cerebrospinal fluid production.",
+     "support": "In the paraphysis (possibly the main site of cerebrospinal fluid production)",
+     "locator": "abstract",
+     "strength": "hypothesis",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Uses 'paraphysis' without definition or location in the abstract; treated as a distinct brain site in the receptor mapping.",
+   "mentions": [],
+   "caveats": "Abstract only (no PMC full text read); the specific supporting evidence for the cerebrospinal-fluid-production remark is not in the abstract. Elsewhere (R485) this paper is cited as relating the paraphysis receptor to osmotic/ionic regulation of cerebrospinal fluid; that wording is not in this abstract.",
+   "appraisal": {
+    "specimens": "not_assessable",
+    "methods": "not_assessable",
+    "claims_support": "mixed",
+    "note": "Abstract only: receptor localization is directly reported; the CSF-production remark is a hedged ('possibly') interpretation. Specimen number and stage not stated."
+   },
+   "include_in_synthesis": "yes",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R471",
+   "data_depth": "abstract",
+   "duplicate_of": "",
+   "about_paraphysis": "principal",
+   "study_type": "case_report",
+   "taxa": [
+    {
+     "name": "adult human",
+     "group": "human"
+    }
+   ],
+   "stage": "adult (title)",
+   "methods": "Case report of a third-ventricle colloid cyst with an associated remnant; the abstract states no technique (title and abstract only).",
+   "findings": [
+    {
+     "id": "R471.1",
+     "dim": "clinical",
+     "statement": "The authors report a third-ventricle colloid cyst arising in association with a remnant they believe corresponds to the paraphysis cerebri in man.",
+     "support": "We report a case of colloid cyst of the third ventricle arising in association with a remnant which we believe corresponds to the paraphysis cerebri in man.",
+     "locator": "abstract",
+     "strength": "authors_interpretation",
+     "quote_verified": true
+    },
+    {
+     "id": "R471.2",
+     "dim": "ontogeny",
+     "statement": "The title describes the remnant as an embryological remnant consistent with paraphysis cerebri, found in an adult human.",
+     "support": "Colloid cyst of the third cerebral ventricle with an embryological remnant consistent with paraphysis cerebri in an adult human",
+     "locator": "title",
+     "strength": "authors_interpretation",
+     "quote_verified": true
+    },
+    {
+     "id": "R471.3",
+     "dim": "clinical",
+     "statement": "Early theories of colloid-cyst histogenesis favored a neuroepithelial origin (paraphysis, ependyma, choroid plexus); an endodermal source was proposed by others; the question remains unsettled.",
+     "support": "Initial theories favored a neuroepithelial (paraphysis, ependyma, choroid plexus) origin and some investigators based on morphologic analysis have offered an alternative endodermal source.",
+     "locator": "abstract",
+     "strength": "secondary_report",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Uses 'paraphysis cerebri' for a human remnant ('in man') and lists the paraphysis among neuroepithelial candidate origins of colloid cysts, alongside ependyma and choroid plexus; no location or definition is given in the abstract.",
+   "mentions": [],
+   "caveats": "Abstract only; the criteria (histology, immunostaining, imaging) on which the remnant was identified as paraphysis are not in the abstract. 'Believe' and 'consistent with' mark the identification as the authors' interpretation, not demonstration. The theories in the abstract are unattributed, so no named works are recorded.",
+   "appraisal": {
+    "specimens": "not_assessable",
+    "methods": "not_assessable",
+    "claims_support": "inference",
+    "note": "Abstract only; the paraphysis identification is explicitly a belief ('which we believe corresponds'), so it is an interpretation of a single case."
+   },
+   "include_in_synthesis": "yes",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R485",
+   "data_depth": "excerpt_only",
+   "duplicate_of": "",
+   "about_paraphysis": "substantive",
+   "study_type": "molecular_expression",
+   "taxa": [
+    {
+     "name": "Pleurodeles waltl",
+     "group": "urodele"
+    }
+   ],
+   "stage": "adult (abstract)",
+   "methods": "Pax6, Pax7 and Pax3 immunohistochemistry in adult Pleurodeles waltl brain (abstract). The paraphysis passage read is a literature-based discussion paragraph; its methods are not shown.",
+   "findings": [
+    {
+     "id": "R485.1",
+     "dim": "terminology",
+     "statement": "The authors state that the nature of the paraphysis, an evagination from the ventricle, is controversial: a telencephalic derivative for some authors, part of the roof of p3 for others.",
+     "support": "The nature of the paraphysis (par), the structure that evaginates from the ventricle, is controversial. For some authors, this constitutes a telencephalic derivative, whereas for others it belongs to the roof of p3.",
+     "locator": "excerpt",
+     "strength": "authors_interpretation",
+     "quote_verified": true
+    },
+    {
+     "id": "R485.2",
+     "dim": "anatomy",
+     "statement": "In amphibians the paraphysis has been described as a posterior telencephalic organ adjacent to the choroid plexus of the third ventricle.",
+     "support": "Specifically in amphibians, it has been described as a posterior telencephalic organ adjacent to the choroid plexus of the third ventricle",
+     "locator": "excerpt",
+     "strength": "secondary_report",
+     "quote_verified": true
+    },
+    {
+     "id": "R485.3",
+     "dim": "physiology",
+     "statement": "Unlike the choroid plexus, the amphibian paraphysis is said to lack the uptake mechanisms for cerebrospinal fluid.",
+     "support": "but unlike the plexus it lacks the uptake mechanisms for cerebrospinal fluid",
+     "locator": "excerpt",
+     "strength": "secondary_report",
+     "quote_verified": true
+    },
+    {
+     "id": "R485.4",
+     "dim": "physiology",
+     "statement": "In urodeles a type of arginine vasotocin receptor was observed in the paraphysis, related to osmotic and/or ionic regulation of cerebrospinal fluid.",
+     "support": "In urodeles a type of arginine vasotocin receptor was observed in the paraphysis, related to the osmotic and/or ionic regulation of the cerebrospinal fluid",
+     "locator": "excerpt",
+     "strength": "secondary_report",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Abbreviated 'par'; defined as 'the structure that evaginates from the ventricle'. The authors present two positions: telencephalic derivative vs roof of p3 (prosomeric diencephalon); in amphibians it is described as a posterior telencephalic organ adjacent to the third-ventricle choroid plexus.",
+   "mentions": [
+    {
+     "work": "ArinsKappers, 1956 (as printed)",
+     "claim": "Described the amphibian paraphysis as a posterior telencephalic organ adjacent to the choroid plexus of the third ventricle.",
+     "quote": "it has been described as a posterior telencephalic organ adjacent to the choroid plexus of the third ventricle",
+     "strength": "secondary_report"
+    },
+    {
+     "work": "Jansen and Diederen, 1987",
+     "claim": "The paraphysis, unlike the choroid plexus, lacks the cerebrospinal-fluid uptake mechanisms.",
+     "quote": "unlike the plexus it lacks the uptake mechanisms for cerebrospinal fluid",
+     "strength": "secondary_report"
+    },
+    {
+     "work": "Hasunuma et al., 2010",
+     "claim": "A type of arginine vasotocin receptor was observed in the urodele paraphysis, related to osmotic and/or ionic regulation of cerebrospinal fluid.",
+     "quote": "In urodeles a type of arginine vasotocin receptor was observed in the paraphysis, related to the osmotic and/or ionic regulation of the cerebrospinal fluid",
+     "strength": "secondary_report"
+    }
+   ],
+   "caveats": "Only the stored excerpt (Wiley passage) was read, plus the PubMed abstract (PMID 23224769, found by citation lookup), which does not mention the paraphysis; no full text. The passage appears to be a discussion paragraph; whether the paper reports its own paraphysis data cannot be told from what was read. The attribution of the 'lacks uptake mechanisms' clause to Jansen and Diederen rests on citation placement. Hasunuma et al. 2010 is R467 in this corpus, whose abstract says only V2-type receptor and 'possibly the main site of cerebrospinal fluid production'; the 'osmotic and/or ionic regulation' wording is this paper's, not that abstract's.",
+   "appraisal": {
+    "specimens": "not_assessable",
+    "methods": "not_assessable",
+    "claims_support": "not_assessable",
+    "note": "Excerpt is a literature-review paragraph on the paraphysis; no original paraphysis data were visible in what was read."
+   },
+   "include_in_synthesis": "yes",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R492",
+   "data_depth": "full_text",
+   "duplicate_of": "",
+   "about_paraphysis": "substantive",
+   "study_type": "developmental_series",
+   "taxa": [
+    {
+     "name": "Xenopus laevis",
+     "group": "anuran"
+    }
+   ],
+   "stage": "embryos, larvae and metamorphs staged by Nieuwkoop and Faber: embryonic (35-45), premetamorphic (46-52), prometamorphic (53-59), metamorphic (60-65); paraphysis noted in early embryonic stages (section heading 34-40) processed in toto",
+   "methods": "Pax7 immunohistofluorescence on free-floating sections, and in toto for early embryos, across staged Xenopus embryos, larvae and metamorphs; the paraphysis is noted only incidentally in early whole-mount embryos.",
+   "findings": [
+    {
+     "id": "R492.1",
+     "dim": "ontogeny",
+     "statement": "In early whole-mount embryos, weak Pax7 immunoreactivity was seen in the membranous structures between the telencephalic hemispheres that contain the paraphysis, distinct from the choroid plexus.",
+     "support": "weak immunoreactivity was observed in the membranous structures between the telencephalic hemispheres that contain the paraphysis, distinct from the choroid plexus",
+     "locator": "Results: Early embryonic stages (34-40)",
+     "strength": "direct_observation",
+     "quote_verified": true
+    },
+    {
+     "id": "R492.2",
+     "dim": "ontogeny",
+     "statement": "Continuity of this paraphysis-region Pax7 expression in later developmental stages could not be assessed in the authors' material.",
+     "support": "the continuity of this expression in subsequent developmental stages could not be assessed in our material",
+     "locator": "Results: Early embryonic stages (34-40)",
+     "strength": "direct_observation",
+     "quote_verified": true
+    },
+    {
+     "id": "R492.3",
+     "dim": "anatomy",
+     "statement": "The authors attribute the inconsistent Pax7 results to loss of the choroid plexus membranous formations and the adhered paraphysis when brains were dissected out.",
+     "support": "Similar results were not consistently obtained ... most likely due to the fact that the membranous formations of the choroid plexus and the adhered paraphysis were removed when the brains were dissected out",
+     "locator": "Discussion",
+     "strength": "authors_interpretation",
+     "quote_verified": true
+    },
+    {
+     "id": "R492.4",
+     "dim": "phylogeny",
+     "statement": "Intense Pax7 expression in the paraphysis of a urodele amphibian has been reported, as a small invagination of the telencephalic roof plate from embryonic stages, maintained through development (cited work: Joven et al.).",
+     "support": "intense Pax7 expression in the paraphysis of the urodele amphibian ... has been reported, representing from the embryonic stages a small invagination of the telencephalic roof plate, and the expression was maintained through development",
+     "locator": "Discussion",
+     "strength": "secondary_report",
+     "quote_verified": true
+    },
+    {
+     "id": "R492.5",
+     "dim": "phylogeny",
+     "statement": "Pax7 expression in the paraphysis during development has been described in the chick (cited work: Nomura et al.).",
+     "support": "Pax7 expression was described in the paraphysis during development in the chick",
+     "locator": "Discussion",
+     "strength": "secondary_report",
+     "quote_verified": true
+    },
+    {
+     "id": "R492.6",
+     "dim": "terminology",
+     "statement": "The paraphysis was described within the telencephalon because it lies rostral to the velum transversum, classically its dorsal limit with the diencephalon (cited work: Warren).",
+     "support": "The paraphysis was described within the telencephalon because it is located rostral to the velum transversum, which classically marks its dorsal limit with the diencephalon",
+     "locator": "Discussion",
+     "strength": "secondary_report",
+     "quote_verified": true
+    },
+    {
+     "id": "R492.7",
+     "dim": "anatomy",
+     "statement": "By its development the paraphysis was considered a posterior telencephalic organ adjacent to the choroid plexus of the third ventricle (cited work: Kappers).",
+     "support": "according to its development it was considered a posterior telencephalic organ adjacent to the choroid plexus of the third ventricle",
+     "locator": "Discussion",
+     "strength": "secondary_report",
+     "quote_verified": true
+    },
+    {
+     "id": "R492.8",
+     "dim": "phylogeny",
+     "statement": "The authors conclude that the only telencephalic structure that might express Pax7, at least in some vertebrates, would be the paraphysis.",
+     "support": "the only telencephalic structure that might express Pax7, at least in some vertebrates, would be the paraphysis",
+     "locator": "Discussion",
+     "strength": "authors_interpretation",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Treats the paraphysis as telencephalic (rostral to the velum transversum, posterior telencephalic organ next to the third-ventricle choroid plexus; urodele paraphysis called a small invagination of the telencephalic roof plate); the prosomeric diencephalic (p3 roof) alternative is not discussed in the text read.",
+   "mentions": [
+    {
+     "work": "Joven et al.",
+     "claim": "Reported intense Pax7 expression in the paraphysis of a urodele amphibian, from embryonic stages, as a small invagination of the telencephalic roof plate.",
+     "quote": "intense Pax7 expression in the paraphysis of the urodele amphibian ... has been reported, representing from the embryonic stages a small invagination of the telencephalic roof plate",
+     "strength": "secondary_report"
+    },
+    {
+     "work": "Nomura et al.",
+     "claim": "Described Pax7 expression in the paraphysis during development in the chick.",
+     "quote": "Pax7 expression was described in the paraphysis during development in the chick",
+     "strength": "secondary_report"
+    },
+    {
+     "work": "Warren",
+     "claim": "Cited for describing the paraphysis within the telencephalon, rostral to the velum transversum, its classical dorsal limit with the diencephalon.",
+     "quote": "which classically marks its dorsal limit with the diencephalon",
+     "strength": "secondary_report"
+    },
+    {
+     "work": "Kappers",
+     "claim": "Cited for considering the paraphysis a posterior telencephalic organ adjacent to the choroid plexus of the third ventricle.",
+     "quote": "it was considered a posterior telencephalic organ adjacent to the choroid plexus of the third ventricle",
+     "strength": "secondary_report"
+    }
+   ],
+   "caveats": "PMC text as retrieved has italic species names and citation years stripped (e.g. 'urodele amphibianhas been reported', 'Joven et al.,'); the species of the urodele and the species in which Pax7 was not consistently obtained are therefore not printed in the text read, and no years are available for the cited works. The abstract does not mention the paraphysis. Number of animals not reported in the text read. Paraphysis is a minor topic: one Results sentence and one Discussion paragraph.",
+   "appraisal": {
+    "specimens": "partial",
+    "methods": "reported",
+    "claims_support": "mixed",
+    "note": "Species and stage ranges and methods reported; animal numbers not seen. Paraphysis result is a weak, incidental whole-mount observation; the Discussion rests on cited works."
+   },
+   "include_in_synthesis": "yes",
+   "exclusion_reason": ""
+  }
+ ]
+}

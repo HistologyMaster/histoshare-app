@@ -1,0 +1,116 @@
+[
+ {
+  "cid": "S1-081",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-082",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-083",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-084",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-085",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-086",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-087",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-088",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-089",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-090",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-091",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-092",
+  "verdict": "partial",
+  "issue": "«las atribuciones a D'Erchia y Selenka provienen de un fragmento secundario no verificado [@R014.1]»: R014.1 solo recoge que D'Erchia identificó la paráfisis en peces y embriones de mamíferos (y la consideraba constante), sin atribuirle prioridad; la atribución a Selenka («first to identify the paraphysis in chicks») está en R014.m2 (también R015.2/R004.1), no en R014.1.",
+  "fix": "En el corpus recuperado no se encontraron datos sobre quién describió o nombró primero la paráfisis; según un fragmento secundario no verificado, Dexter atribuye a D'Erchia la identificación en peces y embriones de mamíferos [@R014.1] y a Selenka la primera identificación en pollos [@R014.m2], y de la obra de Francotte solo se conoce el título [@R654.t]."
+ },
+ {
+  "cid": "S1-093",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-094",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-095",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-096",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-097",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-098",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-099",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ }
+]

@@ -1,0 +1,748 @@
+[
+ {
+  "cid": "S2-001",
+  "kind": "interpretation",
+  "text": "En esta revisión, la sección se apoya en 82 registros con datos de filogenia o terminología sobre la paráfisis (paraphysis cerebri) o conocidos solo por su título: 44 de título, 13 de fragmento secundario no verificado (resúmenes web), 13 de resumen, 8 de extracto y 4 de texto completo.",
+  "refs": [],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S2-002",
+  "kind": "interpretation",
+  "text": "En esta revisión, solo 19 registros contienen hallazgos filogenéticos explícitos (3 de texto completo, 6 de resumen, 4 de extracto y 6 de fragmento secundario), y 7 de ellos son de contexto, no evidencia central.",
+  "refs": [],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S2-003",
+  "kind": "interpretation",
+  "text": "Esta revisión es un mapa de lo que afirman las fuentes recuperadas, no un inventario de la distribución de la estructura.",
+  "refs": [],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S2-004",
+  "kind": "cited",
+  "text": "Según Bandín (2013), que cita a Warren, la paráfisis se describió dentro del telencéfalo por situarse rostral al velum transversum, límite dorsal clásico con el diencéfalo [@R492.6].",
+  "refs": [
+   "R492.6"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S2-005",
+  "kind": "cited",
+  "text": "Joven (2012) señala, en un extracto, que su naturaleza es controvertida: derivado telencefálico para unos autores y parte del techo del prosómero 3 (p3) para otros [@R485.1].",
+  "refs": [
+   "R485.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S2-006",
+  "kind": "cited",
+  "text": "Joven (2013) interpreta, en un extracto, que es un derivado de la placa del techo originado en el límite entre p3 y el telencéfalo evaginado, con mayor probabilidad de p3 [@R497.2], y Shuangshoti (1966, J Morphol), en extracto, la asigna al diencéfalo [@R110.2].",
+  "refs": [
+   "R497.2",
+   "R110.2"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S2-007",
+  "kind": "cited",
+  "text": "En cambio, Ung (2004) recoge su definición como evaginación de la *lamina supraneuroporica* del telencéfalo [@R410.3].",
+  "refs": [
+   "R410.3"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S2-008",
+  "kind": "cited",
+  "text": "Khonsari (2009) emplea, según el extracto, \"paraphysis (or parietal)\" para el divertículo epitalámico izquierdo [@R455.1], y Tsuneki (1986) juzga, en su resumen, que la llamada paráfisis del pez pulmonado es un saco dorsal [@R246.2].",
+  "refs": [
+   "R455.1",
+   "R246.2"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S2-009",
+  "kind": "cited",
+  "text": "Según una fuente secundaria no verificada, Burckhardt (1890, 1892) llamó \"coronarium\" a una estructura interior al órgano pineal; el fragmento no la designa como paráfisis [@R005.1], y otra fuente secundaria igualmente no verificada atribuye a Studnicka (1905) el argumento de que \"la estructura\" debía llamarse paráfisis, sin precisar cuál [@R016.1].",
+  "refs": [
+   "R005.1",
+   "R016.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S2-010",
+  "kind": "interpretation",
+  "text": "Interpretación de esta revisión: como el término designa en las fuentes una evaginación telencefálica, un derivado del techo diencefálico, una estructura que algunos llaman saco dorsal y un divertículo epitalámico, los datos taxonómicos solo son comparables entre fuentes que comparten convención; esta sección conserva la denominación de cada fuente.",
+  "refs": [],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S2-011",
+  "kind": "interpretation",
+  "text": "En esta revisión, la Tabla 1 ordena los datos por taxón o grupo, dato informado, marcador de fuente y profundidad de la evidencia; cada fila vale solo para lo que nombra y no sustenta generalizaciones a clases.",
+  "refs": [],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S2-012",
+  "kind": "cited",
+  "text": "| Diez taxones comparados (anfioxo, lamprea, dogfish, pez dorado, pez pulmonado, rana, salamandra, tortuga, paloma, ratón) | Un resumen lista la paráfisis entre los derivados ependimarios comparados en esos taxones; no comunica resultado específico sobre la paráfisis | [@R185.1] | Resumen (registro de contexto) |",
+  "refs": [
+   "R185.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S2-013",
+  "kind": "cited",
+  "text": "| *Petromyzon* (ciclóstomo) | Según una fuente secundaria no verificada, la paráfisis de un embrión de cuervo se describe \"no distinta\" de la de *Petromyzon*, que aparece solo como término de comparación | [@R007.2] | Fragmento secundario no verificado (contexto) |",
+  "refs": [
+   "R007.2"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S2-014",
+  "kind": "cited",
+  "text": "| Lampreas, condrictios, actinopterigios y sarcopterigios (uso epitalámico del término) | Según Khonsari (2009), las lampreas muestran ambos divertículos neurales, los condrictios solo el derecho (pineal) y actinopterigios y sarcopterigios ambos órganos; allí \"paraphysis\" designa el divertículo epitalámico izquierdo | [@R455.1; @R455.2] | Extracto |",
+  "refs": [
+   "R455.1",
+   "R455.2"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S2-015",
+  "kind": "cited",
+  "text": "| Condrictios: dogfish (*Mustelus*) | Paráfisis hallada (Tsuneki 1986) | [@R246.1] | Resumen |",
+  "refs": [
+   "R246.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S2-016",
+  "kind": "cited",
+  "text": "| Condrictios: embriones de *Torpedo ocellata*; *Scylliorhinus caniculus* (grafía del título) | Existen trabajos cuyos títulos aluden a la región parafisaria del telencéfalo en embriones de *Torpedo ocellata* (Chiarugi 1906; título con OCR defectuoso) y al desarrollo de la paráfisis cerebral en *Scylliorhinus caniculus* (Kappers 1956); sin contenido verificado | [@R018.t; @R076.t] | Solo título |",
+  "refs": [
+   "R018.t",
+   "R076.t"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S2-017",
+  "kind": "cited",
+  "text": "| Osteoglosomorfos (*Osteoglossum*, *Gnathonemus*) | Paráfisis hallada (Tsuneki 1986) | [@R246.1] | Resumen |",
+  "refs": [
+   "R246.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S2-018",
+  "kind": "cited",
+  "text": "| *Bathylagus wesethi*; *Nezumia liolepis* | Paráfisis y saco dorsal presentes en *B. wesethi*; ambas estructuras ausentes en *N. liolepis* (McNulty 1976) | [@R160.1; @R160.2] | Resumen |",
+  "refs": [
+   "R160.1",
+   "R160.2"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S2-019",
+  "kind": "cited",
+  "text": "| *Salmo gairdneri* (adulto) | Según una fuente secundaria no verificada, la paráfisis cerebral está representada por una parte diferenciada de la *pars impar telencephali* del techo telencefálico | [@R644.1] | Fragmento secundario no verificado; referencia sin identificar |",
+  "refs": [
+   "R644.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S2-020",
+  "kind": "cited",
+  "text": "| *Xenentodon cancila* | Según una fuente secundaria no verificada, en el techo del diencéfalo hay \"alguna indicación\" de paráfisis y el parapineal está ausente | [@R655.1] | Fragmento secundario no verificado |",
+  "refs": [
+   "R655.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S2-021",
+  "kind": "cited",
+  "text": "| Esturión; \"algunos peces\"; ranas | Una conferencia clinicopatológica (1954) describe, sin cita, la paráfisis como propia de ciertos vertebrados inferiores: ranas, algunos peces y, según el hablante, de modo prominente el esturión (texto parcialmente ilegible) | [@R065.3] | Texto completo (comentario de fondo, sin referencia) |",
+  "refs": [
+   "R065.3"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S2-022",
+  "kind": "cited",
+  "text": "| Pez pulmonado (*Protopterus annectens*, según el título de la monografía de 1892; el fragmento no nombra el taxón) | Según una fuente secundaria no verificada, Burckhardt (1890, 1892) nombró \"coronarium\" una estructura conspicua interior al órgano pineal; el fragmento no la llama paráfisis | [@R005.1] | Fragmento secundario no verificado (contexto) |",
+  "refs": [
+   "R005.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S2-023",
+  "kind": "cited",
+  "text": "| Peces pulmonados | Tsuneki (1986) juzga que la llamada paráfisis del pez pulmonado es un saco dorsal; existe un trabajo de 1957 cuyo título trata de la estructura fina de la \"paráfisis\" de *Protopterus annectens* | [@R246.2; @R079.t] | Resumen; solo título |",
+  "refs": [
+   "R246.2",
+   "R079.t"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S2-024",
+  "kind": "cited",
+  "text": "| Urodelos (Urodela) | Según una fuente secundaria no verificada (Gladstone 1940), la paráfisis suele estar bien desarrollada y puede ser un divertículo tubular simple o ramificada y glandular | [@R043.1; @R043.2] | Fragmento secundario no verificado |",
+  "refs": [
+   "R043.1",
+   "R043.2"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S2-025",
+  "kind": "cited",
+  "text": "| *Ambystoma mexicanum* (larvas); *Amblystoma* (adulto) | Larvas: los autores concluyen que la paráfisis cerebral está formada por dos órganos adyacentes (AEP y PEP); adulto: túbulos parafisarios de epitelio ependimario columnar bajo que terminan ciegos (Roofe, s. f.) | [@R599.7; @R659.1] | Resumen; extracto |",
+  "refs": [
+   "R599.7",
+   "R659.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S2-026",
+  "kind": "cited",
+  "text": "| *Pleurodeles waltl* | Células Pax7-inmunorreactivas en la paráfisis (Joven 2013) | [@R497.1] | Resumen |",
+  "refs": [
+   "R497.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S2-027",
+  "kind": "cited",
+  "text": "| Anfibios (Osborn, citado en un trabajo sobre *Necturus maculatus*); *Cynops pyrrhogaster* | Según una fuente secundaria no verificada (Warren 1905), Osborn muestra la paráfisis en un cerebro adulto en comparación con los de otros anfibios; en el tritón *Cynops* solo se detectó señal del receptor V2 de AVT en la paráfisis | [@R017.1; @R467.1] | Fragmento secundario no verificado (contexto); resumen |",
+  "refs": [
+   "R017.1",
+   "R467.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S2-028",
+  "kind": "cited",
+  "text": "| *Xenopus laevis* | Embriones tempranos: inmunorreactividad débil para Pax7 en estructuras membranosas entre los hemisferios que contienen la paráfisis, distintas del plexo coroideo (Bandín 2013); en los moldes cerebrales, la arteria coroidea irriga la paráfisis y el plexo coroideo (Lametschwandtner 2018) | [@R492.1; @R545.1] | Texto completo; extracto |",
+  "refs": [
+   "R492.1",
+   "R545.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S2-029",
+  "kind": "cited",
+  "text": "| *Bufo bufo* (larvas) | Glándula tubular-ramificada de numerosos túbulos con epitelio monoestratificado, rodeada de tejido conectivo y sinusoides | [@R320.1] | Resumen |",
+  "refs": [
+   "R320.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S2-030",
+  "kind": "cited",
+  "text": "| *Rana pipiens*, *Rana catesbeiana*; *Hyla versicolor* | Lecho capilar parafisario sinusoidal que recibe sangre aferente del plexo coroideo asociado en *Rana*; túbulos de los sacos endolinfáticos en estrecha relación con la porción dorsal de la paráfisis en *Hyla versicolor* | [@R280.3; @R281.5] | Resumen |",
+  "refs": [
+   "R280.3",
+   "R281.5"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S2-031",
+  "kind": "cited",
+  "text": "| *Hypsiboas pulchellus*, *P. sauvagii*, *P. boliviana*, *R. fernandezae* | Tamaño variable entre especies: mayor en *P. sauvagii* y *P. boliviana* que en *H. pulchellus*; menos desarrollada y cordoniforme en *R. fernandezae* (Manzano 2017) | [@R534.3] | Extracto |",
+  "refs": [
+   "R534.3"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S2-032",
+  "kind": "cited",
+  "text": "| *Natrix maura* | Células epiteliales parafisarias polarizadas, con polo apical hacia el tercer ventrículo y polo basal sobre una capa de tejido conectivo que rodea el órgano | [@R217.1] | Resumen |",
+  "refs": [
+   "R217.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S2-033",
+  "kind": "cited",
+  "text": "| *Calotes versicolor* (embriones) | La paráfisis (escrita \"papaphysis\" en el resumen) es una estructura simple | [@R170.1] | Resumen |",
+  "refs": [
+   "R170.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S2-034",
+  "kind": "cited",
+  "text": "| *Correlophus ciliatus* (embriones); *Liolaemus gravenhorsti* | Según fuentes secundarias no verificadas, los primordios de paráfisis y epífisis del gecko son evaginaciones del techo del diencéfalo; en *Liolaemus*, la sigla PAR acompaña a \"paraepífisis\" y a \"paráfisis\" en fragmentos distintos | [@R629.1; @R132.1] | Fragmentos secundarios no verificados (R132: contexto) |",
+  "refs": [
+   "R629.1",
+   "R132.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S2-035",
+  "kind": "cited",
+  "text": "| Gecko; *Anguis fragilis*, *Chalcides ocellatus*, *Natrix natrix* | Existen trabajos cuyos títulos nombran epífisis, paráfisis (Para-) e hipófisis en el gecko (Melchers 1899) y epífisis, paráfisis, velum transversum, saco dorsal y órgano subcomisural en tres reptiles (Trost 1953); sin contenido verificado | [@R012.t; @R064.t] | Solo título |",
+  "refs": [
+   "R012.t",
+   "R064.t"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S2-036",
+  "kind": "cited",
+  "text": "| Tuatara (neonato) | La paráfisis adyacente al ojo pineal es un órgano grande y multisacular; los autores la definen (con cita) como evaginación de la *lamina supraneuroporica* del telencéfalo | [@R410.1; @R410.3] | Resumen; extracto |",
+  "refs": [
+   "R410.1",
+   "R410.3"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S2-037",
+  "kind": "cited",
+  "text": "| Tortugas marinas (*Chelonia mydas*, *Caretta caretta*); *Trachemys* | En tortugas marinas la paráfisis está extensamente fusionada con la porción distal del cuerpo pineal; según una fuente secundaria no verificada, en *Trachemys (scripta) dorbigni* es una estructura neuroepitelial muy vascularizada con epitelio cúbico simple | [@R183.2; @R411.1] | Resumen; fragmento secundario no verificado |",
+  "refs": [
+   "R183.2",
+   "R411.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S2-038",
+  "kind": "cited",
+  "text": "| Aligátor | Según una fuente secundaria no verificada (Gladstone 1940), el saco dorsal y la paráfisis están presentes en el aligátor; existe un trabajo de 1910 cuyo título trata de la paráfisis e hipófisis del aligátor americano | [@R044.1; @R023.t] | Fragmento secundario no verificado; solo título |",
+  "refs": [
+   "R044.1",
+   "R023.t"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S2-039",
+  "kind": "cited",
+  "text": "| Polluelos (\"chicks\" en el fragmento); cuervo (embriones) | Según fuentes secundarias no verificadas, Selenka es acreditado como el primero en identificar la paráfisis en polluelos y la paráfisis de un embrión de cuervo se muestra como un pequeño divertículo | [@R004.1; @R007.1] | Fragmentos secundarios no verificados (contexto) |",
+  "refs": [
+   "R004.1",
+   "R007.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S2-040",
+  "kind": "cited",
+  "text": "| Aves (quimeras codorniz-pollo; pollo) | Un extracto de un trabajo con quimeras codorniz-pollo afirma que la paráfisis yace en p3 (Pombero 2008); se describió expresión de Pax7 en la paráfisis del pollo (trabajo citado: Nomura et al.); existe un trabajo de 1966 cuyo título trata de la embriología comparada de la paráfisis en aves | [@R447.1; @R492.5; @R113.t] | Extracto; cita en texto completo; solo título |",
+  "refs": [
+   "R447.1",
+   "R492.5",
+   "R113.t"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S2-041",
+  "kind": "cited",
+  "text": "| Mamífero placentario (sin especie nombrada) | Según Herring (s. f.), la paráfisis no está representada en el cerebro del mamífero placentario | [@R656.1] | Extracto |",
+  "refs": [
+   "R656.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S2-042",
+  "kind": "cited",
+  "text": "| Mammalia (taxón tomado del título; especies no nombradas en el fragmento) | Según una fuente secundaria no verificada (Warren 1917), con referentes de los pronombres no visibles: mucha duda sobre su existencia en \"esta clase de vertebrados\"; embriones de 21 a 48 mm con paráfisis distinta en prácticamente todos los casos estudiados; en pocos ejemplares, una estructura muy inconstante y relativamente rudimentaria respecto de la de los vertebrados inferiores a los mamíferos | [@R031.1; @R031.2; @R031.3] | Fragmento secundario no verificado (contexto) |",
+  "refs": [
+   "R031.1",
+   "R031.2",
+   "R031.3"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S2-043",
+  "kind": "cited",
+  "text": "| Embriones humanos | La paráfisis \"está apareciendo\" en el estadio 18 (O'Rahilly 1990); detectada \"at least after CS19\" (formulación literal del extracto, es decir, tras CS19) en el techo del DV, abreviatura tal como se imprime (Shiraishi 2013) | [@R285.1; @R501.1] | Resumen; extracto |",
+  "refs": [
+   "R285.1",
+   "R501.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S2-044",
+  "kind": "cited",
+  "text": "| Humano (descripciones generales) | Transitoria en embriones de 19 a 32 mm (conferencia de 1954, sin referencia); según fuentes secundarias no verificadas, se desarrolla en la séptima semana y sus rudimentos normalmente desaparecen hacia los 3,5 meses, aunque otra fuente secundaria indica que solo a veces surge en humanos; rudimentaria e inconstante en el hombre según un extracto (Shuangshoti 1966, Am J Anat) | [@R065.5; @R370.1; @R370.2; @R650.1; @R111.2] | Texto completo; fragmentos secundarios no verificados (contexto); extracto |",
+  "refs": [
+   "R065.5",
+   "R370.1",
+   "R370.2",
+   "R650.1",
+   "R111.2"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S2-045",
+  "kind": "cited",
+  "text": "A nivel de resumen, las observaciones de presencia o ausencia en peces con especie nombrada son dos: paráfisis en *Mustelus* y en los osteoglosomorfos *Osteoglossum* y *Gnathonemus* [@R246.1], y paráfisis presente en *Bathylagus wesethi* y ausente, junto con el saco dorsal, en *Nezumia liolepis* [@R160.1; @R160.2].",
+  "refs": [
+   "R246.1",
+   "R160.1",
+   "R160.2"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S2-046",
+  "kind": "interpretation",
+  "text": "Interpretación de esta revisión: no autorizan a extender la presencia o la ausencia a los peces óseos, y un informe de ausencia en una especie no es prueba de ausencia en esa especie ni en su grupo.",
+  "refs": [],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S2-047",
+  "kind": "cited",
+  "text": "Una generalización que se repite en tres de las fuentes leídas es que la paráfisis está bien desarrollada en anfibios y reptiles: la enuncian Hinton (1990) como afirmación introductoria [@R280.1] y Ringler (2019) [@R560.3]; Manzano (2017), que cita a Hinton et al., 1990, la describe como desarrollada en anfibios y reptiles no avianos [@R534.m1].",
+  "refs": [
+   "R280.1",
+   "R560.3",
+   "R534.m1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S2-048",
+  "kind": "interpretation",
+  "text": "Interpretación de esta revisión: son afirmaciones de fondo que, en el texto leído, no se acompañan de una lista de especies examinadas y no establecen la distribución dentro de anfibios ni de reptiles.",
+  "refs": [],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S2-049",
+  "kind": "cited",
+  "text": "Por estadio, la presencia se describe en embriones (*Xenopus laevis* [@R492.1]; *Calotes versicolor* [@R170.1]), larvas (*Bufo bufo* [@R320.1]) y adultos (*Amblystoma* [@R659.1]).",
+  "refs": [
+   "R492.1",
+   "R170.1",
+   "R320.1",
+   "R659.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S2-050",
+  "kind": "interpretation",
+  "text": "Interpretación de esta revisión: son en su mayoría especies distintas en estadios distintos, sin comparación embrionaria-adulta dentro de un taxón.",
+  "refs": [],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S2-051",
+  "kind": "cited",
+  "text": "Herring (s. f.) afirma, en un extracto, que la paráfisis no está representada en el cerebro del mamífero placentario [@R656.1], mientras que un fragmento secundario no verificado atribuido a Warren (1917), sin especie ni antecedentes de los pronombres visibles, recoge dudas sobre su existencia en \"esta clase\" [@R031.1], embriones de 21 a 48 mm con paráfisis distinta en prácticamente todos los casos estudiados [@R031.2] y, en pocos ejemplares, una estructura inconstante y relativamente rudimentaria [@R031.3].",
+  "refs": [
+   "R656.1",
+   "R031.1",
+   "R031.2",
+   "R031.3"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S2-052",
+  "kind": "cited",
+  "text": "En humanos, la paráfisis se describe como \"apareciendo\" en el estadio 18 según un resumen [@R285.1], como detectada \"at least after CS19\" (formulación literal, es decir, tras CS19) según un extracto [@R501.1] y como desarrollada en la séptima semana según un fragmento secundario no verificado [@R370.1].",
+  "refs": [
+   "R285.1",
+   "R501.1",
+   "R370.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S2-053",
+  "kind": "cited",
+  "text": "**Plexo coroideo.** Shuangshoti (1966, J Morphol) concluye, en el extracto disponible, que la paráfisis es un plexo coroideo modificado, por su origen neuroepitelial común y propiedades histoquímicas similares [@R110.1].",
+  "refs": [
+   "R110.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S2-054",
+  "kind": "cited",
+  "text": "Rivas-Manzano (2022) describen en el epitálamo larvario de *Ambystoma mexicanum* dos primordios que originan plexos coroideos extraventriculares anterior (AEP) y posterior (PEP) [@R599.2] y sugieren que AEP y PEP son homólogos de la paráfisis cerebral y del saco dorsal, respectivamente [@R599.8], aunque el mismo resumen concluye que la paráfisis consta de ambos órganos [@R599.7].",
+  "refs": [
+   "R599.2",
+   "R599.8",
+   "R599.7"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S2-055",
+  "kind": "cited",
+  "text": "Por otra parte, Bandín (2013) describen en embriones tempranos de *Xenopus laevis* inmunorreactividad débil para Pax7 en estructuras membranosas, distintas del plexo coroideo, que contienen la paráfisis [@R492.1]; la frase original (\"distinct from the choroid plexus\") no precisa si lo distinto es la estructura membranosa o la paráfisis, y en la Discusión los mismos autores hablan de \"formaciones membranosas del plexo coroideo y la paráfisis adherida\" [@R492.3].",
+  "refs": [
+   "R492.1",
+   "R492.3"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S2-056",
+  "kind": "cited",
+  "text": "Shiraishi (2013) no pudo determinar, en embriones humanos, si las estructuras alrededor de la paráfisis eran plexo coroideo del DV o parte de ella [@R501.2].",
+  "refs": [
+   "R501.2"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S2-057",
+  "kind": "interpretation",
+  "text": "Interpretación de esta revisión: las fuentes relacionan la paráfisis con el plexo coroideo, pero no coinciden en si es un plexo modificado, una estructura distinta (lectura posible, no inequívoca, de la frase de Bandín 2013) o un órgano de límites no resueltos.",
+  "refs": [],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S2-058",
+  "kind": "cited",
+  "text": "**Saco dorsal.** McNulty (1976) trata paráfisis y saco dorsal como estructuras separadas, ambas presentes en *B. wesethi* [@R160.1].",
+  "refs": [
+   "R160.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S2-059",
+  "kind": "cited",
+  "text": "En el tuatara, Ung (2004) recoge que la apertura de la paráfisis, originalmente al tercer ventrículo, se desplaza según Dendy hasta abrirse al saco dorsal [@R410.4], y que este contiene plexo coroideo idéntico en estructura al de los ventrículos laterales [@R410.6].",
+  "refs": [
+   "R410.4",
+   "R410.6"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S2-060",
+  "kind": "interpretation",
+  "text": "Interpretación de esta revisión: las fuentes presentan la relación como estructuras separadas, reasignación, apertura secundaria o unidades homólogas a dos órganos, sin criterio común.",
+  "refs": [],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S2-061",
+  "kind": "cited",
+  "text": "**Órgano subfornical.** En el corpus recuperado solo se identificó, a nivel de título, un trabajo sobre el problema de la homología entre el órgano subfornical y la paráfisis (Watermann 1957) [@R081.t] y otro que relaciona el órgano subfornical de las ranas con la regulación de la actividad secretora de la paráfisis (Srebro 1967) [@R116.t]; no se encontraron datos sobre su contenido.",
+  "refs": [
+   "R081.t",
+   "R116.t"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S2-062",
+  "kind": "cited",
+  "text": "**Bolsa coroidea anterior.** Según una fuente secundaria no verificada atribuida a Streeter (1912), la bolsa coroidea anterior ha sido homologada con la paráfisis de los vertebrados inferiores; el fragmento no indica localización, estadio ni taxón [@R027.1].",
+  "refs": [
+   "R027.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S2-063",
+  "kind": "cited",
+  "text": "Según Dexter (1902), en un fragmento secundario no verificado, D'Erchia identificó la paráfisis en peces y en embriones de mamíferos y la consideró constante en todos los vertebrados, sin observaciones en aves [@R014.1].",
+  "refs": [
+   "R014.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S2-064",
+  "kind": "cited",
+  "text": "Interpretación de esta revisión: la constancia universal y los informes de ausencia en una especie de pez [@R160.2] y en el mamífero placentario [@R656.1] no son conciliables sin precisar taxones, estadios y criterios, que las fuentes leídas no aportan.",
+  "refs": [
+   "R160.2",
+   "R656.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S2-065",
+  "kind": "cited",
+  "text": "En el extremo opuesto, Niknejad (2015) caracteriza la paráfisis cerebral como estructura embrionaria vestigial evanescente [@R517.2] y Shuangshoti (1966, Am J Anat) la describe en un extracto como rudimentaria e inconstante en el hombre [@R111.2].",
+  "refs": [
+   "R517.2",
+   "R111.2"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S2-066",
+  "kind": "interpretation",
+  "text": "Interpretación de esta revisión: los enunciados dibujan un gradiente descriptivo, de \"bien desarrollada\" en anfibios y reptiles a \"vestigial\", \"rudimentaria\" o \"inconstante\" en el hombre, pero se apoyan en afirmaciones de fondo, extractos y fragmentos secundarios, sin reconstrucción de estados ancestrales que permita inferir una secuencia de reducción.",
+  "refs": [],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S2-067",
+  "kind": "cited",
+  "text": "Se documenta variación dentro de grupos: forma tubular simple o ramificada y glandular en Urodela, según una fuente secundaria no verificada [@R043.2], y tamaño variable entre cuatro especies de anuros, según un extracto [@R534.3].",
+  "refs": [
+   "R043.2",
+   "R534.3"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S2-068",
+  "kind": "interpretation",
+  "text": "Interpretación de esta revisión: esa variación desaconseja atribuir a una clase la morfología descrita en una especie.",
+  "refs": [],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S2-069",
+  "kind": "cited",
+  "text": "Moreno (2014) informan un marcaje parafisario conspicuo de Pax7 \"principalmente en anamniotas\" entre las especies estudiadas, sin detallar en cuáles [@R511.2], y Bandín (2013) concluyen que la única estructura telencefálica que podría expresar Pax7, al menos en algunos vertebrados, sería la paráfisis [@R492.8].",
+  "refs": [
+   "R511.2",
+   "R492.8"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S2-070",
+  "kind": "interpretation",
+  "text": "Interpretación de esta revisión: estas observaciones señalan un marcador compartido por algunos anamniotas, pero por sí solas no establecen homología entre las estructuras así denominadas.",
+  "refs": [],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S2-071",
+  "kind": "cited",
+  "text": "Según el extracto, Khonsari (2009) indica que los condrictios conservan solo el divertículo derecho (pineal) [@R455.2], mientras que Tsuneki (1986) informa una paráfisis en *Mustelus* [@R246.1].",
+  "refs": [
+   "R455.2",
+   "R246.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S2-072",
+  "kind": "interpretation",
+  "text": "Interpretación de esta revisión: ambas afirmaciones solo son compatibles si \"paráfisis\" designa estructuras distintas en cada fuente.",
+  "refs": [],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S2-073",
+  "kind": "cited",
+  "text": "En esta revisión no se encontraron datos de contenido sobre la mayor parte de la literatura clásica, conocida solo por su título, como Ariëns-Kappers (1950) sobre urodelos [@R054.t], Ariens Kappers (1956) [@R074.t] y Trost (1953) sobre tres reptiles [@R064.t].",
+  "refs": [
+   "R054.t",
+   "R074.t",
+   "R064.t"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S2-074",
+  "kind": "cited",
+  "text": "En esta revisión no se encontraron datos sobre la paráfisis en mixinos ni en lampreas distintos del uso epitalámico del término [@R455.2]; para ciclóstomos solo hay una comparación incidental con *Petromyzon* en un fragmento secundario no verificado [@R007.2], y para condrictios, la paráfisis de *Mustelus* [@R246.1] y títulos sobre *Torpedo ocellata* y *Scylliorhinus caniculus* [@R018.t; @R076.t].",
+  "refs": [
+   "R455.2",
+   "R007.2",
+   "R246.1",
+   "R018.t",
+   "R076.t"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S2-075",
+  "kind": "cited",
+  "text": "Esta revisión tampoco pudo establecer qué taxones de los diez comparados por Brocklehurst (1979) presentan paráfisis [@R185.1].",
+  "refs": [
+   "R185.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S2-076",
+  "kind": "cited",
+  "text": "En esta revisión no se encontraron datos sobre aves adultas ni sobre mamíferos no humanos con especie nombrada: para aves hay fragmentos secundarios no verificados [@R004.1; @R007.1] y el título de Stockem (1966) [@R113.t]; para mamíferos, un fragmento secundario no verificado [@R031.2] y un extracto [@R656.1], ambos sin especie nombrada.",
+  "refs": [
+   "R004.1",
+   "R007.1",
+   "R113.t",
+   "R031.2",
+   "R656.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S2-077",
+  "kind": "cited",
+  "text": "Tampoco sobre cocodrilianos más allá de una frase secundaria no verificada [@R044.1] y el título de Reese (1910) [@R023.t], ni sobre peces pulmonados más allá de la reasignación a saco dorsal [@R246.2] y el título de Dorn (1957) [@R079.t].",
+  "refs": [
+   "R044.1",
+   "R023.t",
+   "R246.2",
+   "R079.t"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S2-078",
+  "kind": "cited",
+  "text": "Esta revisión no pudo establecer el contenido de la homología entre órgano subfornical y paráfisis, de la que solo se identificó el título de Watermann (1957) [@R081.t], ni el taxón, el estadio o la evidencia de la homologación de la bolsa coroidea anterior [@R027.1].",
+  "refs": [
+   "R081.t",
+   "R027.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S2-079",
+  "kind": "cited",
+  "text": "Interpretación de esta revisión: no pudo establecerse una distribución filogenética por clases de la paráfisis telencefálica, porque las observaciones con especie nombrada son escasas, usan nomenclaturas distintas y, si informan ausencia, no la prueban; el único análisis filogenético recuperado, Khonsari (2009), emplea \"paraphysis\" para el divertículo epitalámico izquierdo [@R455.1], y en el corpus recuperado no se encontraron análisis filogenéticos formales de la paráfisis telencefálica.",
+  "refs": [
+   "R455.1"
+  ],
+  "invalid_refs": []
+ }
+]

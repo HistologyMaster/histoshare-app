@@ -1,0 +1,122 @@
+[
+ {
+  "cid": "S7-021",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S7-022",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S7-023",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S7-024",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S7-025",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S7-026",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S7-027",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S7-028",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S7-029",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S7-030",
+  "verdict": "overstated",
+  "issue": "«dura solo un breve período embrionario [@R361.2]»: la fuente dice «a paráfise está presente durante um curto período embrionário»; la exclusividad «solo» no figura en el texto, y el mismo fragmento añade que «em alguns casos é sede de cistos coloidais do III° ventrículo» (no se afirma que desaparezca por completo). Las demás proposiciones (R065.5 19-32 mm; R370.1 séptima semana; R370.2 degeneración total hacia 3,5 meses, en condicional y como fragmentos no verificados) están respaldadas.",
+  "fix": "...según fragmentos secundarios no verificados, aparece en la séptima semana [@R370.1], está presente durante un breve período embrionario [@R361.2] y sus rudimentos desaparecerían por degeneración total hacia los 3,5 meses de edad [@R370.2]."
+ },
+ {
+  "cid": "S7-031",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S7-032",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S7-033",
+  "verdict": "ok_uncited",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S7-034",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S7-035",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S7-036",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S7-037",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S7-038",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S7-039",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S7-040",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ }
+]

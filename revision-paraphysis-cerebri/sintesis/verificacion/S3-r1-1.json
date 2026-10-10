@@ -1,0 +1,122 @@
+[
+ {
+  "cid": "S3-001",
+  "verdict": "partial",
+  "issue": "\"y los 44 registros identificados únicamente por título en toda la revisión, de los cuales el Cuadro 2 reúne 16 obras sobre desarrollo\": counts 41 (4 full text, 24 abstract, 1 excerpt, 12 snippet) and 44 identified_only match the DB, but only 14 of the 16 Cuadro 2 R-ids are among the 44 identified_only records; R026 (Warren 1911) and R052 (Van de Kamer monograph) are context_only records with secondary_snippet depth (counted in the 12 snippets). Also R011 (Studnicka, 'Zur Anatomie') is not ontogeny-tagged.",
+  "fix": "y los 44 registros identificados únicamente por título en toda la revisión, 14 de los cuales figuran en el Cuadro 2 (que incluye además dos obras conocidas por un fragmento que solo reproduce el título)."
+ },
+ {
+  "cid": "S3-002",
+  "verdict": "ok_uncited",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S3-003",
+  "verdict": "ok_uncited",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S3-004",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S3-005",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S3-006",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S3-007",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S3-008",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S3-009",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S3-010",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S3-011",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S3-012",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S3-013",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S3-014",
+  "verdict": "ok_uncited",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S3-015",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S3-016",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S3-017",
+  "verdict": "ok_uncited",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S3-018",
+  "verdict": "partial",
+  "issue": "Row sits under \"Cuadro 2. Estudios sobre desarrollo conocidos únicamente por su título\", but the title \"Zur Anatomie der sog. Paraphyse des Wirbelthiergehirns\" (R011.t, translated 'Sobre la anatomía...') announces anatomy, not development, and R011 is not ontogeny-tagged in the DB; .t supports only existence/title.",
+  "fix": "Retitular Cuadro 2 como 'Obras clásicas sobre la paráfisis conocidas únicamente por su título (solo algunos títulos mencionan el desarrollo)', o mover Studnicka (título de anatomía) fuera de este cuadro."
+ },
+ {
+  "cid": "S3-019",
+  "verdict": "partial",
+  "issue": "Same table caption \"Estudios sobre desarrollo\": the title \"Über rudimentäre Hirnanhangsgebilde beim Gecko (Epi-, Para- und Hypophyse)\" (R012.t) does not mention development; the .t marker supports only the title, not a developmental scope.",
+  "fix": "Retitular Cuadro 2 como 'Obras clásicas sobre la paráfisis conocidas únicamente por su título (solo algunos títulos mencionan el desarrollo)'; la fila de Melchers puede quedar con el título tal cual."
+ },
+ {
+  "cid": "S3-020",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ }
+]

@@ -1,0 +1,326 @@
+{
+ "batch": "eA04",
+ "records": [
+  {
+   "rid": "R152",
+   "data_depth": "abstract",
+   "duplicate_of": "",
+   "about_paraphysis": "passing_mention",
+   "study_type": "experimental",
+   "taxa": [
+    {
+     "name": "Lacerta vivipara",
+     "group": "squamate"
+    }
+   ],
+   "stage": "Embryonic stages 36 to 40 (just before hatching) and 3 days after hatching",
+   "methods": "Intraperitoneal 3H-5-hydroxytryptophan injection (compared with intraallantoic and intraventricular routes), radioautography with microscopic and microphotometric quantification, during ontogenesis.",
+   "findings": [
+    {
+     "id": "R152.1",
+     "dim": "physiology",
+     "statement": "In the lizard embryo and hatchling, the paraphysis shows only a weak nonspecific 3H-5-HTP reaction that stays constant, in contrast to the epiphysis, whose labelling increases significantly.",
+     "support": "In contrast, the weak nonspecific reactions, in the neighbouring brain structures (dorsal telencephalon, tectum opticum and paraphysis), stay constant.",
+     "locator": "abstract",
+     "strength": "experimental_result",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Paraphysis is listed as a 'neighbouring brain structure' of the epiphysis, together with dorsal telencephalon and tectum opticum; the abstract gives no definition or topographic position of the paraphysis.",
+   "mentions": [],
+   "caveats": "Only the complete PubMed abstract was read (French-language article with English abstract; no PMCID); abstract text contains typographical errors. The period over which the paraphysis reaction 'stays constant' is implied by the preceding sentence (stage 36 to 3 days post-hatching), not stated explicitly. The paraphysis serves only as a comparison structure.",
+   "appraisal": {
+    "specimens": "not_assessable",
+    "methods": "not_assessable",
+    "claims_support": "direct",
+    "note": "Abstract only: species and stages named, n not stated; labelling observed directly, but the paraphysis is only a reference tissue, not the object of study."
+   },
+   "include_in_synthesis": "context_only",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R155",
+   "data_depth": "secondary_snippet",
+   "duplicate_of": "",
+   "about_paraphysis": "passing_mention",
+   "study_type": "case_series",
+   "taxa": [
+    {
+     "name": "human (third-ventricle colloid cyst patients, per title)",
+     "group": "human"
+    }
+   ],
+   "stage": "not stated in the snippet",
+   "methods": "Not stated in the snippet; the title indicates one operated and one autopsied case, and the keywords list angiography and microsurgery.",
+   "findings": [
+    {
+     "id": "R155.1",
+     "dim": "terminology",
+     "statement": "The Japanese report on third-ventricle colloid cysts lists 'Paraphysis' among its keywords (with colloid cyst, brain tumor, angiography, microsurgery); what the paper says about the paraphysis is not visible in the snippet.",
+     "support": "キーワード: Colloid cyst, Brain tumor, Paraphysis, Angiography, Microsurgery",
+     "locator": "excerpt",
+     "strength": "secondary_report",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Paraphysis appears only as an indexing keyword of a paper on third-ventricle colloid cysts; the authors' view of any paraphyseal origin is not visible.",
+   "mentions": [],
+   "caveats": "Known only from a web-search snippet (AI-summary text, unverified, never confirmed at the publisher page); only the keyword line and the title were available. Japanese-language paper without PMID; volume not displayed. Nothing about the content of the paraphysis discussion can be verified.",
+   "appraisal": {
+    "specimens": "not_assessable",
+    "methods": "not_assessable",
+    "claims_support": "not_assessable",
+    "note": "Only a keyword line from a web snippet was available; no methods or claims could be read."
+   },
+   "include_in_synthesis": "context_only",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R160",
+   "data_depth": "abstract",
+   "duplicate_of": "",
+   "about_paraphysis": "substantive",
+   "study_type": "comparative_anatomy",
+   "taxa": [
+    {
+     "name": "Bathylagus wesethi",
+     "group": "actinopterygian"
+    },
+    {
+     "name": "Nezumia liolepis",
+     "group": "actinopterygian"
+    }
+   ],
+   "stage": "not stated in the abstract",
+   "methods": "Light and electron microscopy of the pineal complexes of two deep-sea fishes; results compared with a published study on the myctophid Triphoturus mexicanus.",
+   "findings": [
+    {
+     "id": "R160.1",
+     "dim": "anatomy",
+     "statement": "A paraphysis, together with a dorsal sac, was found in the deep-sea fish Bathylagus wesethi.",
+     "support": "A dorsal sac and a paraphysis were found in B. wesethi",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    },
+    {
+     "id": "R160.2",
+     "dim": "phylogeny",
+     "statement": "Both the paraphysis and the dorsal sac are absent in the macrourid Nezumia liolepis, so the structures differ between the two species studied.",
+     "support": "A dorsal sac and a paraphysis were found in B. wesethi; both structures are absent in N. liolepis.",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    },
+    {
+     "id": "R160.3",
+     "dim": "physiology",
+     "statement": "A functional relationship between the dorsal sac, paraphysis and pineal central lumen was suggested; it may involve secretory activities.",
+     "support": "A functional relationship between the dorsal sac, paraphysis, and pineal central lumen was suggested. The relationship may involve secretory activities.",
+     "locator": "abstract",
+     "strength": "hypothesis",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Paraphysis and dorsal sac are treated as two separate structures found in association with the pineal complex; the abstract gives no definition and no telencephalic or diencephalic attribution.",
+   "mentions": [],
+   "caveats": "Only the complete PubMed abstract was read (no PMCID); it gives no description of the morphology, histology or ultrastructure of the paraphysis itself, nor the number or stage of specimens. The title prints 'Bathylagus Wesethi'. The basis for the suggested functional relationship is not given in the abstract.",
+   "appraisal": {
+    "specimens": "not_assessable",
+    "methods": "not_assessable",
+    "claims_support": "mixed",
+    "note": "Abstract only: species and techniques named, n and stage not stated; presence/absence reported as observed, function only suggested."
+   },
+   "include_in_synthesis": "yes",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R164",
+   "data_depth": "abstract",
+   "duplicate_of": "",
+   "about_paraphysis": "passing_mention",
+   "study_type": "case_series",
+   "taxa": [
+    {
+     "name": "human (patients with neuroepithelial cysts)",
+     "group": "human"
+    }
+   ],
+   "stage": "not stated in the abstract",
+   "methods": "Brief historical review of pathogenesis theories of neuroepithelial cysts plus roentgenographic demonstration of selected cases from the authors' series.",
+   "findings": [
+    {
+     "id": "R164.1",
+     "dim": "clinical",
+     "statement": "The authors consider an origin of neuroepithelial (colloid) cysts that is more diffuse than the paraphysis most likely, and try to substantiate this with cases from their series.",
+     "support": "An origin more diffuse than the paraphysis seems most likely in our opinion, and we attempt to substantiate this theory with several of the cases from our series.",
+     "locator": "abstract",
+     "strength": "authors_interpretation",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Uses 'neuroepithelial (colloid) cysts'; the paraphysis is named only as the structure of origin proposed by earlier theories and argued against, without definition or description in the abstract.",
+   "mentions": [],
+   "caveats": "Only the complete PubMed abstract was read (no PMCID). The abstract does not describe the paraphysis, the earlier theories, or the evidence used against a paraphyseal origin; the full text may say more.",
+   "appraisal": {
+    "specimens": "not_assessable",
+    "methods": "not_assessable",
+    "claims_support": "inference",
+    "note": "Abstract only: case number not stated; the paraphysis-origin argument is the authors' opinion, evidence not visible in the abstract."
+   },
+   "include_in_synthesis": "context_only",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R170",
+   "data_depth": "abstract",
+   "duplicate_of": "",
+   "about_paraphysis": "substantive",
+   "study_type": "developmental_series",
+   "taxa": [
+    {
+     "name": "Calotes versicolor",
+     "group": "squamate"
+    }
+   ],
+   "stage": "Embryos (specific stages not stated in the abstract)",
+   "methods": "Embryonic development of the pineal complex described histologically in Calotes versicolor and compared with Sphenodon and Lacerta; details not given in the abstract.",
+   "findings": [
+    {
+     "id": "R170.1",
+     "dim": "anatomy",
+     "statement": "In Calotes versicolor embryos the paraphysis (spelled 'papaphysis' in the abstract) is a simple structure.",
+     "support": "The papaphysis in the embryos of Calotes versicolor is a simple structure.",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    },
+    {
+     "id": "R170.2",
+     "dim": "histology",
+     "statement": "Histologically the described structures of the complex resemble the wall of the brain from which they arose; the sentence does not name the paraphysis explicitly.",
+     "support": "Histologically all the structures resemble the wall of the brain from which they arose.",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "The abstract spells the structure 'papaphysis' (apparent misspelling of paraphysis) and refers to the pineal complex as 'the organ'; it does not state whether the paraphysis is telencephalic or diencephalic.",
+   "mentions": [],
+   "caveats": "Only the PubMed abstract was read (no PMCID, no DOI). That 'all the structures' includes the paraphysis is likely but not explicit; the statement that the general plan of development of 'the organ' does not differ from Sphenodon and Lacerta is not tied to the paraphysis in the abstract, so no finding was recorded for it.",
+   "appraisal": {
+    "specimens": "not_assessable",
+    "methods": "not_assessable",
+    "claims_support": "direct",
+    "note": "Abstract only: species and embryonic stage group named, no n, stages or techniques stated; the paraphysis statement is a direct observation."
+   },
+   "include_in_synthesis": "yes",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R181",
+   "data_depth": "abstract",
+   "duplicate_of": "",
+   "about_paraphysis": "passing_mention",
+   "study_type": "case_report",
+   "taxa": [
+    {
+     "name": "human (single postmortem case)",
+     "group": "human"
+    }
+   ],
+   "stage": "not stated in the abstract",
+   "methods": "Case report of an incidental postmortem finding of an infratentorial leptomeningeal neuroepithelial cyst, with description of its epithelial lining and discussion of its developmental relationship.",
+   "findings": [
+    {
+     "id": "R181.1",
+     "dim": "clinical",
+     "statement": "The authors discuss the developmental relationship of an infratentorial neuroepithelial (colloid) cyst to previously described colloid and paraphyseal cysts of the third ventricle; the abstract states no conclusion.",
+     "support": "Its developmental relationship to previously described colloid and paraphyseal cysts in the third ventricle is discussed.",
+     "locator": "abstract",
+     "strength": "secondary_report",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "'Colloid cysts' and 'paraphyseal cysts' of the third ventricle are named side by side as previously described entities; the paraphysis itself is not described.",
+   "mentions": [],
+   "caveats": "Only the complete PubMed abstract was read (no PMCID). The abstract only says that the relationship is discussed; whether the authors accept a paraphyseal origin cannot be verified. The abstract text contains the typographical error 'lell'.",
+   "appraisal": {
+    "specimens": "not_assessable",
+    "methods": "not_assessable",
+    "claims_support": "not_assessable",
+    "note": "Abstract only: single case with lesion location and lining described; the discussion of the paraphyseal relationship is not summarised."
+   },
+   "include_in_synthesis": "context_only",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R183",
+   "data_depth": "abstract",
+   "duplicate_of": "",
+   "about_paraphysis": "principal",
+   "study_type": "light_morphology",
+   "taxa": [
+    {
+     "name": "green sea turtles (Chelonia mydas)",
+     "group": "chelonian"
+    },
+    {
+     "name": "loggerhead turtles (Caretta caretta)",
+     "group": "chelonian"
+    }
+   ],
+   "stage": "Several age classes of green sea turtles; juvenile loggerhead turtles",
+   "methods": "Light microscopy of the pineal-paraphyseal complex in several age classes of Chelonia mydas and in juvenile Caretta caretta.",
+   "findings": [
+    {
+     "id": "R183.1",
+     "dim": "anatomy",
+     "statement": "The pineal-paraphyseal complex of sea turtles is an impressively large structure projecting dorsally and anteriorly above the prosencephalon.",
+     "support": "The pineal-paraphyseal complex of sea turtles is an impressively large structure which projects dorsally and anteriorly above the prosencephalon.",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    },
+    {
+     "id": "R183.2",
+     "dim": "anatomy",
+     "statement": "The paraphysis is extensively fused to the distal portion of the pineal body.",
+     "support": "The paraphysis is extensively fused to the distal portion of the pineal body",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    },
+    {
+     "id": "R183.3",
+     "dim": "physiology",
+     "statement": "The authors suggest that the extensive fusion of paraphysis and distal pineal implies an interrelated function of these two tissues.",
+     "support": "suggesting an interrelated function for these two tissues.",
+     "locator": "abstract",
+     "strength": "hypothesis",
+     "quote_verified": true
+    },
+    {
+     "id": "R183.4",
+     "dim": "anatomy",
+     "statement": "No duct or canal was observed connecting the pineal lumen to the third ventricle in the pineal-paraphyseal complex.",
+     "support": "No duct or canal was observed connecting the pineal lumen to the third ventricle.",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "'Pineal-paraphyseal complex' is used as a unit in which the paraphysis is a tissue distinct from, and fused to, the distal pineal body; the abstract does not state its brain-region origin (telencephalic vs diencephalic).",
+   "mentions": [],
+   "caveats": "Only the complete PubMed abstract was read (no PMCID; the stored Wiley passage repeats part of the abstract). It gives no histological description of the paraphysis itself, no specimen numbers and no staining methods. The title marks this as part I (light microscopic description).",
+   "appraisal": {
+    "specimens": "not_assessable",
+    "methods": "not_assessable",
+    "claims_support": "mixed",
+    "note": "Abstract only: species and age classes named, n and staining not stated; fusion observed directly, interrelated function only suggested."
+   },
+   "include_in_synthesis": "yes",
+   "exclusion_reason": ""
+  }
+ ]
+}

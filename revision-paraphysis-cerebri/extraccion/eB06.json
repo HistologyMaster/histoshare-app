@@ -1,0 +1,403 @@
+{
+ "batch": "eB06",
+ "records": [
+  {
+   "rid": "R524",
+   "data_depth": "excerpt_only",
+   "duplicate_of": "",
+   "about_paraphysis": "none",
+   "study_type": "terminology",
+   "taxa": [
+    {
+     "name": "not applicable (terminology of the CNS)",
+     "group": "not_applicable"
+    }
+   ],
+   "stage": "developing CNS and adult brain (as printed: 'developing CNS ... also for the adult brain')",
+   "methods": "Terminology revision by the FIPAT Working Group Neuroanatomy (Terminologia Neuroanatomica, TNA); stored Wiley passage plus complete PubMed abstract read. No full text.",
+   "findings": [
+    {
+     "id": "R524.1",
+     "dim": "terminology",
+     "statement": "The TNA defines the rostral border of D1 at the rostral border of the chiasmatic plate and names the part rostral to D1 'Telencephalon medium' (T); D1 and T roughly correspond to the secondary prosencephalon.",
+     "support": "The rostral border of D1 was defined as the rostral border of the chiasmatic plate, so as to include the eye vesicle in D1, and T (Telencephalon medium) as the part rostral to D1.",
+     "locator": "excerpt",
+     "strength": "authors_interpretation",
+     "quote_verified": true
+    },
+    {
+     "id": "R524.2",
+     "dim": "terminology",
+     "statement": "The TNA adopts the prosomeric model of Puelles and Rubinstein (neuromere-based) as the organising framework for terminology of the developing CNS and also the adult brain.",
+     "support": "In the revised version of the TE and in the TNA, the prosomeric model developed by Luis Puelles and John Rubinstein ... was adopted.",
+     "locator": "excerpt",
+     "strength": "authors_interpretation",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Telencephalon medium (T) = part rostral to D1 (rostral border of the chiasmatic plate); D1 + T roughly = secondary prosencephalon; prosomeric/neuromeric framework adopted. The paraphysis is not named in the text read.",
+   "mentions": [],
+   "caveats": "Only the stored Wiley passage and the abstract were read; the paraphysis is not mentioned in either, so nothing about its terminological placement is stated here. The passage is a fragment, so the full TNA treatment of the telencephalon medium (and any entry for the paraphysis) could not be checked. Acronyms TE/D1 are used as printed without expansion.",
+   "appraisal": {
+    "specimens": "not_assessable",
+    "methods": "partial",
+    "claims_support": "not_assessable",
+    "note": "Terminology proposal (FIPAT/IFAA consensus), not an observational study; no paraphysis claim to appraise; only a passage and the abstract were read."
+   },
+   "include_in_synthesis": "context_only",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R544",
+   "data_depth": "secondary_snippet",
+   "duplicate_of": "",
+   "about_paraphysis": "none",
+   "study_type": "case_report",
+   "taxa": [
+    {
+     "name": "human (colloid cyst case)",
+     "group": "human"
+    }
+   ],
+   "stage": "not stated in the snippet",
+   "methods": "Not available: only a one-line web-search summary snippet was read (journal not indexed in PubMed).",
+   "findings": [
+    {
+     "id": "R544.1",
+     "dim": "ontogeny",
+     "statement": "Snippet states the case report re-opens the debate on the embryological origin of colloid cysts (colloid-cyst histogenesis); which origin the authors favour is not visible.",
+     "support": "re-ignites the debate as to the embryological origin of colloid cysts",
+     "locator": "excerpt",
+     "strength": "secondary_report",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "",
+   "mentions": [],
+   "caveats": "Web-search AI-summary text (unverified); a single fragment. No PMID, journal not indexed in PubMed, so no abstract or full text was read. The paraphysis is not mentioned in the snippet; which embryological theory the authors favour, and any link to the paraphysis, could not be verified. Case details (paired cysts, age) come only from finder notes and were not read in the source.",
+   "appraisal": {
+    "specimens": "not_assessable",
+    "methods": "not_assessable",
+    "claims_support": "not_assessable",
+    "note": "Only an AI-summary snippet was read; nothing to appraise."
+   },
+   "include_in_synthesis": "context_only",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R628",
+   "data_depth": "abstract",
+   "duplicate_of": "",
+   "about_paraphysis": "none",
+   "study_type": "molecular_expression",
+   "taxa": [
+    {
+     "name": "human (colloid cysts, Rathke cleft cysts, neurenteric cysts, craniopharyngiomas)",
+     "group": "human"
+    }
+   ],
+   "stage": "tissue samples; colloid cyst cases mean age 46.7 years (as printed)",
+   "methods": "Immunohistochemistry for PAX8 (C-terminus specific antibody), TTF1, SOX17 and cadherin 17 on 15 colloid cysts, 7 Rathke cleft cysts, 8 neurenteric cysts and 10 craniopharyngiomas; extent and intensity scored.",
+   "findings": [
+    {
+     "id": "R628.1",
+     "dim": "histology",
+     "statement": "All 15 third-ventricle colloid cysts were PAX8 positive (moderate to strong in >50% of cells in 13/15), whereas no Rathke cleft cyst, neurenteric cyst or craniopharyngioma was PAX8 positive.",
+     "support": "All 15 cases of CCs were PAX8 positive (moderate to strong expression in >50 % in 13/15 cases), while no RCC, NEC or craniopharyngioma showed PAX8 immunoreactivity.",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    },
+    {
+     "id": "R628.2",
+     "dim": "histology",
+     "statement": "No TTF1 or SOX17 expression and only weak scattered cadherin 17; authors conclude colloid cysts lack signs of thyroid, mullerian or enteric differentiation (a comparator for colloid-cyst histogenesis).",
+     "support": "Colloid cysts of the 3rd ventricle are consistently PAX8-positive, while they lack signs of thyroid, müllerian or enteric differentiation.",
+     "locator": "abstract",
+     "strength": "authors_interpretation",
+     "quote_verified": true
+    },
+    {
+     "id": "R628.3",
+     "dim": "histology",
+     "statement": "Rare PAX8-positive single cells were seen in 3 of 6 choroid plexus samples examined.",
+     "support": "Rare PAX8-positive cells were also observed in single cells of 50 % (3/6) of the choroid plexuses.",
+     "locator": "abstract",
+     "strength": "direct_observation",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Colloid cyst of the 3rd ventricle described as a 'cystic lesion of uncertain histogenesis, occurring exclusively in the 3rd ventricle close to the foramen Monro'. The paraphysis is not mentioned in the abstract.",
+   "mentions": [
+    {
+     "work": "unspecified earlier studies (not cited in the abstract)",
+     "claim": "A pathogenic relationship of colloid cyst to neurenteric cyst or Rathke cleft cyst has been suggested in the past.",
+     "quote": "In the past, its pathogenic relationship to neurenteric cyst (NEC) of central nervous system or Rathke cleft cyst (RCC) has been suggested.",
+     "strength": "secondary_report"
+    }
+   ],
+   "caveats": "Abstract only (no PMCID, full text not read). The paraphysis is not mentioned in the abstract and no paraphysis tissue was tested; whether the full text discusses it was not checked. The choroid plexus sample origin and the denominator are only as printed (3/6).",
+   "appraisal": {
+    "specimens": "reported",
+    "methods": "partial",
+    "claims_support": "not_assessable",
+    "note": "Abstract reports sample sizes, sex, age and markers; scoring described. No claim about the paraphysis; abstract-level appraisal only."
+   },
+   "include_in_synthesis": "context_only",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R650",
+   "data_depth": "secondary_snippet",
+   "duplicate_of": "",
+   "about_paraphysis": "passing_mention",
+   "study_type": "other",
+   "taxa": [
+    {
+     "name": "humans",
+     "group": "human"
+    },
+    {
+     "name": "lower vertebrates",
+     "group": "multiple"
+    }
+   ],
+   "stage": "not stated (human embryo per finder notes only)",
+   "methods": "Online embryology teaching module (embryology.ch); only a one-sentence web-search snippet was read.",
+   "findings": [
+    {
+     "id": "R650.1",
+     "dim": "ontogeny",
+     "statement": "Snippet states that a diverticulum, the paraphysis, only sometimes arises in humans above the foramina of Monro.",
+     "support": "Sometimes, in humans, a diverticulum, the paraphysis, arises above the foramina of Monro",
+     "locator": "excerpt",
+     "strength": "secondary_report",
+     "quote_verified": true
+    },
+    {
+     "id": "R650.2",
+     "dim": "phylogeny",
+     "statement": "Snippet states the paraphysis is always present in lower vertebrates, in contrast to its occasional occurrence in humans.",
+     "support": "that in lower vertebrates is always present",
+     "locator": "excerpt",
+     "strength": "secondary_report",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Paraphysis described as a 'diverticulum' arising above the foramina of Monro; no telencephalic or diencephalic assignment is stated in the snippet.",
+   "mentions": [],
+   "caveats": "Web-search AI-summary text, unverified; teaching module with no authors or sources shown. A single sentence was read: no stage, no sample, no reference for the claim; the surrounding text of the module was not read. Species in 'lower vertebrates' not named.",
+   "appraisal": {
+    "specimens": "not_reported",
+    "methods": "not_reported",
+    "claims_support": "not_assessable",
+    "note": "Unreferenced teaching statement seen only as an AI-summary snippet; cannot be appraised."
+   },
+   "include_in_synthesis": "context_only",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R651",
+   "data_depth": "secondary_snippet",
+   "duplicate_of": "",
+   "about_paraphysis": "none",
+   "study_type": "terminology",
+   "taxa": [
+    {
+     "name": "not applicable (lexicon definition)",
+     "group": "not_applicable"
+    }
+   ],
+   "stage": "ontogeny (as printed: 'während der Ontogenese')",
+   "methods": "Online lexicon entry (DocCheck Flexikon); only a two-sentence web-search snippet was read.",
+   "findings": [
+    {
+     "id": "R651.1",
+     "dim": "terminology",
+     "statement": "Telencephalon impar is defined as the part of the telencephalon that takes part in no evaginations during ontogeny (adjacent-structure definition).",
+     "support": "Als Telencephalon impar bezeichnet man den Teil des Telencephalons, der während der Ontogenese an keinen Ausstülpungen (Evaginationen) teilnimmt.",
+     "locator": "excerpt",
+     "strength": "secondary_report",
+     "quote_verified": true
+    },
+    {
+     "id": "R651.2",
+     "dim": "anatomy",
+     "statement": "The (unspecified, plural) parts are median, around the interventricular foramen, within the territory of the former roof and floor plates.",
+     "support": "Diese sind median gelegen, in der Umgebung des Foramen interventriculare und liegen somit im Bereich der früheren Deck- und Bodenplatten.",
+     "locator": "excerpt",
+     "strength": "secondary_report",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Telencephalon impar: the non-evaginating median part of the telencephalon around the foramen interventriculare, in the area of the former roof and floor plates. The paraphysis is not mentioned in the text read.",
+   "mentions": [],
+   "caveats": "Web-search snippet (unverified; AI-summary or extracted text) of a German online lexicon; the entry cites Waschke et al., Sobotta, 2nd ed. 2019 per finder notes only. The antecedent of 'Diese' in the second sentence is not visible in the snippet. The paraphysis is not mentioned; its link to this territory is not stated in the text read.",
+   "appraisal": {
+    "specimens": "not_reported",
+    "methods": "not_reported",
+    "claims_support": "not_assessable",
+    "note": "Lexicon definition seen as a snippet; no observations and no paraphysis claim to appraise."
+   },
+   "include_in_synthesis": "context_only",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R656",
+   "data_depth": "excerpt_only",
+   "duplicate_of": "",
+   "about_paraphysis": "passing_mention",
+   "study_type": "light_morphology",
+   "taxa": [
+    {
+     "name": "placental mammal",
+     "group": "eutherian"
+    },
+    {
+     "name": "lower vertebrates (some)",
+     "group": "multiple"
+    }
+   ],
+   "stage": "not stated in the excerpt",
+   "methods": "Morphology and histology of the pineal region of the mammalian brain (title); only the stored Wiley passage was read, which says the choroid plexus, dorsal sac and histological appearances are 'described'.",
+   "findings": [
+    {
+     "id": "R656.1",
+     "dim": "phylogeny",
+     "statement": "The paraphysis, probably glandular in some lower vertebrates, is stated to be not represented in the brain of the placental mammal.",
+     "support": "The paraphysis, which has probably a glandular function in some of the lower vertebrates, is not represented in the brain of the placental mammal.",
+     "locator": "excerpt",
+     "strength": "authors_interpretation",
+     "quote_verified": true
+    },
+    {
+     "id": "R656.2",
+     "dim": "anatomy",
+     "statement": "Velum transversum and dorsal sac are said to give rise to the choroid plexuses of the lateral and third ventricles (dorsal sac context for the paraphysis region).",
+     "support": "The velum transversum and dorsal sac give rise to the choroid plexuses of the lateral and third ventricles.",
+     "locator": "excerpt",
+     "strength": "authors_interpretation",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Uses 'dorsal sac' and 'velum transversum' as separate structures that give rise to the choroid plexuses; the paraphysis is distinguished from them and described as absent in placental mammals.",
+   "mentions": [],
+   "caveats": "Only a short Wiley excerpt was read; the basis (observation or literature) for the statement on the paraphysis is not shown. 'Placental mammal' is the source's wording; no species named. Publication year not given in the text read (finder notes say it is unconfirmed; not in PubMed). Whether the full paper treats the paraphysis further could not be checked.",
+   "appraisal": {
+    "specimens": "not_reported",
+    "methods": "not_assessable",
+    "claims_support": "not_assessable",
+    "note": "Excerpt gives no specimens or methods and does not show whether the paraphysis statement is observed or cited."
+   },
+   "include_in_synthesis": "yes",
+   "exclusion_reason": ""
+  },
+  {
+   "rid": "R661",
+   "data_depth": "excerpt_only",
+   "duplicate_of": "",
+   "about_paraphysis": "none",
+   "study_type": "other",
+   "taxa": [
+    {
+     "name": "Cranioten (title)",
+     "group": "multiple"
+    }
+   ],
+   "stage": "not stated (no text read)",
+   "methods": "Not available: no abstract, excerpt or full text could be read.",
+   "findings": [],
+   "terminology": "",
+   "mentions": [],
+   "caveats": "No text of any kind was read (metadata only, no PubMed record, no excerpt); known only as a bibliography entry of Warren 1905 per finder notes. 'none' for about_paraphysis only reflects the absence of accessible text, NOT the content of the work. Taxon comes from the title only; year and journal unknown; study type not determinable.",
+   "appraisal": {
+    "specimens": "not_assessable",
+    "methods": "not_assessable",
+    "claims_support": "not_assessable",
+    "note": "No text read; nothing to appraise."
+   },
+   "include_in_synthesis": "no",
+   "exclusion_reason": "No accessible text (metadata/title only); nothing extractable. Not a judgement on relevance: the original would need to be read to be usable."
+  },
+  {
+   "rid": "R663",
+   "data_depth": "excerpt_only",
+   "duplicate_of": "",
+   "about_paraphysis": "passing_mention",
+   "study_type": "comparative_anatomy",
+   "taxa": [
+    {
+     "name": "Ceratodus",
+     "group": "dipnoan"
+    },
+    {
+     "name": "Polyodon",
+     "group": "actinopterygian"
+    },
+    {
+     "name": "green turtle",
+     "group": "chelonian"
+    },
+    {
+     "name": "mammalian (sheep, cow, horse)",
+     "group": "eutherian"
+    }
+   ],
+   "stage": "not stated in the excerpt",
+   "methods": "Short note (pp. 128-129); only the stored Wiley passage was read. Descriptive comparison of the dorsal sack across taxa; methods not stated.",
+   "findings": [
+    {
+     "id": "R663.1",
+     "dim": "terminology",
+     "statement": "The dorsal sack is defined as a pouchlike evagination of the diatela, located between the epiphysis and the paraphysis, in many lower vertebrates.",
+     "support": "In many of the lower vertebrates there is a pouchlike evagination of the diatela (membranous roof of the diacele, or \"third ventricle\") between the epiphysis and the paraphysis.",
+     "locator": "excerpt",
+     "strength": "authors_interpretation",
+     "quote_verified": true
+    },
+    {
+     "id": "R663.2",
+     "dim": "phylogeny",
+     "statement": "Dorsal sack form varies by taxon: anteverted and very large in Ceratodus and Polyodon, projecting dorsad in the green turtle, crowded caudad by the cerebrum onto the retroverted epiphysis in mammals.",
+     "support": "In the green turtle it projects dorsad. Its mammalian representative is crowded caudad by the cerebrum and rests upon the retroverted epiphysis.",
+     "locator": "excerpt",
+     "strength": "direct_observation",
+     "quote_verified": true
+    },
+    {
+     "id": "R663.3",
+     "dim": "histology",
+     "statement": "The diaplexuses (choroid plexuses of the diatela) are continued into the dorsal sack; the sack is large in the sheep and long in the cow and horse.",
+     "support": "It is large in the sheep and long in the cow and horse. The diaplexuses are continued into it.",
+     "locator": "excerpt",
+     "strength": "direct_observation",
+     "quote_verified": true
+    }
+   ],
+   "terminology": "Uses 'dorsal sack' for a pouch of the diatela (membranous roof of the diacele, or 'third ventricle') between epiphysis and paraphysis; 'diaplexuses' for the plexuses of the diatela; the author says he figured it earlier without recognizing its homology. The paraphysis is mentioned only as the rostral landmark.",
+   "mentions": [
+    {
+     "work": "Reichert (year not given)",
+     "claim": "Reichert showed the dorsal sack, which is commonly ignored in figures and descriptions.",
+     "quote": "It is commonly ignored in figures and descriptions, but was shown by Reichert.",
+     "strength": "secondary_report"
+    },
+    {
+     "work": "New York Medical Journal, 1885, p. 320 (speaker's own earlier figure)",
+     "claim": "The speaker figured the structure there without recognizing its homology.",
+     "quote": "The speaker, without recognizing its homology, figured it in the *New York Medical Journal*, 1885, p. 320.",
+     "strength": "secondary_report"
+    }
+   ],
+   "caveats": "Only a short Wiley excerpt was read (a brief note, probably a society communication; not confirmed). Publication year is not in the text read (Wiley date field is implausible per finder notes). Excerpt says nothing on the paraphysis itself beyond the landmark role; the dorsal sack of mammals is the source's own equation ('mammalian representative'). 'diacele' and 'diatela' are the source's terms.",
+   "appraisal": {
+    "specimens": "not_reported",
+    "methods": "not_reported",
+    "claims_support": "mixed",
+    "note": "Taxon-level descriptions appear observational but no specimens, stages or methods are given; the homology of the mammalian sack is asserted rather than demonstrated in the excerpt."
+   },
+   "include_in_synthesis": "context_only",
+   "exclusion_reason": ""
+  }
+ ]
+}

@@ -1,0 +1,122 @@
+[
+ {
+  "cid": "S5-021",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S5-022",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S5-023",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S5-024",
+  "verdict": "ok_uncited",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S5-025",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S5-026",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S5-027",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S5-028",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S5-029",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S5-030",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S5-031",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S5-032",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S5-033",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S5-034",
+  "verdict": "needs_hedge",
+  "issue": "\"sin que ninguno aborde esa tesis\": absence of a discussion stated as fact, but Joven (2013) (R497) was read only as abstract + a 415-character Discussion excerpt and Bandin (R492) only as the paragraphs that mention the paraphysis; also \"solo consideró el plexo como derivado de la placa del techo\" drops the source's scope (R497.3: 'the only derivative considered from the roof plate of p3 and telencephalon'), so it reads as all roof-plate derivatives.",
+  "fix": "... y Joven (2013) señala que el modelo prosómerico modificado solo consideró el plexo como derivado de la placa del techo de p3 y del telencéfalo [@R497.3]; en los fragmentos leídos, ninguno aborda esa tesis; sus terminologías también difieren [@R110.2; @R497.2]."
+ },
+ {
+  "cid": "S5-035",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S5-036",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S5-037",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S5-038",
+  "verdict": "ok_uncited",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S5-039",
+  "verdict": "ok_uncited",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S5-040",
+  "verdict": "ok_uncited",
+  "issue": "",
+  "fix": ""
+ }
+]

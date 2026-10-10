@@ -1,0 +1,122 @@
+[
+ {
+  "cid": "S1-021",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-022",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-023",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-024",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-025",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-026",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-027",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-028",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-029",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-030",
+  "verdict": "needs_hedge",
+  "issue": "\"para el pez pulmonado la literatura recuperada emplea tres rótulos, «coronarium» [@R005.1]\": R005.1 is an unverified secondary web snippet (AI-summary text) that never uses the word paraphysis and never names the lungfish (Protopterus comes only from the record title); its link to the other two labels rests on finder notes outside the text. R079.t supports only the title wording. The sentence lists «coronarium» on a par with the other two labels without that flag.",
+  "fix": "Interpretación de esta revisión: para los peces pulmonados la literatura recuperada emplea tres rótulos: «coronarium» (fragmento secundario no verificado que no menciona la paráfisis; especie tomada del título) [@R005.1], «paraphysis» (solo título) [@R079.t] y «dorsal sac» (resumen) [@R246.2]; el corpus no establece su equivalencia."
+ },
+ {
+  "cid": "S1-031",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-032",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-033",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-034",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-035",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-036",
+  "verdict": "ok_uncited",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-037",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-038",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-039",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S1-040",
+  "verdict": "partial",
+  "issue": "\"según la misma fuente, el título impreso de Sjövall (1909) plantea la identidad como pregunta («Paraphyse?») [@R021.2]\": the secondary snippet (WebSearch summary of Glazer 1956 and later reference lists) contains only the sentence \"The paraphysial origin of these cystic tumors was first suggested by Sjövall in 1909\". The title with \"(Paraphyse?)\" comes from the corpus record metadata (bib_verified=False, original not seen), not from that source, so the first clause is supported but the second is wrongly attributed to \"la misma fuente\" and \"impreso\" implies a printed title that was not examined.",
+  "fix": "Según una fuente secundaria no verificada, el origen paraphysial de estos quistes fue sugerido por primera vez por Sjövall en 1909 [@R021.1]; el título de Sjövall (1909) en el registro del corpus (no verificado frente al original) plantea la identidad como pregunta («Paraphyse?») [@R021.2]."
+ }
+]

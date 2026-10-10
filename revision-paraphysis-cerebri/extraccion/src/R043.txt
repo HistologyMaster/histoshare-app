@@ -1,0 +1,5 @@
+RECORD R043 | Gladstone RJ, Wakeley CPG | 1940
+TITLE (corpus record): The pineal organ: the comparative anatomy of median and lateral eyes, with special reference to the origin of the pineal body; and a description of the human pineal organ considered from the clinical and surgical standpoints
+PUBLISHER (corpus record): London: Baillière, Tindall & Cox (book)
+ACCESS: web search snippet only (UNSW Embryology wiki transcription seen via WebSearch summaries); no PMID/DOI/PMC; AI-summary text, unverified
+STORED EXCERPT: A paraphysis is usually well developed in the Urodela, and may appear as a simple tubular diverticulum or it may be branched and glandular in appearance.

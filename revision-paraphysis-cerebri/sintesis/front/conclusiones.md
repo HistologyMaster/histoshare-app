@@ -1,0 +1,7 @@
+## Conclusiones
+
+1. La paráfisis ha sido descrita en peces, anfibios, reptiles y, de forma transitoria o rudimentaria, en humanos, pero las fuentes recuperadas no usan una definición común: la sitúan en el techo telencefálico o en el diencefálico y aplican el término también a un saco dorsal o a un divertículo epitalámico [@R492.6; @R110.2; @R246.2; @R455.1].
+2. La evidencia verificable es escasa y poco profunda: la mayor parte de la literatura clásica solo se conoce por título, y los datos recientes sobre la paráfisis son pocos y a menudo tangenciales; por eso no puede establecerse una distribución filogenética por clases ni una cronología ontogénica homogénea [@R160.2; @R285.1; @R370.1; @R501.1].
+3. Histología y ultraestructura describen un epitelio con rasgos compartidos con el plexo coroideo [@R281.2; @R110.1], y las funciones propuestas (secreción, transporte de fluidos y electrolitos, regulación del calcio) son interpretaciones o hipótesis de los autores [@R320.2; @R320.3; @R233.4]; el único experimento quirúrgico con efecto medido no separa la paráfisis del plexo coroideo [@R245.1].
+4. La hipótesis de que los quistes coloides del tercer ventrículo derivan de la paráfisis sigue sin resolverse [@R517.6].
+5. Interpretación de esta revisión: el avance más urgente es de definición y de acceso: acordar qué estructura se llama paráfisis, recuperar las obras clásicas a texto completo y probar con marcadores y controles explícitos las hipótesis estructurales y funcionales.

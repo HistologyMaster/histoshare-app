@@ -1,0 +1,98 @@
+[
+ {
+  "cid": "S5-061",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S5-062",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S5-063",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S5-064",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S5-065",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S5-066",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S5-067",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S5-068",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S5-069",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S5-070",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S5-071",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S5-072",
+  "verdict": "needs_hedge",
+  "issue": "\"solo constan títulos\" se lee como que para peces, cocodrilianos y mamíferos no humanos no hay otro registro que títulos; la base de datos tiene resúmenes de peces con la paráfisis solo como presencia (R160 Bathylagus wesethi, R246 Mustelus/Osteoglossum/Gnathonemus) y un fragmento secundario sobre el aligátor (R044). Ninguno describe histología/ultraestructura, pero no son títulos.",
+  "fix": "En esta revisión no se encontraron descripciones histológicas ni ultraestructurales de la paráfisis en peces, cocodrilianos ni mamíferos no humanos con especie nombrada; solo constan títulos de ese tipo, como los de Chiarugi (1906) [@R018.t] y Reese (1910) [@R023.t], además de registros de presencia sin descripción (p. ej., [@R160.1]; [@R246.1])."
+ },
+ {
+  "cid": "S5-073",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S5-074",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S5-075",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ },
+ {
+  "cid": "S5-076",
+  "verdict": "supported",
+  "issue": "",
+  "fix": ""
+ }
+]

@@ -1,0 +1,617 @@
+[
+ {
+  "cid": "S6-001",
+  "kind": "interpretation",
+  "text": "En esta revisión, la sección se apoya en 23 registros con 46 hallazgos de fisiología sobre la paráfisis (paraphysis cerebri): 1 registro a texto completo, 20 a nivel de resumen, 1 como extracto parcial y 1 como fragmento secundario de resumen web, no verificado.",
+  "refs": [],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S6-002",
+  "kind": "cited",
+  "text": "En esta revisión, 8 de esos 23 registros son de contexto, no evidencia central: seis estudios de aminas en el complejo pineal-parafisario de tortugas *Lissemys* [@R243.1; @R251.1; @R262.2; @R274.1; @R294.1; @R302.2], un marcaje con 5-HTP en lagarto [@R152.1] y una hipótesis general sobre el líquido cefalorraquídeo (LCR) [@R185.2].",
+  "refs": [
+   "R243.1",
+   "R251.1",
+   "R262.2",
+   "R274.1",
+   "R294.1",
+   "R302.2",
+   "R152.1",
+   "R185.2"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S6-003",
+  "kind": "interpretation",
+  "text": "Esta revisión suma 44 obras conocidas solo por título, 8 de las cuales anuncian función, ablación o histoquímica de la paráfisis, sin resultados citables.",
+  "refs": [],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S6-004",
+  "kind": "cited",
+  "text": "Los resultados experimentales recuperados de una intervención quirúrgica sobre la estructura proceden de la paraphysectomía en la rana toro (*Rana catesbeiana*), que en Sarras (1986) retiró el complejo paráfisis-plexo coroideo [@R245.1]; los tres estudios se leyeron solo en resumen [@R226.2; @R237.2; @R245.2].",
+  "refs": [
+   "R245.1",
+   "R226.2",
+   "R237.2",
+   "R245.2"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S6-005",
+  "kind": "cited",
+  "text": "Según Nelson (1983), la operación produjo hipocalcemia y tetania en 35 ranas, cerca del 40 % de las operadas [@R226.2]; los autores concluyen que la paráfisis parece intervenir en la regulación del calcio [@R226.5].",
+  "refs": [
+   "R226.2",
+   "R226.5"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S6-006",
+  "kind": "cited",
+  "text": "A los 22 meses, Nelson (1985) halló paratiroides agrandadas, con peso húmedo diez veces mayor [@R237.2] y fracturas espontáneas con fémures de menor contenido de calcio [@R237.4; @R237.5]; que la paráfisis produzca un factor necesario para la acción del calcio es una hipótesis de los autores [@R237.6].",
+  "refs": [
+   "R237.2",
+   "R237.4",
+   "R237.5",
+   "R237.6"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S6-007",
+  "kind": "cited",
+  "text": "Sarras (1986) halló que los volúmenes paratiroideos total, celular y vascular se duplicaron a los 7-28 días [@R245.2], y los autores sugieren un papel de la estructura extirpada en la función paratiroidea [@R245.5].",
+  "refs": [
+   "R245.2",
+   "R245.5"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S6-008",
+  "kind": "cited",
+  "text": "Sarras (1986) denomina «complejo paráfisis-plexo coroideo» a la estructura retirada [@R245.1].",
+  "refs": [
+   "R245.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S6-009",
+  "kind": "cited",
+  "text": "Los resúmenes de Nelson (1983, 1985) no indican si se retiró también el plexo coroideo ni informan del número total de ranas operadas, de si hubo controles simulados (el de 1985 menciona ranas control sin describirlas [@R237.1]) ni de la extensión extirpada [@R226.2; @R237.2].",
+  "refs": [
+   "R237.1",
+   "R226.2",
+   "R237.2"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S6-010",
+  "kind": "cited",
+  "text": "En *Rana*, las vénulas del plexo coroideo drenan en los sinusoides parafisarios, según Hinton (1990) [@R280.5].",
+  "refs": [
+   "R280.5"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S6-011",
+  "kind": "interpretation",
+  "text": "Interpretación de esta revisión: con el texto leído, los efectos sobre calcio y paratiroides no pueden atribuirse a la paráfisis aislada, porque Sarras retira el complejo, Nelson no precisa qué se extirpó y, en *Rana*, el plexo drena en los sinusoides parafisarios; en el corpus recuperado no se encontró un experimento que los separe.",
+  "refs": [],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S6-012",
+  "kind": "cited",
+  "text": "Fuentes posteriores describen la función como no establecida: Hinton (1990) la califica de no sustanciada, aunque quizá relacionada con el calcio [@R280.2], Ung (2004), en el tuátara, de función aparentemente secretora aún no determinada [@R410.2] y Ringler (2019) de mal comprendida pero posiblemente importante para el calcio [@R560.4].",
+  "refs": [
+   "R280.2",
+   "R410.2",
+   "R560.4"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S6-013",
+  "kind": "cited",
+  "text": "Ueno (1984) halló en *Rana esculenta* actividad Ca++-ATPasa intensa en las microvellosidades apicales de las células parafisarias [@R233.1]; los autores infieren que serían un regulador principal del calcio del LCR frente al plexo coroideo adyacente, aunque el resumen no ofrece datos comparativos con el plexo [@R233.4].",
+  "refs": [
+   "R233.1",
+   "R233.4"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S6-014",
+  "kind": "cited",
+  "text": "Los títulos de Ariens Kappers (1949) y Ariëns-Kappers (1950) anuncian datos o experimentos sobre la función [@R050.t; @R054.t] y el de Legait (1957), cambios cerebrales tras ablación o cauterización de la paráfisis [@R080.t]; los de Ariens Kappers (1956) y Stockem (1965) tratan la función entre sus temas [@R074.t; @R107.t]; otros títulos anuncian estudios histoquímicos (Paul 1968 y 1972) [@R120.t; @R138.t], sin resultados recuperables de ninguno de ellos.",
+  "refs": [
+   "R050.t",
+   "R054.t",
+   "R080.t",
+   "R074.t",
+   "R107.t",
+   "R120.t",
+   "R138.t"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S6-015",
+  "kind": "cited",
+  "text": "Fernández-Llebrez (1982) describe en la culebra de agua *Natrix maura* células con microvellosidades apicales y vesículas pinocíticas [@R217.2] y una capa conjuntiva con sinusoides fenestrados [@R217.5]; los autores discuten un posible papel activo en el intercambio de sustancias entre LCR y sangre [@R217.6].",
+  "refs": [
+   "R217.2",
+   "R217.5",
+   "R217.6"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S6-016",
+  "kind": "cited",
+  "text": "En *Hyla versicolor*, Kemnitz (1990) describe en el epéndimo de la paráfisis, como en el del plexo coroideo, un borde microvellositario extenso y mitocondrias apicales [@R281.2], rasgos que interpreta como indicio de intercambio activo entre sangre y LCR [@R281.3].",
+  "refs": [
+   "R281.2",
+   "R281.3"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S6-017",
+  "kind": "cited",
+  "text": "Como hipótesis, plantea que la paráfisis, el plexo coroideo anterior y los túbulos endolinfáticos actúen como unidad funcional que regula la composición del LCR [@R281.1] y que la asociación de la paráfisis con los túbulos sea un mecanismo importante de regulación iónica del LCR en anfibios [@R281.6].",
+  "refs": [
+   "R281.1",
+   "R281.6"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S6-018",
+  "kind": "cited",
+  "text": "En larvas de *Bufo bufo*, Farnesi (1994) describe una glándula tubular ramificada [@R320.1]; los autores interpretan que sus células secretan una glicoproteína que contribuye a la producción del LCR [@R320.2] y discuten un papel en el transporte de fluidos y electrolitos de la sangre al LCR [@R320.3].",
+  "refs": [
+   "R320.1",
+   "R320.2",
+   "R320.3"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S6-019",
+  "kind": "cited",
+  "text": "Hasunuma (2010) califica a la paráfisis del tritón *Cynops pyrrhogaster*, entre paréntesis, de posible sitio principal de producción de LCR, sin exponer la evidencia en el resumen [@R467.2].",
+  "refs": [
+   "R467.2"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S6-020",
+  "kind": "cited",
+  "text": "En sentido distinto, un extracto de Joven (2012) recoge que la paráfisis anfibia, a diferencia del plexo, carece de mecanismos de captación del LCR [@R485.3], cláusula que parecería provenir de Jansen y Diederen (1987) [@R485.m2].",
+  "refs": [
+   "R485.3",
+   "R485.m2"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S6-021",
+  "kind": "interpretation",
+  "text": "Interpretación de esta revisión: las fuentes asignan al LCR papeles distintos (producción, transporte, intercambio, regulación iónica, ausencia de captación) y, en los textos leídos, ninguna informa mediciones de flujo, secreción o composición del LCR.",
+  "refs": [],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S6-022",
+  "kind": "cited",
+  "text": "Shuangshoti (1966) concluye, por un origen neuroepitelial común y propiedades histoquímicas semejantes, que la paráfisis es un plexo coroideo modificado [@R110.1].",
+  "refs": [
+   "R110.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S6-023",
+  "kind": "cited",
+  "text": "Por otra parte, Ueno (1984) piensa, a partir de la localización de la Ca++-ATPasa y en comparación con el epitelio del plexo adyacente, que la célula parafisaria sería un regulador principal del calcio del LCR en ranas, sin datos comparativos con el plexo en el resumen [@R233.4]; un extracto de Joven (2012) recoge, como informe secundario (la cláusula parece provenir de Jansen y Diederen, 1987), que, a diferencia del plexo, carece de mecanismos de captación del LCR [@R485.3].",
+  "refs": [
+   "R233.4",
+   "R485.3"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S6-024",
+  "kind": "cited",
+  "text": "Rivas-Manzano (2022) describen en *Ambystoma mexicanum* dos evaginaciones extraventriculares, una de agregados alveolo-acinares con contenido de aspecto secretor [@R599.5] y otra estructurada como plexo coroideo [@R599.6]; el resumen afirma que la paráfisis consta de ambas [@R599.7], pero los autores sugieren que son homólogas de la paráfisis y del saco dorsal, respectivamente [@R599.8].",
+  "refs": [
+   "R599.5",
+   "R599.6",
+   "R599.7",
+   "R599.8"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S6-025",
+  "kind": "cited",
+  "text": "Para el pez pulmonado, Tsuneki (1986) juzga que la llamada paráfisis es un saco dorsal [@R246.2].",
+  "refs": [
+   "R246.2"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S6-026",
+  "kind": "interpretation",
+  "text": "Interpretación de esta revisión: «paráfisis» puede designar en estos estudios estructuras no equivalentes, lo que limita comparar resultados funcionales entre taxones.",
+  "refs": [],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S6-027",
+  "kind": "cited",
+  "text": "En *Rana*, el lecho capilar parafisario es un sistema portal sinusoidal que recibe sangre del plexo coroideo [@R280.3], con endotelio fenestrado que Hinton (1990) toma como indicio de vasos de transporte [@R280.6].",
+  "refs": [
+   "R280.3",
+   "R280.6"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S6-028",
+  "kind": "cited",
+  "text": "Según una fuente secundaria no verificada sobre Winkelmann y colaboradores (2004), cuyo título trata de la paráfisis de la tortuga *Trachemys* (*scripta*) *dorbigni*, el azul de Evans intraarterial mostró ausencia de barrera hematoencefálica; el fragmento no nombra la estructura examinada [@R412.1].",
+  "refs": [
+   "R412.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S6-029",
+  "kind": "cited",
+  "text": "Rivas-Manzano (2022) describen la paráfisis como estructura circunventricular del techo del diencéfalo [@R599.1]; el título de Srebro (1967) anuncia el papel del órgano subfornical de la rana en la regulación de la actividad secretora de la paráfisis [@R116.t] y el de Watermann (1957), el problema de la homología entre el órgano subfornical y la paráfisis [@R081.t], sin contenido recuperado de ninguno.",
+  "refs": [
+   "R599.1",
+   "R116.t",
+   "R081.t"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S6-030",
+  "kind": "cited",
+  "text": "Hasunuma (2010) detectó en la paráfisis de *Cynops pyrrhogaster* solo ARNm e inmunorreactividad del receptor de arginina vasotocina de tipo V2 [@R467.1].",
+  "refs": [
+   "R467.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S6-031",
+  "kind": "cited",
+  "text": "Joven (2012) resume, en un extracto y atribuyéndolo a Hasunuma y colaboradores (2010), que en urodelos se observó en la paráfisis un tipo de receptor de arginina vasotocina (sin precisar si es V2) relacionado con la regulación osmótica o iónica del LCR [@R485.4; @R485.m3]; esa redacción no figura en el resumen de Hasunuma, que habla de producción de LCR [@R467.2].",
+  "refs": [
+   "R485.4",
+   "R485.m3",
+   "R467.2"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S6-032",
+  "kind": "cited",
+  "text": "McNulty (1976), en un estudio de dos peces de aguas profundas en el que solo *Bathylagus wesethi* presentó saco dorsal y paráfisis [@R160.1; @R160.2], sugiere una relación funcional entre saco dorsal, paráfisis y luz pineal que podría implicar actividad secretora [@R160.3]; Owens (1978) sugiere que la fusión de la paráfisis con la pineal distal en tortugas marinas implica una función interrelacionada [@R183.3].",
+  "refs": [
+   "R160.1",
+   "R160.2",
+   "R160.3",
+   "R183.3"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S6-033",
+  "kind": "cited",
+  "text": "Cinco estudios de Mahapatra (1986-1991) y uno de Mahata (1992) midieron aminas en el complejo pineal-parafisario de tortugas *Lissemys* [@R243.1; @R251.1; @R262.2; @R274.1; @R294.1; @R302.2]; como el tejido se midió en conjunto, no hay valores propios de la paráfisis [@R302.1].",
+  "refs": [
+   "R243.1",
+   "R251.1",
+   "R262.2",
+   "R274.1",
+   "R294.1",
+   "R302.2",
+   "R302.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S6-034",
+  "kind": "cited",
+  "text": "Ringler (2019), con resonancia magnética potenciada con manganeso (MEMRI) en ranas expuestas a cantos, halló que la paráfisis fue una de las tres regiones con mayor cambio de señal [@R560.1]; la señal fue mayor tras el canto que tras el silencio, sin diferencia significativa entre canto y ruido [@R560.2].",
+  "refs": [
+   "R560.1",
+   "R560.2"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S6-035",
+  "kind": "cited",
+  "text": "Los autores sugieren, como hipótesis, que el manganeso, análogo del calcio, se acumularía por mayor presión sanguínea ligada a la activación general [@R560.5], y consideran que diferencias de permeabilidad de la barrera hematoencefálica podrían contribuir, aunque excluyen una explicación solo metodológica o anatómica [@R560.6].",
+  "refs": [
+   "R560.5",
+   "R560.6"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S6-036",
+  "kind": "cited",
+  "text": "|Calcio y paratiroides|Resultado experimental|*Rana catesbeiana*: hipocalcemia y tetania en 35 ranas operadas, según el resumen [@R226.2]; paratiroides agrandadas a los 22 meses [@R237.2]; volumen paratiroideo duplicado a los 7-28 días tras retirar el complejo paráfisis-plexo coroideo [@R245.2]|",
+  "refs": [
+   "R226.2",
+   "R237.2",
+   "R245.2"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S6-037",
+  "kind": "cited",
+  "text": "|Calcio y paratiroides|Interpretación de los autores|Papel en la regulación del calcio [@R226.5]; estimulación paratiroidea con papel del complejo [@R245.5]|",
+  "refs": [
+   "R226.5",
+   "R245.5"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S6-038",
+  "kind": "cited",
+  "text": "|Calcio y paratiroides|Hipótesis|Factor parafisario necesario para la acción del calcio [@R237.6]; posible papel endocrino [@R280.2]|",
+  "refs": [
+   "R237.6",
+   "R280.2"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S6-039",
+  "kind": "cited",
+  "text": "|Calcio del LCR|Resultado u observación|*Rana esculenta*: Ca++-ATPasa intensa en las microvellosidades apicales (leve en la membrana basolateral); su actividad varió con la concentración de Ca++ y disminuyó al sustituir Ca por Mg [@R233.1; @R233.3]|",
+  "refs": [
+   "R233.1",
+   "R233.3"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S6-040",
+  "kind": "cited",
+  "text": "|Calcio del LCR|Interpretación de los autores|Regulador principal del calcio del LCR frente al plexo adyacente [@R233.4]|",
+  "refs": [
+   "R233.4"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S6-041",
+  "kind": "cited",
+  "text": "|Producción y transporte de LCR|Interpretación de los autores|*Bufo bufo* (larvas): secreción de glicoproteína que contribuye a la producción de LCR [@R320.2]|",
+  "refs": [
+   "R320.2"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S6-042",
+  "kind": "cited",
+  "text": "|Producción y transporte de LCR|Hipótesis|*Bufo bufo* (larvas): transporte de fluidos y electrolitos de la sangre al LCR [@R320.3]; *Cynops pyrrhogaster*: posible sitio principal de producción [@R467.2]|",
+  "refs": [
+   "R320.3",
+   "R467.2"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S6-043",
+  "kind": "cited",
+  "text": "|Intercambio sangre-LCR|Interpretación de los autores|*Hyla versicolor*: rasgos ultraestructurales que indicarían intercambio activo [@R281.3]|",
+  "refs": [
+   "R281.3"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S6-044",
+  "kind": "cited",
+  "text": "|Intercambio sangre-LCR|Hipótesis|*Natrix maura*: papel activo en el intercambio [@R217.6]; *Hyla versicolor*: unidad funcional con plexo anterior y túbulos endolinfáticos que regularía la composición del LCR [@R281.1]; asociación con los túbulos como posible mecanismo de regulación iónica del LCR [@R281.6]|",
+  "refs": [
+   "R217.6",
+   "R281.1",
+   "R281.6"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S6-045",
+  "kind": "cited",
+  "text": "|Captación de LCR|Informe secundario|Anfibios: carencia de mecanismos de captación, a diferencia del plexo [@R485.3]|",
+  "refs": [
+   "R485.3"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S6-046",
+  "kind": "cited",
+  "text": "|Receptor de vasotocina|Resultado u observación|*Cynops pyrrhogaster*: solo receptor de tipo V2 [@R467.1]|",
+  "refs": [
+   "R467.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S6-047",
+  "kind": "cited",
+  "text": "|Receptor de vasotocina|Informe secundario|Relación con la regulación osmótica o iónica del LCR [@R485.4]|",
+  "refs": [
+   "R485.4"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S6-048",
+  "kind": "cited",
+  "text": "|Complejo pineal|Hipótesis|Peces de aguas profundas (*Bathylagus wesethi*): relación funcional sugerida con saco dorsal y luz pineal [@R160.3]; tortugas marinas: función interrelacionada sugerida por la fusión con la pineal distal [@R183.3]|",
+  "refs": [
+   "R160.3",
+   "R183.3"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S6-049",
+  "kind": "cited",
+  "text": "|Activación neural|Resultado experimental|Ranas: señal MEMRI mayor tras cantos que tras silencio [@R560.2]|",
+  "refs": [
+   "R560.2"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S6-050",
+  "kind": "cited",
+  "text": "|Activación neural|Hipótesis|Mayor presión sanguínea y transporte de manganeso por activación general [@R560.5]|",
+  "refs": [
+   "R560.5"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S6-051",
+  "kind": "cited",
+  "text": "|Barrera hematoencefálica|Resultado de fuente secundaria no verificada|*Trachemys* (*scripta*) *dorbigni*: azul de Evans muestra ausencia de barrera [@R412.1]|",
+  "refs": [
+   "R412.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S6-052",
+  "kind": "interpretation",
+  "text": "Interpretación de esta revisión: la ablación en *Rana catesbeiana* es la única intervención quirúrgica sobre la estructura con efecto medido en estos textos, y no se separa de la retirada del complejo; las demás funciones descansan en morfología, enzimas, receptores, señal de MEMRI tras estímulo acústico o un trazador de fuente secundaria no verificada, con interpretaciones o hipótesis de los autores.",
+  "refs": [],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S6-053",
+  "kind": "cited",
+  "text": "En esta revisión no se encontraron, en el corpus recuperado, el tamaño muestral total, los controles simulados, los valores de calcemia ni la extensión de la ablación en los experimentos con ranas, leídos en resumen [@R226.2; @R237.2].",
+  "refs": [
+   "R226.2",
+   "R237.2"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S6-054",
+  "kind": "cited",
+  "text": "Esta revisión no encontró resultados de los experimentos clásicos sobre la función en *Amblystoma mexicanum* (Ariëns-Kappers, 1950) ni de la ablación o cauterización en *Rana esculenta* (Legait, 1957), conocidos solo por título [@R054.t; @R080.t].",
+  "refs": [
+   "R054.t",
+   "R080.t"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S6-055",
+  "kind": "cited",
+  "text": "En esta revisión no se hallaron experimentos con resultados accesibles que separen la paráfisis del plexo coroideo adyacente ni réplicas con resultados accesibles de la paraphysectomía en otras especies; los experimentos clásicos en otras especies se conocen solo por título [@R054.t; @R080.t].",
+  "refs": [
+   "R054.t",
+   "R080.t"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S6-056",
+  "kind": "cited",
+  "text": "Interpretación de esta revisión: no se encontraron mediciones directas de secreción, captación o composición del LCR; lo disponible son interpretaciones o hipótesis de los autores [@R320.2; @R320.3] y un informe secundario [@R485.3].",
+  "refs": [
+   "R320.2",
+   "R320.3",
+   "R485.3"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S6-057",
+  "kind": "cited",
+  "text": "En esta revisión no se hallaron otros ensayos de permeabilidad de la barrera hematoencefálica con trazadores vasculares: el azul de Evans en tortuga procede de un fragmento secundario no verificado [@R412.1].",
+  "refs": [
+   "R412.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S6-058",
+  "kind": "cited",
+  "text": "Esta revisión no encontró una prueba funcional del receptor de vasotocina [@R467.1].",
+  "refs": [
+   "R467.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S6-059",
+  "kind": "cited",
+  "text": "En esta revisión no se hallaron valores de aminas propios de la paráfisis, pues se midieron en el complejo pineal-parafisario en conjunto [@R302.1].",
+  "refs": [
+   "R302.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S6-060",
+  "kind": "cited",
+  "text": "Entre los hallazgos de fisiología recuperados no figuran datos propios de la paráfisis en aves o mamíferos: el único registro de fisiología que incluye paloma y ratón entre los taxones comparados formula una hipótesis general sobre el LCR [@R185.2] y su resumen no informa ningún resultado sobre la paráfisis [@R185.1].",
+  "refs": [
+   "R185.2",
+   "R185.1"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S6-061",
+  "kind": "cited",
+  "text": "Esta revisión no encontró caracterizado el factor parafisario propuesto para el calcio [@R237.6].",
+  "refs": [
+   "R237.6"
+  ],
+  "invalid_refs": []
+ },
+ {
+  "cid": "S6-062",
+  "kind": "cited",
+  "text": "En esta revisión no se pudo establecer si los resultados de distintos taxones corresponden a estructuras homólogas, dadas las asignaciones discrepantes de «paráfisis» y «saco dorsal» [@R246.2; @R599.8].",
+  "refs": [
+   "R246.2",
+   "R599.8"
+  ],
+  "invalid_refs": []
+ }
+]
